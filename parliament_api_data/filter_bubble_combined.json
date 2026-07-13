@@ -1,0 +1,23 @@
+{
+  "baseURL": "https://questions-statements-api.parliament.uk",
+  "apiDocs": "https://questions-statements-api.parliament.uk/index.html",
+  "devHub": "https://developer.parliament.uk/",
+  "scrapeConfig": {
+    "term": "filter bubble",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "house": "Bicameral",
+    "scrapedAt": "2026-07-13T17:19:26.957Z",
+    "elapsedMs": 15299
+  },
+  "writtenQuestions": {
+    "totalResults": null,
+    "count": 0,
+    "results": []
+  },
+  "writtenStatements": {
+    "totalResults": null,
+    "count": 0,
+    "results": []
+  }
+}

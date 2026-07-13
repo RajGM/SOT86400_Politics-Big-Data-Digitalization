@@ -14,3 +14,16 @@ Top terms by results:
   13. "frontier AI" — 1 results (1 pages)
   14. "superintelligence" — 1 results (1 pages)
   15. "AI ethics" — 1 results (1 pages)
+
+
+
+============================================================
+PARLIAMENT API MASTER SUMMARY
+============================================================
+Total terms:        152
+Completed:          152
+Failed:             0
+Total questions:    5219
+Total statements:   7778
+Total time:         62.1 minutes
+

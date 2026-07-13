@@ -1,0 +1,25 @@
+{
+  "channel": "uk_parliament",
+  "channelName": "UK Parliament",
+  "status": "completed",
+  "startedAt": "2026-07-13T18:20:16.629Z",
+  "completedAt": "2026-07-13T18:20:21.772Z",
+  "config": {
+    "startDate": "2020-01-01",
+    "endDate": "2026-12-31",
+    "outDir": "youtube/youtube_raw_test"
+  },
+  "listingMethod": "youtubei.js",
+  "resolvedChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
+  "uploadsPlaylistId": null,
+  "videosListed": 3,
+  "videosInRange": 3,
+  "videosMatched": 0,
+  "transcriptsSaved": 0,
+  "skippedNoCaptions": 0,
+  "skippedNoMatch": 3,
+  "skippedAlreadyDone": 0,
+  "errors": [],
+  "processedVideoIds": [],
+  "matchedVideoIds": []
+}
