@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://hansard.parliament.uk",
+  "searchTerm": {
+    "term": "superintelligence",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "totalResults": 1,
+    "results": [
+      {
+        "title": "AI Superintelligence",
+        "date": "3 February 2026",
+        "isoDate": "2026-02-03",
+        "chamber": "Lords Chamber",
+        "house": "Lords Chamber",
+        "relativePath": "/Lords/2026-02-03/debates/21959DF5-B8F4-4FF7-A074-FC5FBD61F475/AISuperintelligence",
+        "fullUrl": "https://hansard.parliament.uk/Lords/2026-02-03/debates/21959DF5-B8F4-4FF7-A074-FC5FBD61F475/AISuperintelligence",
+        "sourcePage": 1
+      }
+    ]
+  }
+}

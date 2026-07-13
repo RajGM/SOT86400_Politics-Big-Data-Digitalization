@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://hansard.parliament.uk",
+  "searchTerm": {
+    "term": "AI workforce",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "totalResults": 1,
+    "results": [
+      {
+        "title": "AI: Workforce Training",
+        "date": "3 November 2025",
+        "isoDate": "2025-11-03",
+        "chamber": "Lords Chamber",
+        "house": "Lords Chamber",
+        "relativePath": "/Lords/2025-11-03/debates/3E588CCA-0BC5-4F83-BDF2-C57F7A5B7CB8/AIWorkforceTraining",
+        "fullUrl": "https://hansard.parliament.uk/Lords/2025-11-03/debates/3E588CCA-0BC5-4F83-BDF2-C57F7A5B7CB8/AIWorkforceTraining",
+        "sourcePage": 1
+      }
+    ]
+  }
+}

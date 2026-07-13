@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://hansard.parliament.uk",
+  "searchTerm": {
+    "term": "Alan Turing Institute",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "totalResults": 1,
+    "results": [
+      {
+        "title": "Science and Innovation:  Alan Turing Institute",
+        "date": "19 May 2025",
+        "isoDate": "2025-05-19",
+        "chamber": "Lords Chamber",
+        "house": "Lords Chamber",
+        "relativePath": "/Lords/2025-05-19/debates/C65CD4DB-8C3A-4477-B7DD-CFBDC7AD35AE/ScienceAndInnovationAlanTuringInstitute",
+        "fullUrl": "https://hansard.parliament.uk/Lords/2025-05-19/debates/C65CD4DB-8C3A-4477-B7DD-CFBDC7AD35AE/ScienceAndInnovationAlanTuringInstitute",
+        "sourcePage": 1
+      }
+    ]
+  }
+}

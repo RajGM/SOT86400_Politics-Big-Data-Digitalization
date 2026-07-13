@@ -1,0 +1,51 @@
+{
+  "term": "digital democracy",
+  "status": "completed",
+  "totalResults": 4,
+  "totalPages": 1,
+  "lastCompletedPage": 1,
+  "results": [
+    {
+      "title": "UK Democracy: Impact of Digital Platforms",
+      "date": "3 April 2025",
+      "isoDate": "2025-04-03",
+      "chamber": "Commons Chamber",
+      "house": "Commons Chamber",
+      "relativePath": "/Commons/2025-04-03/debates/C5BFF27E-0837-48C8-9C14-E183DC526A2E/UKDemocracyImpactOfDigitalPlatforms",
+      "fullUrl": "https://hansard.parliament.uk/Commons/2025-04-03/debates/C5BFF27E-0837-48C8-9C14-E183DC526A2E/UKDemocracyImpactOfDigitalPlatforms",
+      "sourcePage": 1
+    },
+    {
+      "title": "Digital Technology (Democracy and Digital Technologies Committee Report)",
+      "date": "11 March 2022",
+      "isoDate": "2022-03-11",
+      "chamber": "Lords Chamber",
+      "house": "Lords Chamber",
+      "relativePath": "/Lords/2022-03-11/debates/74F35B3D-0C41-42C2-B606-6544EA2A06F1/DigitalTechnology(DemocracyAndDigitalTechnologiesCommitteeReport)",
+      "fullUrl": "https://hansard.parliament.uk/Lords/2022-03-11/debates/74F35B3D-0C41-42C2-B606-6544EA2A06F1/DigitalTechnology(DemocracyAndDigitalTechnologiesCommitteeReport)",
+      "sourcePage": 1
+    },
+    {
+      "title": "Digital Platforms: Impact on Democracy",
+      "date": "16 July 2020",
+      "isoDate": "2020-07-16",
+      "chamber": "Lords Chamber",
+      "house": "Lords Chamber",
+      "relativePath": "/Lords/2020-07-16/debates/44084016-9705-479E-A5B8-D6FD15B173DD/DigitalPlatformsImpactOnDemocracy",
+      "fullUrl": "https://hansard.parliament.uk/Lords/2020-07-16/debates/44084016-9705-479E-A5B8-D6FD15B173DD/DigitalPlatformsImpactOnDemocracy",
+      "sourcePage": 1
+    },
+    {
+      "title": "Democracy and Digital Technologies Committee",
+      "date": "22 January 2020",
+      "isoDate": "2020-01-22",
+      "chamber": "Lords Chamber",
+      "house": "Lords Chamber",
+      "relativePath": "/Lords/2020-01-22/debates/054340AA-D1D6-4CD0-B554-243712024921/DemocracyAndDigitalTechnologiesCommittee",
+      "fullUrl": "https://hansard.parliament.uk/Lords/2020-01-22/debates/054340AA-D1D6-4CD0-B554-243712024921/DemocracyAndDigitalTechnologiesCommittee",
+      "sourcePage": 1
+    }
+  ],
+  "startedAt": "2026-07-13T16:15:03.091Z",
+  "completedAt": "2026-07-13T16:15:06.271Z"
+}

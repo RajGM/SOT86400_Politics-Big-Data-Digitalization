@@ -1,0 +1,21 @@
+{
+  "baseURL": "https://hansard.parliament.uk",
+  "searchTerm": {
+    "term": "frontier AI",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "totalResults": 1,
+    "results": [
+      {
+        "title": "Frontier AI Safety",
+        "date": "20 November 2024",
+        "isoDate": "2024-11-20",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2024-11-20/debates/5ABFEE30-2356-4812-8F45-448E1C7526A9/FrontierAISafety",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2024-11-20/debates/5ABFEE30-2356-4812-8F45-448E1C7526A9/FrontierAISafety",
+        "sourcePage": 1
+      }
+    ]
+  }
+}

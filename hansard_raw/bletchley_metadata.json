@@ -1,0 +1,61 @@
+{
+  "baseURL": "https://hansard.parliament.uk",
+  "searchTerm": {
+    "term": "Bletchley",
+    "startDate": "2020-01-01",
+    "endDate": "2026-07-13",
+    "totalResults": 5,
+    "results": [
+      {
+        "title": "Private Sector Investment: Buckingham and Bletchley",
+        "date": "12 March 2026",
+        "isoDate": "2026-03-12",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2026-03-12/debates/6995510F-819A-49DD-9E5B-C80D9B824EFE/PrivateSectorInvestmentBuckinghamAndBletchley",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2026-03-12/debates/6995510F-819A-49DD-9E5B-C80D9B824EFE/PrivateSectorInvestmentBuckinghamAndBletchley",
+        "sourcePage": 1
+      },
+      {
+        "title": "Bletchley Railway Station: Eastern Entrance",
+        "date": "7 January 2026",
+        "isoDate": "2026-01-07",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2026-01-07/debates/54251F97-BE25-4111-96FB-2981C3872541/BletchleyRailwayStationEasternEntrance",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2026-01-07/debates/54251F97-BE25-4111-96FB-2981C3872541/BletchleyRailwayStationEasternEntrance",
+        "sourcePage": 1
+      },
+      {
+        "title": "Youth Services: Buckingham and Bletchley",
+        "date": "27 November 2025",
+        "isoDate": "2025-11-27",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2025-11-27/debates/5DB47F91-078B-4F3E-9EA0-335F60473F7A/YouthServicesBuckinghamAndBletchley",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2025-11-27/debates/5DB47F91-078B-4F3E-9EA0-335F60473F7A/YouthServicesBuckinghamAndBletchley",
+        "sourcePage": 1
+      },
+      {
+        "title": "Flood Resilience: Buckingham and Bletchley",
+        "date": "13 November 2025",
+        "isoDate": "2025-11-13",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2025-11-13/debates/94945BA3-3F5F-4074-9FC1-0211D4756916/FloodResilienceBuckinghamAndBletchley",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2025-11-13/debates/94945BA3-3F5F-4074-9FC1-0211D4756916/FloodResilienceBuckinghamAndBletchley",
+        "sourcePage": 1
+      },
+      {
+        "title": "New Social Housing: Buckingham and Bletchley",
+        "date": "13 October 2025",
+        "isoDate": "2025-10-13",
+        "chamber": "Commons Chamber",
+        "house": "Commons Chamber",
+        "relativePath": "/Commons/2025-10-13/debates/77C655E9-42A7-4AD2-A94C-2775883AEB8C/NewSocialHousingBuckinghamAndBletchley",
+        "fullUrl": "https://hansard.parliament.uk/Commons/2025-10-13/debates/77C655E9-42A7-4AD2-A94C-2775883AEB8C/NewSocialHousingBuckinghamAndBletchley",
+        "sourcePage": 1
+      }
+    ]
+  }
+}
