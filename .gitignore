@@ -3,3 +3,4 @@ EMAIL.md
 MODULE.md
 *.tgz
 *.tar.gz
+/ParlaMint

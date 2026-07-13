@@ -1,0 +1,3682 @@
+[
+  {
+    "date": "2022-03-08",
+    "chamber": "Commons",
+    "debateSection": "Ukraine: Urgent Refugee Applications",
+    "utterances": 25,
+    "uniqueSpeakers": 13,
+    "parties": "Conservative; Labour; Scottish National Party; Independent; Green Party"
+  },
+  {
+    "date": "2020-01-27",
+    "chamber": "Commons",
+    "debateSection": "Automated Facial Recognition Surveillance",
+    "utterances": 18,
+    "uniqueSpeakers": 10,
+    "parties": "Liberal Democrat; Conservative; Labour; Scottish National Party"
+  },
+  {
+    "date": "2020-07-10",
+    "chamber": "Lords",
+    "debateSection": "Port Examination Codes of Practice and National Security Determinations Guidance Regulations 2020",
+    "utterances": 16,
+    "uniqueSpeakers": 15,
+    "parties": "Conservative; Labour; Liberal Democrat; Non-affiliated; Crossbench; Green Party"
+  },
+  {
+    "date": "2020-09-09",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Artificial Intelligence",
+    "utterances": 15,
+    "uniqueSpeakers": 8,
+    "parties": "Bishops; Conservative; Non-affiliated; Liberal Democrat; Labour"
+  },
+  {
+    "date": "2020-02-12",
+    "chamber": "Lords",
+    "debateSection": "Algorithms: Public Sector Decision-making",
+    "utterances": 14,
+    "uniqueSpeakers": 12,
+    "parties": "Liberal Democrat; Conservative; Labour; Bishops; Non-affiliated; Crossbench"
+  },
+  {
+    "date": "2022-07-05",
+    "chamber": "Lords",
+    "debateSection": "Clearview AI Inc",
+    "utterances": 14,
+    "uniqueSpeakers": 6,
+    "parties": "Liberal Democrat; Conservative; Non-affiliated; Labour; Crossbench"
+  },
+  {
+    "date": "2020-09-25",
+    "chamber": "Commons",
+    "debateSection": "Forensic Science Regulator and Biometrics Strategy Bill",
+    "utterances": 12,
+    "uniqueSpeakers": 8,
+    "parties": "Labour; Independent; Conservative"
+  },
+  {
+    "date": "2021-11-01",
+    "chamber": "Lords",
+    "debateSection": "Autonomous Weapons Systems",
+    "utterances": 12,
+    "uniqueSpeakers": 8,
+    "parties": "Liberal Democrat; Conservative; Labour; Non-affiliated"
+  },
+  {
+    "date": "2022-06-06",
+    "chamber": "Lords",
+    "debateSection": "Schools: Biometric Technologies",
+    "utterances": 11,
+    "uniqueSpeakers": 5,
+    "parties": "Liberal Democrat; Conservative; Labour"
+  },
+  {
+    "date": "2022-03-31",
+    "chamber": "Commons",
+    "debateSection": "Ukraine Refugee Visas",
+    "utterances": 10,
+    "uniqueSpeakers": 7,
+    "parties": "Conservative; Labour; Scottish National Party; Liberal Democrat; Democratic Unionist Party; Independent"
+  },
+  {
+    "date": "2020-01-27",
+    "chamber": "Lords",
+    "debateSection": "Facial Recognition Surveillance",
+    "utterances": 9,
+    "uniqueSpeakers": 7,
+    "parties": "Conservative; Labour; Liberal Democrat; Green Party"
+  },
+  {
+    "date": "2020-09-14",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 9,
+    "uniqueSpeakers": 7,
+    "parties": "Liberal Democrat; Labour; Conservative"
+  },
+  {
+    "date": "2020-12-16",
+    "chamber": "Commons",
+    "debateSection": "Trade (Disclosure of Information) Bill",
+    "utterances": 9,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour; Scottish National Party; Liberal Democrat"
+  },
+  {
+    "date": "2021-04-22",
+    "chamber": "Lords",
+    "debateSection": "Integrated Review of Security, Defence, Development and Foreign Policy",
+    "utterances": 9,
+    "uniqueSpeakers": 9,
+    "parties": "Conservative; Labour; Crossbench; Green Party; Non-affiliated"
+  },
+  {
+    "date": "2022-03-16",
+    "chamber": "Commons",
+    "debateSection": "Refugees from Ukraine",
+    "utterances": 9,
+    "uniqueSpeakers": 5,
+    "parties": "Scottish National Party; Conservative; Labour"
+  },
+  {
+    "date": "2022-04-04",
+    "chamber": "Lords",
+    "debateSection": "Live Facial Recognition: Police Guidance",
+    "utterances": 9,
+    "uniqueSpeakers": 7,
+    "parties": "Liberal Democrat; Conservative; Bishops; Crossbench; Labour; Non-affiliated"
+  },
+  {
+    "date": "2022-07-12",
+    "chamber": "Commons",
+    "debateSection": "Online Safety Bill",
+    "utterances": 9,
+    "uniqueSpeakers": 7,
+    "parties": "Labour; Conservative; Independent"
+  },
+  {
+    "date": "2020-07-09",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 8,
+    "uniqueSpeakers": 8,
+    "parties": "Conservative; Non-affiliated; Crossbench; Liberal Democrat"
+  },
+  {
+    "date": "2020-11-17",
+    "chamber": "Commons",
+    "debateSection": "National Security and Investment Bill",
+    "utterances": 8,
+    "uniqueSpeakers": 7,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-02-02",
+    "chamber": "Lords",
+    "debateSection": "Surveillance Camera Code of Practice",
+    "utterances": 8,
+    "uniqueSpeakers": 5,
+    "parties": "Liberal Democrat; Crossbench; Labour"
+  },
+  {
+    "date": "2020-03-02",
+    "chamber": "Commons",
+    "debateSection": "Medicines and Medical Devices Bill",
+    "utterances": 7,
+    "uniqueSpeakers": 5,
+    "parties": "Independent; Conservative; Scottish National Party"
+  },
+  {
+    "date": "2020-07-15",
+    "chamber": "Lords",
+    "debateSection": "Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020",
+    "utterances": 7,
+    "uniqueSpeakers": 6,
+    "parties": "Conservative; Labour; Non-affiliated; Green Party"
+  },
+  {
+    "date": "2020-10-05",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 7,
+    "uniqueSpeakers": 7,
+    "parties": "Conservative; Labour; Liberal Democrat"
+  },
+  {
+    "date": "2021-01-27",
+    "chamber": "Lords",
+    "debateSection": "Domestic Abuse Bill",
+    "utterances": 7,
+    "uniqueSpeakers": 7,
+    "parties": "Labour; Crossbench; Non-affiliated; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-01-20",
+    "chamber": "Commons",
+    "debateSection": "Lawfare and UK Court System",
+    "utterances": 7,
+    "uniqueSpeakers": 5,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-03-10",
+    "chamber": "Commons",
+    "debateSection": "Refugees from Ukraine",
+    "utterances": 7,
+    "uniqueSpeakers": 7,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-03-16",
+    "chamber": "Lords",
+    "debateSection": "Metropolitan Police: Live Facial Recognition",
+    "utterances": 6,
+    "uniqueSpeakers": 6,
+    "parties": "Liberal Democrat; Conservative; Crossbench; Labour"
+  },
+  {
+    "date": "2020-07-20",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus Response",
+    "utterances": 6,
+    "uniqueSpeakers": 4,
+    "parties": "Independent; Labour; Green Party"
+  },
+  {
+    "date": "2020-11-25",
+    "chamber": "Commons",
+    "debateSection": "UK-Japan Comprehensive Economic Partnership Agreement",
+    "utterances": 6,
+    "uniqueSpeakers": 5,
+    "parties": "Labour; Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2022-03-01",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 6,
+    "uniqueSpeakers": 5,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-04-28",
+    "chamber": "Commons",
+    "debateSection": "Homes for Ukraine: Visa Application Centres",
+    "utterances": 6,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour; Independent"
+  },
+  {
+    "date": "2022-05-18",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 6,
+    "uniqueSpeakers": 6,
+    "parties": "Conservative; Labour; Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2022-06-07",
+    "chamber": "Lords",
+    "debateSection": "Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022",
+    "utterances": 6,
+    "uniqueSpeakers": 6,
+    "parties": "Crossbench; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-01-28",
+    "chamber": "Lords",
+    "debateSection": "NHS: Data",
+    "utterances": 5,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-01-30",
+    "chamber": "Commons",
+    "debateSection": "Global Britain",
+    "utterances": 5,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-07-16",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 5,
+    "uniqueSpeakers": 5,
+    "parties": "Non-affiliated; Green Party; Conservative; Labour"
+  },
+  {
+    "date": "2020-09-02",
+    "chamber": "Lords",
+    "debateSection": "Medicines and Medical Devices Bill",
+    "utterances": 5,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-09-07",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 5,
+    "uniqueSpeakers": 5,
+    "parties": "Crossbench; Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-12-07",
+    "chamber": "Lords",
+    "debateSection": "Trade Bill",
+    "utterances": 5,
+    "uniqueSpeakers": 5,
+    "parties": "Crossbench; Green Party; Liberal Democrat; Labour"
+  },
+  {
+    "date": "2022-03-10",
+    "chamber": "Lords",
+    "debateSection": "Home Office Visas for Ukrainians",
+    "utterances": 5,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2022-03-11",
+    "chamber": "Lords",
+    "debateSection": "Beyond Brexit: Policing, Law Enforcement and Security (EUC Report)",
+    "utterances": 5,
+    "uniqueSpeakers": 4,
+    "parties": "Crossbench; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-04-26",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 5,
+    "uniqueSpeakers": 5,
+    "parties": "Labour; Liberal Democrat"
+  },
+  {
+    "date": "2022-05-12",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 5,
+    "uniqueSpeakers": 5,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-01-09",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 4,
+    "uniqueSpeakers": 4,
+    "parties": "Crossbench; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-01-15",
+    "chamber": "Lords",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-03-10",
+    "chamber": "Lords",
+    "debateSection": "International Women’s Day",
+    "utterances": 4,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-07-23",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2020-10-21",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Liberal Democrat; Labour"
+  },
+  {
+    "date": "2020-11-19",
+    "chamber": "Commons",
+    "debateSection": "Integrated Review",
+    "utterances": 4,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-23",
+    "chamber": "Lords",
+    "debateSection": "Integrated Review",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-12-30",
+    "chamber": "Commons",
+    "debateSection": "European Union (Future Relationship) Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Liberal Democrat; Non-affiliated"
+  },
+  {
+    "date": "2021-11-25",
+    "chamber": "Lords",
+    "debateSection": "Army Restructuring: Future Soldier",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Liberal Democrat; Conservative; Crossbench"
+  },
+  {
+    "date": "2022-01-26",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Non-affiliated"
+  },
+  {
+    "date": "2022-01-31",
+    "chamber": "Lords",
+    "debateSection": "Data Protection: Immigration Exemption",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-03-07",
+    "chamber": "Commons",
+    "debateSection": "Economic Crime (Transparency and Enforcement) Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 4,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-04-19",
+    "chamber": "Commons",
+    "debateSection": "Online Safety Bill",
+    "utterances": 4,
+    "uniqueSpeakers": 4,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-05-18",
+    "chamber": "Commons",
+    "debateSection": "Achieving Economic Growth",
+    "utterances": 4,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-07",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Non-affiliated"
+  },
+  {
+    "date": "2020-01-14",
+    "chamber": "Commons",
+    "debateSection": "Education and Local Government",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-14",
+    "chamber": "Lords",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-01-16",
+    "chamber": "Lords",
+    "debateSection": "Drones: International Law",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Crossbench; Labour; Conservative"
+  },
+  {
+    "date": "2020-01-27",
+    "chamber": "Lords",
+    "debateSection": "Air Traffic Management and Unmanned Aircraft Bill [HL]",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-02-03",
+    "chamber": "Lords",
+    "debateSection": "Terrorism: Contest Strategy",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2020-03-02",
+    "chamber": "Commons",
+    "debateSection": "UK-US Trade Deal",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-03-05",
+    "chamber": "Lords",
+    "debateSection": "BBC and Public Service Broadcasting",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-03-13",
+    "chamber": "Lords",
+    "debateSection": "Wellbeing of Future Generations Bill [HL]",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-03-23",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-04-28",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Civil Liberties",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-05-19",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Response",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-05-21",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Businesses and the Private Sector",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Liberal Democrat; Conservative; Non-affiliated"
+  },
+  {
+    "date": "2020-06-11",
+    "chamber": "Lords",
+    "debateSection": "Contact Tracing: Personal Privacy",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-06-24",
+    "chamber": "Commons",
+    "debateSection": "Testing of NHS and Social Care Staff",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-24",
+    "chamber": "Lords",
+    "debateSection": "Data Strategy",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-07-24",
+    "chamber": "Lords",
+    "debateSection": "Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-10-08",
+    "chamber": "Commons",
+    "debateSection": "Planning and House Building",
+    "utterances": 3,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-28",
+    "chamber": "Lords",
+    "debateSection": "Online Harms: Intimate Images",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Independent; Conservative"
+  },
+  {
+    "date": "2020-12-15",
+    "chamber": "Commons",
+    "debateSection": "Online Harms Consultation",
+    "utterances": 3,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-01-08",
+    "chamber": "Lords",
+    "debateSection": "EU-UK Trade and Cooperation Agreement",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Crossbench; Non-affiliated"
+  },
+  {
+    "date": "2021-01-19",
+    "chamber": "Commons",
+    "debateSection": "Trade Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2021-02-02",
+    "chamber": "Lords",
+    "debateSection": "Trade Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Crossbench"
+  },
+  {
+    "date": "2021-06-24",
+    "chamber": "Commons",
+    "debateSection": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2021-06-24",
+    "chamber": "Commons",
+    "debateSection": "UK Defence Spending",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Scottish National Party; Conservative"
+  },
+  {
+    "date": "2021-06-24",
+    "chamber": "Commons",
+    "debateSection": "Use of Patient Data",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Independent"
+  },
+  {
+    "date": "2021-07-15",
+    "chamber": "Lords",
+    "debateSection": "Skills and Post-16 Education Bill [HL]",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2021-08-18",
+    "chamber": "Commons",
+    "debateSection": "Afghanistan",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-11-15",
+    "chamber": "Commons",
+    "debateSection": "Armed Forces: Technological Capabilities",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-12-13",
+    "chamber": "Lords",
+    "debateSection": "Police, Crime, Sentencing and Courts Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Labour; Liberal Democrat"
+  },
+  {
+    "date": "2022-01-13",
+    "chamber": "Commons",
+    "debateSection": "Draft Online Safety Bill Report",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-02-09",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-03-01",
+    "chamber": "Commons",
+    "debateSection": "Sanctions",
+    "utterances": 3,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-02",
+    "chamber": "Lords",
+    "debateSection": "Ukraine",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-03-08",
+    "chamber": "Lords",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Liberal Democrat; Crossbench; Conservative"
+  },
+  {
+    "date": "2022-03-10",
+    "chamber": "Lords",
+    "debateSection": "Elections Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Green Party; Liberal Democrat"
+  },
+  {
+    "date": "2022-03-11",
+    "chamber": "Lords",
+    "debateSection": "Digital Technology (Democracy and Digital Technologies Committee Report)",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Labour; Liberal Democrat"
+  },
+  {
+    "date": "2022-06-15",
+    "chamber": "Commons",
+    "debateSection": "Genetic Technology (Precision Breeding) Bill",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-06-22",
+    "chamber": "Commons",
+    "debateSection": "EU Retained Law",
+    "utterances": 3,
+    "uniqueSpeakers": 3,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-07-21",
+    "chamber": "Commons",
+    "debateSection": "Business of the House",
+    "utterances": 3,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-08",
+    "chamber": "Commons",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-01-09",
+    "chamber": "Commons",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-01-09",
+    "chamber": "Lords",
+    "debateSection": "National Health Service Infrastructure",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-13",
+    "chamber": "Lords",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2020-01-15",
+    "chamber": "Commons",
+    "debateSection": "A Green Industrial Revolution",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-21",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-22",
+    "chamber": "Commons",
+    "debateSection": "Telecommunications Infrastructure (Leasehold Property) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2020-01-27",
+    "chamber": "Commons",
+    "debateSection": "NHS Funding Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-01-28",
+    "chamber": "Commons",
+    "debateSection": "NHS: Take-up of New Technology",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Independent; Labour"
+  },
+  {
+    "date": "2020-01-30",
+    "chamber": "Lords",
+    "debateSection": "Defence, Diplomacy and Development Policy",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-02-03",
+    "chamber": "Commons",
+    "debateSection": "Global Britain",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-02-04",
+    "chamber": "Lords",
+    "debateSection": "Data Science: Government Processes",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-06",
+    "chamber": "Lords",
+    "debateSection": "Climate Change",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Crossbench"
+  },
+  {
+    "date": "2020-02-10",
+    "chamber": "Commons",
+    "debateSection": "Windrush Compensation Scheme (Expenditure) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Scottish National Party"
+  },
+  {
+    "date": "2020-02-26",
+    "chamber": "Lords",
+    "debateSection": "NHS Funding Bill (Money Bill)",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-02-27",
+    "chamber": "Commons",
+    "debateSection": "Child Protection",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-03-02",
+    "chamber": "Lords",
+    "debateSection": "UK-US Trade Deal Negotiating Objectives",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-03",
+    "chamber": "Commons",
+    "debateSection": "Support for Small Businesses",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-05",
+    "chamber": "Commons",
+    "debateSection": "International Women’s Day",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-05",
+    "chamber": "Lords",
+    "debateSection": "Educational Opportunities: Working Classes",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Crossbench"
+  },
+  {
+    "date": "2020-03-11",
+    "chamber": "Commons",
+    "debateSection": "Engagements",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-12",
+    "chamber": "Commons",
+    "debateSection": "Budget Resolutions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-19",
+    "chamber": "Lords",
+    "debateSection": "Hong Kong: Covid-19",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2020-04-28",
+    "chamber": "Commons",
+    "debateSection": "Serious Fraud",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-05-05",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Update",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Scottish National Party"
+  },
+  {
+    "date": "2020-05-14",
+    "chamber": "Lords",
+    "debateSection": "Food Supply and Security",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-05-18",
+    "chamber": "Commons",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Independent; Conservative"
+  },
+  {
+    "date": "2020-05-18",
+    "chamber": "Lords",
+    "debateSection": "Data Protection: Age-appropriate Design Code",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-05-19",
+    "chamber": "Lords",
+    "debateSection": "Telecommunications Infrastructure (Leasehold Property) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Non-affiliated; Crossbench"
+  },
+  {
+    "date": "2020-06-10",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2020-06-18",
+    "chamber": "Lords",
+    "debateSection": "UK-EU Negotiations",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-06-29",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Update",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-06-29",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Local Government Finance",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Non-affiliated; Conservative"
+  },
+  {
+    "date": "2020-06-30",
+    "chamber": "Lords",
+    "debateSection": "Pension Schemes Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-02",
+    "chamber": "Commons",
+    "debateSection": "Railways: Passenger Confidence",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-07-13",
+    "chamber": "Lords",
+    "debateSection": "Business and Planning Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-07-14",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus Update",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-07-20",
+    "chamber": "Commons",
+    "debateSection": "Trade Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-22",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2020-07-27",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Response",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Labour"
+  },
+  {
+    "date": "2020-09-03",
+    "chamber": "Lords",
+    "debateSection": "Representation of the People (Electoral Registers Publication Date) Regulations 2020",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Liberal Democrat"
+  },
+  {
+    "date": "2020-09-08",
+    "chamber": "Lords",
+    "debateSection": "Trade Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2020-09-09",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-09-21",
+    "chamber": "Commons",
+    "debateSection": "ARM: Foreign Acquisition",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-30",
+    "chamber": "Lords",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-07",
+    "chamber": "Lords",
+    "debateSection": "Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Green Party"
+  },
+  {
+    "date": "2020-10-08",
+    "chamber": "Commons",
+    "debateSection": "Digital Trade",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-13",
+    "chamber": "Lords",
+    "debateSection": "Trade Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2020-10-14",
+    "chamber": "Commons",
+    "debateSection": "Local Contact Tracing",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-19",
+    "chamber": "Commons",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Democratic Unionist Party; Conservative"
+  },
+  {
+    "date": "2020-11-02",
+    "chamber": "Lords",
+    "debateSection": "United Kingdom Internal Market Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Green Party"
+  },
+  {
+    "date": "2020-11-09",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-11-11",
+    "chamber": "Commons",
+    "debateSection": "Remembrance, UK Armed Forces and Society",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Liberal Democrat"
+  },
+  {
+    "date": "2020-11-11",
+    "chamber": "Lords",
+    "debateSection": "Future of Financial Services",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2020-11-16",
+    "chamber": "Commons",
+    "debateSection": "Town Regeneration",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-19",
+    "chamber": "Commons",
+    "debateSection": "Online Harms",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-11-26",
+    "chamber": "Lords",
+    "debateSection": "Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2020-11-30",
+    "chamber": "Commons",
+    "debateSection": "Telecommunications (Security) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Scottish National Party; Labour"
+  },
+  {
+    "date": "2020-12-10",
+    "chamber": "Commons",
+    "debateSection": "Data Protection: GDPR and Other EU Regulations",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Scottish National Party; Conservative"
+  },
+  {
+    "date": "2020-12-16",
+    "chamber": "Lords",
+    "debateSection": "Online Harms Consultation",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Bishops"
+  },
+  {
+    "date": "2021-01-27",
+    "chamber": "Lords",
+    "debateSection": "Education: The Holocaust",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Non-affiliated; Conservative"
+  },
+  {
+    "date": "2021-02-11",
+    "chamber": "Commons",
+    "debateSection": "Future of Health and Care",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Independent"
+  },
+  {
+    "date": "2021-04-13",
+    "chamber": "Commons",
+    "debateSection": "Finance (No. 2) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Independent"
+  },
+  {
+    "date": "2021-05-12",
+    "chamber": "Commons",
+    "debateSection": "Better Jobs and a Fair Deal at Work",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-28",
+    "chamber": "Lords",
+    "debateSection": "North of England: Rapid Mass Transport System",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2021-06-29",
+    "chamber": "Lords",
+    "debateSection": "Telecommunications (Security) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Crossbench"
+  },
+  {
+    "date": "2021-07-08",
+    "chamber": "Lords",
+    "debateSection": "Women’s Health Outcomes",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2021-09-09",
+    "chamber": "Lords",
+    "debateSection": "Standards in Public Life",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2021-10-21",
+    "chamber": "Lords",
+    "debateSection": "Skills and Post-16 Education Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2021-10-27",
+    "chamber": "Commons",
+    "debateSection": "Budget Resolutions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-11-08",
+    "chamber": "Lords",
+    "debateSection": "Police, Crime, Sentencing and Courts Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2021-11-25",
+    "chamber": "Lords",
+    "debateSection": "China: Genocide",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2021-12-07",
+    "chamber": "Commons",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Independent"
+  },
+  {
+    "date": "2022-01-27",
+    "chamber": "Commons",
+    "debateSection": "Digital, Culture, Media and Sport Committee",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2022-01-28",
+    "chamber": "Lords",
+    "debateSection": "Digital Economy Act 2017 (Commencement of Part 3) Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-01-31",
+    "chamber": "Commons",
+    "debateSection": "Russia: Sanctions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Independent; Conservative"
+  },
+  {
+    "date": "2022-01-31",
+    "chamber": "Commons",
+    "debateSection": "Advanced Research and Invention Agency Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-02-10",
+    "chamber": "Lords",
+    "debateSection": "Children: Online Protection",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-02-23",
+    "chamber": "Commons",
+    "debateSection": "Countering Russian Aggression and Tackling Illicit Finance",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-24",
+    "chamber": "Commons",
+    "debateSection": "Relationship with Russia and China",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-03",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Crossbench"
+  },
+  {
+    "date": "2022-03-10",
+    "chamber": "Commons",
+    "debateSection": "International Women’s Day",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-15",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-03-21",
+    "chamber": "Lords",
+    "debateSection": "Commission on Race and Ethnic Disparities",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-03-24",
+    "chamber": "Commons",
+    "debateSection": "Lower Thames Crossing",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-28",
+    "chamber": "Lords",
+    "debateSection": "Elections Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Conservative"
+  },
+  {
+    "date": "2022-03-30",
+    "chamber": "Lords",
+    "debateSection": "Ukraine",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-05-11",
+    "chamber": "Commons",
+    "debateSection": "Preventing Crime and Delivering Justice",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-16",
+    "chamber": "Commons",
+    "debateSection": "Making Britain the Best Place to Grow Up and Grow Old",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-05-16",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Non-affiliated; Conservative"
+  },
+  {
+    "date": "2022-05-25",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-25",
+    "chamber": "Lords",
+    "debateSection": "Procurement Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Liberal Democrat; Crossbench"
+  },
+  {
+    "date": "2022-06-06",
+    "chamber": "Commons",
+    "debateSection": "National Security Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative; Labour"
+  },
+  {
+    "date": "2022-06-07",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-14",
+    "chamber": "Lords",
+    "debateSection": "Elections: Multiple Voting",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-06-20",
+    "chamber": "Lords",
+    "debateSection": "Schools Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-06-21",
+    "chamber": "Lords",
+    "debateSection": "Ukraine: UK and NATO Military Commitment",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Conservative"
+  },
+  {
+    "date": "2022-06-27",
+    "chamber": "Lords",
+    "debateSection": "Suicide: Online Products",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-29",
+    "chamber": "Commons",
+    "debateSection": "Northern Ireland Troubles (Legacy and Reconciliation) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2022-07-04",
+    "chamber": "Commons",
+    "debateSection": "Northern Ireland Troubles (Legacy and Reconciliation) Bill",
+    "utterances": 2,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2022-07-07",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-07",
+    "chamber": "Commons",
+    "debateSection": "Economic Crime: Law Enforcement",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-11",
+    "chamber": "Lords",
+    "debateSection": "Australia Free Trade Agreement",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Crossbench; Conservative"
+  },
+  {
+    "date": "2022-07-14",
+    "chamber": "Lords",
+    "debateSection": "China",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Labour; Crossbench"
+  },
+  {
+    "date": "2022-07-18",
+    "chamber": "Lords",
+    "debateSection": "Schools Bill [HL]",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Green Party; Conservative"
+  },
+  {
+    "date": "2022-07-21",
+    "chamber": "Commons",
+    "debateSection": "Sir David Amess Summer Adjournment",
+    "utterances": 2,
+    "uniqueSpeakers": 2,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-13",
+    "chamber": "Commons",
+    "debateSection": "Britain in the World",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-15",
+    "chamber": "Lords",
+    "debateSection": "NHS and Social Care: Staffing",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-20",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-20",
+    "chamber": "Commons",
+    "debateSection": "Economy and Jobs",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-01-20",
+    "chamber": "Lords",
+    "debateSection": "European Union (Withdrawal Agreement) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-23",
+    "chamber": "Lords",
+    "debateSection": "High Speed 2 (Economic Affairs Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-01-27",
+    "chamber": "Commons",
+    "debateSection": "5G Network and Huawei",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-28",
+    "chamber": "Lords",
+    "debateSection": "Pension Schemes Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-01-29",
+    "chamber": "Lords",
+    "debateSection": "Social Mobility",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-01-30",
+    "chamber": "Commons",
+    "debateSection": "Business of the House",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-01-30",
+    "chamber": "Lords",
+    "debateSection": "Gene Editing",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-03",
+    "chamber": "Commons",
+    "debateSection": "Agriculture Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-04",
+    "chamber": "Lords",
+    "debateSection": "Extradition (Provisional Arrest) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-02-05",
+    "chamber": "Commons",
+    "debateSection": "Points of Order",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-02-05",
+    "chamber": "Commons",
+    "debateSection": "Transport",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-06",
+    "chamber": "Commons",
+    "debateSection": "Persecution of Christians",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-02-06",
+    "chamber": "Lords",
+    "debateSection": "NHS: Targets",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-02-10",
+    "chamber": "Lords",
+    "debateSection": "Taiwan",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-02-12",
+    "chamber": "Lords",
+    "debateSection": "Air Traffic Management and Unmanned Aircraft Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-13",
+    "chamber": "Commons",
+    "debateSection": "Online Harms Legislation",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-02-24",
+    "chamber": "Commons",
+    "debateSection": "Points-based Immigration System",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2020-02-27",
+    "chamber": "Commons",
+    "debateSection": "European Union: Future Relationship",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-02-27",
+    "chamber": "Commons",
+    "debateSection": "Welsh Affairs",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-02",
+    "chamber": "Lords",
+    "debateSection": "Mental Health: Unregulated Treatment",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-03-04",
+    "chamber": "Commons",
+    "debateSection": "June Bank Holiday (Creation)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-05",
+    "chamber": "Commons",
+    "debateSection": "Global Exports: Tech Start-ups",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-09",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-03-09",
+    "chamber": "Lords",
+    "debateSection": "Fisheries Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-10",
+    "chamber": "Commons",
+    "debateSection": "Telecommunications Infrastructure (Leasehold Property) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-13",
+    "chamber": "Commons",
+    "debateSection": "Education (Guidance about Costs of School Uniforms) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-13",
+    "chamber": "Commons",
+    "debateSection": "British Library Board (Power to Borrow) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-16",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-16",
+    "chamber": "Lords",
+    "debateSection": "European Union: Negotiations (European Union Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-18",
+    "chamber": "Lords",
+    "debateSection": "Budget Statement",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-03-23",
+    "chamber": "Commons",
+    "debateSection": "County Lines Drugs Gangs",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-03-24",
+    "chamber": "Commons",
+    "debateSection": "Wellbeing of Future Generations",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Green Party"
+  },
+  {
+    "date": "2020-04-22",
+    "chamber": "Lords",
+    "debateSection": "Telecommunications Infrastructure (Leasehold Property) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-04-23",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Social Care Services",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-04-27",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Vulnerable Online Gamblers",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-04-28",
+    "chamber": "Lords",
+    "debateSection": "European Union: Future Relationship",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-04-30",
+    "chamber": "Lords",
+    "debateSection": "Fruit and Vegetable Harvest",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Non-affiliated"
+  },
+  {
+    "date": "2020-05-05",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Tests for Key Workers",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-05-06",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Contact-tracing App",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-05-06",
+    "chamber": "Lords",
+    "debateSection": "Higher Education",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-05-12",
+    "chamber": "Lords",
+    "debateSection": "Beyond Brexit (European Union Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-05-13",
+    "chamber": "Lords",
+    "debateSection": "Private International Law (Implementation of Agreements) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-05-18",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Response",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-06-02",
+    "chamber": "Lords",
+    "debateSection": "Hong Kong",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-10",
+    "chamber": "Commons",
+    "debateSection": "Exiting the European Union (Civil Aviation)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-06-11",
+    "chamber": "Commons",
+    "debateSection": "Business of the House",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-06-15",
+    "chamber": "Lords",
+    "debateSection": "Extradition (Provisional Arrest) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-06-16",
+    "chamber": "Lords",
+    "debateSection": "Constitution, Democracy and Rights Commission",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-17",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-06-17",
+    "chamber": "Commons",
+    "debateSection": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (Accession)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-17",
+    "chamber": "Commons",
+    "debateSection": "Divorce, Dissolution and Separation Bill [Lords]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-06-23",
+    "chamber": "Lords",
+    "debateSection": "Reading Terrorist Attack",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-24",
+    "chamber": "Lords",
+    "debateSection": "Fisheries Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Non-affiliated"
+  },
+  {
+    "date": "2020-06-25",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Support for UK Industries",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-06-29",
+    "chamber": "Commons",
+    "debateSection": "Xinjiang: Uyghurs",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-29",
+    "chamber": "Lords",
+    "debateSection": "Telecommunications Infrastructure (Leasehold Property) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-06-30",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Vaccine",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-06-30",
+    "chamber": "Commons",
+    "debateSection": "Immigration and Social Security Co-ordination (EU Withdrawal) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-07-01",
+    "chamber": "Lords",
+    "debateSection": "China: Supply Chains",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-07-01",
+    "chamber": "Lords",
+    "debateSection": "Covid-19 Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-07-02",
+    "chamber": "Commons",
+    "debateSection": "Business of the House",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-07-06",
+    "chamber": "Commons",
+    "debateSection": "Domestic Abuse Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-08",
+    "chamber": "Commons",
+    "debateSection": "The Economy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-08",
+    "chamber": "Lords",
+    "debateSection": "OneWeb",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-07-14",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-15",
+    "chamber": "Lords",
+    "debateSection": "Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-07-16",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-07-17",
+    "chamber": "Lords",
+    "debateSection": "Finance Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Non-affiliated"
+  },
+  {
+    "date": "2020-07-28",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-09-03",
+    "chamber": "Lords",
+    "debateSection": "Mobile Homes (Requirement for Manager of Site to be Fit and Proper Person) (England) Regulations 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-08",
+    "chamber": "Commons",
+    "debateSection": "Covid-19 Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-09-09",
+    "chamber": "Commons",
+    "debateSection": "Engagements",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-09",
+    "chamber": "Commons",
+    "debateSection": "Protection of Jobs and Businesses",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-14",
+    "chamber": "Commons",
+    "debateSection": "Japan Free Trade Agreement",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-17",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-09-21",
+    "chamber": "Lords",
+    "debateSection": "Covid-19 Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-22",
+    "chamber": "Commons",
+    "debateSection": "Sentencing White Paper: Public Protection",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-09-22",
+    "chamber": "Lords",
+    "debateSection": "Agriculture Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-23",
+    "chamber": "Lords",
+    "debateSection": "Education: A-level Results",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-09-24",
+    "chamber": "Commons",
+    "debateSection": "Serious Fraud Office: Covid-19",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-25",
+    "chamber": "Commons",
+    "debateSection": "Public Statues",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-28",
+    "chamber": "Lords",
+    "debateSection": "Coronavirus Act 2020: Temporary Provisions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-29",
+    "chamber": "Commons",
+    "debateSection": "High-tech Industry",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-30",
+    "chamber": "Commons",
+    "debateSection": "Non-Domestic Rating (Lists) (No. 2) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-09-30",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Tracking",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-06",
+    "chamber": "Commons",
+    "debateSection": "Cancer Outcomes",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-06",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Transport Industry",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-06",
+    "chamber": "Lords",
+    "debateSection": "Lifetime Skills Guarantee and Post-16 Education",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-10-07",
+    "chamber": "Lords",
+    "debateSection": "Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-12",
+    "chamber": "Commons",
+    "debateSection": "University STEM Subjects",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-13",
+    "chamber": "Lords",
+    "debateSection": "Housing Delivery Test",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Bishops"
+  },
+  {
+    "date": "2020-10-14",
+    "chamber": "Lords",
+    "debateSection": "Extradition (Provisional Arrest) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-10-14",
+    "chamber": "Lords",
+    "debateSection": "Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-15",
+    "chamber": "Lords",
+    "debateSection": "Trade Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-19",
+    "chamber": "Lords",
+    "debateSection": "United Kingdom Internal Market Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-20",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-20",
+    "chamber": "Lords",
+    "debateSection": "Covid-19: Information Sharing with Police Forces",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-10-22",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Disparate Impact",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-10-22",
+    "chamber": "Commons",
+    "debateSection": "Covid-19",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-10-22",
+    "chamber": "Lords",
+    "debateSection": "Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-26",
+    "chamber": "Lords",
+    "debateSection": "United Kingdom Internal Market Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-10-28",
+    "chamber": "Lords",
+    "debateSection": "Social Care",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-05",
+    "chamber": "Commons",
+    "debateSection": "Business of the House",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-10",
+    "chamber": "Commons",
+    "debateSection": "Parliamentary Constituencies Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-10",
+    "chamber": "Lords",
+    "debateSection": "Economy Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-11",
+    "chamber": "Commons",
+    "debateSection": "Covid-19",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-16",
+    "chamber": "Lords",
+    "debateSection": "Visas: Visitors from Peru",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2020-11-16",
+    "chamber": "Lords",
+    "debateSection": "UN Convention on the Rights of the Child",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2020-11-17",
+    "chamber": "Commons",
+    "debateSection": "Continuity Trade Agreements: Parliamentary Scrutiny",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-18",
+    "chamber": "Commons",
+    "debateSection": "Covid-19",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-26",
+    "chamber": "Commons",
+    "debateSection": "Official Development Assistance",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-11-27",
+    "chamber": "Lords",
+    "debateSection": "Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-07",
+    "chamber": "Commons",
+    "debateSection": "Hong Kong: Sentencing of Pro-democracy Activists",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-12-08",
+    "chamber": "Commons",
+    "debateSection": "Gambling and Lotteries",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2020-12-09",
+    "chamber": "Commons",
+    "debateSection": "EU Withdrawal Agreement",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-10",
+    "chamber": "Commons",
+    "debateSection": "United Kingdom Internal Market Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2020-12-10",
+    "chamber": "Commons",
+    "debateSection": "The Future of the High Street",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-12-14",
+    "chamber": "Commons",
+    "debateSection": "Shopworkers: Protection from Assault",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-14",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Domestic Abuse",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-14",
+    "chamber": "Lords",
+    "debateSection": "Gambling and Lotteries",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2020-12-16",
+    "chamber": "Commons",
+    "debateSection": "Arms (Exports and Remote Warfare)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2020-12-17",
+    "chamber": "Commons",
+    "debateSection": "Christmas Adjournment",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-17",
+    "chamber": "Lords",
+    "debateSection": "Trade (Disclosure of Information) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2020-12-30",
+    "chamber": "Commons",
+    "debateSection": "Public Health",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-02-08",
+    "chamber": "Lords",
+    "debateSection": "Domestic Abuse Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2021-02-22",
+    "chamber": "Commons",
+    "debateSection": "Covid-19",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-02-23",
+    "chamber": "Commons",
+    "debateSection": "Coronavirus: Supporting Businesses and Individuals",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-02-24",
+    "chamber": "Commons",
+    "debateSection": "Covid Contracts: Judicial Review",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-04-13",
+    "chamber": "Commons",
+    "debateSection": "Health-Related Manufacturers",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2021-04-15",
+    "chamber": "Lords",
+    "debateSection": "National Security and Investment Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-04-16",
+    "chamber": "Lords",
+    "debateSection": "Animal Welfare (Sentencing) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Democratic Unionist Party"
+  },
+  {
+    "date": "2021-04-20",
+    "chamber": "Commons",
+    "debateSection": "Grand Challenges: International Collaboration",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-04-22",
+    "chamber": "Lords",
+    "debateSection": "Cathedrals Measure",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2021-04-28",
+    "chamber": "Commons",
+    "debateSection": "Amendments to the Independent Complaints and Grievance Scheme",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-05-19",
+    "chamber": "Commons",
+    "debateSection": "Post Office Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-05-19",
+    "chamber": "Commons",
+    "debateSection": "A Plan for the NHS and Social Care",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-17",
+    "chamber": "Commons",
+    "debateSection": "Free Trade Agreement Negotiations: Australia",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-21",
+    "chamber": "Commons",
+    "debateSection": "End-to-end Rape Review",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-22",
+    "chamber": "Commons",
+    "debateSection": "Immigration: Sharing of Data between HMRC and Home Office",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-24",
+    "chamber": "Lords",
+    "debateSection": "Social Care and the Role of Carers",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-06-28",
+    "chamber": "Lords",
+    "debateSection": "Environment Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-06-29",
+    "chamber": "Commons",
+    "debateSection": "Image-based Abuse",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-06-30",
+    "chamber": "Commons",
+    "debateSection": "Official Development Assistance and the British Council",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2021-07-05",
+    "chamber": "Commons",
+    "debateSection": "Police, Crime, Sentencing and Court Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-07-08",
+    "chamber": "Lords",
+    "debateSection": "UK–Commonwealth Trading Relationship",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-07-13",
+    "chamber": "Commons",
+    "debateSection": "International Aid: Treasury Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2021-07-19",
+    "chamber": "Commons",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2021-10-19",
+    "chamber": "Lords",
+    "debateSection": "Telecommunications (Security) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2021-10-20",
+    "chamber": "Lords",
+    "debateSection": "Gambling Commission: Data",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-10-26",
+    "chamber": "Commons",
+    "debateSection": "AUKUS: Shared Security Priorities",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-11-15",
+    "chamber": "Commons",
+    "debateSection": "Afghan Relocations and Assistance Policy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-11-15",
+    "chamber": "Commons",
+    "debateSection": "Skills and Post-16 Education Bill [Lords]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-11-22",
+    "chamber": "Commons",
+    "debateSection": "BioYorkshire and the Bio-Economy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2021-11-23",
+    "chamber": "Commons",
+    "debateSection": "Health and Care Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2021-11-24",
+    "chamber": "Lords",
+    "debateSection": "Money Laundering",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2021-12-10",
+    "chamber": "Lords",
+    "debateSection": "Freedom of Speech",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-01-05",
+    "chamber": "Commons",
+    "debateSection": "UK-Australia Free Trade Agreement",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-05",
+    "chamber": "Commons",
+    "debateSection": "Covid-19: Award of Contracts",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Alba Party"
+  },
+  {
+    "date": "2022-01-05",
+    "chamber": "Lords",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-06",
+    "chamber": "Commons",
+    "debateSection": "Russia’s Grand Strategy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-13",
+    "chamber": "Commons",
+    "debateSection": "Departure from the EU: Regulatory Reforms",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-14",
+    "chamber": "Commons",
+    "debateSection": "Education (Careers Guidance in Schools) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-17",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-20",
+    "chamber": "Commons",
+    "debateSection": "Uyghur Tribunal Judgment",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-01-20",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-01-24",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-28",
+    "chamber": "Commons",
+    "debateSection": "British Sign Language Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-01-28",
+    "chamber": "Lords",
+    "debateSection": "Representation of the People (Young People’s Enfranchisement) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-02-01",
+    "chamber": "Commons",
+    "debateSection": "Tackling Fraud and Preventing Government Waste",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-01",
+    "chamber": "Lords",
+    "debateSection": "Ambulance Response Times",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-02-03",
+    "chamber": "Lords",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-04",
+    "chamber": "Lords",
+    "debateSection": "Health and Care Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-10",
+    "chamber": "Lords",
+    "debateSection": "Nationality and Borders Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-21",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-02-21",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2022-02-21",
+    "chamber": "Commons",
+    "debateSection": "Skills and Post-16 Education Bill [Lords]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-22",
+    "chamber": "Commons",
+    "debateSection": "Sanctions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-24",
+    "chamber": "Commons",
+    "debateSection": "Ukraine",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-28",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-02-28",
+    "chamber": "Commons",
+    "debateSection": "Sanctions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-03",
+    "chamber": "Commons",
+    "debateSection": "Welsh Affairs",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-03-04",
+    "chamber": "Lords",
+    "debateSection": "Office for Demographic Change Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-03-07",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-08",
+    "chamber": "Commons",
+    "debateSection": "Russia: Sanctions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-03-08",
+    "chamber": "Commons",
+    "debateSection": "Ukraine: Humanitarian Crisis",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-03-08",
+    "chamber": "Commons",
+    "debateSection": "Institutes of Technology (Royal Charter)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-09",
+    "chamber": "Commons",
+    "debateSection": "Engagements",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Scottish National Party"
+  },
+  {
+    "date": "2022-03-09",
+    "chamber": "Commons",
+    "debateSection": "Defence Supplementary Estimate 2021-22",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-09",
+    "chamber": "Lords",
+    "debateSection": "Ukraine: Urgent Refugee Applications",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-03-09",
+    "chamber": "Lords",
+    "debateSection": "Economic Crime (Transparency and Enforcement) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-03-10",
+    "chamber": "Commons",
+    "debateSection": "National Shipbuilding Strategy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-14",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-14",
+    "chamber": "Lords",
+    "debateSection": "Broadcasting White Paper",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-15",
+    "chamber": "Lords",
+    "debateSection": "Ukrainian Refugees",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-17",
+    "chamber": "Commons",
+    "debateSection": "Strategic Lawsuits Against Public Participation",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-17",
+    "chamber": "Commons",
+    "debateSection": "Commission on Race and Ethnic Disparities",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-23",
+    "chamber": "Commons",
+    "debateSection": "Freeports",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Plaid Cymru"
+  },
+  {
+    "date": "2022-03-24",
+    "chamber": "Commons",
+    "debateSection": "Fraud and Economic Crime",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-28",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-29",
+    "chamber": "Commons",
+    "debateSection": "Appointment of Lord Lebedev",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-29",
+    "chamber": "Lords",
+    "debateSection": "Building Safety Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-03-30",
+    "chamber": "Commons",
+    "debateSection": "Points of Order",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-03-31",
+    "chamber": "Lords",
+    "debateSection": "Government Business: Messaging Services",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-03-31",
+    "chamber": "Lords",
+    "debateSection": "Judicial Review and Courts Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Bishops"
+  },
+  {
+    "date": "2022-03-31",
+    "chamber": "Lords",
+    "debateSection": "Homes for Ukraine Scheme",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-04-06",
+    "chamber": "Lords",
+    "debateSection": "Employment Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Bishops"
+  },
+  {
+    "date": "2022-04-06",
+    "chamber": "Lords",
+    "debateSection": "Elections Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-04-07",
+    "chamber": "Lords",
+    "debateSection": "Ukraine: Defence in a Competitive Age",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-04-21",
+    "chamber": "Commons",
+    "debateSection": "Digital Persecution",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-04-25",
+    "chamber": "Commons",
+    "debateSection": "Border Force",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-04-25",
+    "chamber": "Commons",
+    "debateSection": "Economic Crime",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-04-25",
+    "chamber": "Lords",
+    "debateSection": "Easter Recess: Government Update",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-10",
+    "chamber": "Commons",
+    "debateSection": "Queen’s Speech",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-10",
+    "chamber": "Commons",
+    "debateSection": "Debate on the Address",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-10",
+    "chamber": "Commons",
+    "debateSection": "UK Diagnostics Industry and Covid-19 Recovery",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Alba Party"
+  },
+  {
+    "date": "2022-05-12",
+    "chamber": "Commons",
+    "debateSection": "Fairness at Work and Power in Communities",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-17",
+    "chamber": "Lords",
+    "debateSection": "Queen’s Speech",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-18",
+    "chamber": "Commons",
+    "debateSection": "UK Songwriters and Composers",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-18",
+    "chamber": "Lords",
+    "debateSection": "House of Lords: Appointments",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-19",
+    "chamber": "Commons",
+    "debateSection": "Transport",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-19",
+    "chamber": "Commons",
+    "debateSection": "NATO and International Security",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-19",
+    "chamber": "Lords",
+    "debateSection": "Catapults (Science and Technology Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-05-19",
+    "chamber": "Lords",
+    "debateSection": "Working Practices (International Agreements Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-05-19",
+    "chamber": "Lords",
+    "debateSection": "The Politics of Polling (Liaison Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-24",
+    "chamber": "Commons",
+    "debateSection": "Xinjiang Internment Camps: Shoot-to-Kill Policy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-24",
+    "chamber": "Commons",
+    "debateSection": "Asylum Reception Centre: Linton-on-Ouse",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-24",
+    "chamber": "Lords",
+    "debateSection": "Social Security (Special Rules for End of Life) Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-05-26",
+    "chamber": "Commons",
+    "debateSection": "Online Harm: Women and Girls",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-05-26",
+    "chamber": "Commons",
+    "debateSection": "Evacuations from Afghanistan",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-06-07",
+    "chamber": "Lords",
+    "debateSection": "Ukrainian Asylum Seekers and Refugees",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Non-affiliated"
+  },
+  {
+    "date": "2022-06-09",
+    "chamber": "Commons",
+    "debateSection": "Government Efficiency: Online Services",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-09",
+    "chamber": "Commons",
+    "debateSection": "Brexit: Economic Opportunities",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-09",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-09",
+    "chamber": "Lords",
+    "debateSection": "Ukraine: Defence Relationships",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-06-13",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-14",
+    "chamber": "Commons",
+    "debateSection": "HM Passport Office Backlog",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-06-16",
+    "chamber": "Lords",
+    "debateSection": "Procedure and Privileges Committee",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-06-20",
+    "chamber": "Commons",
+    "debateSection": "Support for People Fleeing War in Ukraine",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-20",
+    "chamber": "Lords",
+    "debateSection": "Media Literacy",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Non-affiliated"
+  },
+  {
+    "date": "2022-06-21",
+    "chamber": "Commons",
+    "debateSection": "Access to GP Services and NHS Dentistry",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-21",
+    "chamber": "Lords",
+    "debateSection": "Product Security and Telecommunications Infrastructure Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Liberal Democrat"
+  },
+  {
+    "date": "2022-06-23",
+    "chamber": "Lords",
+    "debateSection": "Polio",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-27",
+    "chamber": "Lords",
+    "debateSection": "British Army: Troop Size",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-06-28",
+    "chamber": "Commons",
+    "debateSection": "Delivery of Public Services",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  },
+  {
+    "date": "2022-06-28",
+    "chamber": "Lords",
+    "debateSection": "Higher Education (Freedom of Speech) Bill",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-04",
+    "chamber": "Lords",
+    "debateSection": "CHOGM, G7 and NATO Summits",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-07-07",
+    "chamber": "Commons",
+    "debateSection": "Disclosure Between All Parties in Criminal Justice System",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-07",
+    "chamber": "Lords",
+    "debateSection": "Household Waste Recycling",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Independent"
+  },
+  {
+    "date": "2022-07-11",
+    "chamber": "Lords",
+    "debateSection": "Child Vulnerability (Public Services Committee Report)",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Crossbench"
+  },
+  {
+    "date": "2022-07-12",
+    "chamber": "Commons",
+    "debateSection": "Topical Questions",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-15",
+    "chamber": "Lords",
+    "debateSection": "Climate and Ecology Bill [HL]",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-18",
+    "chamber": "Commons",
+    "debateSection": "Armed Forces: Size Targets",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Conservative"
+  },
+  {
+    "date": "2022-07-18",
+    "chamber": "Commons",
+    "debateSection": "Point of Order",
+    "utterances": 1,
+    "uniqueSpeakers": 1,
+    "parties": "Labour"
+  }
+]
