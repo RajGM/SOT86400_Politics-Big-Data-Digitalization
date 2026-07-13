@@ -15,8 +15,6 @@ Top terms by results:
   14. "superintelligence" — 1 results (1 pages)
   15. "AI ethics" — 1 results (1 pages)
 
-
-
 ============================================================
 PARLIAMENT API MASTER SUMMARY
 ============================================================
@@ -26,4 +24,3 @@ Failed:             0
 Total questions:    5219
 Total statements:   7778
 Total time:         62.1 minutes
-

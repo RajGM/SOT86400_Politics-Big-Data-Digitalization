@@ -1,3 +1,5 @@
 /node_modules
 EMAIL.md
 MODULE.md
+*.tgz
+*.tar.gz
