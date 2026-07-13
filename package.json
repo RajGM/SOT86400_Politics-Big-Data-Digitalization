@@ -1,0 +1,16 @@
+{
+  "name": "politicsbigdata",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "scrapeHansard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^25.3.0"
+  },
+  "devDependencies": {}
+}
