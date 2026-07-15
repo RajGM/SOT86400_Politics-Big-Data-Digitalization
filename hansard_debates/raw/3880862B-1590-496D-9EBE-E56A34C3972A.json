@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4921734,
+    "ExtId": "3880862B-1590-496D-9EBE-E56A34C3972A",
+    "Title": "Artificial Intelligence: Environmental Impact",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-05-14T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 767,
+    "ContentLastUpdated": "2025-05-28T17:36:27.413",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "7459BC16-C2D4-4969-BA4D-563B3C6835A9",
+    "NextDebateTitle": "UK-US Trade Agreement: Digital Services Regulation",
+    "PreviousDebateExtId": "69B80B39-AF0E-4841-AB90-4FFB8660CB8D",
+    "PreviousDebateTitle": "Innovation: Hertfordshire"
+  },
+  "Navigator": [
+    {
+      "Id": 4921726,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "5fdcde3e-4b26-4fef-95f0-9871bd70c62c",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4921728,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4921726,
+      "SortOrder": 3,
+      "ExternalId": "CE1452B0-7EA8-43F3-876A-31BB6C2D7919",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4921729,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4921728,
+      "SortOrder": 4,
+      "ExternalId": "C2145582-DF3B-4EBF-8F11-E573D8ABCA80",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4921734,
+      "Title": "Artificial Intelligence: Environmental Impact",
+      "ParentId": 4921729,
+      "SortOrder": 9,
+      "ExternalId": "3880862B-1590-496D-9EBE-E56A34C3972A",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895913,
+      "MemberId": 4764,
+      "AttributedTo": "Bell Ribeiro-Addy (Clapham and Brixton Hill) (Lab)",
+      "Value": "<Question HRSContentId=\"{AF4DA04A-AE42-4757-BB9D-1C943DD8EA34}\">5. <QuestionText HRSContentId=\"{80F173EC-89A3-4105-8534-54D5D5BED385}\">What discussions he has had with Cabinet colleagues on the potential impact of AI on the environment.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "AF4DA04A-AE42-4757-BB9D-1C943DD8EA34",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "904161",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895914,
+      "MemberId": 4822,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)",
+      "Value": "DSIT works closely with other Departments, including the Department for Energy Security and Net Zero and the Department for Environment, Food and Rural Affairs, to align AI energy demand with future energy planning to ensure long-term sustainability. We understand that AI is an energy-hungry technology, which is why we have set up the AI energy council. Through that council, we are assessing ways to address the growing energy demands of AI and AI sustainability, including by exploring bold clean energy solutions, from next generation renewables to small modular reactors.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "BBCA1ADC-B836-42AD-A550-D9A29875A60A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895915,
+      "MemberId": 4764,
+      "AttributedTo": "Bell Ribeiro-Addy",
+      "Value": "We know that AI has the power to transform civilisation, but its huge drain on the environment is a problem. For example, ChatGPT has an estimated 57 million daily users, but for every five to 50 questions it is asked, 500 ml of water are used to cool down its data centres. The Minister has explained some of the work that is being done and I understand that the AI energy council is looking at energy solutions to align the Government’s AI ambitions with our net zero goals, but with the increased incidence of drought and the overall climate emergency, what steps are the Government taking specifically to manage water consumption and sustainability with their AI ambitions?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "673CBCB7-F0A4-4EE0-82BD-328151C31B2F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895916,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "I assure my hon. Friend that the Government are committed to ensuring that AI development aligns with sustainability goals. We welcome the advances in cooling technologies, such as dry cooling and closed-loop systems, in addition to promoting the use of renewable energy resources. I chair the AI Ministers group, which brings together Ministers from all Departments to co-ordinate cross-cutting challenges, including water consumption.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "5AD1C347-6F5F-473B-91F1-DDEFFA57D8A1",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895917,
+      "MemberId": 87,
+      "AttributedTo": "Sir Roger Gale (Herne Bay and Sandwich) (Con)",
+      "Value": "The astonishingly successful GrowUp vertical agriculture project in Sandwich, in my constituency, is highly dependent on data, which could be hugely assisted by artificial <span id=\"328\" class=\"column-number\" data-column-number=\"328\"></span>intelligence. I understand that agriculture is not represented on any of the working parties. Will the Minister seek to ensure that agriculture is included and possibly find time to visit the project?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "DDA6F67D-16AA-4380-931B-0FBFCA9997A9",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43895918,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "As I have set out, we have inter-ministerial meetings that bring Ministers together, including Ministers from DEFRA. The Secretary of State regularly meets representatives from the National Farmers Union and other Secretaries of State to discuss these issues.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "031F1E41-840E-4390-B257-930F6EA2DA41",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

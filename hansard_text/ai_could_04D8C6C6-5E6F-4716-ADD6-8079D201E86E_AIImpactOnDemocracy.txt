@@ -1,0 +1,19 @@
+ AI: Impact on Democracy
+
+Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)
+7. What assessment her Department has made of the potential impact of AI on democracy.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Saqib Bhatti)
+The Government are clear that artificial intelligence is the defining technology of our time, with the potential to transform humanity positively. We also recognise the challenges that AI can pose. As has been said, we are working to ensure that we respond to the full range of threats to our democratic processes, including through the defending democracy taskforce. DSIT is engaging with social media platforms, civil society groups, academia and international partners to tackle the risks that AI can pose to democracy.
+
+Stuart C. McDonald
+In the longer term, I agree that AI has enormous potential to support participation in politics, and we should seek to harness that. But in the short term, disinformation and deepfakes, often put together by foreign actors, threaten to have the most immediate impact on democracy. What risk does the Minister believe AI poses to this year’s election in particular, and what steps is he taking to alleviate those risks?
+
+Saqib Bhatti
+Let me be very clear: the UK will not tolerate malicious cyber-activity that targets our democratic institutions. The Deputy Prime Minister has already come to this Dispatch Box and taken definitive action where that has happened. The defending democracy taskforce and Government teams are working collaboratively to ensure that we respond to threats to our democratic processes, including digitally manipulated content. The Online Safety Act will force companies to take proactive, preventive action against illegal, state-sponsored content online via the foreign interference offence, including deepfakes and other AI-generated content within the scope of the Act.
+
+Sir Edward Leigh (Gainsborough) (Con)
+In two short sentences, will the Minister reassure us that AI will not destroy not just democracy, but the human race?
+
+Saqib Bhatti
+Two sentences, Mr Speaker. I can confirm that the Government are taking a proactive approach to AI. The defending democracy taskforce is working very hard to protect our democratic processes.

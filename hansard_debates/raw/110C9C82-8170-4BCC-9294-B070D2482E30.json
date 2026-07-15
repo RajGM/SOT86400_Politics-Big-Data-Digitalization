@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 5381348,
+    "ExtId": "110C9C82-8170-4BCC-9294-B070D2482E30",
+    "Title": "Police: AI Trials",
+    "HRSTag": "hs_8Question",
+    "Date": "2026-06-08T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 787,
+    "ContentLastUpdated": "2026-07-07T00:38:26.693",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "212239F1-5801-4CA9-A74A-BF3FA3859F6A",
+    "NextDebateTitle": "Indefinite Leave to Remain: Proposed Changes",
+    "PreviousDebateExtId": "A97D7912-E44D-40AC-9F23-FB18873F2F86",
+    "PreviousDebateTitle": "Indefinite Leave to Remain: Skilled Legal Migrants"
+  },
+  "Navigator": [
+    {
+      "Id": 5381340,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "9b8a40fa-1ba9-44cb-b82d-0882505188d0",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5381342,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5381340,
+      "SortOrder": 3,
+      "ExternalId": "5EADCA31-E26D-417F-8551-BA854C2F484A",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5381343,
+      "Title": "Home Department",
+      "ParentId": 5381342,
+      "SortOrder": 4,
+      "ExternalId": "D5F26CD6-BC0F-474F-A7E1-EB08F40206B0",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5381348,
+      "Title": "Police: AI Trials",
+      "ParentId": 5381343,
+      "SortOrder": 9,
+      "ExternalId": "110C9C82-8170-4BCC-9294-B070D2482E30",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036884,
+      "MemberId": 5111,
+      "AttributedTo": "Martin Wrigley (Newton Abbot) (LD)",
+      "Value": "<Question HRSContentId=\"{F53F4FAB-CE3D-43E3-A559-4E26A491595A}\">5.  <QuestionText HRSContentId=\"{22311E7A-3175-4056-8CD8-C232AA0284DA}\">What discussions her Department has had with police forces on the adequacy of competitive tendering for trials of AI. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "F53F4FAB-CE3D-43E3-A559-4E26A491595A",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "900266",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036885,
+      "MemberId": 4631,
+      "AttributedTo": "The Minister for Policing and Crime (Sarah Jones)",
+      "Value": "As with all new technology, decisions about procuring and using AI are a matter for operationally independent chief constables. The Home Office is supporting the police to adopt AI rapidly and responsibly, with £115 million of investment over the next three years. That includes investing in the national centre for AI, which will help the police make informed decisions.",
+      "OrderInSection": 2,
+      "Timecode": "2026-06-08T14:50:37",
+      "ExternalId": "D6565EF1-DB48-426B-BA2E-09858E593A8E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036886,
+      "MemberId": 5111,
+      "AttributedTo": "Martin Wrigley",
+      "Value": "Palantir appears to have a habit of avoiding competitive tender and scrutiny by using free trials and locking up the contract specifications after getting a foot in the door. I congratulate the London Mayor on stopping the recent potential contract offered by the Met police without a competitive tender process. However, last week, the estimated £17 million contract for the National Firearms Licensing Management System was won by a bid from Palantir of just £7.5 million, just 44% of the expected price. That suggests either a massive error in estimation, or Palantir buying the job, giving it unfettered access to whisper in the ear of all 43 police forces. Will the Minister pause the signing of that contract, which is due this Thursday, so that appropriate scrutiny can take place to ensure that a competitive tendering process has been followed transparently?",
+      "OrderInSection": 3,
+      "Timecode": "2026-06-08T14:51:37",
+      "ExternalId": "65D44BC3-7DD0-4029-AE61-7A0ED50EE5BF",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036887,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"8\" class=\"column-number column-only\" data-column-number=\"8\"></span>",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036888,
+      "MemberId": 4631,
+      "AttributedTo": "Sarah Jones",
+      "Value": "I can assure the hon. Gentleman that Palantir is not buying the job. In the Home Office we have very robust processes, which were followed in full. The current licence management system is approaching the end of its life, and it is very important that we have a good one to maintain safety. There was an open and competitive process, run by the Police Digital Service and BlueLight Commercial, which do these things on behalf of policing. The hon. Gentleman is right that the contract is yet to be signed, but Palantir is the preferred supplier and all the right processes were followed.",
+      "OrderInSection": 6,
+      "Timecode": "2026-06-08T14:52:10",
+      "ExternalId": "5D44B9F4-D139-4209-8FC8-BC6CB1E671DE",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036889,
+      "MemberId": 5237,
+      "AttributedTo": "Chris Vince (Harlow) (Lab/Co-op)",
+      "Value": "I welcome the new legal framework around facial recognition technology. We have seen successful trials of this in Harlow, but does the Minister agree it is essential that that technology is deployed lawfully, proportionately and with accountability, and that that is taken into account when any Government contract is granted?",
+      "OrderInSection": 7,
+      "Timecode": "2026-06-08T14:52:28",
+      "ExternalId": "08EEB265-32CE-4200-B71B-B38E65F4398D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 50036890,
+      "MemberId": 4631,
+      "AttributedTo": "Sarah Jones",
+      "Value": "I agree with my hon. Friend that live facial recognition is an extraordinarily innovative new technology that helps us catch really nasty criminals in my constituency and in other parts of the country, and we are investing in it through our police reform agenda. We are also legislating for it, because we totally recognise that there is some uncertainty about what it is used for and how it should be used. We want to put that right, be really clear about it, and put it on the face of legislation.",
+      "OrderInSection": 8,
+      "Timecode": null,
+      "ExternalId": "4D29B681-C7A3-4A92-AAAF-1B5A8DD2159E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

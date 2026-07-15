@@ -1,0 +1,83 @@
+ Artificial Intelligence: News Media
+
+Question
+
+14:58:00
+
+Asked by
+
+Lord Black of Brentwood
+To ask His Majesty’s Government what assessment they have made of the impact of artificial intelligence on the sustainability and reliability of the news media.
+
+Lord Black of Brentwood (Con)
+My Lords, in begging leave to ask the Question standing in my name on the Order Paper, I declare my interest as deputy chairman of the Telegraph Media Group.
+
+The Parliamentary Under-Secretary of State, Department for Culture, Media and Sport (Baroness Twycross) (Lab)
+Trustworthy journalism plays a vital role in our democracy. Rapid recent developments in generative AI pose both significant risks and opportunities for news media. We are engaging with press stakeholders on this. The Media Minister and the Technology Secretary each held roundtables earlier this year with publishers and broadcasters to discuss the issues around AI in journalism. The Government will support our news media to capitalise on the huge potential benefits of the technology while mitigating its risks.
+
+Lord Black of Brentwood (Con)
+My Lords, AI poses an existential threat to independent media because of the way it scrapes their high-quality content without either attribution or payment to those who created it, which is an act of theft directly threatening the provision of quality news and the jobs of thousands of reporters. Is the Minister aware that research by market leader Cloudflare shows that, for example, for every 73,000 pages of content scraped by Anthropic’s AI crawlers from news providers, there is just one single referral back to publishers’ websites? Does she realise that without this vital traffic, publishers cannot sell advertising or subscriptions, and their businesses become unsustainable? The free press cannot wait years for copyright reform because there is nothing left to protect. We were promised immediate action on this issue when the data Act went through; when will we get some of it?
+
+Baroness Twycross (Lab)
+We want to get this right and for AI to work for everyone. All our work is around protecting existing rights for creators and the press and ensuring that AI creates new revenue streams for them. We are carefully reviewing all the responses to our consultation to ensure that any proposals taken forward properly support both the AI and creative sectors, including the media.
+
+Lord Alton of Liverpool (CB)
+Will the Minister undertake to view the opening session of the new inquiry by the Joint Committee on Human Rights, held last Wednesday, into human rights and artificial intelligence? In particular, will she look at the evidence of Professor David Leslie, the director of the Alan Turing Institute, who was very clear that this cannot be dealt with unless there is transnational co-operation? He drew attention to the Council of Europe document, published last September, to which the United Kingdom is a signatory but has not yet ratified. Can the Minister tell us when we will do so?
+
+Baroness Twycross (Lab)
+I will need to get back to the noble Lord on the second point. On the first point, I am more than happy to watch the session to which he refers. As noble Lords are aware, we have a number of late sitting days, so I will make sure I use at least one of the evenings to watch what sounds like a really interesting evidence session.
+
+Baroness Kidron (CB)
+My Lords, during the passage of the Data (Use and Access) Bill, the Government asked repeatedly that Parliament trust that they had the interest of UK copyright holders front and centre. So can the Minister explain why the UK Government have now signed a memorandum of understanding with Canadian AI firm Cohere, when Cohere is facing legal action from 13 news media copyright holders, including the Guardian, Forbes and the Atlantic? Does she not agree that the Government might better earn Parliament’s trust if, instead of rewarding with opportunities AI companies which infringe copyright, they limited those opportunities and future Government contracts to companies that lawfully license inputs?
+
+Baroness Twycross (Lab)
+As I said, we want to, and need to, make sure we get this right for everyone. I am happy to have a conversation with the noble Baroness about the issue she raises.
+
+Lord Ranger of Northwood (Con)
+My Lords, I welcome the way the Government have approached AI and how they are dealing with different stakeholders, especially in the media. There is challenge regarding how the data is produced, but in its editorial guidelines our national broadcaster says that AI is part of the process in informing insight analysis, but not the production process. Are the Government looking at how the BBC and other broadcasters and content providers are adopting their policies to AI?
+
+Baroness Twycross (Lab)
+The BBC did a recent study on the use of AI and has done a quite a lot of work on, for example, the accuracy of chatbots. It is very well placed to get that real sense of how appropriate it is to use it. We want people to use best practice, and we are clear that AI offers the most powerful lever we have for national renewal, but we need to get the balance right, as I and other ministerial colleagues have said before.
+
+The Lord Bishop of Oxford
+My Lords, the Minister will be aware of the risks in AI of the impersonation of human reporting. A number of jurisdictions are experimenting with and exploring the watermarking of AI content, so that it is clear what is produced artificially and what is produced by people. The former Deputy Prime Minister Nick Clegg says in an article in the Times today that he is very sceptical of that approach. There is a counter-comment from Professor Michael Wooldridge of Oxford University commending it. Do the Government have a view on watermarking, and are their plans to introduce such legislation in the forthcoming AI Bill?
+
+Baroness Twycross (Lab)
+Without having read the article or looked into it in detail, I am hesitant to give a response, other than to say that we need to make sure that we get AI use up to an accurate level. Ultimately, in terms of news reporting, we are also very clear that the original source—the newspapers—need the revenue they get from people going through their pages for advertising, for example. I am happy to write to the right reverend Prelate on that point.
+
+Lord McNally (LD)
+My Lords, I declare an interest as a member of the Select Committee on Communications and Digital, under the chair, the noble Baroness, Lady Keeley. I am as keen to see trustworthy journalism as are the Minister and the noble Lord, Lord Black, but before we all go marching shoulder to shoulder, I wonder if we can look at some of the behaviour. For example, in today’s Daily Mail and MailOnline, there are several articles of a highly personalised nature about the Chancellor. I will give noble Lords a flavour.
+
+Noble Lords
+Oh!
+
+Lord McNally (LD)
+Do noble Lords not want to hear it?
+
+“A hormonal collapse from another femme failure who can’t cope when the going gets tough. A woman who wilts like a stick of damp rhubarb at the first sign of trouble”. 
+
+Unless we deal with that kind of misogyny in our national newspaper, and the noble Lord, Lord Black, joins some of us in trying to get high standards in our newspapers, then we will fail.
+
+Captain of the King’s Bodyguard of the Yeomen of the Guard and Deputy Chief Whip (Baroness Wheeler) (Lab)
+My Lords, can the noble Lord sit down, because he has asked his question?
+
+Baroness Twycross (Lab)
+I am not sure there was a question there, but I note the noble Lord’s comments.
+
+The Earl of Effingham (Con)
+My Lords, earlier this year, 61 countries, including France, China, India, Japan, Australia and Canada, signed the landmark Paris AI declaration, led by President Macron, the remit of which was to ensure AI is open, inclusive, transparent, ethical, safe, secure and trustworthy. So why did this Government refuse to sign it?
+
+Baroness Twycross (Lab)
+The noble Earl clearly raises some important points. We genuinely want to get this right and for AI to work for everyone. All our work so far has been on protecting existing rights. In that context, I am happy to write to the noble Earl on that question.
+
+Baroness Royall of Blaisdon (Lab)
+My Lords, further to the points made by the noble Lord opposite, does my noble friend agree that misogyny in any shape or form, including in our newspapers or the media, is unacceptable?
+
+Baroness Twycross (Lab)
+Absolutely.
+
+Lord Stirrup (CB)
+My Lords, the Minister keeps saying that the Government want to get this right—and of course, who could argue with that—but does she agree that in the broader sense, there are two fundamental tenets that we should be aware of? The first is that AI cannot be uninvented. The second is that it is developing extremely rapidly, so action to keep it under some sort of control has to be taken rapidly. Getting it right too late will not be the answer.
+
+Baroness Twycross (Lab)
+I agree that getting it right too late would be an issue, but we need to work through all the consultation responses properly. In preparation for this, I asked officials how fast they could do it, and they pointed out that it would not necessarily be appropriate for them to use AI to go through over 11,000 submissions. In addition to going through the submissions, we have announced plans to convene two working groups over the summer to look at transparency and technical tools, as well as a parliamentary group to engage Members as policy is developed. We will be reaching out to key contacts in the AI and creative sectors, including news media, to identify a mix of attendees as we work through our policy in this area.

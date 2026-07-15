@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4647776,
+    "ExtId": "F01FD94B-6614-4E0C-941A-5B4194465F71",
+    "Title": "Artificial Intelligence Regulation",
+    "HRSTag": "hs_8Question",
+    "Date": "2024-02-21T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 745,
+    "ContentLastUpdated": "2024-02-27T00:46:28.07",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "6B16C85A-6B4D-4F75-9960-A2629AC0A61A",
+    "NextDebateTitle": "Topical Questions",
+    "PreviousDebateExtId": "DF885E3A-654B-4957-B762-5AE10242B4F9",
+    "PreviousDebateTitle": "Medical Technology: Research and Development"
+  },
+  "Navigator": [
+    {
+      "Id": 4647766,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "087f5df8-7efc-430e-b434-829c57fa15f6",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4647769,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4647766,
+      "SortOrder": 4,
+      "ExternalId": "5C2B46D3-0D72-4CAB-8C74-9E4069461139",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4647770,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4647769,
+      "SortOrder": 5,
+      "ExternalId": "0F5B6C36-9732-4A8E-8B6A-7DEE31B69E40",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4647776,
+      "Title": "Artificial Intelligence Regulation",
+      "ParentId": 4647770,
+      "SortOrder": 11,
+      "ExternalId": "F01FD94B-6614-4E0C-941A-5B4194465F71",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317553,
+      "MemberId": 4396,
+      "AttributedTo": "Rebecca Long Bailey (Salford and Eccles) (Lab)",
+      "Value": "<Question HRSContentId=\"{FC2CB726-3471-4038-A972-4CA2BF4495FE}\">7. <QuestionText HRSContentId=\"{FBFC09A6-CCC0-4675-843D-032584292FF7}\">What steps she is taking to ensure that regulators have adequate capacity and co-ordination to implement the AI regulatory principles. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "FC2CB726-3471-4038-A972-4CA2BF4495FE",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "901503",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317554,
+      "MemberId": 4530,
+      "AttributedTo": "The Secretary of State for Science, Innovation and Technology (Michelle Donelan)",
+      "Value": "Ensuring that regulators have the right skills and capabilities to regulate in their domains is fundamental to the effective delivery of our approach on artificial intelligence regulation. To support that, we have established a central co-ordination function, which will provide regulators with guidance on implementing the regulatory principles and help them <span id=\"698\" class=\"column-number\" data-column-number=\"698\"></span>to identify emerging risks and challenges. The £10 million funding we have announced to jump-start regulator capacity and capability will form a crucial element of this work.",
+      "OrderInSection": 2,
+      "Timecode": "2024-02-21T11:49:59",
+      "ExternalId": "280762E4-C755-43B5-AC33-C15817E735D7",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317555,
+      "MemberId": 4396,
+      "AttributedTo": "Rebecca Long Bailey",
+      "Value": "AI in the UK still lacks sufficient regulation, despite the pace of change and the risks posed. The Government stated that they expect to introduce\r\n\r\n“a statutory duty on regulators requiring them to have due regard”\r\n\r\nto the five high-level principles outlined in the AI White Paper. So will the Secretary of State confirm if and when she will legislate for that, and what factors will inform her decision?",
+      "OrderInSection": 3,
+      "Timecode": "2024-02-21T11:49:59",
+      "ExternalId": "59D5B1EE-3F46-4E22-A226-4CD4216FE50B",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317556,
+      "MemberId": 4530,
+      "AttributedTo": "Michelle Donelan",
+      "Value": "The risks of AI are still emerging, so the priority of this Government is keeping pace with those risks, to keep the public safe. That is why we have an agile, sector-specific approach, utilising our world-leading regulators, whereas the Opposition keep calling for legislation on an area they do not understand.",
+      "OrderInSection": 4,
+      "Timecode": "2024-02-21T11:53:44",
+      "ExternalId": "8DE87065-290B-41E4-BE8F-AC7B53A3E852",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317557,
+      "MemberId": 69,
+      "AttributedTo": "Sir Oliver Heald (North East Hertfordshire) (Con)",
+      "Value": "Does the Secretary of State agree that one important thing about the Bletchley conference was that it enabled international co-operation on interoperability and a common approach? Does she also agree that that will enable regulators to co-operate internationally?",
+      "OrderInSection": 5,
+      "Timecode": "2024-02-21T11:54:01",
+      "ExternalId": "9476821B-5DCB-4CF1-A99F-FCFC98B56D4A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39317558,
+      "MemberId": 4530,
+      "AttributedTo": "Michelle Donelan",
+      "Value": "I absolutely agree with what my right hon. and learned Friend says, and I call it the “Bletchley effect”; we have seen action taken in other nations across the world since our world-leading first ever AI global summit on safety.",
+      "OrderInSection": 6,
+      "Timecode": "2024-02-21T11:53:59",
+      "ExternalId": "DA602299-FE64-431C-8295-C9148DFFDEE1",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

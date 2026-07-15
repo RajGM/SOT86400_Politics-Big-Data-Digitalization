@@ -1,0 +1,122 @@
+ Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021
+
+Considered in Grand Committee
+
+14:31:00
+
+Moved by
+
+Baroness Williams of Trafford
+That the Grand Committee do consider the Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021.
+
+Relevant document: 1st Report from the Secondary Legislation Scrutiny Committee
+
+The Minister of State, Home Office (Baroness Williams of Trafford) (Con)
+My Lords, the legislation that we are debating concerns two linked elements of our immigration system: the use of biometrics and the fees regime. I shall take each of them in turn.
+
+The use of biometric information enables us to check and confirm the identities and immigration status of foreign nationals who come to or live in the UK. The Government are pursuing an ambitious programme of change to enable the UK to take back control of its borders and deliver a fair and firm immigration system that is much easier for customers to navigate and that works in the national interest.
+
+Through the biometric regulations we will update our powers so that fingerprints can be enrolled once and retained for subsequent reuse, saving applicants the inconvenience of needing to re-enrol every time they make a new application to come to or stay in the UK, or to replace immigration documents. The regulations also provide us with the ability to restart the fingerprint retention period when biometrics are reused for an immigration application to avoid deleting them prematurely.
+
+The regulations will support the move from physical to digital evidence of immigration status. We live in a digital age in which businesses and customers expect a swift, user-friendly service. With that in mind, we are developing a biometrically-enabled digital immigration system, underpinned by security and efficiency, which will provide real-time evidence of immigration status online. The regulations also clarify our powers to use and retain biometric information obtained from asylum seekers and foreign nationals who are unlawfully in the UK and who require leave but do not have it or who lack adequate documentation.
+
+The fees order sets out the services that we charge for and the maximum amounts that we are able to charge for immigration and nationality products and services. I want to be clear from the outset that no fee levels will be changed through the order. Clearly, fee levels are amended through immigration and nationality fees regulations, which are laid before Parliament separately and subject to the negative procedure.
+
+The changes in the fees order ensure that definitions within the legislation are flexible enough to enable us to evolve our products and services to meet the demands of our customers. The order will amend the definition of “transfer of conditions” to ensure that it covers the need to update digital services as well as changes to physical documents. The change to the definition of “premium services” will provide the department with greater flexibility to offer a wider range of optional premium services that relate to immigration or nationality where there is a demand to do so. These changes do not introduce any new services at this point or impact on standard services. The order also ensures that the related provisions in the Immigration and Nationality (Fees) Regulations 2018 are updated to reflect those definitions.
+
+In reusing biometric information, the department continues to incur processing costs that need to be met. The fees order will therefore clarify and give assurance that the power to charge for biometric enrolment also includes the power to charge for biometric reuse.
+
+I know that these are both quite technical areas, but I hope I have been able to explain how this legislation will help facilitate our ambitious journey towards a biometrically-enabled digital immigration system and ensure that the fees we charge for border, immigration and nationality services are supported by the right framework. With that, I beg to move.
+
+14:36:00
+
+Lord Paddick (LD) [V]
+The noble Baroness has explained that the draft Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 are intended to improve the levels of assurance about the identities of those passing through or coming to the United Kingdom through the use and retention of biometric information obtained for immigration and nationality purposes. It is part of the Government’s move from physical documents to digital, despite the problems already identified where EU citizens with either settled or pre-settled status are being detained at the UK border. Many of these issues could be quickly and easily resolved if, as this House repeatedly told the Government, physical proof had been provided of settled status alongside digital recording.
+
+While we are on the subject, what happens to EU citizens who have applied for settled status but who have yet to receive a response from the Home Office? I have some knowledge in this regard. I have an email from the Norwegian authorities to show that my application for residency in Norway has been submitted. I have to show it at the Norwegian border to prove that I continue to have the right of residence while my application is being considered. Can the noble Baroness please tell the Committee what happens at the UK border? What instructions are given to Border Force staff about pending decisions on settled status?
+
+As the noble Baroness acknowledges, there is a wide range of different provisions in this SI, as we are accustomed to when it comes to immigration legislation, making it difficult to scrutinise—hence only Front-Bench participation in this debate, which is worrying for an affirmative procedure statutory instrument.
+
+“Take back control of our borders”, the noble Baroness continues to say, and that prompts me to continue to say that visa-free entry to the United Kingdom has recently been extended to nine other countries, as well as being retained for EU, EEA and Swiss nationals. Therefore, the claim that we are taking back control of our borders has a certain hollow ring to it.
+
+The regulations allow a photograph to be taken and retained in limited circumstances when someone passes through the border; for example, where a person cannot produce a photo ID document such as a passport or does not have leave to remain in the United Kingdom. That photograph can also be taken subsequently by appointment. Photographs can also be taken of the dependants of individuals in these limited circumstances. The photograph may be retained only where there is already a power to do so and can be used to investigate an offence or for other limited purposes. It must be destroyed when it is no longer needed; for example, when it is established that the person is a British citizen.
+
+Retention of fingerprints is extended from 10 years to 15 years, as the noble Baroness said, with the ability to retain them beyond that date if necessary; for example, where the person is subject to a deportation order. Photographs are retained until the person obtains a United Kingdom passport. Biometric data can also be reused; for example, when a further application is made. The clock resets when the further application is processed. At the end of the 15-year period the fingerprints must be destroyed and digital copies must be made irretrievable, and someone is entitled to a certificate to prove that this has been done.
+
+I understand that fingerprints do not change significantly during a lifetime, but the facial appearance of a person does, which is why photo ID such as driving licences and passports require regular renewal. Do the Government intend to require those whom they have taken facial photographs of to have a photograph retaken, say, every five years?
+
+I am a little concerned that the regulations state that, where information is different in physical and digital forms, the digital information takes precedence. I understand that, if someone’s immigration status is revoked and the physical document is not in the possession of the Secretary of State, it can be changed digitally, and in such cases the digital record takes precedence. But is this always the case? Could there be circumstances where the digital record is wrong, for some reason? Should not cases therefore be decided on their merits, rather than by setting down in legislation that the digital copy automatically takes precedence? Aside from these concerns, we are content with these regulations.
+
+On the draft Immigration and Nationality (Fees) (Amendment) Order 2021, the Government seem intent on making immigration and nationality fees a money generator. Despite the fact that photographs and fingerprints can be reused at the press of a button each time someone applies for an extension of leave to remain, instead of a person being sent to an appointment to give their fingerprints and photographs, the Government still claim that
+
+“as the departmental processing costs for reuse are similar to those for taking fresh biometrics the fee must remain.”
+
+Can the Minister explain how the cost of copying and pasting fingerprints and photographs electronically from an existing application to a new applications is similar to that of arranging for a person to attend in person and an official taking their fingerprints and photograph? I know from personal experience of having taken many fingerprints from individuals that that can be a difficult and time-consuming process. Is this not just another example of digital efficiency producing more profit for the Home Office?
+
+On premium services, can the Minister explain what impact people paying even more to the Home Office for optional premium services has on what the Explanatory Notes refer to as the “standard or basic service”? Does the Home Office employ additional staff to provide premium services, or is the time taken for the standard or basic service longer the more people avail themselves of the premium service?
+
+It is noted that the definition of premium service, previously restricted to services in connection with immigration and nationality applications, is to be extended to immigration and nationality generally. While the Government provide the example of Border Force officers checking passports on carriers at sea, which some carriers choose to pay for, one can also foresee a situation where Border Force could charge a fee for fast-track immigration at airports. Can the Minister explain what impact premium services such as checking passports on carriers at sea have on the capacity of Border Force to process passengers at air and sea ports? Do the Government have any plans to introduce fast-track entry for a price at UK borders?
+
+Will any income generated by these premium services be used to provide more Border Force officers, or will the already unacceptable waiting times at UK borders simply be extended for those unwilling or unable to pay for a premium service? We are very concerned about the widening of the definition of premium services as set out in these regulations.
+
+14:45:00
+
+Lord Ponsonby of Shulbrede (Lab)
+My Lords, I thank the Minister for introducing these two instruments. The first—the Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021—makes a series of changes to the capture of biometric information on foreign nationals, including asylum seekers, those who arrive at the border undocumented and those who are detained or bailed under immigration powers. The second—the Immigration and Nationality (Fees) (Amendment) Order 2021—makes some technical changes to definitions to reflect the gradual movement of the Home Office from physical documentation to a digital system.
+
+I have a number of questions, some of which replicate the questions just asked by the noble Lord, Lord Paddick. In the policy statement published alongside the 2014 Act, the Government stated they planned to retain biometric information for up to 10 years. What is the rationale for now extending the limit from 10 to 15 years? It seems an arbitrary increase.
+
+The impact of the regulations appears to be that sensitive biometric information can be held for significantly longer periods of time. Can the noble Baroness confirm that that is indeed the Government’s intention? The regulations provide for the general limit of 15 years, but also provide that the Secretary of State may retain information for as long as necessary, for immigration purposes. Is there guidance on what “necessary” means in this context? The examples given in the supporting documents of where information will be held for longer include where
+
+“the person is subject to a Deportation or Exclusion Order.”
+
+In what other situations should we expect data to be routinely held for longer than 15 years?
+
+On the immigration fees order, it seems odd that the cost of processing data already held is the same as the cost of enrolling new biometric data. The noble Lord, Lord Paddick, made this point and gave a vivid example from his experience as a police officer. Can the Minister give a fuller explanation of this apparent disparity?
+
+Photographs of facial images were raised by the Labour Party during the passage of the 2014 Act. Where a person is granted citizenship, their fingerprints are destroyed, but the photograph is kept until they apply for a passport. For those who never apply for a passport, this means their photo will potentially be kept indefinitely. Does the Minister know how many people this impacts and why a time limit has not been considered?
+
+Regulations under the 2007 Act set out what information a biometric document may contain. The Explanatory Memorandum tells us:
+
+“These Regulations provide that other information may … be included … limited to information connected with … immigration status or nationality.” 
+
+What other information is this expected to include?
+
+On the power to prevent the use of a digital immigration document, is there a risk that a digital status could be cancelled without the person being notified, bearing in mind that the number of successful appeals demonstrates how often the Home Office makes incorrect decisions and that digital status is also a person’s access to work, healthcare and the right to rent, et cetera? What will be the system for effectively switching off a digital status, as it were?
+
+A related issue following on from the Domestic Abuse Act, which we recently considered, is that Southall Black Sisters and more than 50 other expert organisations have raised concerns over changes to the enrolment of biometrics for migrant survivors of domestic abuse. They have been informed that victims of abuse must now travel to immigration centres, rather than the existing system, which used local post office locations. Southall Black Sisters and others have raised concerns over the impact on these extremely vulnerable victims of being required to criss-cross cities to access the service and over the resource strain that this will put on the specialist community organisations which would support them when they do this.
+
+I have seen the letter to Marc Owen, who is director for visas and citizenship, dated 19 May 2021, and his response, dated 24 May. The expert organisations were not consulted on these changes and have requested a meeting with the Minister. Would the Minister be able to commit to looking at these issues and meeting those organisations, which have a specific concern regarding the lack of access through the Post Office system to these facilities? My understanding from reading the letter to Marc Owen is that the contract with the post offices is coming to an end, so they will not offer these facilities in future. Therefore, there will be some seven centres for the whole of England and Wales and only one in London, in Croydon, where the people from these centres would be expected to go to register their access, if I can put it like that. This will be very resource-intensive for the organisations supporting them, because they will have to accompany them and help them with their applications. It was a much simpler process when they were able to go to local post offices. That is the point that I am making to the Minister.
+
+14:51:00
+
+Baroness Williams of Trafford (Con)
+I thank both noble Lords for the points that they made. On the point made by the noble Lord, Lord Paddick, I usually find that lack of Front-Bench participation means lack of controversy as opposed to lack of understanding. In fact, quite often a lack of understanding leads to a big showing at some of these SI debates.
+
+I start with the final point made by the noble Lord, Lord Ponsonby, about the post offices. Clearly, being digital by default should make the whole system more seamless. However, I have previously engaged with Southall Black Sisters and am very happy to take those points back and look into them again.
+
+On the first point from the noble Lords, Lord Paddick and Lord Ponsonby, on the reasons for biometrics and face recognition versus fingerprints, they are both right in that the instrument will allow us to reuse the fingerprints that we already hold, whether the person makes an immigration or citizenship application. It will also allow us to reuse facial photographs, although in most cases we will require a new photograph, which most applicants will be able to provide remotely using the UK ID check app.
+
+That goes back to the previous point that I made to the noble Lord, Lord Ponsonby. Faces change, clearly, and the image needs to resemble the individual. We will deliver biometric reuse in phases, starting with applicants who apply for leave under the graduate route scheme, allowing them to use their biometric residence permit as proof of ID and use the app. They will upload a new facial image over the app, which will be displayed in the UKVI account and will enable them to use the online services to view and prove their immigration status. However, we will use the fingerprint data that they provided from their previous application; the regulations enable us to reuse the previously enrolled fingerprints for a new application and allow for the fingerprint retention period to be restarted as if they fingerprints had been freshly enrolled.
+
+One of the noble Lords asked about destruction of images that are no longer in use—I think it was the noble Lord, Lord Paddick. My understanding is that they would be destroyed if not used. If that is any different, I shall confirm it in writing, but it is my understanding that they are destroyed.
+
+We are extending the retention period to 15 years because we sought to strike the right balance between public safety, customer convenience and individual privacy rights. It will reduce the likelihood that a person’s fingerprints will have been deleted before they make a further application, thereby avoiding the inconvenience and cost associated with providing a new set of fingerprints while maintaining the principle that we will retain fingerprints only for as long as necessary.
+
+In addition to customer convenience, the public safety aspect is of course a key priority, particularly our ability to identify foreign nationals who overstay their immigration permission and abscond. We have encountered individuals who have been in the country for more than 10 years and were identified as immigration offenders or found to have committed serious criminal offences, which would have triggered a longer fingerprint retention period, shortly before their fingerprints were due to be deleted. We do not want to delete the fingerprints of such individuals earlier then we need to, because it makes it harder to identify them and remove them from the UK.
+
+On the point made by the noble Lord, Lord Paddick, about EU settled status applications, if your application is pending your rights will be protected. In any event, no action will be taken until post 1 July. After that, you will have 28 days in which to either start an application or have it concluded.
+
+There have been many debates over the past couple of years on the transition from physical documents to evidence of immigration status in a digital format. The Government have made it absolutely clear that we will be digital by default and will move away from physical documents as evidence of immigration status to all migrants having access to online services to view and prove their immigration status. To answer a point made I think by the noble Lord, Lord Ponsonby, the UKVI account can be accessed and updated more easily than a physical document, which, of course, has to be reissued. We started the process of providing access to the online “view and prove” services instead of a physical document as evidence of status for those granted leave under the EU settlement scheme. Those who are able to use the UK Immigration: ID Check app include those applying under most of the new points-based system routes and, of course, on the Hong Kong BNO route.
+
+Replacing the physical immigration documents with access to online services to view and prove immigration status for all migrants at the same time would not be practical. Instead, we intend to phase out physical documents incrementally. That is why the regulations change the definition of a biometric immigration document to give us greater flexibility to issue documents in a range of formats, whether the biometric residence permit, a vignette in a person’s passport, or a digital product. The fees order will also amend the definition of “transfer of conditions” to ensure that it covers updates to online services as well as physical documents.
+
+I should explain why we have included provisions relating to the taking of photographs under the Immigration and Asylum Act 1999. At the time of that Act, we did not consider photographs to be biometric information. Of course, technology has moved on and it is right that these regulations clarify the position to make it clear that photographs can be taken, used and retained in the same way as fingerprints are taken under the 1999 Act. This will ensure that photographs taken for these purposes will be treated in the same way as photographs provided for an immigration or citizenship application.
+
+The noble Lord, Lord Paddick, asked about premium services. The order is not creating any new services or amending the fee that can be charged for any premium services. It will allow the Home Office to identify opportunities to further enhance the customer experience with the introduction of new, optional—that is the operative word—premium services. These services are not in connection with an application; they are provided over and above any standard or basic service in connection with immigration or nationality. The order will allow the premium services to be offered in connection with immigration and nationality more broadly, not just immigration and nationality services.
+
+On the fees, it is government policy that those who use and benefit most from the immigration system should contribute towards the cost of operating the system, reducing the burden on the UK taxpayer. We think that our fee levels allow us to continue to attract the brightest and best to the UK, while enabling the Home Office to work towards a self-financing migration, border and citizenship service. We do not make a profit from applications where the fee is higher than the estimated unit cost, because all income generated above the estimated unit cost is used to fund wider migration, border and citizenship services, reducing the cost to the taxpayer.
+
+I think I have answered all questions. The noble Lord, Lord Ponsonby, and I are staring straight at each other, and so he can say if he has any other points.
+
+Motion agreed.

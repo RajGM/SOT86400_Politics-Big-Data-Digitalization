@@ -7,7 +7,9 @@
   "type": "commonjs",
   "main": "scrapeHansard.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch:hansard-text": "node fetchHansardText.js",
+    "fetch:hansard-text:test": "node fetchHansardText.js --limit 5 --concurrency 20"
   },
   "dependencies": {
     "googleapis": "^148.0.0",

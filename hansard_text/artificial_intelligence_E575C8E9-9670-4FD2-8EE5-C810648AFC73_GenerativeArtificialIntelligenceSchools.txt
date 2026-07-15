@@ -1,0 +1,312 @@
+ Generative Artificial Intelligence: Schools
+
+[Sir Jeremy Wright in the Chair]
+
+14:30:00
+
+Damian Hinds (East Hampshire) (Con)
+I beg to move,
+
+That this House has considered the use of generative artificial intelligence in schools.
+
+It is a great pleasure to serve with you in the Chair, Sir Jeremy. You will not be presiding over a heated political debate this afternoon, and I hope this is a good opportunity to openly discuss the enormous change that is upon us. Throughout the education world, a lot of thinking is being done about artificial intelligence and its implications. Most of that thinking is being done by teachers, and I hope we will contribute to some of the wider system and policy questions today.
+
+In a November 2024 omnibus survey, half of teachers said they had already used generative AI in their role; about a quarter said they had no plans to; and the rest either planned to or did not yet know. The most common uses of generative AI are creating resources, planning lessons and communicating with parents.
+
+In the same survey, 6% of teachers said that pupils were permitted to use AI in the work they are set. It is hard to pinpoint an exact number, but it is fairly safe to say that the proportion of pupils actually using AI to some degree in their work is rather more than 6%. The survey data that we have, incomplete as it is, suggests that somewhere between one in three and three in four children are using AI to some degree, with some frequency, in their homework.
+
+In this rapidly changing world, I commend the Department for Education for its guidance update in January and the materials that came out on 10 June, made by the Chiltern Learning Trust and the Chartered College of Teaching. Those materials are easily accessible, but that does not mean that masses of people have seen them. This remains an area in which a lot of communicating remains to be done.
+
+The DFE guidance talks about balancing the safety considerations of AI with the opportunities. Those are definitely two considerations, but they are not the only considerations, nor are they the most obvious. We always have to remember that at whatever pace we work at in this place, or that Whitehall works at, kids will work at about six times that pace.
+
+The four areas I will briefly cover today are two areas of opportunity and two areas of risk, where we need some caution. The areas of opportunity are workload and enhancing learning, particularly for children with special educational needs. The areas of risk are the need for discerning and careful use of generative AI by pupils and, finally, the impact on homework, assessment and exams.
+
+Workload is a big issue for teachers. Historically, along with pupil behaviour, it has often been the No. 1 issue in teacher retention. In a 2019 survey, it was encouraging to see that the reported workload had reduced by about five hours a week, or an hour a day. However, workload remains a stubborn issue, and the biggest contributors have been planning and preparation, marking, and data entry and analysis. There is also communicating with parents, dealing with behaviour issues and so on, but those first three all lend themselves to artificial intelligence.
+
+In particular, the creation of teaching materials seems to be an enormous area of opportunity. Too many teachers spend their Sunday evenings at home, trawling the internet for resources to use during the working week, when much of that work could be done for them. I commend Oak National Academy for its work on the AI learning assistant.
+
+As the Education Committee, chaired by the hon. Member for Dulwich and West Norwood (Helen Hayes), discussed just this morning, the national curriculum is, of course, a framework. It is not a precise set of things that children will learn, because we need diversity in provision. We therefore need to think about how AI can support that diversity. I hope the Minister will give us an update on the content store announcement of August 2024.
+
+AI has plenty of other potential uses, such as for timetabling, for letters and emails home—although my special request would be that we do not add to the volume of communications that have to be consumed—and for report writing. But we need a clear code of practice, because for the trust of parents, and indeed of pupils, there needs to be clarity about when and in what ways generative AI has been used. Care will still be needed. How does a teacher tell children that they must write their own work, if that teacher is generating text through a machine?
+
+The second area of opportunity is in supporting learning. There is clearly a lot of potential for learning personalisation, especially for certain types of special educational need, alongside the role of assistive and adaptive technology. For some subjects, AI will also be useful for dynamic assessment. But schools will have the same issue with AI as with all educational technology, which is that they generally do not have much idea which bits of it are any good. There are both great products and pretty low-grade products, and discerning one from the other is notoriously difficult. As with edtech in general, but even more so with AI, product development cycles do not lend themselves to randomised controlled trials to try to establish what is good. I suggest that schools require an extension of the principle established with the LendED product, which is made with the British Educational Suppliers Association: a sort of forum where teachers can see these products, distil the good and bad, and crucially get recommendations from other schools and teachers, because teachers tend to trust teachers.
+
+Afzal Khan (Manchester Rusholme) (Lab)
+With the input of biased data, large language models are liable to produce inappropriate, biased or factually incorrect outputs. Does the right hon. Member agree that if generative AI is to be rolled out to schools, actions such as introducing statutory regulations must be taken to limit any bias or misinformation taught to children and young people?
+
+Damian Hinds
+Funnily enough, I agree with the hon. Member, though not necessarily about statutory requirements. It is certainly true—in fact, he inadvertently leads me on to my next point—that we need to be  careful and discerning in using these products. There are many risks, including the safeguarding risks inherent in technology, hallucinations, dud information and, as the hon. Member rightly says, biases.
+
+There are some very direct and sharp risks to children. I am afraid that many misleading, unpleasant and cruel things can be done with AI. They can be done already but, as with so many other things, AI magnifies and turbocharges the problem. Some of those things can be done by adults to children; some of them are done by children to other children. We need to be very aware of those risks, some of which relate to existing practices and policy questions, such as how to deal with intimate image abuse and sexting. The problem further supports the case for a comprehensive school-day phone ban, to take cameras out of schools.
+
+More generally, there is a need for media literacy and general discernment. I am reluctant and nervous to talk about media literacy, and more so about the phrase “critical thinking,” because it is too often conflated with the false dichotomy that occasionally comes up in the educational world: knowledge versus skills. Clearly, we need both. We need both in life, and we need to have developed both in school, but knowledge precedes skills because we can only think with what we know. However, it is really important in this context that children know how AI can make mistakes, and that they come to trust and know to look out for the correct primary sources, and trusted brands—trusted sources—rather than just stuff on the internet.
+
+In the 2019 guidance on teaching online safety in schools, since updated, a fusion of the computing, relationships and citizenship curricula was envisaged. Children would be guided through how to evaluate what they see online, how to recognise techniques used for persuasion, and how to understand confirmation bias, as well as misinformation and disinformation. The new edition of “Keeping Children Safe in Education”, which came out yesterday, lists disinformation and misinformation as safeguarding concerns in their own right for the first time. The online safety guidance also included the importance of learning why people might try to bend the truth on the internet and pretend to be someone they are not. That was a start, but at this technological inflection point, it needs a huge scaling up.
+
+Steve Yemm (Mansfield) (Lab)
+Does the right hon. Gentleman share my concern about some of the dangers of using generative AI in the classroom, particularly around harmful content and activity? I read the National Society for the Prevention of Cruelty to Children’s “Viewing Generative AI and children’s safety in the round”, which gave examples of children creating deepfakes of other children in the class.
+
+Does the right hon. Gentleman also share my concerns about children’s privacy and data protection, and the extent to which many of these edtech applications are created with the aim of minimising data protection? I understand he has concerns about regulation, but this seems to be almost entirely unregulated in the classroom. There is certainly a case for, at the very least, regulating data protection, data to third parties and—
+
+Sir Jeremy Wright (in the Chair)
+Order. That was either several interventions or a speech, neither of which is permissible. I urge all participants to keep interventions brief.
+
+Damian Hinds
+The hon. Member for Mansfield (Steve Yemm) should not misunderstand me, as I am not against regulation. His points about data protection and privacy are really important, although they are probably too big to fold entirely into this debate. His first group of points and what the NSPCC talks about are the same risks that I am talking about.
+
+There is an even broader point, as there is already a lot of blurring between fact, fiction and opinion online. There are all manner of news sources and influencers, network gaming, virtual reality and augmented reality, the metaverse—the whole concept of reality is a little hazier than it once was. With these machines, which in some cases almost seem to have a personality of their own, there is a danger of yet more blurring.
+
+We all shout at our PCs sometimes. Indeed, adults using AI may start to give human form, which is called anthropomorphism, to the machine they are interacting with—I occasionally try to be polite when I interact with one of these interfaces. Apps such as character.ai take that to another level.
+
+We have to think about the impact on children in their most formative years—on their sense of self, their understanding of the world and their mental wellbeing. That includes the very youngest children, who will be growing up in a world of the internet of things and connected toys. It will be that much more important to draw a line between what is real, what is human, and what is not. In time, when the system has had enough time to think about it—we are not nearly there yet—that may be yet another area for regulation.
+
+Finally, I come to the most immediate risks, around homework, assessments and exams. Colleagues may already have had a conversation in which a teacher has said, “Isn’t it brilliant how much so-and-so has improved? Oh, hang on—have they?” They now cannot be absolutely certain. There are AI detectors, but they are not perfect. They can produce false positives. In other words, they can accuse people of plagiarising using AI when they are not. In any event, there is an arms race between the AI machine and the AI detector machine, which is deeply unsatisfactory. Of course, that is where the teacher’s skill comes in, because there is always classwork to compare. Most importantly, there is always the exam itself, and we need to keep it that way.
+
+The safest way to protect the integrity of exams is for them to be handwritten in exam conditions, with a teacher walking up and down between the desks—not quite for everybody, but for the vast majority of children, except where a special educational need or disability requires another arrangement. There are also subjects, such as art, design and technology and computer science, where it would not be appropriate.
+
+There is already a big increase in access arrangements for exams. A particular type of adjustment, called a centre-delegated arrangement, does not need approval from the exam board, so no data on it is available. One such centre-delegated arrangement is to allow the child to use a keyboard—in the rubric it is called a word processor, which is a delightfully archaic term.
+
+If children are allowed to use a keyboard, spellcheck and AutoText are disabled, to ensure safeguards are in place—but it is still true that most people can type faster than they can write, so there is a disparity in the two formats. The regulations require a school’s special educational needs co-ordinator to decide whether a child is able to use that facility, but they are still quite loose in that they refer to the keyboard being the child’s 
+
+“normal way of working at school”.
+
+I would love the Minister to say a word about that. The Department for Education should be clear that, where such arrangements are made, it should be because of a special educational need or disability.
+
+Afzal Khan
+One concern I am beginning to feel is that, while acknowledging that the technological development is important, an over-reliance on generative AI runs the risk of limiting open-mindedness, independent thinking, literacy and creative skills. Does the right hon. Member agree that we must protect key critical thinking and reasoning skills in children and young people, for their future and ours?
+
+Damian Hinds
+The hon. Gentleman makes his point lucidly and well, and I think it stands on its own feet.
+
+The bigger issue with more children taking exams on a keyboard rather than on paper is that exam boards would like to move entire exams online for all children. In a sense, that would be better because it would be equal; there would not be any difference in the speed of writing and typing.
+
+Some might ask what is wrong with that, as long as it is the same for everybody, and as long as the internet, spellcheck and autocorrect are disabled. I suggest there would still be multiple types of security risk in having exams done en masse online. There is also a wider problem: if a GCSE is done online, how will students do a mock GCSE? They will do it online. How will someone do a year 9 exam? Hon. Members can see where I am going with this. It cascades further and further down the age range, until eventually people question why they are learning to write with a pen at all. Some are already asking that question.
+
+By the time my child is an adult, people will not even be using a keyboard, but other types of communication and interface, and this will seem very archaic. There are important advantages to learning to write by hand, however. Handwriting and writing are not the same thing. The way someone develops their handwriting, learning the strokes and patterns and how letters join together is an important part of learning the skill of wider writing. There is also plenty of evidence that making marks on a page by hand aids visual memory. Handwriting helps us to understand things because, as we write, we synthesize what we are reading or hearing into our own words. There is even evidence to suggest that people do better in tests and have better recall as a result. Maintaining handwriting is therefore important in its own right, quite apart from maintaining the security and integrity of examinations.
+
+DFE guidance states that teachers should keep up to date with this rapidly changing world. That is a tough ask. Over the months and years ahead, the Department will have to do a lot to provide teachers and school leaders with bite-sized, easily digestible chunks of information to keep them up to date with this rapidly changing area. A recent Ofsted report, on 27 June, said that there was not yet enough evidence to conclude what constitutes a good use of AI in schools, but that one common approach among schools that seemed to be using AI successfully was to have a champion who spreads good practice throughout the school. That seems to me a good approach.
+
+Sarah Hannafin of the National Association of Head Teachers stated:
+
+“The technology should be introduced gradually…to maximise its potential and mitigate the risks.”
+
+That is an important point. Most immediately, I implore the Minister not to allow all exams to go digital en masse, except for certain subjects where that makes sense, and except, of course, for an individual child for whom that is the right thing because of their special educational need or disability.
+
+I contend that there should be no rush to move to online exams. There might be opportunities, lower costs or easier administration involved, but there are certainly also risks, some of which are immediate and some of which would manifest only over time and might take us a long time to spot. If we do move en masse to online exams and away from pen on paper, I promise hon. Members that we would never go back. A cautious approach is what is required.
+
+14:52:00
+
+Helen Hayes (Dulwich and West Norwood) (Lab)
+It is a pleasure to see you in the Chair, Sir Jeremy. I congratulate the right hon. Member for East Hampshire (Damian Hinds) on securing this important debate.
+
+The use of generative artificial intelligence in education is a critical challenge of our time. As parliamentarians, we bear the responsibility for ensuring that this new technology is harnessed to support teachers and examining bodies and to enhance learning, while safeguarding our children’s intellectual and emotional growth and not undermining the critical skills and values they need for the future.
+
+Although generative AI presents some distinct challenges, it sits within a suite of technology-related issues that have all significantly changed the landscape in which our children are growing up and being educated, including the use of smartphones and other devices and engagement with social media. Every generation of parents and teachers has to support children and young people to navigate something that they did not have to contend with in their own childhood—and so it is for our generation. We must understand the power and potential of AI and other technologies, and we must understand in detail the risks and threats. We must also give our teachers and school leaders, our children and young people the tools they need to harness its potential with good ethical and critical thinking, while safeguarding their wellbeing.
+
+Generative AI holds immense promise across a range of applications in our schools. There are important potential applications in the context of rising teacher workloads, which it is vital to address if we are to improve the recruitment and retention of teachers in our schools; but the use of AI for lesson planning, assessment and marking cannot be a substitute for subject experts who work in person with their students, providing tailored teaching to meet the needs of individuals in the classroom.
+
+It is important that older pupils have a good understanding of the benefits, weaknesses and threats of emerging technologies such as generative AI. At its best, generative AI offers the potential to accurately summarise lengthy and complex technical texts in a way that is easy for a layperson to understand, or to generate computer code to achieve much more than an experienced computer scientist could over a period of months. There are potential applications for children with special educational needs and disabilities, too.
+
+However, the promise of AI comes with potential peril. Over-reliance on generative AI risks eroding children’s critical thinking and independent learning. The Parliamentary Office of Science and Technology warns that AI tools, if misused, can reduce students to passive recipients of unreliable, biased and potentially hallucinated pre-generated content, undermining the cognitive struggle essential for deep learning. Studies suggest that excessive dependence on AI for problem solving can weaken analytical skills, as students bypass the iterative process of reasoning and reflection. The ability to assess ideas critically for their origin and value could be fundamentally affected. That is particularly concerning for subjects requiring interpretive or creative thought, where AI’s efficiency may shortcut the development of original ideas. If children lean too heavily on AI, we risk nurturing a generation skilled at consuming information, but less adept at questioning, critiquing or innovating.
+
+Beyond our schools and classrooms, generative AI has potential in aiding and assisting exam boards in the accurate and fair assessment of public examinations and becoming an invaluable tool in our universities and workplaces. However, alongside the potential benefits, we are already seeing significant harms that AI can inflict through the generating of convincing altered deepfake images and their use in the appalling bullying and exploitation of some children and young people.
+
+That concern is amplified within the broader context of screen time. Our predecessor Education Committee’s inquiry into screen time last year revealed a 52% surge in children’s screen use from 2020 to 2022, linked to declines in attention, sleep quality and mental wellbeing. Generative AI, which is often accessed via screens, must be integrated thoughtfully to avoid exacerbating those trends. Vulnerable children, those facing socioeconomic hardship, neurodiversity or mental health challenges, are particularly at risk. The Parliamentary Office of Science and Technology briefing on AI and wellbeing notes that those students may benefit most from AI’s accessibility, but they are also most susceptible to its potential harms, such as reduced agency or exposure to inappropriate content.
+
+We are already seeing the profound impact of AI in education, from schools rethinking their approach to homework to universities reverting to traditional in-person exams. Sam Illingworth of Edinburgh Napier University has argued that we need to think about how we can tailor the assessment of students and provide better and more creative support for their learning, and work to that end is ongoing in universities. These shifts may signal that we need a more fundamental re-evaluation of how we design learning and assessment in this new technological era.
+
+What must be done? First and foremost, the Department for Education must provide clear and robust guidance on the ethical use of generative AI in schools. Our predecessor Committee rightly called for urgent legislation to regulate AI, warning that the pace of technological advancement risks outstripping our ability to legislate effectively, with potentially harmful consequences for children. It is imperative that AI developers are held accountable for how children’s data is used, particularly where those children are below the digital age of consent. Indeed, there are strong arguments, which I support, for increasing the digital age of consent from 13 to 16. Safeguards must be put in place to ensure transparency in AI-generated content, prevent over-reliance on automated tools and preserve essential skills such as critical thinking.
+
+Secondly, my Committee has recently heard about the importance of prioritising digital literacy across the board. Teachers, students and parents need training to understand AI’s mechanics, biases and limitations. An informed educator can guide students to use AI as a tool for exploration, not a crutch for answers.
+
+Finally, we must champion the irreplaceable value of human connection. No algorithm can replicate a teacher’s empathy, a student’s curiosity or the spark of collaborative discovery. AI must be used to enhance those relationships, not to supplant them.
+
+The choices we make today will shape the minds of tomorrow. If we fail to balance AI’s potential with its risks, if we fail to regulate appropriately, if we fail to fully understand this technology and the opportunities and risks it presents, we may compromise the critical thinking skills that define an educated society and we may undermine the values that we seek to promote. Let us act decisively to harness generative AI as a servant of learning, not its master.
+
+15:00:00
+
+Jim Shannon (Strangford) (DUP)
+It is a real pleasure to serve under your chairship, Sir Jeremy, and I thank the right hon. Member for East Hampshire (Damian Hinds) for leading the debate.
+
+I have to confess that I do not understand all about AI, but I do understand the need for it and that the technology is changing. Modern society has a new way of doing things, and I am not against the idea of doing that; it may just not be for me. But I do have children, and grandchildren in particular, who are so technically minded at a very young age. The knowledge they have absolutely overwhelms me, as they look to a society in which they want to play their full part.
+
+I was just sitting here thinking about an Adjournment debate in the main Chamber a couple of years ago. Kevin Brennan, now in the House of Lords, gave a speech, and he never let on till the end of it, when he said, “That speech was written by AI.” Kevin was sitting behind me; I said, “Kevin, what do you mean?”, and he told me what he had done. His speech was a normal speech, except for one thing: it did not have the characteristics of Kevin Brennan. Those of us who know him know that Kevin is quite a witty guy, and his humour and other characteristics were not present in that speech. But it was a speech, done by AI, and he did that, not because he was committing himself to doing all his speeches with AI; he did it because he wanted to show the potential of AI. I always remember that. I said  to him afterwards, “Kevin, I’ll always be writing my speeches. I’ll never be doing what you’re doing,” but that is just me talking personally.
+
+We are seeing a progression within our schools, which must be used safely and appropriately, so it is great to be here to discuss this. My key issues are the very issues of protection, safeguards and using AI as we can, with the good potential that the right hon. Member referred to, but, at the same time perhaps, with that wee question mark in my mind. To give the Northern Ireland perspective, as I always do, only last month in Northern Ireland—just four weeks ago, to be precise—Ulster University, in conjunction with the Education Authority, launched a study whereby 100 teachers would trial Microsoft Copilot and Google Gemini in the classroom. So, it is part of life—and I suspect it will become a big part as we move forward. The study indicated that teachers themselves reported time management benefits, especially in admin and planning, but they also referred to a strong need for professional and thorough training. In a way, it was perhaps very much a first experience—or maybe not for them all, in all honesty. They outlined that this is something that needs to be done very thoroughly, with great protections and safeguards.
+
+My colleague the Minister of Education in Northern Ireland, Paul Givan MLA, has announced a literacy programme in which 15,000 pupils will use the Amira Learning AI tutor to assess how AI can support literacy training, especially with disadvantaged children and SEND children. This is an area where we can potentially do better, and AI could be the means to ensure that SEND children and disadvantaged children have that opportunity. Again, the potential benefits are there.
+
+Although the prospects of benefiting children with this sound wonderful, and while Northern Ireland very much seems to be taking a giant step in this transition, there are undoubtedly concerns that teachers, parents and, indeed, pupils may have. For example, staff have raised concerns about accessibility for them personally in their job. For teachers from other generations, such as my own, AI is a minefield. I suppose what I am really saying is that we need to be taking small steps, maybe not giant steps, to make sure that the way forward is measured carefully, in the way that I would like it to be. In addition, I am sure parents want reassurance that their children are being taught properly and that a computer program is not their only source of learning. We need to make sure that does not happen and that if children need personal support from a teacher, they are still able to get it. Although AI will undoubtedly take steps forward, the old way of social interaction and being taught by teachers, and classroom assistants for those with special needs, must also be there.
+
+We had a discussion with some American students recently about the use of AI. It was clear that, although AI can prepare a great briefing, it does not give one the knowledge found in reading and in finding pertinent reports. The hard graft of investigation and studying that we do for our speeches is an example. Although AI could give me a speech for this Chamber, it could not give me the secondary knowledge that I have gained in preparing for the debate. AI has a role, but it can never be a stand-alone role.
+
+Many will share concerns similar to mine. We should be proud of the fact that we are able to progress digitally but also safely. The Minister is a good man, and he understands this issue much better than me, but I hope he can understand my concerns about safeguards, protections and the ability for the right information to feed into the process. I seek that assurance from him, especially in relation to educational settings across the United Kingdom.
+
+We are doing some things on AI in education in Northern Ireland through Paul Givan. I know that the Minister talks to Paul Givan on a regular basis, but I think it is important in any debate on any subject that the interaction between the four regions is constructive and positive. I have to say—I am not being disrespectful—that I find the Minister is all here, and I wish to see more engagement with Northern Ireland Ministers from him.
+
+Children need to be equipped for an AI world, but also for the real world. Face-to-face interaction and the need to think outside the scope of a question is simply non-negotiable, and I am pretty sure that the Minister will agree with me on that.
+
+15:07:00
+
+Will Stone (Swindon North) (Lab)
+It is a pleasure to serve under your chairship, Sir Jeremy. I thank the right hon. Member for East Hampshire (Damian Hinds) for securing this debate. I know he is incredibly passionate and pretty knowledgeable about this subject. I also thank the Government for the AI opportunities action plan.
+
+I appreciate that there is a lot of fear around AI. Did we not learn from “Terminator” 1, 2 or even 3? However, AI does exist, and generative AI is already reshaping education whether we legislate for it or not. It is our duty to ensure that these technologies are used ethically and deployed equitably, and that they enhance the role of educators, not replace them.
+
+We are seeing countries around the world use AI in schools. South Korea is leading the way: 30% of its schools now use AI-powered digital textbooks; AI is already being taught as part of the national curriculum; and it is considering making it a separate subject at all levels. Its goal is to become a global leader in AI talent, and I believe that the UK can learn a great deal from it.
+
+We cannot ignore AI. It is changing how students learn and how we assess them. We need to think carefully about our current exam systems and whether they are still fit for purpose in this new world. Generative AI could be a big part of the answer. It could help teachers by saving them time, tailoring lessons to each student and making them more engaging, especially for students with SEN. That is a massive issue in Swindon. We are seeing a rise in children who have SEN. They need tailored lessons and support, so I really believe that this is something that we should be doing.
+
+Almost half of teachers and most young people are now using these tools. Many teachers say that they help them to create lesson plans and materials and reduce their admin work. I think we can all agree that that is good, but with the opportunity comes responsibility. There are serious concerns around academic integrity and data privacy. I want to highlight the work of the Institute for Ethical AI in Education, which has created a practical framework to help schools and Governments use AI safely and fairly. This is not just about schools, but about holding companies to account. If the product is not ethical, it should not be used in education. AI is still new and evolving, but with careful planning, training and investment we can make sure it becomes a tool for inclusion and creativity. We owe it to our young people to get this right.
+
+15:10:00
+
+Zöe Franklin (Guildford) (LD)
+It is an honour to serve under your chairmanship, Sir Jeremy. I thank the right hon. Member for East Hampshire (Damian Hinds) for securing this important debate.
+
+AI use in schools has reached a critical juncture. According to Ofcom, 50% of children aged eight to 17 have already used AI tools. The Alan Turing Institute and LEGO report that 60% of teachers actively use generative AI. We have heard many colleagues across the Chamber today reference that. AI is everywhere, whether through explicit choice or integration into Google Workspace, Microsoft 365 Education and countless educational tools. The Government have funded AI development for teachers to speed lesson planning and reduce workloads, positioning AI as central to educational transformation. Yet, as 5Rights highlights, no statutory standards currently govern genAI use in schools.
+
+The Government’s own AI opportunities action plan fails to address children and their rights and development needs, despite encouraging schools to
+
+“move fast and learn things”
+
+when piloting these technologies. With AI’s undeniable rise, the Government really need to address this head on, hence today’s debate is incredibly important.
+
+We have heard across the room today that AI presents genuine opportunities for education. For teachers struggling with budget cuts from the last Conservative Government, AI can ease the burden of lesson planning, marking and administrative tasks. For students, responsible engagement with these technologies prepares them for tomorrow’s world of work. Those who understand technological change and harness AI effectively will thrive in today’s and tomorrow’s economy. They will be prepared for an AI-dominated world where critical thinking and analysis become even more vital.
+
+However, serious concerns are emerging about generative AI’s impact. Parliamentary Office of Science and Technology research indicates that
+
+“over-reliance on AI tools could lead to the erosion of teaching, writing and reasoning skills”.
+
+The MIT Media Lab recently released a study that was so urgent, it published it before peer review. The study showed that students using ChatGPT showed dramatically lower brain activity than those writing without AI. Brain scans revealed a 32% drop in cognitive load. After just weeks of use, 83% could not even remember what they had supposedly written. That is really concerning information. We can understand why it was so keen to publish it, despite the fact that it had not yet been peer reviewed.
+
+The voices of concern grow louder, UNESCO warns that AI roll-out is
+
+“outpacing the adaptation of national regulatory frameworks.”
+
+Even industry leaders in the Alan Turing Institute acknowledge we have
+
+“limited evidence on the impact of AI use in education on learners’ development”.
+
+Evidence mounts about the negative effects of an unsafe online world. Research by 5Rights and the London School of Economics found that
+
+“EdTech products used in schools are highly invasive of children’s privacy and rely on the extensive collection of children’s data.”
+
+As we heard earlier, the NSPCC has documented cases where generative AI created deepfakes of children in schools, and the Children’s Commissioner has called for urgent action. This is particularly concerning given that many AI tools have not been developed with the younger audience in mind.
+
+We Liberal Democrats call for a public health approach to the online world, including AI, to ensure that children remain safe online and can enjoy their childhood as intended. We also call on the Government to introduce a safer screens taskforce that would be empowered to ensure a public health approach to children’s social media across all Government Departments, and lead research into social media’s impact on children. We believe that the UK must lead the world in building a future where AI is developed and deployed ethically, transparently and in the public interest. We favour a workable and well-resourced framework for AI that can promote innovation and protect individual rights and freedoms. We call on the Government to establish a cross-sector AI regulator, combining flexible, ethical oversight and technological expertise to ensure that the UK keeps pace with rapid technological advances.
+
+As Liberal Democrats, we also believe that we should modernise our curriculum to face 21st century challenges, offering an approach that allows students to explore pathways in science, maths and the arts without prejudicing their learning in other disciplines. Such a curriculum must embed digital and data literacy throughout children’s learning experience, preparing every single student for a future shaped by AI and new technologies.
+
+I have a few questions for the Minister, which I hope he will answer in his remarks. What skills audit has been done to ensure that we have the right skills for AI, and for working alongside AI, such as critical thinking? We welcome DFE guidance that pupils should only be using generative AI in education settings with appropriate safeguards in place, such as close supervision. But where is the implementation guidance, and where are the resources for schools to achieve this? Finally, how will this Government prevent AI from widening inequality between those with access and those without?
+
+Once again, I am grateful for being able to take part in this debate, and I thank the right hon. Member for East Hampshire for bringing it to this Chamber. I look forward to hearing the Minister’s comments, which I hope will be just the start of an ongoing conversation on this incredibly important issue, as we look to the future of our young people.
+
+15:16:00
+
+Neil O’Brien (Harborough, Oadby and Wigston) (Con)
+It is a pleasure to serve under your chairmanship, Sir Jeremy. I knew as soon as my brilliant and learned right hon. Friend the Member for East Hampshire (Damian Hinds) secured this debate that it would be well worth attending and very interesting, and it has proved to be exactly that. It builds on important work that has already been done by POST and Ofsted, as well as by the DFE officials who wrote the recent guidance, and it further increases the level of public debate and improves our knowledge.
+
+I would echo a lot of what other Members have said about the pros and cons, the opportunities and threats, because there is a delicate balance between those things. We heard really good speeches from the hon. Members for Strangford (Jim Shannon) and for Swindon North (Will Stone), as well as a brilliant intervention from the hon. Member for Mansfield (Steve Yemm). There was a particularly good and thoughtful speech from the Chair of the Education Committee, the hon. Member for Dulwich and West Norwood (Helen Hayes), with which I agreed 100%, as indeed there was from the Liberal Democrat spokesperson, the hon. Member for Guildford (Zöe Franklin).
+
+Of course we want students to learn about AI and how to use it effectively. It is a very effective research tool in the right hands. On the other hand, we want them to understand that it is not always right, despite its godlike quality and the incredible smoothness with which it lies. We must also teach them to understand that it is not a substitute for original thinking. They must have the ability to do their own research. We must avoid having cardboard cut-out students who regurgitate a particular way of framing issues.
+
+We heard from the hon. Member for Guildford about the MIT study that used brain measurement experiments to show a decline in critical thinking. Of course, this debate is nested in a wider debate about the use of screens and technology by our students and educators, and that study reminds me of a similar one, which discovered that a student’s simply having a smartphone on them reduced their retention of information from an educational video. The effect of these things can be quite subtle. It was not being on the phone, but just having it on them that reduced their attention. The wider rewiring of childhood and of the student experience is operating on several levels, of which AI is just one.
+
+According to a study by the Higher Education Policy Institute, more than half of HE students now use AI to help write essays—I suspect that figure is rather higher by now. One vice-chancellor I spoke to said that he thought we would end up going back to more handwriting in exams to avoid cheating, which is now incredibly present. I was amused by a social media post the other day that said, “Lots of discussion about how on earth we will spot AI cheating,” with an image of an essay that began with the wonderful words, “I cannot help you to write this assignment. It would be wrong of me to do so.” It had clearly been written by a very honest AI, but it had been handed in by the student none the less.
+
+It is perhaps more important than ever that we teach students to understand what is real and not real in the online world. There has recently been discussion about a new band called The Velvet Sundown. Sir Jeremy, I cannot quite place when you came of age—perhaps somewhere between the new romantics and the grunge period. I will not assume where you stand on that spectrum, but this band sounds a bit like a mashed-up version of Creedence Clearwater Revival. It sounds okay—it is not bad—but it is very derivative, and all the pictures of the band look kind of AI-y. However, the band denies it. The interesting thing about the episode is that it is not possible to say definitively whether it is real or not—and there will be many such cases, some of them very important. We see AI-generated images from the middle east; people are told that things have happened when they may not have happened. We see fake bot accounts playing a role in our politics. A surprising number of accounts in the UK suddenly disappeared during the recent Israeli strikes on Iran. What does that tell us about the interference in our democracy empowered by AI?
+
+Of course, there are opportunities in students’ use of AI, but there are also risks. There are important benefits from learning to handwrite. A surgeon I spoke to recently talked about his worries about the future, with fewer children learning the fine motor skills that are learned with handwriting.
+
+Let me turn to educators’ use of all this. It is very exciting. If someone had asked me 15 years ago about AI in schools, and technology in schools and universities more generally, I would probably have been unabashedly, straightforwardly enthusiastic. The attractions are obvious, whether for the production of lesson plans, the personalisation of learning, the translation of languages, the avoidance of marking and repetitive work or the reduction of workload, which is crucial for teacher retention. It is all very exciting, but of course there are risks, which have been illustrated well in the debate.
+
+I am excited by some of the models that bring human judgment together with AI. It is probably slightly invidious to single out a particular group, but No More Marking is an interesting model. It is doing lots of things that bring together teacher judgment and AI tools. It talks about “human in the loop” models, and that is potentially the way that these things will need to move forward.
+
+Of course, we have also heard about the difficulties of assessment in the new era. We have talked a bit about the dangers of AI use in exams in which computers are used. My right hon. Friend the Member for East Hampshire talked about the quaint language in the legislation, which refers to “word processors”. Perhaps word processors are exactly what we need. For those who really need it, we should dig out some of those things from the ’80s and ’90s that can do nothing other than function as a typewriter. However, it is not just about exams. The interim curriculum and assessment review included a suggestion that we might have more coursework, but while there was always scope for cheating and social biases in coursework, those dangers have increased. I think that Becky Francis, who is running that review, is conscious of the risk. I share my right hon. Friend’s scepticism and concern about the move to an all-online examination system, and the way that would iterate back through our school system. I think that is a very dangerous way to go.
+
+The Chair of the Education Committee, the hon. Member for Dulwich and West Norwood, brilliantly explained some of the wider concerns about cognitive and attention damage caused by some of these tools. There is a famous philosophy experiment by John Searle called the Chinese room. He talks about what machines do and do not experience, and what they can and cannot do. In the experiment, Chinese characters are fed into one end of a box, somebody looks them up in a table and feeds Chinese characters out of the other end of the box, and nothing is truly understood inside the box; it is just inputs and outputs. In a sense, we run the risk of putting all our children in the Chinese room, where they are set a task, perhaps even using AI, they go away and use AI to find a plausible answer for their coursework, exam, homework or whatever, and the real cognition—the real learning—does not happen in the middle of that process.
+
+We have also talked about some of the other risks, and that brings me to the final thing that I want to talk about: the fact that this debate is nested in a wider set of discussions about screen time, social media and students’ relationship with technology, all of which are magnified by AI. I will not relitigate the discussions we have had with the Government about our case for a complete ban on phones in our schools. I think that the AI dimension makes the argument stronger.
+
+AI makes some of the issues about deepfake porn and intimate image abuse even more acute than they already were, but this thing about cognition and AI that we have talked about is also an issue about technology more generally. It is known that people understand better and take in more information from material written on a piece of paper than that on a screen. There are wider issues, to which I have already referred, about what the excessive use of technology does to a person’s ability to take on board information—and, indeed, to present it.
+
+Recently, the DFE surveyed last year’s GCSE students and their parents about the things they wanted students to have done more of at school. One of the things at the very top of the list was presenting information, public speaking and marshalling an argument. That is one of the great 21st-century skills—it is what we are all doing now. I pity the wonderful and long-suffering people who write Hansard, because my speech today consists of a series of scrawls and arrows; it looks like a Jeremy Deller painting, and they will never decrypt it. The ability to put together an argument, and not just to use Ctrl+V and Ctrl+C, is one of the critical skills of the 21st century. It is vital that we do not drift into a world in which we do not learn those skills because we outsource our thinking to an outboard motor in the form of AI.
+
+I hope I have brought out some of the pros and cons in this important debate. As my right hon. Friend the Member for East Hampshire said at the very start, this is not an issue on which there is a great degree of partisan conflict. I look forward to hearing what the Minister has to say about how we can make the best of these exciting new technologies and avoid some of their downsides.
+
+15:26:00
+
+The Parliamentary Under-Secretary of State for Education (Stephen Morgan)
+It is a pleasure to serve with you in the Chair, Sir Jeremy. I thank my near-ish neighbour, the right hon. Member for East Hampshire (Damian Hinds), for securing a debate on this important subject and for the constructive and collegiate way in which he has sought to conduct it. I thank all other Members for their interventions and contributions, including the Chair of the Education Committee, my hon. Friend the Member for Dulwich and West Norwood (Helen Hayes), for her insightful comments on challenges and opportunities and her helpful reminder of the Committee’s work on screen time.
+
+The Government believe that generative artificial intelligence presents exciting opportunities to improve people’s lives, including by making our public services better. AI will support the delivery of the Government’s plan for change and our opportunity mission. I agree with the comments of hon. Members, including my hon. Friends the Members for Swindon North (Will Stone) and for Dulwich and West Norwood and the right hon. Member for East Hampshire, about the potential for AI and technology to support children with special educational needs. There is a strong evidence base for the impact that assistive technology such as screen readers and dictation tools can have in breaking down barriers to opportunity for children with SEND.
+
+If used safely, effectively and with the right infrastructure in place, AI can support every child and young person, regardless of their background, to achieve at school and college and develop the knowledge and skills that they need for life. AI has the potential to ease workloads, assist with lesson planning and free up time for high-quality face-to-face teaching. That is why we have put AI at the forefront of our mission to modernise the education system, to support our teachers and school support staff and to enable them to deliver better educational outcomes for our children. The Department’s approach to generative AI in education is not static. It will continue to develop as our evidence and understanding grow.
+
+The Government are leading the way. As announced at the Education World Forum in May, we will host an international summit on generative AI in education in 2026, bringing together education leaders from around the world to implement global guidelines for generative AI in education. We are committed to taking action that considers the risks, such as safety, and challenges, alongside opportunities and benefits. I assure the hon. Member for Strangford (Jim Shannon) that those discussions include ministerial colleagues across the UK. He will know that education is a devolved matter, but I can confirm that I had discussions with my ministerial equivalent in Northern Ireland during my visit to Belfast last month.
+
+We have taken action to make sure that AI can be effectively used in schools. We have funded Oak National Academy’s AI lesson planning assistant, Aila, which helps teachers save significant time with lesson planning. Teachers report time savings of around three hours per week.
+
+The right hon. Member for East Hampshire was right to mention support through the effective use of AI. Further, we launched the content store pilot in August of last year, aiming to make available the underpinning content and data that are needed for great AI tools. Coupled with investment in the AI tools for education competition, we are supporting edtech innovators to develop effective AI tools that can reduce the burden of feedback and marking on teachers.
+
+Last month, I attended London Tech Week and announced an additional £1 million in contracts to further develop existing prototype tools so that they are ready to be used in the classroom. I saw demonstrations of tools developed at a hackathon using our innovative education content store. I also saw at first hand the value of that store and the importance of making available the underpinning content and data to develop excellent AI tools for education.
+
+We know that any advancement in technology presents risks as well as opportunities, which is why we are taking steps to manage these proactively, including through safeguards and by gathering robust evidence on AI use.
+
+Graham Stuart (Beverley and Holderness) (Con)
+Will the Minister give way?
+
+Stephen Morgan
+I will give way, but I am conscious that the right hon. Gentleman was not here at the start of the debate.
+
+Graham Stuart
+I apologise for not being here at the start, and I am grateful to the Minister for giving way. To what extent is he concerned about biases within the models? Most of the major generative AI models are not produced in this country; they are developed in highly competitive circumstances and tend to be secretive about the data used to train them. Is that an area of concern? If he thinks there are going to be more applications in the education sphere and others, should the Government take steps to ensure greater transparency about the data upon which these models are trained?
+
+Stephen Morgan
+I will certainly take that back. I have had discussions with colleagues at the Department for Science, Innovation and Technology and others about reliability, safety and biases.
+
+In November last year, with the Under-Secretary of State for Science, Innovation and Technology, my hon. Friend the Member for Enfield North (Feryal Clark), I met leading global tech firms, including Google, Microsoft and Adobe, to agree safety expectations and to ensure that AI tools are safe for classroom use. We are also supporting staff to use AI safely. In partnership with the Chiltern Learning Trust and the Chartered College of Teaching, we have published online support materials to help teachers and leaders to use AI safely and effectively, developed by the sector, for the sector. They supplement the Department’s AI policy paper—which we updated in June—alongside the information for educators about using AI safely and effectively, and the toolkit for leaders to help address the risks and opportunities of AI across their whole setting.
+
+To develop our evidence base, we have launched two pilot programmes, the edtech evidence board and the edtech testbed. The first is to ensure that schools have the confidence to secure edtech products that work well for their setting, and the second is to evaluate the impact of edtech and AI products on improving staff workload, pupil outcomes and inclusivity. I want to assure all hon. Members that we will continue to work with schools to support them in harnessing opportunities and managing potential challenges presented by generative AI.
+
+A number of hon. Members, including the Liberal Democrat spokesperson, the hon. Member for Guildford (Zöe Franklin), spoke about social media, and “Keeping children safe in education” is statutory guidance that provides schools and colleges with robust information on how to protect pupils and students online. The guidance has been significantly strengthened with regard to online safety, which is now embedded throughout, making clear the importance of taking a whole-school approach to keeping children safe online. The DFE is working across Government to implement the Online Safety Act 2023 and to address technology-related risks, including AI in education. I can assure the hon. Member for Guildford that it is a priority for us to ensure that children benefit from its protections.
+
+On the point that a number of hon. Members made about the impact on qualifications, assessment and regulation, the majority of GCSE and A-level assessments are exams taken under close staff supervision, with no access to the internet. Schools, colleges and awarding organisations are continuing to take reasonable steps to prevent malpractice involving the use of generative AI in formal assessments. Ofqual is, of course, the independent regulator of qualifications and assessments, and published its approach to regulating AI use in the qualifications sector in 2024. Ofqual supported the production of guidance from the Joint Council for Qualifications on the use of AI in assessments. That guidance provides teachers and exam centres with information to help them to prevent and identify potential malpractice involving the misuse of AI.
+
+More broadly, the curriculum and assessment review’s interim report acknowledged risks concerning AI use in coursework assessments. The review is taking a subject-by-subject approach to consider assessment fitness for purpose and the impact of different assessment methods on teaching and learning. I assure Members that the review is considering potential risks, the trade-offs with non-exam assessment such as deliverability, and the risks of malpractice and to equity.
+
+Damian Hinds
+There are two simple safeguards against misuse of AI in exams here in front of me. Will the Minister recognise that the best way to ensure the security and integrity of exams, and how assessment is done lower down the school, is—for the great majority of children, in the majority of subjects—for exams to be handwritten in exam conditions?
+
+Sir Jeremy Wright (in the Chair)
+For the assistance of Hansard, I point out that the right hon. Gentleman was holding up a pen and paper.
+
+Stephen Morgan
+I will absolutely take away the point made by the right hon. Member for East Hampshire. I mentioned the role of Ofqual as the regulator and the role of the curriculum and assessment review, which is independently led. I look forward to hearing the outcomes of that review in due course.
+
+In conclusion, I thank the right hon. Gentleman and other hon. Members for their contributions on this important topic. As I set out, the Government are committed to working with the sector to harness technology, which presents new and exciting challenges for the sector. We are also committed to ensuring that that technology is used safely and effectively—never to supplant the irreplaceable face-to-face work of our teachers and educators, but to support them to spend more time doing what they do best: teaching.
+
+Sir Jeremy Wright (in the Chair)
+The right hon. Member for East Hampshire, who moved the motion, has the right—if he wishes it—to wind up the debate, and he has about 20 minutes in which to do so. He is, however, under no obligation to use all or any of that time.
+
+15:36:00
+
+Damian Hinds
+I was happy not to wind up, but you have now made me stand up, Sir Jeremy. We have had a good and constructive debate. I am grateful to the Minister for his engagement, and to all colleagues for taking part.
+
+Dr Al Pinkerton (Surrey Heath) (LD)
+Please accept my apologies for my late attendance in the Chamber. I was at the statement in the main Chamber on the Horizon scandal, which is perhaps another example of overreliance on technology—the human eye was identifying issues that people could see. My experience comes mostly from the higher education sector, where colleagues I have spoken to report far greater incidence of the use of AI. It is so clever that it is generating false sources to back up incorrect claims, but with incredibly plausible use of academic names in order to make profound points. I wonder whether we now face a reality in which AI might be used not only for marking, but for the marking of AI-generated material.
+
+Damian Hinds
+Indeed—computers talking to computers, with us as the facilitators. The hon. Gentleman makes a good point.
+
+I will conclude by repeating something I said much earlier in my remarks. We should always remember that, at whatever pace we, the education system or, certainly, Government can work, young people will work at a pace six times faster. I am, again, grateful to the Minister.
+
+Question put and agreed to.
+
+That this House has considered the use of generative artificial intelligence in schools.
+
+15:38:00
+
+Sitting suspended.

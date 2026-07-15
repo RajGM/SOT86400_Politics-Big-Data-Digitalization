@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4846521,
+    "ExtId": "795344C0-5D7A-42EF-AC44-6C0BE5344E5B",
+    "Title": "AI Growth Zones",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-02-12T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 762,
+    "ContentLastUpdated": "2025-02-25T22:44:27.11",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "E0469B6E-279B-43CF-893B-4EB040F70B82",
+    "NextDebateTitle": "Topical Questions",
+    "PreviousDebateExtId": "E79E40A5-85EC-4E9A-A846-5091C37B3B54",
+    "PreviousDebateTitle": "Online Pornography: Regulation"
+  },
+  "Navigator": [
+    {
+      "Id": 4846510,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "9a864b9d-bc75-41ce-9f72-61b9fe4d408b",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4846513,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4846510,
+      "SortOrder": 4,
+      "ExternalId": "860F1CF9-036F-4589-A302-A6EFDF21DD1A",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4846514,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4846513,
+      "SortOrder": 5,
+      "ExternalId": "11832A0F-DEDB-403B-8DCF-EA81423B8F4D",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4846521,
+      "Title": "AI Growth Zones",
+      "ParentId": 4846514,
+      "SortOrder": 12,
+      "ExternalId": "795344C0-5D7A-42EF-AC44-6C0BE5344E5B",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524105,
+      "MemberId": 5298,
+      "AttributedTo": "Lauren Edwards (Rochester and Strood) (Lab)",
+      "Value": "<Question HRSContentId=\"{54732023-5DEA-4E9B-950F-D19B33A7E7B2}\">7. <QuestionText HRSContentId=\"{91295B54-0994-4C99-8C90-48B3AD3C40FF}\">What progress he has made on setting up AI growth zones across the country.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "54732023-5DEA-4E9B-950F-D19B33A7E7B2",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "902720",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524106,
+      "MemberId": 4822,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)",
+      "Value": "As detailed in the “AI Opportunities Action Plan”, artificial intelligence growth zones will help to secure the UK’s position as a global leader in AI, ensuring that benefits are felt across the whole of the UK. My hon. Friend will be pleased to hear that on Monday we invited local and regional authorities along with the industry to come forward with potential suitable sites for hosting AI infrastructure.",
+      "OrderInSection": 2,
+      "Timecode": "2025-02-12T11:49:12",
+      "ExternalId": "15A08EAF-25D2-4D92-8988-F38836264F9F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524107,
+      "MemberId": 5298,
+      "AttributedTo": "Lauren Edwards",
+      "Value": "Rochester and Strood, positioned between London and mainland Europe, is well placed to help drive the UK’s AI economy. We have: several net zero energy projects ready to go, with further plans for a data centre and battery storage; a council that is already using AI and which created an AI accelerator programme to support local businesses; and three university campuses that are driving innovation. Will the Minister meet me to discuss my constituency’s potential as a future AI growth zone?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "A97A8815-3DC5-42B8-9820-AD16F7B13045",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524108,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "I thank my hon. Friend for strongly advocating for her constituency in Medway to become an AI growth zone. She will well know that the “AI Opportunities Action Plan” outlines the steps we are taking so that the UK can build the cutting-edge computer infrastructure needed to lead in AI development and deployment. I eagerly look forward to reading expressions of interest from hon. Members’ constituencies. I will be more than happy to meet her to discuss this in detail.",
+      "OrderInSection": 4,
+      "Timecode": "2025-02-12T11:49:12",
+      "ExternalId": "0606BA06-3BC1-4966-BECE-6A5EF171D465",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524109,
+      "MemberId": 1560,
+      "AttributedTo": "Sir Jeremy Wright (Kenilworth and Southam) (Con)",
+      "Value": "The Minister will be well aware that the growth of AI across the country depends on a ready supply of data and other content on which models can be trained. She will recognise that much of that content comes from our creative industries, and she will know that they are profoundly troubled that they are not being properly treated by the companies currently scraping their data without their permission or without proper compensation. <span id=\"246\" class=\"column-number\" data-column-number=\"246\"></span>I know that the Government will want to resolve that, and she will know that the Data Bill saw amendments made in the other place to address that. Do the Government intend to resolve this issue by means of the Data Bill or by other means? If by other means, what other means and when?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "4B5940F8-7D06-4842-B080-48B8402AC8B4",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42524110,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "The right hon. and learned Member will know that there is an ongoing consultation looking at clarifying the copyright and AI issues. There will be a speech this afternoon on the Data Bill that will cover the issue in more detail. As he will also know, the consultation ends on 25 February, after which we will review its responses to see what we need to do.",
+      "OrderInSection": 6,
+      "Timecode": "2025-02-12T11:49:12",
+      "ExternalId": "3CF472BB-40F6-4AFF-983C-711ECD2114B3",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

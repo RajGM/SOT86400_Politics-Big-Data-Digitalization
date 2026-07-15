@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 4890006,
+    "ExtId": "0FF0C306-3A73-494A-8C80-AB2CF9B4C8D2",
+    "Title": "Use of AI: Creative Industries",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-04-03T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 765,
+    "ContentLastUpdated": "2025-04-08T19:16:27.707",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "C2FA1587-55F3-4099-B18A-1934D5031B54",
+    "NextDebateTitle": "Gambling Harms",
+    "PreviousDebateExtId": "11A96D94-7AC7-4E11-A488-D21F99BD9A4B",
+    "PreviousDebateTitle": "Rugby League"
+  },
+  "Navigator": [
+    {
+      "Id": 4890001,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "20f057a9-8478-4a65-be03-18c47cffc0e2",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4890003,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4890001,
+      "SortOrder": 3,
+      "ExternalId": "CC11E6DC-53D2-490B-A9D5-5FC724AEAD4C",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4890004,
+      "Title": "Culture, Media and Sport",
+      "ParentId": 4890003,
+      "SortOrder": 4,
+      "ExternalId": "A4F2E108-15EC-4B94-AB02-FEC661DA45C7",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4890006,
+      "Title": "Use of AI: Creative Industries",
+      "ParentId": 4890004,
+      "SortOrder": 6,
+      "ExternalId": "0FF0C306-3A73-494A-8C80-AB2CF9B4C8D2",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43324739,
+      "MemberId": 39,
+      "AttributedTo": "Sir John Whittingdale (Maldon) (Con)",
+      "Value": "<Question HRSContentId=\"{8E5B8138-1CD7-4E24-9787-7B4CAA637698}\">2. <QuestionText HRSContentId=\"{80C342B1-E1F7-41E5-9DDE-8E7F5EA8F8C8}\">What discussions she has had with representatives of the creative industries on the use of AI.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "8E5B8138-1CD7-4E24-9787-7B4CAA637698",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "903596",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43324740,
+      "MemberId": 4082,
+      "AttributedTo": "The Secretary of State for Culture, Media and Sport (Lisa Nandy)",
+      "Value": "Our creative industries lead the world. This is the top priority for them, and I am clear that if it matters to them, it matters to us, and we are determined to get it right. Since I was appointed, I have discussed this with representatives across music, publishing, film, TV, fashion and gaming. The Secretary of State for <span id=\"411\" class=\"column-number\" data-column-number=\"411\"></span>Science, Innovation and Technology and I will shortly convene further roundtables to work with industry across artificial intelligence and the creative industries to strike the right balance and to grip this issue.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "70B41325-C098-4D44-BF5C-A6399DFED9B6",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43324741,
+      "MemberId": 39,
+      "AttributedTo": "Sir John Whittingdale",
+      "Value": "The Secretary of State will be aware of suggestions that the Government may offer concessions around AI regulation in a deal to reduce US tariffs. Will she assure the creative and news media sectors that any negotiations will not include an offer to weaken our copyright framework, which would be opposed by creative industries both in the UK and in the US?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "F16BB374-2975-48EA-AB05-2A1F9500F27A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43324742,
+      "MemberId": 4082,
+      "AttributedTo": "Lisa Nandy",
+      "Value": "Our creatives are second to none in the world, as I just said, and our copyright framework is an essential part of their success. We have been clear that if it does not work for creatives, it does not work for us and we will not do it. On negotiations with the United States, the Prime Minister has been clear that this is the start of the process, but we will always work in the national interest, and we are considering all steps as we look to the future.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "A9A09CC3-239B-4E58-8CA6-B7B3088A7872",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

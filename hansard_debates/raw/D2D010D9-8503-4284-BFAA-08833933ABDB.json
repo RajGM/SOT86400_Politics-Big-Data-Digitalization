@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4922412,
+    "ExtId": "D2D010D9-8503-4284-BFAA-08833933ABDB",
+    "Title": "Immigration (Biometric Information etc.) (Amendment) Regulations 2025",
+    "HRSTag": "NewDebate",
+    "Date": "2025-03-18T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 844,
+    "ContentLastUpdated": "2025-06-02T19:54:26.797",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "34B09EF2-3D23-42A3-8B4E-66915AE7460F",
+    "NextDebateTitle": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+    "PreviousDebateExtId": "AA119950-B926-45FF-8562-F40811F4FC41",
+    "PreviousDebateTitle": "Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025"
+  },
+  "Navigator": [
+    {
+      "Id": 4922404,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "09089399-456e-4850-9d8a-8400dd75aee9",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4922412,
+      "Title": "Immigration (Biometric Information etc.) (Amendment) Regulations 2025",
+      "ParentId": 4922404,
+      "SortOrder": 9,
+      "ExternalId": "D2D010D9-8503-4284-BFAA-08833933ABDB",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AM-AN",
+      "Timecode": "2025-03-18T15:37:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43907355,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Motion to Approve",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "e8be68d0-d47b-4d21-8179-c7d8d7e08eb9",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AM-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 3239654,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:37:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AM-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43907356,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Moved by",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AM-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43907357,
+      "MemberId": 533,
+      "AttributedTo": "Lord Hanson of Flint",
+      "Value": "That the draft Regulations laid before the House on 21 January be approved.\r\n\r\n<em>Relevant document: 16th Report from the Secondary Legislation Scrutiny Committee (special attention drawn to the instrument). Considered in Grand Committee on 17 March.</em>",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "2E365C83-4843-4E3A-A4AA-D7D7EA665664",
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AM-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43907358,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Motion agreed.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "25031844000273",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AM-AN",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

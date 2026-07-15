@@ -1,0 +1,336 @@
+ Artificial Intelligence Opportunities Action Plan
+
+16:58:00
+
+The Secretary of State for Science, Innovation and Technology (Peter Kyle)
+With permission, I would like to make a statement about the Government’s AI opportunities action plan.
+
+This Government were elected on a programme of change. Today, we are publishing the latest step in delivering our plan for change with the AI opportunities action plan. Our plan for change is clear: we will grow the economy, backing British business, with good jobs putting more money in working people’s pockets; and we will rebuild our crumbling public services, too, providing our people with world-class healthcare and education. That ambition shapes our approach to artificial intelligence—the technology set to define our shared future economic and social progress.
+
+AI is no longer the stuff of sci-fi movies and “Dr Who”; the AI revolution is right here and right now. In NHS hospitals, AI is helping doctors to detect and treat disease faster and more effectively, reducing patient waits and saving more lives. In local schools, AI is equipping teachers with the tools to spend more time helping every pupil to achieve their full potential. In high streets across the country, small businesses have started using AI to grow their companies and compete on the global stage.
+
+The applications are boundless and the opportunities profound, but only those countries with the courage to seize them will fully benefit. We do not get to decide whether AI will become part of our world—it already is; the choice is between waiting for AI to reshape our lives, or shaping the future of that technology so that the British economy and working people reap its maximum benefit. We choose fully to embrace the opportunity that AI presents to build a better future for all our citizens. Anything less would be a dereliction of duty.
+
+Since the first industrial revolution, science and technological progress has been the single greatest force of change. Once again, a reforming Labour Government are called to harness the white heat of scientific revolution in the interests of working people. From ending hospital backlogs to securing home-grown energy and giving children the best start in life, AI is essential to our programme of change.
+
+Championing change is in Britons’ DNA—we pioneered the age of steam. I believe that Britain can be a leader now, in the AI age. With world-class talent, excellent universities and an unrivalled record of scientific discovery, we can do so. Home to success stories such as Google DeepMind, ARM and Wayve, we have the third largest AI market in the world.
+
+Just as we have been on AI safety, I believe that Britain has a responsibility to provide global leadership by fairly and effectively seizing the opportunities that AI presents to improve lives. That is why in July last year I asked Matt Clifford to prepare the AI opportunities action plan. Across 50 recommendations, that plan shows how we can shape the application of AI in a modern social market economy, anchored in principles of shared prosperity, improved public services and increased personal opportunity. Through partnership with leading companies and researchers, we will strengthen the foundations of our AI ecosystem, use AI to deliver real change for our citizens, and secure our future by ensuring that we are home to the firms right at the frontier of this technology.
+
+Change has already started. Our transformative planning reforms will make it easier to build data centres—the industrial engines of the AI age. Skills England will prepare British people to be active participants in tomorrow’s business successes. The digital centre of government will use technology to transform the relationship between the modern state and citizens. However, faced with a technology that shows no signs of slowing, we must move faster and further. We are taking forward recommendations to expand Britain’s sovereign AI compute capacity by at least 20 times by 2030, ensuring that British researchers can access the tools they need to develop cutting-edge AI.
+
+We will create AI growth zones to speed up the construction of critical compute infrastructure right across the United Kingdom. With enhanced access to power and streamlined planning approvals, those zones will bring faster growth and better jobs to communities who have missed out in the past. The first pilot AI growth zone will be at Culham in Oxfordshire, a world-renowned hub for clean energy and fusion research. They will pioneer innovative partnerships with business to deliver secure dedicated computing capacity that supports our national priorities. We will also seek a private sector partner to develop one of the UK’s largest AI data centres, beginning with 100 MW of capacity, with plans to scale up to 500 MW.
+
+One of the biggest barriers to success in the AI age is the immense amount of energy that the technology uses. The Energy Secretary and I are convening and co-chairing a new AI energy council to provide expert insight into how to meet this demand, including opportunities to accelerate investment in innovative solutions, such as small modular reactors.
+
+Infrastructure alone, though, is not enough. To deliver security, prosperity and opportunity for every citizen into the long term, we must be makers of this technology, and not just takers. Britain needs our own national champions—our own Googles and Microsofts. We are launching a new dedicated team with a mandate to strengthen our sovereign AI capacities by supporting high-potential frontier AI companies in the UK. This team will work across and beyond Government, partnering with the fast-growing firms to ensure that they can access the compute capacity, the data and the global talent they need to succeed in Britain.
+
+We have already seen how a small number of companies at the frontier of AI are set to wield outsized global influence. We have a narrow window of opportunity to secure a stake in the future of AI. By acting now, we can secure a better future for the British people in the decades to come, but this is just the start. We will safely unlock the value of public sector data assets to support secure, responsible and ethical AI innovation. We will overhaul the skills system to safeguard our status as a top destination for global talent, with a workforce ready for the AI age. We will use a scan, pilot and scale approach to quickly identify and trial ways of using AI to transform our economy and improve our public services.
+
+The stakes just could not be higher. This is a top priority for the Prime Minister and across Government. We will harness the power of AI to fulfil our promise to the British people of better jobs, better public services and better lives. We have attracted more than £25 billion-worth of investment into AI since we took office. This week alone, global giants have committed a further £14 billion-worth of investment. Phase 2 of the spending review will see every Department using technology to drive forward our national missions to deliver better value for taxpayers. AI will also be fundamental to the industrial strategy to attract investment, to grow the economy and to create high-quality, well-paid jobs across the country.
+
+The AI revolution is now. This Government are determined to fully harness this opportunity for British businesses and working people right across the United Kingdom. I commend this statement to the House.
+
+Madam Deputy Speaker (Caroline Nokes)
+I call the shadow Secretary of State.
+
+17:08:00
+
+Alan Mak (Havant) (Con)
+I thank the Secretary of State for advance sight of his statement. Let me begin by thanking Matt Clifford for his work. Having known Matt for many years, I am grateful for his long-standing contribution to the tech sector, including with the last Conservative Government.
+
+It was that last Conservative Government who identified the opportunities of AI early, and we acted decisively. We kept Britain out of the EU’s anti-growth regulatory regime, enabling our tech sector to flourish. In contrast, the Secretary of State is on record praising the EU’s approach to AI, which even President Macron rejected. Will the Secretary rule out regulatory alignment with the EU on AI issues? We also launched the incubator for AI, which led on groundbreaking work to improve productivity, and the gov.uk chatbot, both of which were led by my hon. Friend the Member for Brentwood and Ongar (Alex Burghart). Can the Secretary of State guarantee the future of both projects under this Government?
+
+We also provided £500 million for AI compute, because our AI sector requires cutting-edge computing power, as well as more energy to power data centres. Labour’s energy policy is taking our country to the brink of blackouts. Instead of just launching another quango—the AI energy council—can the Secretary of State assure the House that the AI sector will have reliable access to all the energy it needs? It was a Conservative Government who organised the world’s first AI safety summit and delivered the world’s third largest AI market, fostering an environment in which Sir Demis Hassabis won the Nobel prize last year. Even the Prime Minister admitted today that when it comes to AI, Britain starts with a position of strength.
+
+The bad news is that Labour is already squandering the world-leading AI position that we built up for Britain. Last July, one of Labour’s first actions on entering government was to cut £1.3 billion of funding for Britain’s first exascale supercomputer and the AI research resource—both of which Matt Clifford’s report says deserve support. Why did the Secretary of State not stand up to the Chancellor when she cut the funding last July? Anyone reading the plan will see that it has been fully drenched in Labour gobbledegook, peppered with references to “missions”, “mission delivery boards”, “clusters”, “sector champions” and even “local trusted intermediaries”. Its plan confirms what everyone suspected all along: Labour prefers technocratic jargon over the actual tech sector.
+
+The plan was ready last September and due to be published last November. Why did Labour delay publication again and again, and finally choose a day when it needed to divert attention away from the beleaguered Chancellor? What is not in the plan is even more telling than what is. First, there is nothing to correct the huge damage that Labour has already inflicted on the AI sector through the Chancellor’s national insurance jobs tax, which punishes every tech worker by £900 per person per year. Will the Secretary of State apologise today for making our tech workers take a wage cut and for reducing their living standards?
+
+Labour’s response is full of aspirational dates for targets to be met, but there are no specific plans setting out how it will achieve the targets or pay for them—so much for the Chancellor’s iron grip on the public finances. Given that there is no new funding, will the Secretary of State give a precise date for publishing his spending plans, and confirm what funding will be cut from existing projects to pay for this plan’s 50 new commitments? Why have the Government created two more AI quangos today? The Prime Minister has announced or created a quango almost every week since coming to office. Today, it is clearly the tech sector’s turn. Will the Secretary of State reassure the House and the country that his two new AI quangos will not just tie up our tech sector in more red tape?
+
+Last week, the Chancellor fled the country. As she headed east, our economy went south. Labour promised growth but it has delivered failure. It has published an underwhelming plan three months late. It has punished our tech workers with the national insurance jobs tax. It has saddled our tech sector with red tape and more quangos, and it aligns itself with the EU when everybody else is saying no. Labour’s delayed AI plan is analogue Government in the digital age: slow, uninspiring and not good enough for Britain. Our country deserves the best, but Labour has let Britain down again.
+
+Peter Kyle
+I am kind of grateful for the hon. Member’s comments, but I feel a bit sorry for him. He praised Matt Clifford and his independent report, because Matt Clifford is an astonishing person—as a House we should all give credit to somebody who has been so successful in the tech sector out there in the real economy, while giving up so much time for public service. I am grateful for him. But the hon. Member then went on to talk about his report as if it is Labour’s report, “full of gobbledegook”. It was not Labour’s report but Matt Clifford’s report. If the hon. Member respected Matt Clifford, he would not be attacking the very report that he authored. I did not author it; I just looked at the recommendations, saw the logic and the scale of the ambition in it and said yes. We share that sense of ambition and we will deliver it, too.
+
+If the hon. Member cared so much about compute and the exascale computer, his Government would have done something fundamental to deliver it. They would have allocated the money. If they are standing up in public and saying that they will deliver something, it is pretty basic stuff to allocate the resources to deliver it. That project never existed, because the money never existed. It was a fraud committed on the scientific community of our country—smoke and mirrors from the outset. All I did was be honest with the public about the scale of the deceit inflicted on them. I corrected a wrong from the previous Administration.
+
+Today, we have a plan. The task set for Matt Clifford was not to look at what Government—particularly the previous Government—are capable of and then to try to design a programme limited by the scale of their chaotic abilities. Instead, the Prime Minister and I asked Matt Clifford to look at our country’s potential if we get everything right on the digital infrastructure and opportunities of the future, and that is what his plan has done. There are things this Government need to do differently in order to realise the potential out there in our country, and that is what we have set about doing today by accepting all 50 recommendations.
+
+When they were in office, the Conservatives did down our country; now, in opposition, they do nothing but talk it down. That is a shame.
+
+Madam Deputy Speaker (Caroline Nokes)
+I call the Chair of the Science, Innovation and Technology Committee.
+
+Chi Onwurah (Newcastle upon Tyne Central and West) (Lab)
+I welcome the Government embracing AI and the Secretary of State’s leadership in accepting every single one of Matt Clifford’s recommendations —I hope he will be as receptive in accepting the recommendations of my Committee. Does the Secretary of State agree that those who say this plan is irrelevant to the challenges of economic growth in public sector financing that we are facing fundamentally misunderstand the nature of the opportunities that AI represents, its presence everywhere in our lives already, the frenetic pace of its implementation and its ability to drive growth? Most importantly, however, they misunderstand the nature of business confidence. Having a Government who understand how to drive these opportunities into every home, business and public sector service in the land is a reason for business confidence.
+
+Peter Kyle
+I am extremely grateful to my hon. Friend for her comments and for the service of her Committee. It was a privilege to go before her Committee so soon after its formation, and I look forward to engaging in the future. She is completely right. We hear a lot about business confidence and the words that come out of certain parts of the business community, but today, they have voted with their investment. We have announced an additional £14 billion and the creation of up to 13,000 jobs as a result of today’s investment—that is business showing confidence in this Government. Of course, for many of the schemes announced today, the policies will deliver into the short, medium and long term. Together with our regulatory innovation office and our planning reforms, that investment will mean that shovels go into the ground quickly, and the jobs and wealth that will be created by it will start paying dividends very soon.
+
+Madam Deputy Speaker
+I call the Liberal Democrat spokesperson.
+
+Victoria Collins (Harpenden and Berkhamsted) (LD)
+I thank the Secretary of State for advance sight of the statement.
+
+We are all too aware of the economic malaise inherited from the previous Conservative Government. Innovation in technology can help to reverse years of decline, and the UK must be a world leader in quality innovation. From helping to save lives to boosting our economy, good tech is good for business, and that is why safety and AI innovation must go hand in hand. We must build trust and bring people along, not risk breeding suspicion or fear. As the Ada Lovelace Institute said this morning,
+
+“there will be no bigger roadblock to AI’s transformative potential than a failure in public confidence.”
+
+The national data library would represent a major shift in public sector data handling. How will the Government ensure the necessary safeguards are in place? How will they maintain public confidence?
+
+While the focus on AI training is welcome, we must go beyond high-level skills. Not only are tech companies themselves calling out for technical skills, but AI is here now, shaping workplaces, services and lives. What is being done to ensure all sectors of society can access lifelong learning and training? Where is the strategy to address digital exclusion so that no one is left behind? Furthermore, the text and data mining regime is a concern. Creatives will be dismayed by the Government’s acceptance of an opt-out system, which I urge the Government to reassess.
+
+The Prime Minister says that our AI safety infrastructure is world leading, but companies are calling for better funding access with better support from the British Business Bank, simpler ways of working with international talent and better infrastructure, from labs to internet access. How will the Government choose where those growth zones will be and ensure the benefits are shared across the UK? How will they ensure that small, innovative start-ups are not left behind?
+
+Innovation must go hand in hand with safety and trust, with the right guardrails in place to promote safety by design. Only by doing so can we lead in quality innovation and ensure the benefits are felt across the UK.
+
+Peter Kyle
+I am grateful to the hon. Lady for her constructive comments. She mentions trust. Trust is incredibly important in this whole agenda. We have seen too many times in the past where a fearful public have failed to fully grasp the potential for innovation coming out of the scientific community in this country. We are not going to make that mistake. We understand from the outset that to take the public with us we must inspire confidence. We must have safety assured from the outset and that is a commitment I make today. If people are not safe and protected, and do not feel safe, they will not explore confidently all the potential that AI and the digital world presents to them, their families, their communities, their businesses and us as a country. We must ensure that they do so.
+
+On intellectual property, a consultation is under way. The hon. Lady, along with the rest of the public and all interested parties, are very welcome to take part—indeed, I implore them to do so.
+
+Growth zones present the most remarkable opportunity for parts of our country. We want to ensure not just that every part of the country benefits, but that those parts of the country that experienced deindustrialisation and suffered at the hands of the Conservative Government over 14 years of stagnation, chaos and the poor strategic planning of our economy, benefit the most. In the coming weeks we will announce the process by which we will select the future AI growth zones. I implore areas, regions and parts of our country that are interested to start looking at the Government’s direction of travel to see whether they can play a part, and whether they can get involved and start delivering AI growth zones in their area. There are parts of the country that will really benefit. We want to ensure that we have a set of local authorities and areas that are eager to take advantage of it.
+
+Dr Allison Gardner (Stoke-on-Trent South) (Lab)
+Cities like Stoke-on-Trent, left behind by the previous Conservative Government, could significantly benefit from targeted AI investment. AI growth zones are one such opportunity. We have a great site in Stoke-on-Trent and energy innovations. Will the Secretary of State outline plans for using AI to drive investment towards the CreaTech hub that is Stoke-on-Trent?
+
+Peter Kyle
+The people of Stoke-on-Trent are extremely lucky to have such a strong advocate, not just for the infrastructure of the future but for the skills and the talent that exists across Stoke-on-Trent. I can assure my hon. Friend that we are eagerly awaiting any interest that Stoke-on-Trent shows in the growth zone area and in all the other announcements that came out in the plan today. We will not do “to” communities; we will partner “with” communities, areas and the nations of the United Kingdom to ensure that everyone benefits. Those who are hungry to embrace the agenda will have an active partner in my Department and this Government.
+
+Dame Caroline Dinenage (Gosport) (Con)
+The action plan calls for an AI sector champion in the creative industries, but what the Government really need is a creative industries champion. The Government’s copyright and AI consultation, which is so crucial for the creative industries, does not close until 25 February. One option on the table includes maintaining our current gold-standard copyright regime. Why does it seem that the Government have already made up their mind on that consultation? This plan heralds the reform of the UK text and data mining regime to be as least as competitive as the EU’s. This plan makes a nonsense of that consultation, does it not?
+
+Peter Kyle
+The hon. Lady, unfortunately, does not understand the idea of a consultation. We are open minded and we are listening eagerly to the sector. What I will not do is be forced to make a choice. We have the second-largest creative industries market in the world and the third-largest AI market in the world. This is a gift for a country like ours: two great sectors that are rooted in the future of where global economic prosperity lies. She and the Conservative party want us to make a choice between one or the other. We will not make that choice. On her call for a Government champion for the creative arts, we have one: the Minister for Creative Industries, Arts and Tourism, my hon. Friend the Member for Rhondda and Ogmore (Chris Bryant). I sit alongside him and am very grateful to do so.
+
+Jon Pearce (High Peak) (Lab)
+Small businesses and start-ups are vital to the local economy in my constituency and throughout the UK. Can the Secretary of State explain how his AI action plan will help those small businesses to seize the opportunities of AI, and deliver the growth that we desperately need across the country?
+
+Peter Kyle
+The people and businesses of High Peak have a great champion in my hon. Friend, and as such they will be able to reap the rewards. We need all parts of the economy to embrace digital technology fully in a digital future, and to do so with confidence. The Office for Budget Responsibility said some time ago that if businesses across Britain did do so equally it would add 0.5% to productivity, which would mean £27 billion of fiscal headroom for the Exchequer. We have set about doing so because that is how we can break out of the inheritance from the Conservative Government of high tax and low growth. We want to invest in that future, and small businesses will be at the forefront. The great thing about AI and digital technology is that it puts into the hands of small businesses the kind of power that to date has only been within the reach of large businesses. This is a huge opportunity, and I hope that people running small and medium-sized enterprises across the country will grab it with both hands.
+
+Sir John Whittingdale (Maldon) (Con)
+This morning the Prime Minister spoke about the Government’s wish to develop a clear and trusted copyright regime, which is, I believe, what many in the creative industries thought we already had. When the Secretary of State comes to consider Matt Clifford’s recommendation for reform of the text and data mining regime, will the consultation include consideration of potentially strengthening intellectual property protection rather than weakening it?
+
+Peter Kyle
+The right hon. Gentleman is a persistent advocate of the issue that he has raised, but let me gently say to him that if the current legal regime were so satisfactory, there would not be so many outstanding court cases concerning that precise issue; it is clearly struggling to keep up with the time in which we are living. We want to ensure that, yes, we do strengthen the rights of the people who use the creative industries and all the great potential that that has for individual copyrighted material, and we want to strengthen that into the future, but also to get it right for the future. That is why we are thinking about the needs, demands and opportunities of the future, and making sure that the settlement for those creating digital, AI and creative industry products and services benefits them equally as we go forward, and that they have the assertion of the law.
+
+Emily Darlington (Milton Keynes Central) (Lab)
+I am equally excited by the opportunities that being a leader in AI can bring to the people of the UK. As my right hon. Friend will know, Milton Keynes has been a leader from its outset. We have Bletchley Park, the birthplace of machine learning and AI, but Milton Keynes businesses are leading as well, especially in arts, services and transport. The heart of our security services efforts is based there, as is our skills base between the South Central institute of technology, Cranfield university and the Open university. Will my right hon. Friend meet me, and other AI champions from Milton Keynes, to come up with actions to make this plan a reality for the people there?
+
+Peter Kyle
+I have visited Silicon Valley three times in the past year, and one of the things I have noticed is that the constituent parts that make it so magical when it comes to innovation and the upscaling of it exist here in the UK, but we are not bringing it together and using it in the right way. My hon. Friend has just identified many of those constituent elements in Milton Keynes, and they have a great champion in her, because they need to be co-ordinated better to fully exploit the opportunities of the future. I hope that, along with this Government and my Department, I can be the partner that she needs, and I look forward to meeting her and her stakeholders.
+
+Lisa Smart (Hazel Grove) (LD)
+I very much agree with the sentiments of the Secretary of State about the opportunities that AI presents, including those that it presents to my constituents, but with any opportunity often comes risk. Can he update the House on any conversations he has had with colleagues from the Home Office about ensuring that police are properly trained, equipped and resourced to deal with crime that is brought about through, for instance, deepfakes, misinformation or disinformation?
+
+Peter Kyle
+The hon. Lady has raised a very good point. I can assure her that we are indeed in touch with the Home Office, as we are with every frontline public service department, to ensure that AI is used and the potential is embraced. However, as I said earlier, safety and protection must be the first step, so that the public can be reassured that we are using this technology wisely and in their interests.
+
+Clive Efford (Eltham and Chislehurst) (Lab)
+I welcome my right hon. Friend’s statement. Future AI will be essential to the future of our public services, particularly in improving productivity. Can he say exactly what the Government will do to assist our public services to take advantage of the opportunities that AI offers?
+
+Peter Kyle
+My hon. Friend is absolutely right. The thing about AI is that it is not a singular technology; it is a general purpose technology. Just in health alone, AI is already being used in hospitals’ radiography departments, such as in Huddersfield, to make sure that scanning is more precise. We can detect early patterns quicker, so we get to disease quicker, and productivity is increasing—in Huddersfield’s case, from 700 to 1,000 scans a week. Simultaneously, AI is ensuring that doctors’ time is used more wisely in the test pilots that we are running. We are using digital technology to create a more human experience, because doctors can spend more time with patients. That is what happens when we use AI and digital technology wisely. It is why we, unlike the previous Government, will not sit on the sidelines and let the market do business as it sees fit. We will use the power of Government, and the agency that comes with it, to ensure that this technology is used for the benefit of all.
+
+Lincoln Jopp (Spelthorne) (Con)
+I do not know whether the Secretary of State has had a moment to read The Times this morning, but it reports that the Chancellor is using a new AI tool to answer her emails. It is 70% accurate and is
+
+“performing as good or better than existing processes”,
+
+which does not say a great deal for the ability of the Chancellor to answer her own emails. Be that as it may, could the Secretary of State please reassure us that any AI tool being used across Government will ensure that any statement brought to the Dispatch Box by the Chancellor is 100% accurate?
+
+Peter Kyle
+I can assure the hon. Gentleman that we are piloting, developing and hoping to deploy AI across Government to drive efficiencies and effectiveness, and to serve the people of this country better than ever before—and certainly better, more efficiently and more effectively than they experienced during the previous 14 years.
+
+Steve Race (Exeter) (Lab)
+Can my right hon. Friend set out what role he envisages the digital centre of Government will play in driving AI adoption across public services and Departments to benefit my residents in Exeter?
+
+Peter Kyle
+The people of Exeter will experience many benefits through this Government’s digital technology programme. We have created the digital centre of Government because previously digital services were dispersed across Government. The Government often bought off-the-shelf products and services from big providers, because the capacity did not exist in Government to understand, develop, deploy and program services in-house. We now have a powerful digital centre of Government, which is working alongside tech companies and often developing in-house. I am really excited that in the days and weeks—not months and years—that lie ahead, we will tell the public more about what the digital service is delivering for citizens across this country.
+
+John Glen (Salisbury) (Con)
+I draw the House’s attention to my entry in the Register of Members’ Financial Interests.
+
+I welcome the Government’s ambition in this space, but one area of significant challenge to many tech companies that I have observed and invested in over 20 years has been the ecosystem of investment in the UK. May I urge the Secretary of State to work closely with the Parliamentary Secretary, His Majesty’s Treasury, the hon. Member for Wycombe (Emma Reynolds), who is undertaking valuable work on pension reforms, so that we can intensify the understanding in the City of the opportunities that exist in this new sector, particularly at series C and before, where there is a gap? It has a meaningful impact on the growth potential of so many businesses across this country.
+
+Peter Kyle
+The right hon. Gentleman raises an incredibly pertinent point, and he mentions one of the great challenges. There are many challenges in this agenda, which is why we are striving so hard to get as much progress as we can. Removing one of the key barriers to not just upscaling innovation, but keeping it in this country, involves making sure that the investment landscape is comprehensive and swift enough—not just at spin out and scale up, but when we get to the point where we need the further rounds of investment that he mentions. Sometimes that is in the hundreds of millions of pounds, and sometimes it takes time to become profitable. Taking that kind of investment risk is essential.
+
+I can assure the right hon. Gentleman that the Chancellor and my hon. Friend the Parliamentary Secretary are both working intensively on pension reform. We did so in opposition, and we are carrying on with the Mansion House process. We want to make sure that the investment landscape in this country is world class. Right now, we have some work to do, but we are getting there.
+
+Tracy Gilbert (Edinburgh North and Leith) (Lab)
+I am pleased that today’s action plan refers to the expertise and development in AI that already exists in Edinburgh. It is understandable that the Government had to cancel a number of unfunded projects from the last Administration. However, will my right hon. Friend work with stakeholders to ensure that the ambition to develop an exascale computer in Edinburgh is at the heart of the Government’s long-term plan and will be brought forward in the next six months?
+
+Peter Kyle
+At last, there is a great advocate for a sustainable, fully funded, fully costed compute landscape for our country. That is something we have begun announcing in today’s plan, and into the spring I will announce further strategy on compute. I want to make sure that we have the right resilient, sustainable investment that our country needs when it comes to public compute. We have committed today to increasing our public compute by a factor of 20 in the next five years. That shows the scale of our ambition. My hon. Friend can rest assured that when we make announcements on the compute needs of our country, particularly when individual institutions are involved, they will be fully costed, they will be fully funded and they will be delivered.
+
+Pete Wishart (Perth and Kinross-shire) (SNP)
+People in our world-class creative sector will not be in the least bit reassured by the Minister this afternoon. Our artists face the real prospect of their wonderful works being ingested by AI companies without recompense or even permission. We know that the consultation is ongoing, but what people want to hear is the Minister’s intention when it comes to copyright. Can he reassure people who are listening today that our wonderful copyright regime will remain in place at the end of this process?
+
+Peter Kyle
+We are already on record as saying that we want more licensing of copyrighted material, not less. The hon. Gentleman’s characterisation is a mischaracterisation of the intentions of this Government. The consultation is there, and we want to hear from people. We will deliver a way forward that harnesses all the opportunities of the creative industries into the future, not based on the past. We will allow AI companies to come here and invest into the future. We do not need to pit both sectors against each other. We as a country should celebrate that we have an economy so diverse that we can have the best of both sectors. We can have world-class sectors in both AI technology and the creative arts. That is something that we celebrate, but we seem to be the only party in this House that does.
+
+Florence Eshalomi (Vauxhall and Camberwell Green) (Lab/Co-op)
+I welcome the Secretary of State’s statement this afternoon. I know that he takes this subject really seriously. He was in my constituency just before Christmas, although it is a shame that he did not go into the PET scanner. I welcome the improvements in terms of education. For the many parents who, like me, have to battle with Google Classroom when they forget the password, I hope AI can resolve that issue.
+
+One of the issues with AI is the mistrust in some communities, particularly black and minority ethnic communities, who worry about what their data will be used for. How will the Secretary of State work with certain communities, including in my constituency and other diverse constituencies, to build up public trust and confidence that their data will be used in an ethical and safe manner?
+
+Peter Kyle
+My hon. Friend makes the most important point. I am determined—I have said this publicly numerous times—that equity will be built into the technology and the policies of this Government from the outset. When she reads the reports, when she hears the words of this Government and when she listens to the Prime Minister, I hope she is reassured that this Government want to ensure that everyone from every background not only feels the ability to connect with and work within the tech sector here to create the technology of the future, but benefits equally from the products that come out the other side, including being able to use products intuitively and benefit from the wealth that is created from them. When it comes to using public data, I realise that there are communities in parts of this country that need to be taken on a longer journey and to be more reassured, and I fully commit to doing so as we go forward.
+
+Mr Gagan Mohindra (South West Hertfordshire) (Con)
+I welcome this action plan, which mentions data centres. As the Secretary of State may be aware, the Deputy Prime Minister is currently reviewing the need for a data centre in Kings Langley in my constituency.
+
+Both the report and the Secretary of State talk about ensuring that the infrastructure is in the right place. I am working alongside my constituents in Kings Langley, because the proposed site is prime green belt. If there is a need to build on and develop the site, housing would make better sense, because energy—a huge requirement for data centres—is not available nearby. How can the Secretary of State ensure that we are not encouraging the building of white elephants in the wrong places?[Official Report, 15 January 2025; Vol. 760, c. 4WC.] (Correction)
+
+Peter Kyle
+I can assure the hon. Gentleman that the energy and other constituent needs of data centres are, at last, being taken into account in strategic planning in our country. We have created the AI Energy Council, which is jointly chaired by the Energy Secretary and me, and the planning reforms will mean that we can expedite investment in data centres.
+
+The hon. Gentleman should be aware that data centres are not a singular investment, but that other innovations, industries and businesses often cluster around them. He mentioned heat, and community heat networks often stem and flow from such investments, if there is the right local leadership, if there is planning in place and if there is the vision to make sure that our country benefits the most.
+
+We have that vision, and I implore the hon. Gentleman to start getting involved with the local issues to shape what unfolds for the digital infrastructure of the future, so that it benefits absolutely everyone. This is a potential source of sustainable, good-quality wealth creation and job creation into the future. I suggest that his party gets on board and grabs it with both hands, rather than talking down the agenda we are putting forward today.
+
+Catherine Fookes (Monmouthshire) (Lab)
+I thank the Secretary of State for his statement. I am delighted that Vantage Data Centres is working to build one of Europe’s largest data centre campuses in Wales, and plans to invest over £12 billion in data centres across the UK, creating 11,500 jobs. This is, of course, great news for our Government’s economic growth mission. Can the Secretary of State therefore provide some insight into what this will mean for areas like my Monmouthshire constituency?
+
+Peter Kyle
+I am grateful that my hon. Friend can already see the benefits from this investment, because she is positive and is engaging and thinking deeply about the potential benefits. Incidentally, this investment is happening right now—not in the future, but right now. She will be best placed to help steer it for the benefit of all. The people of Monmouthshire are very grateful to have her, just as we are very grateful to have her in the House, as a champion for these issues.
+
+Sir Julian Lewis (New Forest East) (Con)
+I revert to the article in The Times mentioned by my hon. and gallant Friend the Member for Spelthorne (Lincoln Jopp), headlined: “Rachel Reeves using AI to reply to Treasury emails”.
+
+Madam Deputy Speaker (Caroline Nokes)
+Order. Even if the right hon. Gentleman is quoting from a newspaper, I would prefer it if he did not use the Chancellor’s name.
+
+Sir Julian Lewis
+I beg your pardon, Madam Deputy Speaker. I did not want to misquote the headline.
+
+Nevertheless—as we now all know who she is—I discover that, instead of corresponding with her civil servants, as I thought, I am engaging with something called a “correspondence triage automation tool”, which is used for
+
+“the automatic matching of correspondence with appropriate standard responses”.
+
+That might give us cause to chuckle, but can we at least have an assurance that when we write to Ministers, even if they are not replying, they will at least be informed of the fact that concerns have been raised by Members of this House?
+
+Peter Kyle
+I can assure the right hon. Gentleman that Ministers are fully engaged in corresponding with Members across the House. Having been a Back Bencher for so long in opposition, I can assure you that I strive to be a lot better than what I experienced during so many of those years.
+
+Madam Deputy Speaker
+Order. Can I just remind the Secretary of State that we do not use “you” in the Chamber? Please can questions and answers be brief? I would like to get everybody in before 6 o’clock.
+
+Andrew Pakes (Peterborough) (Lab)
+I thank the Secretary of State and his team for their vision and leadership on this critical issue. These exciting plans could help us to drive growth, create jobs and improve public services. Places like Peterborough could be at the heart of the silicon fens if we get this right. Critical to that will be the issue of skills in cities like mine—cities that were left behind for too long by the previous Government. Can the Secretary of State update and inform us on what progress his Department is making on assessing the UK skills gap when it comes to AI, and how we can ensure that growth benefits all parts of the country as we embark on this plan?
+
+Peter Kyle
+My hon. Friend is absolutely right. He said, “if we choose to”. This Government do choose to, and that means engaging with the Education Secretary on the skills agenda, and being determined to ensure that every community across the United Kingdom has equal access to the technology’s potential.
+
+Alison Bennett (Mid Sussex) (LD)
+The Secretary of State is a constituency neighbour, so he will know that the convergence of the AI expertise at the University of Sussex, sustainable power from Rampion wind farm and computer power expertise from Universal Quantum, based in Haywards Heath, creates an ideal ecosystem for supporting the UK Government’s ambitious AI strategy. Does he agree that our corner of Sussex is a strong contender to be a hub for sustainable AI development? Will he meet me to discuss those opportunities?
+
+Peter Kyle
+It will not surprise the hon. Lady or the House to hear that I agree with championing Sussex. I went to the University of Sussex myself; I am an alumnus. Its AI research centre was established in the 1960s. That shows just how long scientific endeavour in digital technology has been in full flow in this country. Of course, I look forward to meeting the hon. Lady, perhaps down in sunny Sussex.
+
+Jacob Collier (Burton and Uttoxeter) (Lab)
+AI offers immense potential for driving economic growth, but it also presents challenges for post-industrial areas, such as my constituency of Burton and Uttoxeter, including the risk of job displacement, skills shortages and infrastructure gaps, as well as concerns around public trust and the impact on communities. How are the Government addressing those challenges to ensure that AI delivers highly skilled sustainable jobs and long-term benefits to regions like mine in the midlands?
+
+Peter Kyle
+I assure my hon. Friend that the communities that he refers to are at the front and centre of the way that we envisage using the power of Government to steer this technology for the good of all. It is essential that communities like his benefit. In the past, wave after wave of revolution negatively impacted such communities, but that will not happen on our watch.
+
+John Cooper (Dumfries and Galloway) (Con)
+I make no apology for returning to the vital question of copyright. Notwithstanding the consultation, the plan recommends that we follow Europe in having an opt-out model. Does the Secretary of State not agree with me and the News Media Association that that would be a watering down of our exemplary copyright laws?
+
+Peter Kyle
+We put forward proposals as an entire package, which we are consulting on. The hon. Gentleman references one part of the package. If he looks at it as a whole, he will see that we are striving to take care of all the competing challenges, because of the benefits and opportunities for modern Britain.
+
+Mrs Sureena Brackenridge (Wolverhampton North East) (Lab)
+Does my right hon. Friend agree that AI is not going away? It is therefore best for the UK to lead development and best practice, so that AI systems are safer for my constituents in Wolverhampton North East.
+
+Peter Kyle
+My hon. Friend is absolutely right. This technology is not going away. The choice this Government have made is not to sit on the sidelines, as the Conservative Government did for the last 14 years. We will safely positively explore all the potential that AI has for our country, our economy and communities like hers. I am grateful for her attitude towards the statement, because that is the way to ensure that communities like hers benefit greatly from the next wave of industrial progress.
+
+Jim Allister (North Antrim) (TUV)
+The Secretary of State makes clear his ambition to make the United Kingdom the frontier home of choice for AI firms, and he hopes to see a significant increase in data centres. I trust that his ambition will be fulfilled. The Republic of Ireland, our neighbour, has been very successful in securing multiple data centres, primarily because of its very competitive corporation tax rate. Is a competitive corporation tax rate the missing component that would bring all this work together?
+
+Peter Kyle
+I got to Northern Ireland as soon as I could after my appointment to this job. I have to correct the hon. and learned Gentleman on one point. We have attracted £24 billion of investment in AI in this country since taking office, and an additional £14 billion this week alone. I think that tells the House that the missing ingredient was not what he said it was, but a Labour Government.
+
+Matt Rodda (Reading Central) (Lab)
+I welcome today’s statement, and wholeheartedly support close work with the private sector, and the investments in AI and data centres. Will the Secretary of State say a little more about his work to encourage more small businesses to benefit from AI, and will he consider Reading as a potential hub?
+
+Peter Kyle
+I really look forward to Reading getting involved, and to it offering to partner with us. We want to get investment into great places like Reading, which has a lot of great small businesses. Small businesses in communities up and down the country could benefit the most. They might sometimes feel like they are tucked away, but they can enter the global stage because of the technology that is before us. The Government’s job is to ensure that the infrastructure is there, and that all the technology is as accessible to small businesses as it is to big companies.
+
+Saqib Bhatti (Meriden and Solihull East) (Con)
+We should be under no illusion: the U-turn on a supercomputer is exactly that. We committed £1.3 billion to it; Labour cancelled it. Can the Secretary of State tell the House how much money has been set aside to achieve his supercomputer ambitions?
+
+Peter Kyle
+I admire the way the Conservatives just push through with this. They did not commit a single penny to a single one of the projects that the hon. Gentleman mentions. They want all the benefits of our Budget, but will not say how they would pay for them. He is actually asking me to cut £800 million, or £1.3 billion, of revenue—perhaps cut thousands of research grants to universities and PhD students—to pay for a project that the Conservative Government announced but did not commit a single penny to.
+
+Chris McDonald (Stockton North) (Lab)
+The Secretary of State mentioned the benefits to industrial communities such as Stockton North. Does he agree that the commitment to artificial intelligence will lead to more investment in data-intensive heavy industries, such as chemicals and life sciences? I warmly invite him to visit the Billingham chemicals cluster in my constituency if he wishes to see industrial AI in action.
+
+Peter Kyle
+My hon. Friend could not be more right. Not only will AI improve the investment landscape for physical infrastructure but it will mean profound technological advances in all sorts of industries, including those that are chemistry dependent. I am so glad that those industries have an MP who recognises that, is on their side, and is sticking up for them today in the British Parliament.
+
+Mike Martin (Tunbridge Wells) (LD)
+It is clear that AI brings great opportunities, as well as some dangers. Nowhere is that more clear than in the military realm, where, to put it simply, an algorithm can help us make a decision about who to kill, and the quicker we do that, the more of an advantage it gives our side. On the other side of the ledger, if we kill the wrong person, our entire legal and ethical framework for how we conduct war disappears. Will the Secretary of State give the House a broad outline of his discussions with the Ministry of Defence on this important international issue?
+
+Peter Kyle
+The hon. Gentleman raises an incredibly important point. I assure him that we have a world-class defence industry in this country, world-class defensive capabilities in the Ministry of Defence, and a Government who are determined to ensure that not just digital technology and AI but all evolving technology is used ethically and appropriately in the defence of our nation. I also assure him that the Prime Minister has written to each Government Department asking for their plans on digital progress and safely harnessing the power of digital technology, and that my Department and the Ministry of Defence are in touch.
+
+Andrew Cooper (Mid Cheshire) (Lab)
+At the risk of disagreeing with some of my colleagues, it is surely Mid Cheshire that is leading the way on AI innovation in the north-west; we have a number of companies working on game-changing applications. Safety Shield Global in Winsford won a King’s award for enterprise for its AI model, which has been 10 years in the making and is keeping construction workers safe on sites all over the world. The action plan talks about the potential of post-industrial constituencies such as mine to act as AI growth zones—key drivers for regional growth. How can areas work with the Government to get AI growth zones up and running, and how soon does he expect them to be operational?
+
+Peter Kyle
+I am grateful to my hon. Friend for sharing that example from his constituency. In the coming weeks, we will release details of how local communities can get involved and apply to become AI growth zones; I really look forward to seeing his.
+
+Chris Law (Dundee Central) (SNP)
+Over the summer, the UK Labour Government cancelled £1.3 billion-worth of investment in tech and AI projects, including £800 million for the next-generation exascale supercomputer at the University of Edinburgh. The UK Government described the project as making “little strategic sense”, yet today they have pledged to turbocharge AI, including through plans to build a brand-new—wait for it—supercomputer. There is to be new investment; given that the University of Edinburgh has been at the centre of research and development of AI for more than 60 years, will the new supercomputer be located in Edinburgh?
+
+Peter Kyle
+I will make the basic point again, because I think the hon. Gentleman needs to hear it again: I could not cut something that did not exist. I have extended the life of the existing supercomputer for another year, so that people have the reassurance that the capabilities needed are there, via the University of Edinburgh. In that time, I have been working on a strategy that will have resilience because it will be fully costed, fully planned and fully funded, so that from spring, when the strategy will be released, those who need to know the strategic opportunities in our country will have the certainty that they need, now and for the long term.
+
+Catherine Atkinson (Derby North) (Lab)
+A barrier to the growth of data centres for AI is their need for power. Rolls-Royce in Derby is at the forefront of small modular reactors and micro-reactors. SMRs are small enough to be on or next to data centre sites, and micro-reactors are the size of a shipping container. Co-location would mean less vulnerability to grid failure and cyber-attacks. Will the Secretary of State work with the Department for Energy Security and Net Zero to explore whether this could be the clean energy solution needed to support sovereign AI capabilities?
+
+Peter Kyle
+I am grateful for my hon. Friend’s very pertinent question. Investment is going into new sources of energy from investors around the world. I am really pleased that we have Rolls-Royce, which I visited just before the election, up in Coventry. I saw some of Rolls-Royce’s capabilities and heard some of its ambitions. I assure her that the AI Energy Council, which I chair jointly with the Energy Secretary, will take into consideration these sorts of issues, and ensure that the Government engage with those innovations. We want to ensure that we are at the forefront of not just data infrastructure but all the related industries from which our country can benefit.
+
+Jim Shannon (Strangford) (DUP)
+Given that AI capability will seemingly be used positively, can the Secretary of State explain how the plan will advance areas such as healthcare? Does he see it as a way of reducing backlogs in the NHS, including in waiting lists and booking systems, and can he confirm that all regions of the United Kingdom of Great Britain and Northern Ireland will play their part and benefit from AI?
+
+Peter Kyle
+I am always grateful to the hon. Gentleman for his contributions, and have enjoyed working with him in opposition and now in government. AI has enormous potential for the health service; it could improve productivity, bring about innovation, and advance treatments and medicine. I assure him that we are striving for that. The Health Secretary and I are making many visits together to try to understand how we can work together to ensure that technology is developed and implemented throughout the NHS. I have been in touch with the Northern Ireland Assembly on the way forward, and on how the Administration in Westminster can partner with the Northern Ireland Government and ensure that Northern Ireland benefits. I know that there are challenges with the waiting lists there.
+
+Gordon McKee (Glasgow South) (Lab)
+I join the Secretary of State in praising Matt Clifford, who has produced a top-class report. When building data centres for training AI models, two things are needed: lots of energy, and ideally, cold weather. Fortunately, Scotland has both of those in abundance, so will the Secretary of State ensure that one of the AI growth zones is in Scotland?
+
+Peter Kyle
+I am not going to engage on the weather, coming from Brighton, which is the sunniest mainland city in the UK, but I thank my hon. Friend for letting me get that on the record. I assure him that we want all parts of the United Kingdom to benefit. I was in touch with the Scottish Government Finance Minister just last week. I am determined that all parts of the United Kingdom benefit, and that fully includes Scotland. Scotland is lucky to have him here championing its cause and celebrating its potential.
+
+Mr Jonathan Brash (Hartlepool) (Lab)
+Progress in this area will be incredibly energy dependent. Does my right hon. Friend agree that we need to speed up the roll-out of small and advanced modular reactors to meet that demand? Given its history, skillset and location, Hartlepool presents a perfect opportunity for this type of investment.
+
+Peter Kyle
+I assure my hon. Friend that we are striving to ensure that innovation of all kinds is expedited. That is why I established the regulatory innovation office in the Department for Science, Innovation and Technology. We are already piloting four areas of policy so that we can get innovation off the drawing board and into the economy, benefiting the health and wealth of the nation as quickly as possible. I assure him that we are wasting no time to get that done.
+
+Warinder Juss (Wolverhampton West) (Lab)
+I welcome the Secretary of State’s statement. As he said, the AI revolution is taking place now, and it will make significant improvements in the promotion of public services and businesses. However, would he reassure my constituents in Wolverhampton West on what specific steps he will take to ensure that AI is safe in every possible way?
+
+Peter Kyle
+The work of the AI Safety Institute is ongoing, and it does world-class work. Of course, AI is fuelled by data, and we know that the public need reassurance that data will be used safely. With a data Bill going through, and with a Government that want to ensure people have the rights they need to have control over their data, I want to assure my hon. Friend on the use of data, technology and AI, as well as on the use of algorithms, which are increasingly being used in the private sector, but also in Government. Unlike the previous Government, I want to ensure that algorithms are published by Departments so that everybody can understand what it is that we are doing in their interests to benefit the country, because without understanding it, people will not feel safe with it being used. I will not tolerate that because we need to ensure that we as a country use this technology for the public good.
+
+Mr Mark Sewards (Leeds South West and Morley) (Lab)
+I welcome the Secretary of State’s leadership on AI—it is good to have someone taking this seriously. As somebody who was teaching a year ago, I am always interested in the application of AI in the classroom, especially when it comes to reducing teacher workload so they can spend more face-to-face time with their students. I am also interested in the application of AI in creating personalised learning resources for students based on their ability. Will the Secretary of State speak about that in more detail and potentially tell us about the timelines for rolling this out in our schools?
+
+Peter Kyle
+I am grateful that my hon. Friend has brought his experience from the classroom into the Chamber and into debates such as this one. As somebody who has experienced neurological challenges and barriers to learning as a child and through life, one of the most exciting parts of the digital and AI revolution that is unfolding is that, if we harness this correctly, a single classroom can exist both for students who have barriers to learning and for others who have specific talents that need stretching and challenging. Of course, there is no replacement for great teaching and the people and teachers in the classroom working with students, but with the assistance of digital technology and with what AI can do to provide a granular, detailed and tailored experience for students, that is something we are working on. My Department is working with the Department for Education so we can get this technology into classrooms and, as he says, for the benefit of all students right around the United Kingdom.
+
+Joe Powell (Kensington and Bayswater) (Lab)
+On Friday, I visited a major National Grid upgrade project in my constituency, which will connect to a huge new data centre in north-west London. The Secretary of State has talked about the additional energy infrastructure needed, but how will he work to speed up the planning system, including taking on those who seek to block this critical new infrastructure, so that we can harness the benefits?
+
+Peter Kyle
+We certainly saved a great question for last. We are absolutely determined about the plan we have put forward today, and let me express my gratitude one final time to Matt Clifford for doing the report. To fully embrace this technology, we need to get a lot right. We need to get regulation and planning right. We are already undertaking a huge reform of our planning system—the biggest for well over a generation. That will include the ability for Government locally and centrally to ensure that investment into industries and infrastructure of the future is expedited and that it faces no barriers, so it can be put to the common good for our country and its citizens without delay.

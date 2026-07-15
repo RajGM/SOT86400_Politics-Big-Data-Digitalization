@@ -1,0 +1,74 @@
+ Live Facial Recognition: Police Guidance
+
+Question
+
+15:08:00
+
+Asked by
+
+Lord Clement-Jones
+To ask Her Majesty’s Government what assessment they have made of the new College of Policing guidance on live facial recognition.
+
+The Minister of State, Home Office (Baroness Williams of Trafford) (Con)
+My Lords, facial recognition is an important public safety tool that helps the police to identify and eliminate suspects more quickly and accurately. The Government welcome the College of Policing’s national guidance, which responds to a recommendation in the Bridges v South Wales Police judgment.
+
+Lord Clement-Jones (LD)
+My Lords, despite committing to a lawful, ethical approach, the guidance gives carte blanche to the use of live and retrospective facial recognition, potentially allowing innocent victims and witnesses to be swept on to police watch-lists. This is without any legislation or parliamentary or other oversight, such as that recently recommended by the Justice and Home Affairs Committee, chaired by my noble friend Lady Hamwee. Are we not now sleep-walking into a surveillance society, and is it not now time for a moratorium on this technology, pending a review?
+
+Baroness Williams of Trafford (Con)
+I disagree with everything that the noble Lord has said. I think every police force in the country uses retrospective facial recognition. Watch-lists are deleted upon use at a deployment, so there is no issue regarding ongoing data protection. Importantly, just as CCTV and retrospective recognition are still used to detect criminals, missing persons and vulnerable people, so is the application of LFR.
+
+Baroness Chakrabarti (Lab)
+My Lords, I refer the House to my membership of the Justice and Home Affairs Committee, whose pertinent report of last week has been referred to. Given the intrusive nature and racially discriminatory potential of this technology, why does the Minister not agree that legislation would be preferable to the police writing their own guidance, which some of us find, in this case, to be permissive and wholly unsatisfactory?
+
+Baroness Williams of Trafford (Con)
+There already is a legal framework. In terms of bias, I quote from the US National Institute of Standards and Technology.  It found that NEC, which is the technology that the police use, provided
+
+“algorithms for which false positive differentials are undetectable”
+
+and that the algorithm
+
+“is on many measures, the most accurate we have evaluated”.
+
+It is for the police, within the legal framework, to decide how and in what situation to deploy this technology.
+
+The Lord Bishop of Oxford
+My Lords, I declare an interest as a former board member of the Centre for Data Ethics and Innovation. I wonder if the Minister would comment on the vital importance of establishing public trust and confidence in the deployment of FRT and indeed any new technology, especially in such a sensitive area as policing. A range of concerns have been raised about rapid deployment, governance and bias by the CDEI, the European Union and the makers of popular documentaries. Yet, in the face of this, the Met and South Wales Police have both announced a ramping up of the use of FRT. Does the Minister agree that it is time to slow this down and for urgent parliamentary scrutiny and better governance of the police’s use of facial recognition technology?
+
+Baroness Williams of Trafford (Con)
+I do not think we need to slow it down—quite the contrary. It is important that this is done in a clear way: that the police explain why, who and where they are using their deployments. That must be explained by the police. I think this has great potential for good, and so I would not agree with the right reverend Prelate.
+
+Lord Sandhurst (Con)
+My Lords, I am sorry to press the Minister, but in the light of the forthcoming regulations that are going to be made in respect of non-crime hate speech, is not facial recognition likewise so important that it should not be left to mere guidance? Is it not time now for the College of Policing to be put on a statutory basis, and going forward, for facial recognition, like non-crime hate speech, to be made subject to regulations approved under the affirmative procedure?
+
+Baroness Williams of Trafford (Con)
+I disagree with my noble friend, because it is not left to guidance. Where guidance comes in is in the deployment. There is a legal basis on which to deploy, using powers including common-law powers. It was on the back of the court judgment that it was recommended that its use be clarified: the when and where of the use of LFR.
+
+Lord Hogan-Howe (CB)
+My Lords, I generally support the extension of facial recognition technology, although I take the point made by the noble Lord, Lord Clement-Jones, that it needs serious consideration. Technology is moving forward so fast that I think it is hard for all of us keep track of it. The three principles that the Minister might agree should underpin that are transparency of use, accountability about its use and that people should have a remedy. If things are done wrong, they should be able to check to see what they can do about it.
+
+But the benefits are pretty outstanding. I know that, post the riots of 2011, we had to deploy 800 officers to look at 250,000 hours of rioters on CCTV footage. This allowed us to arrest 5,500 people over 18 months, but it took us 800 people. There has to be a smarter way of doing that. That would have been a retrospective use. Therefore, does the Minister agree that careful improvements in the future are wise, and that we should not stop, as the noble Lord, Lord Clement-Jones, suggested, the use of it altogether?
+
+Baroness Williams of Trafford (Con)
+I totally agree with the noble Lord. The legal framework in which it should operate is, A, for a policing purpose, B, where it is necessary and, C, where it is proportionate and fair. I think that pretty much accords with what the noble Lord said.
+
+The Lord Speaker (Lord McFall of Alcluith)
+The noble Lord, Lord Strasburger, will now contribute remotely.
+
+Lord Strasburger (LD) [V]
+My Lords, this technology is used by the Chinese Government to micro-manage the lives of its citizens, so its use here needs strict rules and effective oversight. In the absence of legislation, the police have tried to regulate themselves by writing their own rules, but these are so vague that almost anything goes: targeting people who “may cause harm”, whatever that means. When will the Government do their job and legislate to control the risks of this technology?
+
+Baroness Williams of Trafford (Con)
+My Lords, I have outlined the conditions in which it should be used. To compare its use with how China looks at its people is really taking a leap forward. As I have just pointed out, I think that its use when fair, proportionate and for a policing purpose is absolutely reasonable.
+
+Lord Rosser (Lab)
+My Lords, the new guidance acknowledges long-running concerns around algorithmic bias. Forces are rightly required to identify and mitigate against bias but doing so requires expertise and, as a result, additional costs. I have two questions: first, what steps are the Government taking to ensure that forces across the country have access to the resources they need to uphold these new elements of the public sector equality duty? Secondly, which independent body or individual has oversight powers to ensure that facial recognition powers are used appropriately by police forces and not inappropriately or for inappropriate purposes?
+
+Baroness Williams of Trafford (Con)
+The Bridges case tested this; it went to the courts. As the noble Lord says, it is absolutely important that the police comply with the public sector equality duty to maintain that public confidence. There have been various tests for evidence of bias; SWP and the Met have found no evidence of bias in their algorithms.
+
+Baroness Fox of Buckley (Non-Afl)
+My Lords, we should remember that the reassurances from the Minister fall after we had a very lively debate in this House about the College of Policing’s guidance on non-crime hate incidents. Due to the campaigns of groups like Fair Cop, Free Speech Union and Big Brother Watch, the powers have now been rolled back; they were being abused and that was recognised. Is the Minister in any way worried about enabling guidance that gives the police huge powers to survey and criminalise non-crime harms of any sort, hate or otherwise? Secondly, the number of live facial recognition watchlists has gone up from 42 in 2017 to 5,000 now. Is that overreach, success or abuse? Who decides, when on those watchlists will be victims or witnesses?
+
+Baroness Williams of Trafford (Con)
+My Lords, I reassure the noble Baroness that the people who can be on watchlists include those wanted by the courts or subject to bail conditions or other restrictions that would be breached if they were at that location, as well as other suspects; and they may indeed include vulnerable people. If my relative was missing and I could avail of this technology, I would be very grateful for its use.

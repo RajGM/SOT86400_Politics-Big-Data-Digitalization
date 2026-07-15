@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 5361590,
+    "ExtId": "94945BA3-3F5F-4074-9FC1-0211D4756916",
+    "Title": "Flood Resilience: Buckingham and Bletchley",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-11-13T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 775,
+    "ContentLastUpdated": "2026-06-15T21:44:27.317",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "8F2EBE3A-EFB9-4D8F-8903-78AF3CFCEC06",
+    "NextDebateTitle": "Access to Nature",
+    "PreviousDebateExtId": "58356E35-D644-4A6E-81DA-2C28D3A5C840",
+    "PreviousDebateTitle": "House of Commons"
+  },
+  "Navigator": [
+    {
+      "Id": 5361586,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "82433628-39bf-4ec5-aee4-87fdf41a914a",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5361588,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5361586,
+      "SortOrder": 3,
+      "ExternalId": "A94D0AA7-F1FE-4340-8F84-1C62C8AADD24",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5361589,
+      "Title": "Environment, Food and Rural Affairs",
+      "ParentId": 5361588,
+      "SortOrder": 4,
+      "ExternalId": "48752236-5B24-4451-A470-2FBF763A192E",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5361590,
+      "Title": "Flood Resilience: Buckingham and Bletchley",
+      "ParentId": 5361589,
+      "SortOrder": 5,
+      "ExternalId": "94945BA3-3F5F-4074-9FC1-0211D4756916",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710199,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+      "Value": "<Question HRSContentId=\"{CEE7114F-68A3-4536-AECD-DB1EFA5D8429}\">1.  <QuestionText HRSContentId=\"{71369D4E-D58D-439C-87B4-4F74AD54412D}\">What steps she is taking to improve flood resilience in Buckingham and Bletchley constituency.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "CEE7114F-68A3-4536-AECD-DB1EFA5D8429",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "906279",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710200,
+      "MemberId": 4645,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Environment, Food and Rural Affairs (Emma Hardy)",
+      "Value": "As part of our record £10.5 billion flood defences programme, the largest in history, the Environment Agency is progressing multiple schemes to improve resilience to flooding locally. These include natural flood management projects for Blue Lagoon, Buckingham and Leckhampstead, a property flood resilience study for Buckingham and the Tingewick flood alleviation scheme.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "687DF5CA-9BFF-4DC3-A075-05F991C8DA5B",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710201,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson",
+      "Value": "I thank the Minister for her response. Last winter’s floods exposed how years of under-investment by the previous Conservative Government had left Buckingham’s flood defences inadequate, which impacted many businesses and residents in our town. I have had the pleasure of working with the Flood Action 4 Buckingham group and others to ensure that local voices are heard and to identify ways we can act together to ensure we are resilient in the future. Can the Minister advise me and my constituents on how we can access our fair share of future flood resilience funding so that we are not in this position again?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "4ADE170C-7309-4210-B1FB-36C2C74C049D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710202,
+      "MemberId": 4645,
+      "AttributedTo": "Emma Hardy",
+      "Value": "I thank my hon. Friend for his important question. I recognise that, at this time of the year, there is anxiety about flooding, and I thank him and the Flood Action 4 Buckingham group for their work. He will be pleased to know that our flood funding policy reforms, announced in October, will make it quicker and easier to deliver the flood defences that he desperately needs, and I would be happy to meet him to discuss this issue in more detail.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "11182F9A-05A4-47BD-B4F9-878663B8560D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710203,
+      "MemberId": null,
+      "AttributedTo": "Several hon. Members rose—",
+      "Value": "",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "B1F94402-F0B4-46CE-BE5A-BDBA10C2C5BB",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49710204,
+      "MemberId": 467,
+      "AttributedTo": "Mr Speaker",
+      "Value": "Order. The question relates to Buckinghamshire, and I do not think any of the Members standing are from Buckinghamshire, so let us move on.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "B9820019-D6FB-4912-A3EE-620A4DC2E17F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

@@ -1,0 +1,59 @@
+ AI Superintelligence
+
+Question
+
+15:45:00
+
+Asked by
+
+Baroness Berger
+To ask His Majesty’s Government what assessment they have made of when AI superintelligence which can surpass human capabilities will be developed; and the potential impact of that AI on the United Kingdom.
+
+Lord in Waiting/Government Whip (Lord Leong) (Lab)
+My Lords, there is considerable debate around AI superintelligence. Some experts believe that AI could exceed human capabilities by 2030, which would significantly impact the UK’s economy and national security. The AI Security Institute helps the Government assess serious AI risks, equipping it to understand them. That will help us reap the benefits of AI such as economic growth and public sector efficiency. Our AI Opportunities Action Plan lays the foundation for national renewal, and I am pleased to inform noble Lords that in the past 12 months we have achieved 38 out of our 50 commitments in the plan.
+
+Baroness Berger (Lab)
+I thank my noble friend for indicating that superintelligent AI is expected to emerge over the course of the next couple of years. It was the head of the IMF who said at Davos last week that this is moving so fast, yet we do not know how to make it safe. We rightly regulate many industries in this country, including medical research and weapons manufacturing. Like those technologies, AI should have independent pre- and post-deployment testing. Leading AI companies have repeatedly made safety pledges they have then failed to keep. When will the Government bring in regulation for these powerful emerging technologies?
+
+Lord Leong (Lab)
+My Lords, the Government recognise both the pace of AI development and the need to ensure that it is safe and inclusive. We have set out the proportionate, principals-based approach, enforced by existing regulations, to ensure safety, transparency and accountability. We are also working with international partners to prevent fragmentation. We will legislate where necessary, but we will do so carefully, ensuring that legislation is effective and inclusive, without stifling innovation and keeping the United Kingdom globally competitive.
+
+Lord Clement-Jones (LD)
+My Lords, I declare an interest as a consultant for DLA Piper on AI regulation and policy. In the debate on AI last week, the noble Baroness, Lady Lloyd of Effra, mentioned the Council of Europe framework convention on AI. She rightly said that it is seeking
+
+“to establish a clear international baseline that grounds AI in our shared values”.—[Official Report, 29/1/26; col. 1129.]
+
+Fine words, my Lords. The framework convention would set binding duties on the UK to ensure that AI is compatible with human rights, democracy and the rule of law, plus some more specific obligations on risk management, transparency, accountability and remedies. When will the UK ratify it, and what plans is it making to implement it?
+
+Lord Leong (Lab)
+My Lords, AI risks do not respect national borders and require sustained international leadership. I am pleased that the United Kingdom remains at the forefront, convening global partners to build shared understanding of frontier risks and mitigation. We work with the G7, the G20, the OECD, the United Nations and the Council of Europe. Through multilateral forums and bilateral partnerships, we are championing international safety standards and promoting transparency. Our approach ensures that global governance is rooted in democratic values and human rights, fostering a secure, responsible environment in which innovation can flourish safely across all territories.
+
+Lord Tarassenko (CB)
+My Lords, the second International AI Safety Report is being published today. It is a scientific assessment, guided by 100 experts from 30 different countries and chaired by Yoshua Bengio, one of the three so-called godfathers of AI. A key finding is that general-purpose AI capabilities are improving more quickly than anticipated. Does the Minister agree that it is now time for DSIT to set up a commission or working group of experts, convened jointly by the AI Security Institute and the Alan Turing Institute, to investigate the potential impact of this increasing rate of progress towards general-purpose superintelligent AI?
+
+Lord Leong (Lab)
+My Lords, the Government are taking a proactive, evidence-led approach to the potential emergence of advanced AI. We have empowered the AI Security Institute, the world’s first state-backed body of its kind, to carry out onerous testing of frontier models against clear red lines, including autonomous self-replication and deception. In the last couple of months, the AI Security Institute has conducted more than 30 such tests, and will be working with partners to ensure that AI is safe for the general public.
+
+Lord Ranger of Northwood (Con)
+My Lords, I have always welcomed the approach the Government have taken to regulation in the AI space, particularly a proportionate approach, considering where we are in the development of AI businesses and technologies—in a global battle. With regard to artificial general intelligence —the singularity—it must be stated that most experts predict this to happen between 2040 and 2045, if at all. But right here, right now, the UK is in a global battle, particularly the SMEs that are developing businesses in AI here, creating jobs and investing. I appreciate that it has now been a year since the Government produced their AI opportunities action plan, but can the Minister please advise the House what has been done to help the UK AI SME industry to win government contracts? The concern I hear— I declare an interest as a co-founder of the Business AI Alliance, with over 200 UK AI SME members—is that these companies cannot get the contracts the Government are putting out.
+
+Lord Leong (Lab)
+First, the noble Lord is absolutely right to highlight this issue. I really welcome his continued engagement on this. Small and medium- sized enterprises are vital to AI-driven growth. The Government are supporting SMEs through a whole series of targeted innovation funding, access to test bids—which is available now—and digital adoption programmes, alongside partnerships with research institutions. By lowering barriers to experimentation, we enable smaller firms to enhance productivity and compete more effectively. This ensures that the economic benefits of AI are shared across the country, fostering a diverse and resilient digital economy throughout the United Kingdom.
+
+Baroness Ritchie of Downpatrick (Lab)
+My Lords, building on the work that my noble friend the Minister has outlined, and considering that AI is changing the world of work and that superintelligence poses an even greater threat to the UK job market, can my noble friend outline what the Government are doing to reassure workers who are worried about the future of their jobs?
+
+Lord Leong (Lab)
+My Lords, my noble friend is absolutely right, and this Government will not be a bystander as people worry about what AI means for their jobs and their children’s prospects. AI will create new jobs but it will also change work and, regrettably, will replace some jobs. Change is inevitable. The consequences are not. We will support people throughout this transition by investing in skills and growth, including by establishing the new AI and the Future of Work Unit within DSIT, working with DWP and DBT, to co-ordinate action across government—although I note that however advanced these machines become, they are not yet standing at this Dispatch Box.
+
+Lord Markham (Con)
+Not yet anyway. Just this week we saw Elon Musk forecast an AI world of abundance, where robots outnumber people and people work only a few hours a week—I am wondering where I sign up for that. Who knows whether he is right or wrong but undoubtedly there will be winners and losers. We all agree that we want the UK to be one of the leaders rather than followers. What that says to me is that we really need our best minds putting together our own Elon Musk-type forecast so that we can shape it and respond accordingly. Are we doing this and, if so, when will we see it?
+
+Lord Leong (Lab)
+The noble Lord is aware that the Government are spending £2 billion on supporting all AI-related projects. We are investing £500 million in our Sovereign AI Unit, supporting UK businesses to compete internationally. The noble Lord is absolutely right: the world is changing and we have to be at the forefront by making sure that our people have the skills. More importantly, if we want AI to work for Britain, we need Britons who can work with AI.
+
+Viscount Colville of Culross (CB)
+My Lords, the California AI Transparency Act has set up a mechanism for developers of large language frontier models to publish a report on a model’s intended uses and an assessment of catastrophic risks before it is released. Is that a requirement that His Majesty’s Government might consider introducing in this country?
+
+Lord Leong (Lab)
+The noble Lord is right to highlight that issue. We are doing a lot already, but we must do more. As I said, we are investing in establishing our Sovereign AI Unit, we will equip some 10 million people with AI skills by 2030, and we will go further by supporting our SMEs to grow the AI market in this country.

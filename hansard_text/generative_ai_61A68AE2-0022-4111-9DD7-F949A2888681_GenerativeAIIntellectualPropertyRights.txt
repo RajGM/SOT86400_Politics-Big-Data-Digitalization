@@ -1,0 +1,65 @@
+ Generative AI: Intellectual Property Rights
+
+Question
+
+14:57:00
+
+Asked by
+
+Lord Clement-Jones
+To ask His Majesty’s Government, following the recommendation of the Vallance review of the regulation of emerging digital technologies, whether they plan to set out a policy position on the relationship between intellectual property rights and the training of generative AI models.
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Information and Technology (Baroness Jones of Whitchurch) (Lab)
+My Lords, the AI and creative sectors are both essential to our mission to grow the UK economy. Our goal is to find the right balance between fostering innovation in AI while ensuring protection for creators and our vibrant creative industries. This is an important but complex area and we are very aware of the need to resolve the issues. We are working with stakeholders to understand their views and will set out our next steps soon.
+
+Lord Clement-Jones (LD)
+My Lords, I thank the Minister for that reply, but the Prime Minister, in a recent letter to the News Media Association, said:
+
+“We recognise the basic principle that publishers should have control over and seek payment for their work, including when thinking about the role of AI”. 
+
+Will the Minister therefore agree with the House of Lords Communications and Digital Committee and affirm the rights of copyright owners in relation to their content used for training purposes on large language models? Will she rule out any widening of the text and data-mining exception and include in any future AI legislation a duty on developers to keep records of the material and data used to train their AI models?
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, I pay tribute to the Lords committee that has considered this issue. We are keen to make progress in this area but it is important that we get it right. The previous Government had this on their table for a long time and were not able to resolve it. The Intellectual Property Office, DSIT and DCMS are working together to try to find a way forward that will provide a solution for creative media and the AI sectors. Ministers—my colleagues Chris Bryant and Feryal Clark—held round tables with representatives of the creative industries and the AI sector recently, and we are looking at how we can take this forward to resolve the many issues and questions that the noble Lord has quite rightly posed for me today.
+
+The Earl of Devon (CB)
+My Lords, in the absence of legislation or policy it is left to the courts to wrestle with whether the training of large language models infringes copyright. For over two years now, cases have been progressing in the US, in Europe and in the UK. A German first-instance decision recently found in favour of the machines—it will be appealed. Noting my interests as an IP litigator, do the Government believe, as I do, that English common law is capable of resolving this tricky issue?
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, the Government are clear that copyright law must be respected when content is used to train AI models. If copies are made of protected work, licences must be required from the copyright owner unless a specific copyright exception applies. The problem is that the law does not yet apply equally to generative AI models, and that is the issue we are grappling with. Our view is that this should not necessarily be left to the law; unfortunately, it takes a long time for these legal cases to be resolved. We are trying to find a way forward that will be fair to everybody but that does not require the long legislative process that I know the noble Earl is all too aware of.
+
+Lord Holmes of Richmond (Con)
+My Lords, I declare my technology interests as set out in the register. Does the Minister agree that this is not just a question of fairness? We must have a respected, remunerated, consented, dynamic licensing market for IP and copyrighted works for both the benefit of IP and creatives and for a flourishing AI market in the UK.
+
+Baroness Jones of Whitchurch (Lab)
+The noble Lord is quite right: we have to find a way forward that reflects the importance of both these sectors to our economy. The creative industries are one of the UK’s most powerful economic activities, worth £124 billion in GVA at the moment, so they are hugely important. We know that we have to respect the creative sector and the journalists working in it, but equally, we know that the future will be about an enhanced AI system. More and more businesses in the UK are now using AI, so that is the way forward and we have to find a way through this, but there is not a simple answer. I assure noble Lords that my colleagues, particularly Chris Bryant and Feryal Clark, are very aware of this issue. It has to be resolved but we would just ask for a little bit more space to allow us to make some progress.
+
+Lord Spellar (Lab)
+My Lords, the Minister rightly referenced the importance of the cultural sector not only to our national life but particularly to our economy. Does not the music sector, in particular, require a pipeline of talent and the protection, therefore, of the original work to enable people to develop their skills but also to make a living? Should this not be a crucial part of any such policy?
+
+Baroness Jones of Whitchurch (Lab)
+My noble friend makes a very good point, and I can assure him that my colleague Chris Bryant is very aware of this; he will know of his passion for this issue. We are working on finding a way forward, and I can assure my noble friend that no stone will remain unturned as we try to do so. I hope to come back with a further progress report in the very near future.
+
+Noble Lords
+My Lords—
+
+Lord Kennedy of Southwark (Lab Co-op)
+My Lords, shall we hear from the former Leader of the House next? Then we will hear from the Cross Benches.
+
+Baroness Stowell of Beeston (Con)
+I am very grateful to the noble Lord. Copyright clearly affects a lot of different sectors, but given the value of real-time news to the AI platforms, particularly in the production of services and products that they offer to consumers, what steps are the Government taking to ensure that there is a mutually beneficial deal between the platforms and news organisations, so that we can safeguard the content that will be so important to the continuing advancement of this technology?
+
+Baroness Jones of Whitchurch (Lab)
+The noble Baroness will know that there was an attempt to come to a voluntary agreement on this under the previous Government that would have been a way forward for both sectors. Unfortunately, that voluntary agreement did not work out, so the ball has bounced back into our court. The noble Baroness is absolutely right about journalism: if we do not have a vibrant journalistic bedrock for this society, we do not really have a democratic society; we need to know what is going on in the UK and the world. The noble Baroness is right that we need to protect journalists: we need to ensure that their work is rewarded and paid in the right way. We are working on this. I am sorry that I am beginning to sound a bit like a stuck record, but I assure noble Lords that we are working at pace to try to resolve these issues.
+
+Viscount Colville of Culross (CB)
+My Lords, many creators sold their IP rights to big publishers before the advent of large language models. Since then, those publishers have been exploiting creators’ work for the training of large language models and the creation of new AI performances, but they have failed to recompense the original creators. Does the Minister think that creators’ performance and moral rights should be updated in the face of the new use by AI of their work?
+
+Baroness Jones of Whitchurch (Lab)
+That is exactly what we are trying to achieve. Creatives need to be properly respected and rewarded for their activities. We need to make sure that when scraping and web-crawling takes place, there is transparency about that and the originators of the material are properly recognised and rewarded.
+
+Lord Markham (Con)
+My Lords, as the Minister knows, AI model training and associated copyright infringement can occur anywhere in the world, effectively offshoring copyright infringement. So while we welcome the Minister for AI’s statement that the Government will end uncertainty around the use of copyright content for AI, I am afraid I have another tricky question to add. How do we intend to do that in the space of protecting UK content from international offshoring?
+
+Baroness Jones of Whitchurch (Lab)
+The noble Lord is quite right: not only is our material used internationally, but UK-based AI sites are using internationally created material. So this is an international problem—we cannot resolve it just within the UK. We are working closely with international partners, and it is a shared priority for Governments across the world. The Intellectual Property Office is engaging with international partners and other offices, including the World Intellectual Property Organization, to try to advance discussions on this issue. As the noble Lord said, it is an important international issue. We cannot resolve it on our own.

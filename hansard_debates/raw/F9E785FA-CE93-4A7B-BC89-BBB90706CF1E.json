@@ -1,0 +1,135 @@
+{
+  "Overview": {
+    "Id": 4601354,
+    "ExtId": "F9E785FA-CE93-4A7B-BC89-BBB90706CF1E",
+    "Title": "Welfare System: Impact of AI",
+    "HRSTag": "hs_8Question",
+    "Date": "2023-11-13T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 740,
+    "ContentLastUpdated": "2023-11-21T02:22:47.41",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "AD0957F3-8196-49EF-9481-8CE5ECE44AE2",
+    "NextDebateTitle": "Destitution: Children",
+    "PreviousDebateExtId": "04A1C94E-31FE-4D2A-A745-7D47BE1BBA02",
+    "PreviousDebateTitle": "Menopause: Workplace Support"
+  },
+  "Navigator": [
+    {
+      "Id": 4601347,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "724422cb-b317-414b-9b9d-d6a9ea23a456",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4601351,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4601347,
+      "SortOrder": 5,
+      "ExternalId": "47032D17-CAE5-45DE-8E21-C427FB44A89A",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4601352,
+      "Title": "Work and Pensions",
+      "ParentId": 4601351,
+      "SortOrder": 6,
+      "ExternalId": "20C2F4D8-93BE-4581-BCDE-D6D98DF7CB17",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4601354,
+      "Title": "Welfare System: Impact of AI",
+      "ParentId": 4601352,
+      "SortOrder": 8,
+      "ExternalId": "F9E785FA-CE93-4A7B-BC89-BBB90706CF1E",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 38627966,
+      "MemberId": 4092,
+      "AttributedTo": "Stephen Metcalfe (South Basildon and East Thurrock) (Con)",
+      "Value": "<Question HRSContentId=\"{E0817CEE-A081-4933-8222-56449B7D7524}\">2. <QuestionText HRSContentId=\"{35579CD4-2024-479D-8876-6E5F1F990290}\">What assessment he has made of the potential impact of AI on the functioning of the welfare system. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "E0817CEE-A081-4933-8222-56449B7D7524",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "900001",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 38627967,
+      "MemberId": 3935,
+      "AttributedTo": "The Secretary of State for Work and Pensions (Mel Stride)",
+      "Value": "We have a number of projects that use artificial intelligence within the Department to drive performance, efficiency and the service we provide to our customers. One important point to bear in mind is that we never replace a human when it comes to judgments relating to a claim or an appeal.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "0DD97389-1CFA-42F9-B744-E77C80064A42",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 38627968,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"361\" class=\"column-number column-only\" data-column-number=\"361\"></span>",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 38627969,
+      "MemberId": 4092,
+      "AttributedTo": "Stephen Metcalfe",
+      "Value": "Will my right hon. Friend tell the House what assessment he has made of the potential merits of the use of AI in fraud protection? How will his Department ensure that appropriate safety measures are in place?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "8FACB537-5A2A-43F8-A4CC-0671C4341C7F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 38627970,
+      "MemberId": 3935,
+      "AttributedTo": "Mel Stride",
+      "Value": "Let me take the second of my hon. Friend’s points first. As I have outlined, there is always human intervention when it is appropriate. None the less, he is quite right to raise the issue of fraud and error. We have seen a reduction in the Department over the past year of some 10% across the benefit system, and much of that has been driven by machine learning and data analytics.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "03DCE6D9-7247-4531-B1DF-6113F793EA84",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

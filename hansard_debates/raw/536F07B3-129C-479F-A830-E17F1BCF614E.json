@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 4356516,
+    "ExtId": "536F07B3-129C-479F-A830-E17F1BCF614E",
+    "Title": "Surveillance Technology: Trade with China",
+    "HRSTag": "hs_8Question",
+    "Date": "2022-06-16T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 716,
+    "ContentLastUpdated": "2022-06-16T23:30:28.233",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "45238769-E9AB-4940-BEB4-4496D252E54B",
+    "NextDebateTitle": "UK-India Free Trade Agreement",
+    "PreviousDebateExtId": "1E09F22F-4746-479F-A4DD-7E4E4081C485",
+    "PreviousDebateTitle": "Trade with Commonwealth Countries"
+  },
+  "Navigator": [
+    {
+      "Id": 4356508,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "3183db1a-f98e-4701-a05d-5fd5b1c65f61",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4356511,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4356508,
+      "SortOrder": 4,
+      "ExternalId": "CAE5F9B6-D0DB-486E-901C-310A8DC9D049",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4356512,
+      "Title": "International Trade",
+      "ParentId": 4356511,
+      "SortOrder": 5,
+      "ExternalId": "15671511-4708-4935-AE7B-4C69D20E7D47",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4356516,
+      "Title": "Surveillance Technology: Trade with China",
+      "ParentId": 4356512,
+      "SortOrder": 9,
+      "ExternalId": "536F07B3-129C-479F-A830-E17F1BCF614E",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34599159,
+      "MemberId": 4471,
+      "AttributedTo": "Rachael Maskell (York Central) (Lab/Co-op)",
+      "Value": "<Question HRSContentId=\"{973463B5-B4E2-4C53-A474-64CCC0AB0E94}\">4. <QuestionText HRSContentId=\"{6B0844B7-E0BE-49AC-8F0F-D14E6728A241}\">What discussions she has had with Cabinet colleagues on the impact of trade with China on surveillance technology. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "973463B5-B4E2-4C53-A474-64CCC0AB0E94",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "900493",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34599160,
+      "MemberId": 4498,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for International Trade (Mr Ranil Jayawardena)",
+      "Value": "China remains a significant trading partner for the United Kingdom, and there is scope for mutually beneficial trade and investment. In 2021, China was Britain’s third largest trading partner, but our approach to China is, and will remain, rooted in our values. As set out in the integrated review, we want a positive trade and investment relationship with China, but we will make sure that Britain’s national security, and the values of the British people, are protected.",
+      "OrderInSection": 2,
+      "Timecode": "2022-06-16T09:46:44",
+      "ExternalId": "8E879B1D-61C6-4EB1-AA61-3B3C96D5E66F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34599161,
+      "MemberId": 4471,
+      "AttributedTo": "Rachael Maskell",
+      "Value": "The EU Parliament, Australian Government, and the US recognise the dangers of Chinese state owned surveillance cameras, and are introducing sanctions against Hikvision, and others, due to the national security considerations, and the facilitation of human rights atrocities in Xinjiang. The UK Government have not ceased trade in those products, and are placing them in UK schools, hospitals, on our streets, and even in Government Departments. Does the Minister agree that the UK should immediately cease trading in security equipment with China, and funding those companies implicated in genocide?",
+      "OrderInSection": 3,
+      "Timecode": "2022-06-16T09:47:20",
+      "ExternalId": "76ECDBA0-B6E8-44AA-96B6-63AFE9F4260D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34599162,
+      "MemberId": 4498,
+      "AttributedTo": "Mr Jayawardena",
+      "Value": "We remain seriously concerned about allegations levied against Chinese surveillance firms with regard to Xinjiang, and we take the security of our citizens, systems and establishments very seriously. We have a range of measures in place to scrutinise the integrity of our arrangements. In addition, the Procurement Bill will further strengthen the ability of public sector bodies to disqualify suppliers from bidding for contracts where there is a history of misconduct. We have already <span id=\"414\" class=\"column-number\" data-column-number=\"414\"></span>set out a number of measures to help ensure that no British organisations are profiting from or contributing to the violations of rights.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "CA302128-C06E-4479-BF07-323057234E0A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

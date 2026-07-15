@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4675558,
+    "ExtId": "04D8C6C6-5E6F-4716-ADD6-8079D201E86E",
+    "Title": "AI: Impact on Democracy",
+    "HRSTag": "hs_8Question",
+    "Date": "2024-04-17T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 748,
+    "ContentLastUpdated": "2024-04-29T19:32:30.097",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "35F1FDD9-2318-471E-8210-59B537269413",
+    "NextDebateTitle": "Topical Questions",
+    "PreviousDebateExtId": "A93B0DDE-63A6-4419-AF51-3862C66D83F7",
+    "PreviousDebateTitle": "Online Safety Act: Implementation"
+  },
+  "Navigator": [
+    {
+      "Id": 4675549,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "d670db76-5cdc-4fdc-8366-20a36547950f",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4675552,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4675549,
+      "SortOrder": 4,
+      "ExternalId": "8C476CAF-6344-4A71-BFEE-E2FFEFAD3535",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4675553,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4675552,
+      "SortOrder": 5,
+      "ExternalId": "1205870F-BEE3-44E0-9393-268AEBD0D5F3",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4675558,
+      "Title": "AI: Impact on Democracy",
+      "ParentId": 4675553,
+      "SortOrder": 10,
+      "ExternalId": "04D8C6C6-5E6F-4716-ADD6-8079D201E86E",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763433,
+      "MemberId": 4393,
+      "AttributedTo": "Stuart C. McDonald (Cumbernauld, Kilsyth and Kirkintilloch East) (SNP)",
+      "Value": "<Question HRSContentId=\"{A6DFF2A9-4AE7-49D0-BFB9-9937AAE2CA17}\">7. <QuestionText HRSContentId=\"{C5C2DE39-110B-4725-B06B-7D80DD11639C}\">What assessment her Department has made of the potential impact of AI on democracy. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "A6DFF2A9-4AE7-49D0-BFB9-9937AAE2CA17",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "902265",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763434,
+      "MemberId": 4818,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Saqib Bhatti)",
+      "Value": "The Government are clear that artificial intelligence is the defining technology of our time, with the potential to transform humanity positively. We also recognise the challenges that AI can pose. As has been said, we are working to ensure that we respond to the full range of threats to our democratic processes, including through the defending democracy taskforce. DSIT is engaging with social media platforms, civil society groups, academia and international partners to tackle the risks that AI can pose to democracy.",
+      "OrderInSection": 2,
+      "Timecode": "2024-04-17T11:51:36",
+      "ExternalId": "BA9CAFEA-EE6A-4945-8F1B-26FEAA9E8343",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763435,
+      "MemberId": 4393,
+      "AttributedTo": "Stuart C. McDonald",
+      "Value": "In the longer term, I agree that AI has enormous potential to support participation in politics, and we should seek to harness that. But in the short term, disinformation and deepfakes, often put together by foreign actors, threaten to have the most immediate impact on democracy. What risk does the Minister believe AI poses to this year’s election in particular, and what steps is he taking to alleviate those risks?",
+      "OrderInSection": 3,
+      "Timecode": "2024-04-17T11:52:03",
+      "ExternalId": "A17A5A82-0706-4E7D-91CB-0FEB9467C90E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763436,
+      "MemberId": 4818,
+      "AttributedTo": "Saqib Bhatti",
+      "Value": "Let me be very clear: the UK will not tolerate malicious cyber-activity that targets our democratic institutions. The Deputy Prime Minister has already come to this Dispatch Box and taken definitive action where that has happened. The defending democracy taskforce and Government teams are working collaboratively to ensure that we respond to threats to our democratic processes, including digitally manipulated content. The Online Safety Act will force companies to take proactive, preventive action against illegal, state-sponsored content online via the foreign interference offence, including deepfakes and other AI-generated content within the scope of the Act.",
+      "OrderInSection": 4,
+      "Timecode": "2024-04-17T11:52:37",
+      "ExternalId": "518CA058-A3D5-4654-8CCC-63E93E7D672A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763437,
+      "MemberId": 345,
+      "AttributedTo": "Sir Edward Leigh (Gainsborough) (Con)",
+      "Value": "In two short sentences, will the Minister reassure us that AI will not destroy not just democracy, but the human race?",
+      "OrderInSection": 5,
+      "Timecode": "2024-04-17T11:52:57",
+      "ExternalId": "C78BB518-1749-4038-B10D-834CBAB2725D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39763438,
+      "MemberId": 4818,
+      "AttributedTo": "Saqib Bhatti",
+      "Value": "Two sentences, Mr Speaker. I can confirm that the Government are taking a proactive approach to AI. The defending democracy taskforce is working very hard to protect our democratic processes.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "C184CD1B-9BC3-4209-9072-8FC880E74AB5",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

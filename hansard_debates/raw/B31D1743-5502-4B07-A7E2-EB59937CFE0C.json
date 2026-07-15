@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 4801986,
+    "ExtId": "B31D1743-5502-4B07-A7E2-EB59937CFE0C",
+    "Title": "AI: Copyright in the Creative Industries",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-01-08T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 759,
+    "ContentLastUpdated": "2025-01-09T11:06:24.54",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "300CF460-B0B3-4405-94B6-23A6AFBD4421",
+    "NextDebateTitle": "NHS Diagnostic Processes: Technological Innovation",
+    "PreviousDebateExtId": "533839CA-11B1-4A2D-BCC9-A20AA8D4CB01",
+    "PreviousDebateTitle": "Mathematical Sciences Academy"
+  },
+  "Navigator": [
+    {
+      "Id": 4801980,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "2a9f81ed-e0a4-4bac-8813-e88b12f1a25f",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4801983,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4801980,
+      "SortOrder": 4,
+      "ExternalId": "4CE2E10F-43FD-4F1A-A49C-75841DA75F00",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4801984,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4801983,
+      "SortOrder": 5,
+      "ExternalId": "13F012D4-ADD0-42B5-9C77-CC357BD00944",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4801986,
+      "Title": "AI: Copyright in the Creative Industries",
+      "ParentId": 4801984,
+      "SortOrder": 7,
+      "ExternalId": "B31D1743-5502-4B07-A7E2-EB59937CFE0C",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757068,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"828\" class=\"column-number column-only\" data-column-number=\"828\"></span>",
+      "OrderInSection": 0,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757069,
+      "MemberId": 5123,
+      "AttributedTo": "Ms Polly Billington (East Thanet) (Lab)",
+      "Value": "<Question HRSContentId=\"{C09BC25F-7E9C-4208-9E1B-4D0D2F03B2E2}\">2. <QuestionText HRSContentId=\"{BC1EF866-0CA3-43E6-9807-A7C02565AB52}\">What steps his Department is taking to protect the copyright of people working in the creative industries in the context of artificial intelligence.</QuestionText> </Question>",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "C09BC25F-7E9C-4208-9E1B-4D0D2F03B2E2",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "901946",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757070,
+      "MemberId": 1446,
+      "AttributedTo": "The Minister for Data Protection and Telecoms (Chris Bryant)",
+      "Value": "We are absolutely determined to make sure that copyright and intellectual property are protected, as they always have been in this country. Our consultation is designed to do two specific things: to make sure there is legal certainty for AI developers and creative industries alike, and to make sure there is more licensing of copyright material by AI developers.",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "6287A714-6844-4830-8F10-732543F1FF2B",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757071,
+      "MemberId": 5123,
+      "AttributedTo": "Ms Billington",
+      "Value": "I thank my hon. Friend for that answer. However, visual artists earn far below the minimum wage, and rely on copyright royalties to finance their work and continue to contribute to our world-leading creative industries—in Thanet and across the country. What reassurances can the Minister give that the plans for a copyright exception for AI learning will not further contribute to that financial instability and weaken the lifeblood of our creative economy?",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "E4F4DE91-6E99-4FA7-BB4C-2589DE81CF95",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757072,
+      "MemberId": 1446,
+      "AttributedTo": "Chris Bryant",
+      "Value": "My hon. Friend is absolutely right. She could big up her own constituency a little more, because Margate is probably one of the greatest centres of artists in this country. It is where Turner was trained and went to school, and where we have Turner Contemporary. It is also where Tracey Emin is doing so much work and many other artists as well. It is a brilliant hub.\r\n\r\nWe want to make sure—as we did in the last Labour Government, when we introduced the artist’s resale right—that artists can earn a living from their art. That is what we are determined to do. Just as last year New Zealand and Australia entered into the same agreement for an artist’s resale right, we want to make sure that there is a future revenue stream for every single artist in this country.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "0759DA9D-74A6-44A7-AB4D-0461AB771C1F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757073,
+      "MemberId": 39,
+      "AttributedTo": "Sir John Whittingdale (Maldon) (Con)",
+      "Value": "Does the Minister agree that transparency is crucial if creators are to understand where their works are being used by AI developers? Can he therefore assure me that the Government will legislate on transparency whatever the outcome of the consultation on copyright reform?",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "AED05C51-3BA2-4979-AFD0-FE5A5E581EB4",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41757074,
+      "MemberId": 1446,
+      "AttributedTo": "Chris Bryant",
+      "Value": "The right hon. Gentleman makes a good point about transparency, which is a key element of our consultation. We have presented a package because we want to ensure there is a win-win here. We want AI developers to have the legal certainty that they need to develop their products in the UK as UK producers, and for creative industries to know when their works are being used, so that if they want to say no they can say no, and if they want to say yes they will be properly remunerated for it.",
+      "OrderInSection": 7,
+      "Timecode": null,
+      "ExternalId": "6D42772A-E7AC-442E-AB24-93CBD5456E6B",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

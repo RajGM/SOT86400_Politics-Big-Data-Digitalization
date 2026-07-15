@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 4693030,
+    "ExtId": "39FEC7DB-A870-460E-995A-F7D9AF2075FE",
+    "Title": "Intellectual Property and Copyright: Artificial Intelligence",
+    "HRSTag": "hs_8Question",
+    "Date": "2022-12-01T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 723,
+    "ContentLastUpdated": "2024-06-12T18:34:28.54",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "19DE99B1-9806-4686-A355-94A6CE0FD16F",
+    "NextDebateTitle": "Rural Broadband",
+    "PreviousDebateExtId": "C2C76BCD-5201-46FF-8EF0-F0F97D4A3684",
+    "PreviousDebateTitle": "Prayers"
+  },
+  "Navigator": [
+    {
+      "Id": 4693025,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "f6391515-b969-4999-bd59-60d3aa33687f",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4693028,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4693025,
+      "SortOrder": 4,
+      "ExternalId": "4AE6D1D0-7A3F-49A9-8634-AC7AED52BE15",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4693029,
+      "Title": "Digital, Culture, Media and Sport",
+      "ParentId": 4693028,
+      "SortOrder": 5,
+      "ExternalId": "AE15EA0F-CCA5-4C1D-8420-44B5E7993E5C",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4693030,
+      "Title": "Intellectual Property and Copyright: Artificial Intelligence",
+      "ParentId": 4693029,
+      "SortOrder": 6,
+      "ExternalId": "39FEC7DB-A870-460E-995A-F7D9AF2075FE",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013660,
+      "MemberId": 4591,
+      "AttributedTo": "Sarah Olney (Richmond Park) (LD)",
+      "Value": "<Question HRSContentId=\"{6AAE918D-600F-43FE-90B5-485BBB8B33AA}\">1. <QuestionText HRSContentId=\"{D860D393-4719-457A-8943-11686E425190}\">What assessment she has made of the potential impact of artificial intelligence on intellectual property rights for performers and creative workers. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "6AAE918D-600F-43FE-90B5-485BBB8B33AA",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "902496",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013661,
+      "MemberId": 318,
+      "AttributedTo": "John Spellar (Warley) (Lab)",
+      "Value": "<Question HRSContentId=\"{25BADDBB-7D3A-4A0C-A4E1-C7CDA74A1B26}\">14. <QuestionText HRSContentId=\"{24C21025-181A-4996-A181-BA67CE9F03D5}\">What assessment the Government has made of the potential impact on the creative industries of the proposed copyright exemption for text and data mining for artificial intelligence. </QuestionText></Question>",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "25BADDBB-7D3A-4A0C-A4E1-C7CDA74A1B26",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "902509",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013662,
+      "MemberId": 4647,
+      "AttributedTo": "The Minister of State, Department for Digital, Culture, Media and Sport (Julia Lopez)",
+      "Value": "The recent Intellectual Property Office consultation on artificial intelligence and intellectual property sought evidence and views on text and data mining. A response was published in June. We recognise that the creative industries have significant concerns about the potential impacts of the TDM proposal and as a result, we are reflecting on whether to progress it in its current form. The IPO will be engaging with interested parties over the coming months to help to inform the Government’s thinking and we will set out the next steps in due course.",
+      "OrderInSection": 3,
+      "Timecode": "2022-12-01T09:30:00",
+      "ExternalId": "504A9CAF-790A-4B15-8832-02C34D881879",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013663,
+      "MemberId": 4591,
+      "AttributedTo": "Sarah Olney",
+      "Value": "It was encouraging to hear the Minister tell the Lords Communications and Digital Committee last week that she is confident that the text and data mining proposal will not go ahead. That has been warmly welcomed by the creative industries, which depend heavily on intellectual property rights for their income stream. What steps will the Minister be taking to ensure that any revised proposals to promote AI do not cause economic harm to the creative industries? Will she provide an update on her conversations with the Intellectual Property Office, including the detail of its plans to extend the consultation on the proposal?",
+      "OrderInSection": 4,
+      "Timecode": "2022-12-01T09:30:00",
+      "ExternalId": "8AC84725-7B96-4A1E-8B9E-27BE79D55B5A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013664,
+      "MemberId": 4647,
+      "AttributedTo": "Julia Lopez",
+      "Value": "I thank the hon. Lady for raising the issue and speaking on behalf of the creative industries; IP is the lifeblood of many of those industries. As I said in the Lords Committee, I am not convinced of the <span id=\"984\" class=\"column-number\" data-column-number=\"984\"></span>value of the proposal. Yesterday, the Under-Secretary of State for Digital, Culture, Media and Sport, my hon. Friend the Member for Sutton and Cheam (Paul Scully), and I met the Minister of State, Department for Business, Energy and Industrial Strategy, my hon. Friend the Member for Mid Norfolk (George Freeman), who has responsibility for the Intellectual Property Office. As I mentioned, he is extending the consultation on this and we will be talking to him in the meantime. We hope to provide further details as soon as we can.",
+      "OrderInSection": 5,
+      "Timecode": "2022-12-01T09:30:00",
+      "ExternalId": "E2257F21-CAFF-42CC-93AB-9F9C9C6883AD",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013665,
+      "MemberId": 318,
+      "AttributedTo": "John Spellar",
+      "Value": "The Minister clearly agrees that our creative industries, especially music, are not only valuable in themselves, but part of what makes Britain great. It follows that we must encourage and support our creative talent across the spectrum. She also clearly understands and shares the industries’ concern about eroding creative copyright for the benefit of the AI giants, so what will she do to stop it?",
+      "OrderInSection": 6,
+      "Timecode": "2022-12-01T09:30:00",
+      "ExternalId": "3FB75522-5F3F-45CF-BC82-7F5188CBE258",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40013666,
+      "MemberId": 4647,
+      "AttributedTo": "Julia Lopez",
+      "Value": "Hopefully, I have set that out in my previous answer. I raised the concerns of the creative industries with the responsible Minister and he was sympathetic to those concerns. He will go back and look at the consultation again to examine in greater detail some of the concerns that have already come from the creative industries and see whether the proposal can be revised.",
+      "OrderInSection": 7,
+      "Timecode": null,
+      "ExternalId": "47D01342-6BB8-45FA-B737-16FA10E84DEA",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

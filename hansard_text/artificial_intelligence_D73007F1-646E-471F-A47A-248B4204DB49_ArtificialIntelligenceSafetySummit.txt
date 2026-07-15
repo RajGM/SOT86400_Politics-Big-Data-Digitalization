@@ -1,0 +1,171 @@
+ Artificial Intelligence Safety Summit
+
+11:04:00
+
+The Secretary of State for Science, Innovation and Technology (Michelle Donelan)
+With permission, Madam Deputy Speaker, I shall make a statement about the Government’s artificial intelligence safety summit.
+
+Today I update the House about a turning point in our history. With 1% of the world’s population, we have built the third largest AI sector. We have rocketed ourselves to a 688% increase in AI companies basing themselves here in less than a decade, and UK AI scale-ups are raising almost double that of France, Germany and the rest of Europe combined. But the sudden and unprecedented growth in the speed and power of artificial intelligence presents unlimited opportunities along with the potential of grave risks, which we cannot ignore.
+
+I truly believe that we stand at a crossroads in human history. To turn the wrong way would be a monumental missed opportunity for mankind, which is why last week presented such a watershed moment. We convened leaders, Ministers, developers, scientists and academics from across the globe to discuss for the first time the risks and opportunities of frontier AI. Although the collection of countries and organisations that came to Bletchley Park was unprecedented, our goal from the start was to leave with tangible outcomes. Let me briefly outline a handful of actions that have resulted from the summit.
+
+First, 28 countries and the European Union, representing the majority of the world’s population, signed up to an unprecedented agreement known as the Bletchley declaration. Despite some claiming that such a declaration would be rejected by many countries in attendance, we agreed that, for the good of all, AI should be designed, developed, deployed and used in a manner that is safe, human-centric, trustworthy and responsible. We agreed on the protection of human rights, transparency and explainability, fairness, accountability, regulation, safety, appropriate human oversight, ethics, bias mitigation, privacy and data protection.
+
+We also agreed to measure, monitor and mitigate potentially harmful capabilities and the associated effects that may emerge—in particular to prevent misuse and issues of control, and the amplification of other risks—and that Turing prize winner Yoshua Bengio, credited as being one of the godfathers of AI, would lead on a state of science report to ensure that, collectively, we stay on top of the risks of frontier AI.
+
+Countries with differing world views and interests, including China, signed the same agreement. Some had said that China would not come to the summit, but it did. They said that, if it does attend, China would never sign an agreement, but it did. Then they said that if China did sign the agreement, it would not agree to continue collaborating in the long term—but it did that as well. That alone would have made the summit a watershed moment in the history of AI safety, but we went further.
+
+We surpassed all expectations by securing an agreement on Government-led testing pre-deployment of the models. This is truly a game changer to help ensure that we can safely harness the benefits of frontier AI while mitigating the risks. To facilitate it, the UK announced that the world-leading frontier taskforce will morph into the world’s first permanent AI safety institute, which will bring together the very best AI minds in the world to research future risks and conduct third-party testing of models.
+
+This is just the start of the journey on AI safety, which is why we have also confirmed funding for the institute for the rest of the decade and secured future AI safety summits to be held in the Republic of Korea in six months’ time and in France in one year’s time, ensuring that the extraordinary pace of international action set by the summit last week is maintained into the future.
+
+None the less, the summit is just one piece in the UK’s overall approach to AI safety. Our White Paper published earlier this year was praised for ensuring that the UK can be agile and responsive as risks emerge. I am sure that Opposition Members will call for a one-size-fits-all “snapshot in time” piece of legislation, but we must ensure that we deepen our understanding of the problem before we rush to produce inadequate legislation.
+
+We also need to ensure that we are quick enough to act, which is why we have taken the steps to ensure that we can keep pace with the development of the technology, with the next set of models being released within six months. AI is the fastest emerging technology that we have ever seen, and we need a system that can identify, evaluate and understand AI to then allow us to mitigate the risks with the right guardrails. That is why it is such an achievement to agree the pre-deployment testing of models; we should not underestimate that achievement.
+
+Companies need to do more too, which is why before the summit we managed to go further than any country ever has. We secured the publication of the main AI companies’ safety policies, along with a catalogue of the possible policies, ensuring transparency and a race to the top, complemented by the recent US executive order. It is also why I have been advocating for responsible capability scaling, which I often refer to as a kind of smoke alarm for AI developers.
+
+The release of ChatGPT not even a year ago was a breakthrough moment for humanity. We were all surprised by the progress. We saw the acceleration of investment into, and adoption of, AI systems at the frontier, making them increasingly powerful and consequential to our lives. These systems could turbocharge our public services, saving lives in the NHS and tailoring education to every child’s needs. They could free people everywhere from tedious work and amplify our creative abilities. They could help our scientists to unlock bold new discoveries, opening the door to a world where one day diseases such as cancer will no longer exist and there will be access to near-limitless clean energy.
+
+But these systems could also further concentrate unaccountable power in the hands of a few, or be maliciously used to undermine societal trust, erode public safety or threaten international security. The British people deserve to know that those who represent them in this place are driving forward the right guardrails and governance for the safe development and deployment of frontier AI systems. I firmly believe that it cannot be left to chance or private actors alone, nor is it an issue for party political squabbling or point scoring.
+
+As we stand here today, what was once considered science fiction is quickly becoming science fact. Just a few years ago, the most advanced AI systems could barely write coherent sentences. Now they can write poetry, help doctors to detect cancer, and generate photo-realistic images in a split second, but with those incredible advances come potentially grave risks, and we refuse to bury our head in the sand. We cannot ignore or dismiss the countless experts who tell us plain and simple that there are risks of humans losing control, that some model outputs could become completely unpredictable, and that the societal impacts of AI advances could seriously disrupt safety and security here at home.
+
+Countries entered the summit with diverse and conflicting views of the world. Some speculated that a deal between the countries invited would be impossible, but what we achieved in just two days at Bletchley Park will be remembered as the moment that the world came together to begin solving an unprecedented global challenge. An international approach is not just preferable, but absolutely essential. Some Members understandably questioned the decision to invite China to the summit, and I do not dismiss the very real concerns and grievances that many on both sides of the House might have had, but a Government who represent the British people must ultimately do what is right for the British people, especially when it comes to keeping them safe. I am firm that it was the right decision for the country in the long term. There simply cannot be a substantive conversation about AI without involving the world’s leading AI nations, and China is currently second in the world in AI.
+
+AI is not some phenomenon that is happening to us; it is a force that we have the power to shape and direct. I believe that we have a responsibility—and, in fact, a duty—to act and to act now. I conclude by taking us back to the beginning: 73 years ago, Alan Turing dared to ask whether computers would one day think. From his vantage point at the dawn of the field, he observed that
+
+“we can only see a short distance ahead, but we can see plenty there that needs to be done.”
+
+For us in this place, there is indeed plenty that needs to be done, but we cannot do it in isolation, so I urge Members across the House to adopt the collaborative, constructive approach that the international community displayed at Bletchley last week. If we in this place put our differences aside on this issue and work pragmatically on behalf of the British people, this new era of artificial intelligence can truly benefit every person and community across the country and beyond. Our summit was a successful step forward, but we are only just getting started. I commend this statement to the House.
+
+11:14:00
+
+Matt Rodda (Reading East) (Lab)
+I thank the Secretary of State for advance sight of her statement. As we have heard, the opportunities of AI are almost endless. It has the potential to transform the world and deliver life-changing benefits for working people. From delivering earlier cancer diagnoses to relieving traffic congestion or providing personalised tuition to children, AI can be a force for good. It is already having a positive impact in the present: in NHS hospitals such as the Huddersfield Royal Infirmary, AI is being used to help patients, cut waiting lists and save lives. The Labour party wants that technology to be available in every hospital with our fit for the future fund.
+
+However, to secure those benefits we must get on top of the risks and we must build public trust. We welcome the announcements made last week at Bletchley Park. The future summits in South Korea and France will hopefully lead to more agreement between nations about how we make this new technology work for everyone. The AI safety institute will play an important role in making this new technology safe. Labour supports its creation, but we do have some questions. It would be good to hear the Secretary of State explain why the new institute is not keeping the function of identifying new uses for AI in the public sector. As the institute is taking all the AI expertise from the taskforce, it is also unclear who in her Department will carry out the crucial role of identifying how the public sector can benefit from cutting-edge technology.
+
+There are also questions about UK computer capability. The AI safety institute policy paper states:
+
+“Running evaluations and advancing safety research will also depend on access to compute.”
+
+Yet earlier this year, the Government had less computing power than Finland and Italy. Can the Secretary of State update the House on how much of the AI research resource to which the institute will get priority access is available and operational?
+
+Of course, the main task of the institute is to understand the risks of the most advanced current AI capabilities and any future developments. The Prime Minister told the public two weeks ago that,
+
+“AI could make it easier to build chemical or biological weapons. Terrorist groups could use AI to spread fear and destruction on an even greater scale. Criminals could exploit AI for cyber-attacks, disinformation, fraud, or even child sexual abuse.”
+
+Those are stark warnings and demand urgent action from any Government. Keeping the public safe is the first duty of Government. Yet Ministers have chosen not to bring forward any legislation on the most advanced AI. All the commitments that have been made are voluntary, and that creates problems.
+
+For example, if a new company is established with advanced capabilities, how will it be compelled to join the voluntary scheme? What if a company decides it does not want to co-operate any more? Is there a mechanism to stop that happening? The stakes are too high for those questions to remain open, so I look forward to the Secretary of State’s being able to offer us more detail.
+
+There was a space for a Bill on pedicabs in London in the King’s Speech this year, but not for one on frontier AI. Other countries, such as the US, have moved ahead with mandatory regulation for safety and security. It is confusing for the public to hear a Prime Minister on the one hand tell the country that there are dangers to our way of life from AI, but on the other hand say that his Government are in no rush to regulate.
+
+Labour has called for the introduction of binding regulation on those companies developing the most powerful frontier AI because, for us, the security of the British people will always come first. I hope that the Government will now consider taking action and I look forward to the Secretary of State’s response to these points.
+
+Michelle Donelan
+I agree with the hon. Gentleman on the importance of building trust among the public, which will also ensure the adoption of AI. In relation to ensuring that we deploy AI throughout our public services, it was this Government who just the other week announced £100 million to accelerate AI in our health missions, and more than £2 million to assist our teachers to spend less time with paperwork and administration and more time in the classroom. We will continue to work hand in hand with the Cabinet Office to ensure that we utilise AI in our public services, but to be able to do that, we must of course grip the risk, which is exactly why we called the summit.
+
+On computing, the hon. Member will be only too aware that the Chancellor of the Exchequer announced earlier this year £900 million for an exascale programme, which we have allocated in Edinburgh. We have also dedicated £300 million—triple the original amount announced—to AI research resource facilities in Cambridge and Bristol, the first of which will come on stream this year.
+
+The hon. Member also referenced the risk document that we published. We were the first Government in the world to be fully transparent with the British public, showcasing the risks that AI could present. That document was produced by scientists and our national security teams.
+
+The hon. Member referenced legislation and regulation. It is not true that we have no regulation; in fact, we have multiple regulators. In the White Paper that we published earlier this year, we set out the principles that they need to work to. We should not minimise what we achieved just last week: that agreement to do testing pre-deployment is monumental. It is—absolutely—the start of a process, not the end. We could have waited and said, “Let’s just do our own piece of legislation,” which would have taken about a year, as he knows, but we do not have a year to wait, because the next set of models will come out with six months. We also need to deepen our understanding of the risks before we rush to legislate, because we believe that we need to better understand the problems before we insert long-term fixed solutions.
+
+We need to concentrate on putting the safety of the British public first, which is what we have done, so that we can seize the limitless opportunities of AI. I hope that the hon. Member will see the foresight that this Government have had in putting that not just on the British agenda but on the agenda of the world.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the Chair of the Science and Technology Committee.
+
+Greg Clark (Tunbridge Wells) (Con)
+May I congratulate the Government on convening the summit and on its success? It is, as the Secretary of State said, a considerable achievement to get the US, the EU and China to agree a communiqué. It was good to have access to the frontier models that the summit agreed. Having future summits, in six months’ time, is also an important step forward.
+
+As the Secretary of State said, the summit focused principally on frontier AI, but it is vital that we can deal with the here-and-now risks of the AI being deployed already. In the White Paper that they published in March, the Government said that they expected to legislate to have regulators pay
+
+“due regard to the principles”
+
+of that White Paper, but such a Bill was missing from the King’s Speech. Meanwhile, in the US, a very extensive executive order has been issued, and the EU is finalising its Artificial Intelligence Act.
+
+Will the Secretary of State think again, in publishing the response to the White Paper, about taking this final opportunity before a general election to ensure that the good intentions and practice of the Government are not inadvertently left behind, with other jurisdictions’ legislation preceding our own and other people setting the rules rather than the United Kingdom setting a framework for the world?
+
+Michelle Donelan
+I thank my right hon. Friend for his important question. I think it is right that we do not rush to legislate, because we need to understand properly the risks that we are facing. That is why we have been investing in bringing on board the correct experts, both into Government and into the taskforce that will now morph into the institute. It is why we have also committed not just ourselves but our international partners to producing the “state of the science” reports, so that we can stay up to date with those risks.
+
+Absolutely, we will eventually have to legislate, but as we said in the White Paper that we published earlier this year, we do not need to rush to do that; we need to get the timing right to ensure that we have the right solutions to match those problems. There is a lot that we can do without legislation. We demonstrated that last week by convening the world for collective action to secure pre-model deployment testing, to ensure that we work together to get a better handle on the risks, and to encourage partners such as America to go further, on which we have seen us and them acting in lockstep.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I call the SNP spokesperson.
+
+Richard Thomson (Gordon) (SNP)
+I thank the Secretary of State for advance sight of her statement. The Bletchley declaration provides a baseline and is useful as a starting point, but it will be ongoing engagement that counts as we develop our understanding of the opportunities and threats that AI presents.
+
+I was very taken by the Secretary of State saying that this was not an opportunity for party political point scoring. In that vein, on reflection, does she share my disappointment that the UK Government seemed to actively take steps to exclude the involvement of the devolved Administrations from around these islands from participation in the summit? Any claim that the UK might have to global leadership in AI rests in large part on the work that goes on in all parts of these islands, particularly from a legal, ethical, regulatory and technological perspective. It would have been very valuable had the other Governments that exist on these islands had the opportunity to fully participate in the summit.
+
+While the declaration is a useful starting point, it is the future work on this that will count, so may I have an assurance from the Secretary of State that the UK Government will not seek to curtail again the involvement of devolved Administrations around these islands in future national and international discussions on these matters?
+
+Michelle Donelan
+I met my counterpart—and my counterpart from Wales—just days before the summit, but as the hon. Member will appreciate, AI is not a devolved matter, and the people of Scotland were represented by the UK Government.
+
+Katherine Fletcher (South Ribble) (Con)
+I thank the Secretary of State for her statement and the frontier taskforce for all the work it has done to produce an important global moment not dissimilar to the COP process. My question is about the AI safety team. In Lancashire we have the National Cyber Force centre coming in Samlesbury, and there is already a big skills base in the region, with GCHQ in Manchester. Can she update me and my constituents on how AI safety will get fed into our national security and how she will work with the National Cyber Force centre?
+
+Michelle Donelan
+I know that my hon. Friend is a passionate advocate of cyber-security, which is one key area that we delved into at the summit. It is incredibly important that we maintain cyber-security throughout not just our Government and public services but our businesses, which is why we have been prioritising the area in the UK. I continue to talk to my hon. Friend and other Members about this work.
+
+Kevin Brennan (Cardiff West) (Lab)
+I thank the Secretary of State for her statement. On her reference to poetry, may I remind her that AI creates nothing? It generates a facsimile of text, but it does not create poetry. On the 400th anniversary of the first folio, that can only be done by this quintessence of dust that we are.
+
+On that point, why were the creative industries excluded from the AI summit, when the Secretary of State knows how bitterly disappointed they were not to be included and how profoundly existential this whole issue is for the creative industries—one of the most successful and fastest growing sectors of our economy? Instead, they have been offered the sop of a side roundtable in the future, which the platforms are not even attending. Will the Secretary of State think again about the importance of including our excellent creative industries in every discussion that the Government have about the future of artificial intelligence?
+
+Michelle Donelan
+Because the summit was only two days and was focused on a strategic conversation about frontier and the risks and opportunities, not everybody could be engaged and attend. We had an extensive programme called the road to the summit, where several roundtables were held with the creative industries, and both the Minister for Data and Digital Infrastructure and I attended. The Secretary of State for Culture, Media and Sport led some roundtables as well. We are currently working on a code of practice, bringing together the creative sector and the AI sector, to identify and come up with some of the solutions in this area.
+
+Ben Everitt (Milton Keynes North) (Con)
+It was a great pleasure to join the Secretary of State, the Prime Minister, and business and Government leaders from around the world last week at the AI safety summit. Does the Secretary of State agree that Milton Keynes showcased that it was an excellent place to not only hold global events, but to invest in technologies such as AI and robotics?
+
+Michelle Donelan
+I absolutely agree with my hon. Friend. I could not have thought of a better place to host this international summit than Bletchley Park. It is not just me who thinks so: all of our delegates remarked on how important it was to host it at such a historically significant venue, one so close to the vibrant tech capital of Milton Keynes.
+
+Jamie Stone (Caithness, Sutherland and Easter Ross) (LD)
+The Bletchley Park declaration is indeed to be welcomed. Given the more or less consensual response to the Secretary of State’s statement, it strikes me that taking this issue forward on a cross-party basis is going to be absolutely crucial. There was no mention of legislation in the King’s Speech, and although I partially accept the Secretary of State’s point about the time involved in legislating, Governments of all colours come and go, but this issue transcends those changes. Can we get an undertaking from the Secretary of State that there will be discussions right across the Chamber involving all the parties about where she sees things going and what legislation may have to be looked at in the future, in order to give continuity?
+
+Michelle Donelan
+I am more than happy to talk to anybody from around the House, and to convene a meeting with colleagues of all colours to discuss this important area and what the future may hold in terms of responses and action.
+
+Dr Luke Evans (Bosworth) (Con)
+It was in 1993 that the world wide web first became accessible to the public, and 30 years on, the world is still grappling with how to regulate and legislate for this industry. I am pleased that we heard from the summit that we are going to have proactive model checking, but I agree with the Chair of the Select Committee, my right hon. Friend the Member for Tunbridge Wells (Greg Clark), that much of this AI technology is already out there—that is the problem. How quickly will the safety institute be set up, and most importantly, how quickly will we see tangible results? Can we learn lessons from the vaccine, and from the Medicines and Healthcare products Regulatory Agency on how legislation and regulation can run alongside innovation in this sector?
+
+Michelle Donelan
+In fact, we are learning some of those lessons, because the taskforce itself was modelled on our world-leading vaccine taskforce. As to when the institute will be set up, to all intents and purposes it has already been set up, because it is the next chapter—the evolution—of the existing taskforce. That taskforce has already done research on safety, and has demonstrated to delegates at the summit the full potential of the risks that could be apparent. It has already begun testing those models, and I can assure this House that there will be pre-deployment testing of the models that are going to come out within the next six months.
+
+Stephen Doughty (Cardiff South and Penarth) (Lab/Co-op)
+The first folio has been quoted. I would like to quote a more recent famous science fiction series: one Commander Adama, who said,
+
+“You cannot play God then wash your hands of the things that you’ve created.”
+
+I absolutely agree that there are huge opportunities in AI, but we have already heard about the huge risks. The Secretary of State says that we should not rush to legislation, but the truth is that we have often lagged behind in this area—for example, in regulating social media—and we see others moving ahead, including the United States, as we have heard. The EU is also planning legislation by the end of the year. If we are not having legislation, can the Secretary of State at least assure us that an urgent assessment is being made of how hostile states are already weaponising AI for military and other purposes, including information, cyber and hybrid warfare, but also in the chemical, biological, radiological and nuclear spheres? Some hugely worrying stuff is happening out there. Are we urgently assessing it, and deciding how we will respond and defend this country?
+
+Michelle Donelan
+Let me pull up the hon. Member on one comment he made, which was about us lagging behind on legislation for social media. We are in fact leading the world with the world’s most comprehensive Bill—now Act—in that area. On the misuse of AI, this is one of the three pillars of risk that we discussed at the summit. The risk documents that we published just before the summit highlighted the fact that AI can amplify existing risks. There are already risks presented by the internet and other technologies in relation to biochemical warfare—they are present today and we are dealing with them. This could potentially amplify that, and we have certainly both talked about that internationally and are working on it domestically. We will be coming back to our White Paper within the year.
+
+Bob Blackman (Harrow East) (Con)
+Historically, every revolution at a time of technology leads to threats of job losses—people not having opportunities to work, which is dreadful for people’s lives. However, here we are today with almost full employment in the UK, and there are opportunities for AI to increase that, as well as to make people’s lives easier, improve employment prospects and, indeed, conquer diseases. Will my right hon. Friend set out some of the advantages for the average individual of harnessing artificial intelligence for the benefit of all humankind?
+
+Michelle Donelan
+The opportunities from AI are limitless, and they can transform our public services. In fact, that is already happening. We see our doctors detecting cancer earlier, and we see us utilising the technology to try to tackle things such as climate change more quickly. In relation to jobs, my hon. Friend is quite right that AI, like any technology, will change the labour market. If we look back to 1940, we see that 60% of jobs we have now did not actually exist back then. AI will create new jobs, and jobs we cannot even think of, but it will also complement our jobs now, allowing us more time to do the bits of our jobs we actually train to do—for example, assisting teachers to have more time in the classroom and doctors to have more time with patients.
+
+Neale Hanvey (Kirkcaldy and Cowdenbeath) (Alba)
+During the covid pandemic, one of my greatest concerns was the over-reliance on and the promotion of lateral flow devices as a gold standard, as it were, of testing and surveillance. It was all the more frustrating because, during that time, I was aware of domestic businesses that were developing AI models to surveil not just covid, but other viruses, such as Ebola and dengue fever. I had a recent very constructive meeting with Health, which is now on board with AI and looking at domestic diagnostics. Will the Secretary of State meet me to discuss how these businesses can be brought forward as part of a co-ordinated strategy to develop AI testing and prepare effectively for any future pandemic?
+
+Michelle Donelan
+I would be more than happy to meet the hon. Member.
+
+Deidre Brock (Edinburgh North and Leith) (SNP)
+Sorry, but not only do I not buy the Secretary of State’s excuses for not including devolved Governments in the summit when my constituency alone is bursting with leading fintech, cyber-security and creative organisations, but I do not buy her excuses for not introducing regulation more rapidly. She has said herself that the game-changing ChatGPT was introduced a year or so ago, and the EU is rapidly approaching completion of its first AI Act. Why have her Government once again been caught napping on introducing regulation?
+
+Michelle Donelan
+To repeat the comments I made earlier, AI is not a devolved matter, and the people of Scotland were represented by the UK Government—by me and also by the Prime Minister of the UK. In relation to her urging us to do a copycat of EU legislation, may I point out that it was our White Paper that was praised for its innovation and its agility? It has allowed us to attract some of the leading AI companies to set up their first international offices here in the UK, creating the jobs not only of today, but of tomorrow.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I thank the Secretary of State for her statement.

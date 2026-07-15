@@ -1,0 +1,84 @@
+ AI: Intellectual Property Rights
+
+Question
+
+11:39:00
+
+Asked by
+
+Lord Holmes of Richmond
+To ask His Majesty’s Government what steps they are taking to protect intellectual property rights in relation to artificial intelligence, in particular large language models, since discontinuing plans to develop a code of practice.
+
+Lord Holmes of Richmond (Con)
+My Lords, I beg leave to ask the Question standing in my name on the Order Paper and declare my technology interests, as set out in the register, as an adviser to Boston Ltd.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Viscount Camrose) (Con)
+My Lords, this is a complex and challenging area. We strongly support AI innovation in the UK, but this cannot be at the expense of our world-leading creative industries. Our goal is that both sectors should be able to grow together in partnership. We are currently working with DCMS to develop a way forward on copyright and AI. We will engage closely with interested stakeholders as we develop our approach.
+
+Lord Holmes of Richmond (Con)
+My Lords, our great UK creatives—musicians who make such sweet sounds where otherwise there may be silence; writers who fill the blank page with words of meaning that move us; our photographers; our visual artists—are a creative community contributing billions to the UK economy, growing at twice the rate of the UK economy. In the light of this, why are the Government content for their work, their IP and their copyright to be so disrespected and unprotected in the face of artificial intelligence?
+
+Viscount Camrose (Con)
+I thank my noble friend for the important point he raises, particularly stressing the importance to the United Kingdom of the creative industry, which contributes 6% of our GVA every year. The Government are far from content with this position and share the frustrations and concerns of many across the sector in trying to find a way forward on the AI and copyright issue. As I say, it is challenging and deeply complex. No jurisdiction anywhere has identified a truly satisfactory solution to this issue, but we continue to work internationally and nationally to seek one.
+
+Lord Ranger of Northwood (Con)
+My Lords—
+
+Baroness Stowell of Beeston (Con)
+My Lords, I am grateful to my noble friend for giving way. As I said in my letter last week to the Secretary of State on behalf of the Communications and Digital Select Committee, the Government’s reluctance to take a clear position on copyright in the context of AI and large language models is leading to
+
+“problematic business models … becoming entrenched and normalised”.
+
+The Government urgently need to take a clear position, and soon. On a practical basis, what support are they giving to market-led initiatives to improve licensing deals for news publishers and to get collective licensing regimes off the ground, to ensure that smaller rights-holders are also not left behind?
+
+Viscount Camrose (Con)
+I thank my noble friend and her committee for that important letter. First, we must not underestimate the difficulty and complexity of the issues involved in resolving this question; there are very problematic jurisdictional and technical issues. That said, the Government greatly welcome any arrangement between private sector organisations finding a way forward on this; we can all learn a great deal from the success of those arrangements. We believe that a collaborative way forward on both sides, in partnership, will be a very important part of the eventual solution.
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, the Minister was right to say that we should recognise that AI can bring opportunities to the creative sector. For example, nearly a decade after a near-fatal stroke, the musician Randy Travis has released a new song featuring AI-generated vocals. This has been done with his consent and the involvement of his record label, but elsewhere, as we have heard, AI tools are being widely used to create music in the style of established artists, despite no permission having been given and a total lack of creative control on the part of those artists and their representatives. Can the Minister outline how the Government are actively involving musicians, artists and writers in determining how best to protect that very precious intellectual property, while allowing creativity to flourish? I echo the noble Baroness’s theme: this is an urgent matter and we would like to hear how the Government will address it.
+
+Viscount Camrose (Con)
+The issue raised by the noble Baroness is of deep concern to everybody. As I say, there are some very serious problems, not least regarding the jurisdiction where any alleged infringement may or may not have taken place. Of course, any jurisdiction that implements rules one way or the other will find that the AI work she sets out so compellingly is simply offshored elsewhere. The Government engage very closely with creative groups, including fair remuneration groups for musicians and many others, and will continue to do so, looking for a solution to this difficult problem.
+
+Lord Foster of Bath (LD)
+My Lords, the noble Viscount told the Lords Communications and Digital Select Committee that he did not
+
+“believe that infringing the rights of copyright holders is a necessary precondition for developing successful AI”.
+
+Does he still hold to that view, and does he accept that it should be the clearly stated view of the Government?
+
+Viscount Camrose (Con)
+I do not believe that the AI industry, in the long term, will require long-standing copyright infringement for its success. That is and continues to be the Government’s view; any unauthorised use or copying of intellectual property or copyrighted material is an infringement. Of course, there is a range of exceptions to that, and there is the possibility of giving permission for that to happen. It becomes a very complex area, both legally and technologically, but, as I say, we continue to look for a solution.
+
+Lord Ranger of Northwood (Con)
+My Lords—
+
+Lord Cromwell (CB)
+My Lords—
+
+Noble Lords
+Cross Bench!
+
+Lord Cromwell (CB)
+I am most grateful. AI is already creating IP of its own, but it is unable to register it because, by law, a human being needs to register IP. In trying to create a legislative bottle into which this genie could be reinserted, have the Government taken that into account?
+
+Viscount Camrose (Con)
+The noble Lord raises a very interesting question. The laws surrounding the copyrighting of machine-generated content are getting fairly elderly now and certainly need to be looked at as part of the overall position going forward.
+
+Lord Ranger of Northwood (Con)
+My Lords, it is clear from the questions being raised that this is a very complex area, not least because we are bringing together the creative and legal industries and the technologists who are programming, developing and trying to stay ahead of the curve on this. What plans do the two departments involved in developing the code of practice have urgently to engage with industry—especially over the summer, when there will be a number of events and activities, including London Tech Week—so that we can more quickly develop the code and other requirements?
+
+Viscount Camrose (Con)
+Perhaps my noble friend will forgive me if I gaze into a crystal ball for a moment and predict that the eventual solution to this will involve three elements: first, some modifications to our copyright legislation; secondly, some use of technology to enable a solution; and thirdly, internationally accepted standards of interoperability in any eventual solution. We engage widely with techUK and other technology partners, but above all we engage extensively internationally. I point to our specific engagements with the World Intellectual Property Organization, the UN agency the ITU, and of course the follow-up to the AI Safety Summit, which we are co-hosting in Seoul in a couple of weeks’ time.
+
+Baroness Featherstone (LD)
+My Lords, what action are the Government taking to compel AI companies to implement measures to monitor and report IP infringements?
+
+Viscount Camrose (Con)
+One of the principles we set out in our AI White Paper is transparency. That principle—repeated across the OECD and in the EU’s AI Act—will go a long way towards doing what the noble Baroness asks. There are, though, a number of technical difficulties in implementing transparency—not legally, from our side, but rather, the computer science problems associated with processing the very large quantities of data required to generate true transparency.
+
+Lord Kirkhope of Harrogate (Con)
+My Lords, a lot of people are excited by the prospects for AI. Indeed, this country is in the lead in developing such policies and the associated opportunities. As one of those involved in preparing the GDPR in Brussels, I am concerned that the opportunities and excitement associated with the use of AI must be balanced against the protection of individual privacy and the rights of corporate structures and individuals who are worried about the abuses that might occur unless legislators are up to date and moving fast enough to deal with these matters.
+
+Viscount Camrose (Con)
+My noble friend makes some important points: AI must advance on the back of well-executed data protection. Let me take the opportunity to thank him for his outstanding contributions during the recently completed Committee stage of the Data Protection and Digital Information Bill. We continue to share the goal that he set up.

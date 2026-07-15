@@ -1,0 +1,423 @@
+ Artificial Intelligence in Weapon Systems Committee Report
+
+Motion to Take Note
+
+13:17:00
+
+Moved by
+
+Lord Lisvane
+That this House takes note of the Report from the Artificial Intelligence in Weapon Systems Committee Proceed with Caution: Artificial Intelligence in Weapon Systems (HL Paper 16).
+
+Lord Lisvane (CB)
+My Lords, it is a pleasure to introduce this debate on the report of the AI in Weapon Systems Committee. I am very grateful to the business managers for arranging an early debate; this is a fast-moving subject and it is right that the House has an early opportunity to consider it.
+
+It was a real privilege to chair the committee, for two reasons. The first was its most agreeable and expert membership, who were thoroughly collegiate and enthusiastic. The second was the outstanding staff support that we received. The excellent Alasdair Love led a first-class team by example. As well as Alasdair, I thank Sarah Jennings, our gifted policy adviser; Cathy Adams, who led us authoritatively through the complexities of international humanitarian law; Stephen Reed, who provided Rolls-Royce administration; and Louise Shewey, who was the ideal communications expert. Our two specialist advisers, Professor Dame Muffy Calder from the University of Glasgow and Adrian Weller from the Alan Turing Institute at the University of Cambridge, were invaluable.
+
+AI will have a major influence on the future of warfare. Forces around the world are investing heavily in AI capabilities but fighting is still largely a human activity. AI-enabled autonomous weapon systems—AWS—could revolutionise defence technology and are one of the most controversial uses of AI today. How, for example, can autonomous weapons comply with the rules of armed conflict, which exist for humanitarian purposes?
+
+There is widespread interest in the use of AI in autonomous weapons but there is concern as well. Noble Lords will be aware of recent reports that Israel is using AI to identify targets in the Gaza conflict, potentially leading to a high civilian casualty rate. In a society such as ours, there must be democratic endorsement of any autonomous weapon capability. There needs to be greater public understanding; an enhanced role for Parliament in decision-making; and the building and retention of public confidence in the development and potential use of autonomous weapons.
+
+The Government aim to be “ambitious, safe, responsible”. Of course we agree in principle, but aspiration has not entirely lived up to reality. In our report, we therefore made proposals to ensure that the Government approach the development and use of AI in AWS in a way that is ethical and legal, providing key strategic and battlefield benefits, while achieving public understanding and democratic endorsement. “Ambitious, safe and responsible” must be translated into practical implementation. We suggest four priorities.
+
+First, the Government should lead by example in international engagement on regulation of AWS. The AI Safety Summit was a welcome initiative, but it did not cover defence. The international community has been debating the regulation of AWS for several years. Outcomes could be a legally binding treaty or non-binding measures clarifying the application of international humanitarian law—and each approach has its advocates. Despite differences about form, an effective international instrument must be a high priority.
+
+A key element in pursuing international agreement will be prohibiting the use of AI in nuclear command, control and communications. On one hand, advances in AI offer greater effectiveness. For example, machine learning could improve detection capabilities of early warning systems, make it easier for human analysts to cross-analyse intelligence, surveillance and reconnaissance data, and improve the protection of nuclear command, control and communications against cyberattacks.
+
+However, the use of AI in nuclear command, control and communications could spur arms races or increase the likelihood of states escalating to nuclear use during a crisis. AI will compress the time for decision-making. Moreover, an AI tool could be hacked, its training data poisoned or its outputs interpreted as fact when they are statistical correlations—all leading to potentially catastrophic outcomes.
+
+Secondly, the Government should adopt an operational definition of AWS which, surprisingly, they do not have. The Ministry of Defence is cautious about adopting one because
+
+“such terms have acquired a meaning beyond their literal interpretation”,
+
+and an
+
+“overly narrow definition could become quickly outdated in such a complex and fast-moving area and could inadvertently hinder progress in international discussions”.
+
+I hear what the Government say, but I am not convinced. I believe it is possible to create a future-proofed definition. Doing so would aid the UK’s ability to make meaningful policy on autonomous weapons and engage fully in discussions in international fora. It would make us a more effective and influential player.
+
+Thirdly, the Government should ensure human control at all stages of an AWS’s lifecycle. Much of the concern about AWS is focused on systems in which the autonomy is enabled by AI technologies, with an AI system undertaking analysis on information obtained from sensors. However, it is essential to have human control over the deployment of the system, to ensure both human moral agency and legal compliance. This must be buttressed by our absolute national commitment to the requirements of international humanitarian law.
+
+Finally, the Government must ensure that their procurement processes can cope with the world of AI. We heard that the Ministry of Defence’s procurement suffers from a lack of accountability and is overly bureaucratic—not the first time such criticisms have been levelled. In particular, we heard that it lacks capability on software and data, both of which are central to the development of AI. This may require revolutionary change. If so, so be it—but time is short.
+
+Your Lordships have the Government’s reply to our report. I am grateful for the work that has gone into it. There are six welcome points, which I will deal with expeditiously.
+
+First, there is a commitment to ensuring meaningful human control and human accountability throughout the lifecycle of a system and the acknowledgement that accountability cannot be transferred to machines.
+
+Secondly, I welcome their willingness to explore the establishment of an
+
+“‘AI-enabled military operator’ skill set”
+
+and to institute processes for the licensing and recertification of operators, including training that covers technical, legal and ethical compliance.
+
+Thirdly, I welcome the commitment to giving force to the ethical principles in “ambitious, safe and responsible”. The Government must become a leader in setting responsible standards at every stage of the lifecycle of AWS, including responsible development and governance of military AI.
+
+Fourthly, I am glad that the Government are reviewing the role of its AI ethics advisory panel, including in relation to our recommendation to increase transparency, which is key if the Government are to retain public confidence in their policies.
+
+Fifthly, I welcome the recognition of the importance of retaining ultimate ownership over data, and making this explicit in commercial arrangements with suppliers, as well as the importance of pursuing data-sharing agreements and partnerships with allies. This is crucial for the development of robust AI models.
+
+Finally, I welcome the Government’s readiness to make defence AI a more attractive profession, including by making recruitment and retention allowances more flexible, enabling more exchange between the Government and the technology sector and by appointing a capability lead for AI talent and skills. This is essential if MoD civil servants are to deal on equal terms with the private sector.
+
+Two cheers so far—the Government could do more. They have no intention of adopting an operational definition of AWS, and I think they must if the UK is to be a more serious player. Perhaps the Minister can update us on a trip down the Damascus road on that one, but at the moment there appears to be no movement.
+
+They do not commit to an international instrument on lethal AWS, arguing that current international humanitarian law is sufficient. If the Government want to fulfil their ambition to promote the safe and responsible development of AI around the world, they must be a leader in pressing for early agreement on an effective international instrument. The reports of the use of AI in the Gaza conflict are clear evidence of the urgency.
+
+Our recommendation on the importance of parliamentary accountability is accepted, but the Government seemingly make no effort to show how accountability would be achieved. Parliament must be at the centre of decision-making on the development and use of AWS, but that depends on the transparency and availability of information, on anticipating issues rather than reacting after the event and on Parliament’s ability to hold Ministers effectively to account.
+
+The Government accept that human control should be ensured in nuclear command, control and communications, but they do not commit to removing AI entirely. However, the risk of potentially apocalyptic consequences means that the Government should at least lead international efforts to achieve its prohibition.
+
+The Government have accepted the need to scrutinise procurement offers more effectively and our recommendation to explore bringing in external expertise through an independent body, but they provide no detail on how they would create standards relating to data quality and sufficiency, human-machine interaction and the transparency and resilience of AWS.
+
+Overall, the Government’s response to our report was “of constructive intent”. I hope that that does not sound too grudging. They have clearly recognised the role of responsible AI in our future defence capability, but they must embed ethical and legal principles at all stages of design, development and deployment. Technology should be used when advantageous, but not at an unacceptable cost to the UK’s moral principles. I beg to move.
+
+13:29:00
+
+Lord Hamilton of Epsom (Con)
+My Lords, it gives me great pleasure to follow the noble Lord, Lord Lisvane, the chairman of the committee, who was absolutely excellent in the way he carried out the job. I have no doubt that he had somewhat of an advantage over many of the rest of us on the committee, as he had spent quite a lot of time in the House of Commons on the Defence Select Committee, which must have given him great inside knowledge of what was going on in the defence field. That was very useful to all of us.
+
+I am very glad to have been on the committee. I have always believed that, if we are to win wars, we need two major components. First, we have to train and motivate our troops properly. I do not think anybody doubts that the British are world leaders in training the military; indeed, we do it for many other countries as well. The professionalism that our Armed Forces show is the envy of the world. I wish I could say the same of the ability of the Ministry of Defence to procure equipment, which has been lacking for years, even in the days when I was responsible for some of it.
+
+The interesting thing that has changed is that, in the old days, industry used to look to defence to spend taxpayers’ money on research and development, hoping that some of that technology would move over into the private sector and it would benefit. That has all completely changed now. The sums of money that have been spent on research and development by the private tech companies in the United States, for instance, are so enormous that technological change is moving at a very fast rate. Let us face it: defence is benefiting from the private sector rather than the other way around. As a result, technology is moving on so fast that it is very difficult for any of us to keep up with it.
+
+So I am very keen that we should embrace AI. We will be left at a serious disadvantage if our enemies adopt AI with enthusiasm and we do not. It is extremely important that we take this on board and use it to save the lives of our troops and improve our chances of winning wars.
+
+There have been a number of very alarmist stories going around. It caused me a certain amount of concern that the committee might think that this is a business that should be regulated out of business altogether due to the possibility of things going wrong. Indeed, while we were on the committee, there was a report in the newspapers of a piece of AI equipment being trialled by the United States that went completely wrong on the simulator and ended up killing the operator and then blowing itself up. We asked the United States what its reaction had been to this. The answer we got was that it had never happened. That might be true—who knows?—but it is slightly sad as we want to learn lessons from all these things, rather like the airlines do when things go wrong. They share the information with everybody in the business and that makes the whole airline business much safer than it would otherwise be. I imagine that, if this did happen, the United States withdrew the whole system from its inventory and went back to the manufacturers and told them to get their act together and not make these sort of mistakes in the future.
+
+My concerns about the committee being somewhat Luddite were misplaced. The report we have produced recognises that we have to take on AI in our defence equipment and that, if we do not, we will be put at a singular disadvantage.
+
+The noble Lord, Lord Lisvane, mentioned the question of international humanitarian law. I am not as much in support of this as perhaps I should be, having signed up to the committee report. I am absolutely certain that nothing whatever is going to happen on this front. The committee was given clear evidence that there is no international agreement to tighten up international humanitarian law. I do not think that we should look to international humanitarian law as an answer to our problems.
+
+The noble Lord, Lord Lisvane, also mentioned the question of nuclear. Unilaterally, we have to ensure that human control remains an element in the whole use of nuclear weapons. I share his concerns about leaving all this to machines: machines can very easily go wrong.
+
+We took a lot of evidence from people who called themselves Stop Killer Robots. I did not understand why so many of them seemed to be put in front of us, but we ended up with these people. When we asked them about Phalanx, they said that this did not apply to that. Your Lordships will know that Phalanx is a point defence system on most of our major Royal Navy ships. It can be used manually or as a completely automated weapons system, identifying targets and opening fire on them if they are coming towards the ship. I would be surprised if it was not being used as an AWS in the Red Sea, where there is the constant threat of Houthi missiles coming in. That system saves the lives of sailors in our Royal Navy.
+
+We should always recognise that AI has a very important role to play. We should be careful about saying that we want to stop all lethal robots, given that they could make all the difference between us winning and losing wars.
+
+13:35:00
+
+Lord Browne of Ladyton (Lab)
+My Lords, I am pleased to follow the noble Lord, Lord Hamilton. Like him, I congratulate the committee’s chair, the noble Lord, Lord Lisvane, and thank him for securing an early debate on the report, for his comprehensive and powerful opening speech and for his adroit and inclusive chairing of the committee. It is most important in these circumstances to have a chair who is inclusive. It was a pleasure to serve under his chairmanship and it is an equal pleasure to recognise and thank the clerks, the staff and advisers for their exemplary support.
+
+The report and the record of its proceedings contain a great deal that is of value, including testimony from a range of experts which would repay concerted attention from Ministers and officials. Mindful of the time constraint, I wish to focus on one specific area: our working definition of AWS, or rather, the absence of one, which presents very real difficulties, both domestic and international.
+
+The gateway through which I entered this somewhat Kafkaesque debate was a sentence from the Ministry of Defence which purported to explain why this country does not have an agreed definition of AWS. Cited on page 4 of the report and intermittently thereafter, it suggests that we do not have a working definition of AWS because, as the noble Lord, Lord Lisvane, has quoted more broadly than I will, such terms
+
+“have acquired a meaning beyond their literal interpretation”.
+
+The floor of your Lordships’ House is not an appropriate forum for a detailed textual exegesis, although I do enjoy that. However, that sentence recalled Hazlitt’s criticism of the oratory of William Pitt, which he stigmatised as combining
+
+“evasive dexterity, and perplexing formality”.
+
+This impression reflects the conclusion of the committee that this explanation is plainly insufficient. How can we actively seek to engage with policy in regulating AWS if we cannot find even provisional words with which to define it? It is like attempting to make a suit for a man whose measurements are shrouded in secrecy and whose very existence is merely a rumour. These are, of course, enormously complex questions but in making good policy, complexity should not be a refuge but a rebuke. It is the job of Governments of any political stripe to be able to articulate their approach and have it tested by experts and dissenting voices.
+
+In advising the Government to adopt a definition, the committee was careful. While it suggested that a future-proofed definition would be desirable, the report makes it clear that even a more provisional operational definition would be useful. We understand that this could change as the technology dictates, but it would at least have the advantage of reflecting the Government’s contemporary thinking. In lieu of that, we are forced to make a series of inferential leaps in guessing details of the Government’s approach to this question. We are given to understand that the Government use the NATO definition of “autonomous”, which takes us a small step forward, although as the report makes clear, that leaves terms such as “desired”, “goals”, “unpredictable” and, extraordinarily, “parameters”, entirely undefined.
+
+Questions about an agreed definition have vexed policymakers in other domestic and international fora, but we should at least be working towards a definition that would bring some measure of clarity to our regulatory and developmental efforts. I would urge, therefore, the Minister to reconsider the question of an operational definition.
+
+In so doing, I remind the Minister of the evidence of Professor Stuart Russell, who noted that the lack of specificity was creating damaging ambiguity in intergovernmental co-operation, and of Professor Taddeo’s concern that the current definitional latitude allows unscrupulous states to develop AWS without ever describing them as such, and her further exhortation upon this Government to develop
+
+“a definition that is realistic, that is technologically and scientifically grounded, and on which we can find agreement in international fora to start thinking about how to regulate these weapons”.
+
+13:41:00
+
+Lord Houghton of Richmond (CB)
+My Lords, it is a delight to follow the noble Lord, Lord Browne, whose companionship in the committee was but one of its many delights.
+
+I start by drawing attention to my relevant interests in the register, particularly my advisory role with three companies, Thales, Tadaweb and Whitespace, all of which have some interest in the exploitation of AI for defence purposes.
+
+It is great to see a few dedicated attendees of the Chamber still here late into Friday. My motivation to speak is probably as much to do with group loyalty as the likelihood of further value added, so I will keep my comments short and more focused on some contextual observations on the committee’s work, rather than in the pursuit of additional insights. There is not much more I want to stress and/or prioritise regarding the actual conclusions and recommendations of the report, and our chairman’s opening remarks were typically excellent and comprehensive. However, there are some issues of context that it is worth giving some prominence to. I will offer half a dozen, all of which represent not the committee’s view but a personal one.
+
+The first comment is that the committee probably thought itself confronted by a prevailing sense of negativity about the risks of AI in general and autonomous weapons systems in particular. The negativity was not among the committee’s membership but rather among many of our expert witnesses, some of whom were technical doom-mongers, while others seemed to earn their living by turning what is ultimately a practical problem of battlefield management into an ethical challenge of Gordian complexity.
+
+My second comment is specifically on the nature of the technical evidence that we heard, which, if not outright conflicted, was at least extremely diverse in its views on risk and timescale, particularly on the risks of killer robots achieving what you might call self-generated autonomy. The result was that, despite much evidence to the contrary, it was very difficult to wholly liberate ourselves from a sense of residual ignorance of some killer fact. I judge, therefore, that this is a topic that will as we go forward require persistent and dynamic stewardship.
+
+My third observation relates to the Damascus road. I think that the committee experienced a conversion to an understanding of how, in stark contrast, for example, to financial services, the use of lethal force on the modern battlefield is already remarkably well regulated, at least by the armed forces of more civilised societies. In this context, I think that the committee achieved a more general understanding, confirmed by military professionals, that humans will nearly always be the deciding factor in the use of lethal force when any ethical or legal constraint is in play. Identifying the need to preserve the pre-eminence of human agency is perhaps the single most important element of the committee’s findings.
+
+My fourth comment is that the committee’s deliberations played out in the context of the obscene brutality in Ukraine and Gaza. It was a constant concern not to deny our own people of, if you like, the benefits of ethical autonomy. There is so much beneficial advantage to be derived from AI in autonomy that we would be mad not to proceed with ways to exploit it, even if the requirements of regulations will undoubtedly constrain us in ways that patently will not trouble many of our potential enemies.
+
+My fifth comment, it follows, is on our chosen title, Proceed with Caution. I forget whether this title was imposed by our chairman or more democratically agreed by the whole committee. I wholly accept that “proceed with reckless abandon” would not have survived the secretariat’s editorship, but, on a wholly personal level, I exhort the Minister to reassure us that the Government will not allow undue caution to inhibit progress. I fear that defence is currently impoverished, so it has to be both clever and technically ambitious.
+
+I want to say something by way of wider context. The object of our study, AI in autonomous weapons systems, necessarily narrowed the focus of the committee’s attention on conflict above the threshold of formalised warfare. However, I think the whole committee was conscious of the ever-increasing scale of conflict in what is termed the grey zone, below the threshold of formalised warfare, where the mendacious use of AI to create alternate truth, undermine democracy and accelerate the decline of social integrity is far less regulated and far more existentially threatening to our way of life. This growing element of international conflict undoubtedly demands our urgent attention.
+
+13:46:00
+
+Earl Attlee (Con)
+My Lords, I am grateful to the noble Lord, Lord Lisvane, for introducing this debate. 
+
+I read the report as soon it was published. I agree with it and with the position of HMG and the MoD. However, looking around the corner, I see that reality may conflict with what the report says. Its title is of course very appropriate—although we might wonder how we got it. I am relaxed about the MoD’s reluctance to define AWS. A definition has the danger of excluding certain unanticipated developments.
+
+It may be helpful to the House if I illustrate a potential difficulty with a fully autonomous system, to show why we should not willingly go in this direction. Suppose His Majesty’s Armed Forces are engaged in a high-intensity conflict and an officer is in control of a drone system. He reads his intelligence summary—INTSUM—which indicates fragility in the cohesiveness of enemy forces. The officer controls the final decision for the drone to engage any target, in accordance with our current policy. The drone detects an enemy armoured battalion group but the AFVs are tightly parked in a square in the open, not camouflaged, and the personnel are a few hundred metres away, sitting around campfires. In view of the INTSUM, it would be obvious to a competent officer that this unit has capitulated and should not be engaged for a variety of reasons, not least international humanitarian law. It is equally obvious that a drone with AI might not recognise that the enemy unit is not actively engaged in hostilities. In its own way, the report recognises these potential difficulties.
+
+My concern centres on the current war in Ukraine. Both sides will be using electronic warfare to prevent their opponent being able to receive data from their own drones or give those drones direction. That is an obvious thing to do. But if you are in a war of survival—and the Ukrainians certainly are—and you have access to a drone system with AI that could autonomously identify, select and attack a target, absent any relevant treaty you would have to use that fully autonomous capability. If you do not, you will lose the war or suffer heavy casualties because your enemy has made your own drones ineffective by means of electronic warfare. So long as drones are being used in the current high-intensity conflict, we need to recognise that it will be almost impossible to prevent AI being used fully autonomously. Equally, it will be hard to negotiate a suitable treaty, even if we attach a very high priority to doing so.
+
+The whole nature of land warfare is changing very rapidly—the noble Lord, Lord Lisvane, used the phrase “fast-moving”—and we do not know what the end state will be. However, we can try to influence it and anticipate where it will end up.
+
+13:50:00
+
+Lord Stevens of Birmingham (CB)
+My Lords, I too welcome the excellent report from the committee and thank it for this work. My brief contribution will focus on AI in the maritime domain. My starting point is that if, like me, you believe we need a bigger Navy then it is obvious that we will need to use AI-enabled systems as an effective force multiplier.
+
+We should therefore enthusiastically welcome the Royal Navy’s leadership in a wide range of maritime use cases. For example, in the surface fleet there is the so-called intelligent ship human autonomy teaming; in the subsurface environment, autonomous uncrewed mine hunting, partly supported by the new RFA “Stirling Castle”, as well as new sensor technologies and acoustic signature machine learning for anti-submarine warfare; and in maritime air defence, AI-enhanced threat prioritisation and kinetic response using tools such as Startle and Sycoiea, which are obviously vital in an era of drone swarms and ballistic and hypersonic missiles. These and other AI systems are undoubtedly strengthening our nation’s ability to deter and defend at sea. They also enhance the Royal Navy’s centuries-old global contribution to rules-based freedom of navigation, which underpins our shared prosperity.
+
+Looking forwards, my second point is that Parliament itself can help. When it comes to experimentation and trialling, there is a sense in some parts of defence that peacetime risk-minimisation mindsets are not currently well calibrated to the evolving and growing threats that we now face. Parliament could therefore accept and encourage a greater risk appetite, within carefully set parameters. Many innovations will come from within the public sector and we should support investment, including in the excellent Dstl and DASA. But in parentheses, I am not convinced by the report’s recommendation at paragraph 17 that the MoD should be asked to publish its annual spending on AI, given that it will increasingly become ubiquitous, embedded and financially impossible to demarcate.
+
+Where Parliament can help is by recognising that most innovation in this space will probably involve partnerships with the commercial sector, often with dual-use civil and military elements, as the noble Lord, Lord Hamilton, argued. In fact, figures from Stanford published in Nature on Monday this week show that the vast majority of AI research is happening in the private sector, rather than in universities or the public sector. The MoD’s and the Navy’s accounting officers and top-level budget holders should be given considerable latitude to use innovative procurement models and development partnerships, without post-hoc “Gotcha” censure from us.
+
+This brings me to my third and final point, which is that we need to be careful about how we regulate. The Royal Navy is, rightly, not waiting for new international public law but is pragmatically applying core UNCLOS requirements to the IMO’s four-part typology of autonomous maritime vehicles and vessels. As for the Navy’s most profound responsibility, the UK’s continuous at-sea deterrent, the Lords committee’s report rightly reasserts that nuclear weapons must remain under human control. Anyone who doubts that should Google “Stanislav Petrov” or “Cold War nuclear close calls”. But the report is also right to argue, at paragraph 51, that this paradigmatic case for restraint is not wholly generalisable. Parliament would be making a category mistake if we attempted to regulate AI as a discrete category of weapon system, when in fact it is a spectrum of rapidly evolving general-purpose technologies.
+
+An alternative approach is set out in the 2023 Political Declaration on Responsible Military Use of Artificial Intelligence and Autonomy, which includes key ethical and international humanitarian law guard-rails. That framework is now endorsed by more than 50 countries, including the US, France and the UK, but, regrettably, not by the other two permanent members of the UN Security Council, Russia and China, nor of course by Iran or North Korea. Work should continue, however, to expand its reach internationally.
+
+To conclude, for the reasons I have set out, AI systems clearly offer enormous potential benefits in the maritime environment. Parliament can and should help our nation capitalise on them. Although the committee’s report is titled Proceed with Caution, for the reasons I have given today, the signal we should send to the Royal Navy should be: continue to proceed with speed.
+
+13:55:00
+
+The Lord Bishop of Newcastle
+My Lords, I am grateful to the noble Lord, Lord Lisvane, for his opening summary of this important report and to the noble Lord, Lord Stevens, for his remarks just delivered, reminding us of the maritime context of this debate as well. I also thank those involved in the creation of the report. Perhaps this alone is worth noting: AI did not produce this report; human beings did.
+
+My friend the right reverend Prelate the former Bishop of Coventry was a member of the committee producing the report and he will be delighted that it is receiving the attention it deserves. He is present today, and I hope he does not mind me speaking on his behalf in this regard.
+
+The principles of just war are strongly associated with the Christian moral tradition, in which it is for politicians to ensure that any declaration of war is just and then for the military to pursue that war’s aims by just means. In both cases, justice must be measured against the broader moral principles of proportionality and discrimination. This, then, is where AI begins to raise important and urgent questions. AI opens new avenues of military practice that cannot be refused, together with new risks that must not be ignored. The report rightly says that we must “proceed with caution”, but it does say “proceed”. Here, there is an opportunity for the UK to fulfil its commitment to offer leadership in this sphere in the international field.
+
+There is a risk of shifting the decision-making process and the moral burden for each outcome on to a system that has no moral capacity and too much opacity. To implement AI’s benefits well, military cultural values need to be named, explained and then translated into AWS’ command and control—especially where the meaning of “just” diverges from the kind of utilitarian calculus that most easily “aligns” digital processes with moral choice.
+
+Inherent human values, including virtue, should also be embedded in the development, not just the deployment, of new AI-enabled weapon systems. As recent use of AI systems shows in the context of global conflict, AI changes questions of proportionality and discrimination. When a database identifies 37,000 potential targets using “apparent links” to an enemy, or an intelligence officer says
+
+“The machine did it coldly. And that made it easier”, 
+
+it is vital to attach human responsibility to each action.
+
+AWS designed according to military culture will, at best, practically strengthen the moral aspects of just war by reducing or eliminating collateral damage, but we should guard against a cultural rewiring or feedback loop that dilutes or corrodes the moral human responsibility that just war depends on. It is reassuring, therefore, as other noble Lords have noted, to see a clear statement that accountability cannot be delegated to a machine in the Government’s response to the report, together with the Government’s commitment to fully uphold national and international law.
+
+Current events across the globe and the rapid pace of development of AI in both civil and military contexts make this a timely and important debate. I commend the committee, and those in government and in the MoD charged with transforming its helpful insights and practical recommendations into concrete action.
+
+Public confidence and democratic endorsement of any plans the Government might have in the development of AI are vital. I therefore urge the Government to commit to ensuring public confidence and education in their ongoing response to this report.
+
+13:59:00
+
+The Earl of Erroll (CB)
+My Lords, this has been a very useful report, because it gets us thinking properly about these things.
+
+I declare an interest in the whole world of generative AI and LLMs, with Kaimai and FIDO, which is looking at curated databases to extract information. It is very useful for that sort of thing. With that, as mentioned in the report, comes the whole issue of training materials. The results you get depend on what the AI is looking at. If you fire it off against a huge amount of uncurated stuff, you might, and you can, get all sorts of rubbish back. Certain tests have found AI returning things that were 70% to 80% inaccurate. On the other hand, if put against something carefully targeted, such as medical research, where everything that has gone into the dataset has been studied and put together by someone, it will find stuff that no one has had time to read and put together, and realise that it is relevant.
+
+In the same way, AI will be very useful in confusing scenarios facing a military commander, or in military decisions, to help them weed out what is right and what is wrong and what is true and what is not. I seem to remember, though I cannot remember when it was, that there was nearly a nuclear war because, at one point, various sensors had gone wrong and they thought there was a military attack on the United States. They nearly triggered all the defences, but someone suddenly said, “Hang on, this doesn’t look quite right”. It may well be that an artificial intelligence system, which may not be confused by some of the fluff, might have spotted that more easily or accurately, and reported it and said, “Don’t believe everything you’re looking at; there is another problem in the system”. On the other hand, it might have done the opposite. This is the trouble, which is why the human intervention point is very important.
+
+We also have to remember that, although AI started being developed in the 1980s, with neural networks and things like that, it is only really getting into its stride now. We do not know quite where things will end up, and so it is very difficult to regulate it.
+
+My interest in this stems from the fact that I served with the TA for 15 years, and so I am interested in this country’s ability to defend itself. I worry about what would happen if we start trying to shackle ourselves to a whole lot of things that reduce that capability—I entirely agree with the noble Lord, Lord Hamilton. We should worry about that, because many countries may well pay lip service to international humanitarian law but an awful lot of them will use it to try to shackle us, who tend to obey it, while they themselves will not feel constricted by it. Take, for instance, the international Convention on Cluster Munitions. We are signed up to that, and so are many good countries, but there are one or two very serious countries, including one of our allies, that did not sign up to it. I personally agree with it, absolutely—it is a most appalling munition, because of the huge problems with the aftermath and the tidy-up.
+
+I was also amused by conclusion 8 in the report, which mentioned testing AI “against all possible scenarios”. I seem to remember that there was a famous German general who said, “When anybody has only two possible courses of action, he will always adopt the third”. That is the trouble. I think the British are quite good at finding the third way in these things; that is possibly how we run, because of the unlikelihood of what we do.
+
+The other thing I worry about with autonomous weapons systems is collateral damage. If you start programming a thing with facial recognition—you program in a face and ask it to take out a particular person or group of people, and off shoots the drone to make a decision on it—how do you tell it how much collateral damage to allow, if any? That is a problem. Particularly recently, we have seen that with other things, where people have decided that the target is so important that it is all right killing a few others. But it is not really—at least, I do not feel so. When you create a lot of collateral damage, particularly if it is not in a war but an insurgent situation, you reinforce the insurgents’ desire to be difficult, and that of their family and friends and all the other people. People forget that.
+
+The other thing is that parliamentary scrutiny will be too slow. We are no good at scrutinising at high speed, and things will be changing quite rapidly in this area. We need scrutiny, we need human control at the end, and we need to use AI when it is useful for making that decision, but we must be very careful about trying to slow everything down with overbearing scrutiny.
+
+14:05:00
+
+Baroness Hodgson of Abinger (Con)
+My Lords, like others, I thank the noble Lord, Lord Lisvane, for his excellent introduction and for chairing the committee so ably. I also thank all fellow colleagues on the committee. We had some very interesting discussions, and those who were more informed were patient with people like me who were probably less informed. I also thank our advisers and the clerks, who supported us so well. This has indeed been a fascinating committee to serve on and is an example of how the House of Lords plays an outstanding role in highlighting some of the most pressing concerns of the day. My remarks are mostly personal reflections.
+
+Whether we like AI or not, it is here to stay and is developing exponentially at a previously unimaginable rate. This complex technological revolution has the potential to reshape the nature of warfare, with advantages but also disadvantages. As the noble and gallant Lord, Lord Houghton, mentioned, today’s warfare, in a competitive, volatile and challenging world, is often conducted in the grey zone, through hyper competition, on the internet and in so many areas of life. It begs the question: what is a weapon in today’s world? Interference with a country’s systems, be they economic, infrastructure or social, can be subtle but effective in undermining and disabling. However, with a limited time to report, we confined our conversations to lethal weapon systems.
+
+Although AI creates the ability to calculate with such stupendous speed, we should be mindful that there are areas not covered by binary calculations—humanity, empathy and kindness, to name a few. Will faster analysis fuel escalation, due to rapid response and a lack of time to consider repercussions? As others have mentioned, we can see the chilling ability to quickly identify thousands of targets, as the use of the Lavender system in Gaza reveals, with, it is reported, 20 seconds’ consideration given to each individual target.
+
+Whatever military systems are used, we have a national commitment to the requirements of international humanitarian law, and there are huge ethical implications in relinquishing human control over lethal decision-making, with profound questions about accountability and morality. To what point can machines be entrusted with the responsibility of the enormity and breadth of decision-making about life and death on the battlefield?
+
+The MoD’s defence AI strategy, published in 2022, signalled its intention to utilise AI
+
+“from ‘back office’ to battlespace”,
+
+demonstrating how all-pervasive AI will be in every system. While recognising the advantages in many ways, we also have to recognise the dangers in this strategy. Systems can be hacked, so it is equally important to develop security to ensure that they are not accessible by those who wish us harm. The strategy also sets out an autonomy spectrum framework, demonstrating the different levels of interrelationships between humans and machines.
+
+AI is being developed mostly in companies and academic institutions. This too presents challenges: the threat of an arms race with systems that can be sold to the highest bidder, who may or may not be hostile. The majority of this development is being carried out by men, but, as half the world is female and women see things in a different way, we must encourage more girls and women to play their part to ensure a lack of gender bias.
+
+With the glaring example of the Post Office scandal, the opaque nature of AI algorithms makes it difficult to judge whether they are accurate, up to date and appropriate. However much testing is carried out, it is not easy to know for sure whether systems are reliable and accurate until they are deployed. But the reality is that there is no going back, and as these systems proliferate, hostile nations and non-state actors may have access to, interfere with and deploy their own systems, and they may not wish to conform to any international standards imposed.
+
+I thank the Government for their response to our report and congratulate them on the AI summit held last November at Bletchley Park, resulting in a commitment from 28 nations and leading AI companies with a focus on safety. However, I understand that weapon systems were not part of the conversation. It will be difficult to harness the development of this new technology as it gathers speed, so I hope that weapon systems will be part of the conversation at future summits.
+
+Stephen Hawking once warned that the development of full AI
+
+“could spell the end of the human race”,
+
+so “proceed with caution” has to be the mantra with regard to AI in weapon systems.
+
+14:10:00
+
+Lord Mitchell (Lab)
+My Lords, I have had the honour to sit on many committees of your Lordships’ House; some were good, some not so good. This committee and its investigation into autonomous weapon systems have been in a different league. The committee was masterfully chaired by the noble Lord, Lord Lisvane, and I have never witnessed such skill in chairing a committee and then combining our deliberations so seamlessly. And what did we produce? A cracking report, which is of the moment. We should all be very proud.
+
+Sadly, I cannot be so complimentary about the Government’s response. Ours was a serious and well-researched document, but the Government took little on board. Their reply was tepid and, on occasion, wrong. We deserve better. Because the subject matter is so dynamic and changes by the day, I pushed hard to set up a formal review mechanism to keep this report up to date but, predictably, the Government totally ignored this request. Is the Minister able to suggest a structure for keeping this important subject continuously reviewed and relevant?
+
+I will confine my comments to the section dealing with procurement, innovation and talent. My constant worry with government procurement in the fast-moving tech market is that Whitehall is ill equipped to manage relationships with tech companies. Instinctively, the MoD is old school, totally at home purchasing hardware equipment from the likes of Lockheed Martin, BAE Systems and Raytheon—they have been doing it for years. But AI is a different story. At its heart, it is sophisticated software designed by the informal tech bros in Silicon Valley, emotionally ill matched to the arms suppliers of yesteryear. It is a measure of the pace of external developments that some key actors in the AI sector today are barely referenced in our report, not because of incompleteness in our deliberations but because of the sheer pace of development.
+
+Let us take the case of Nvidia. In our report it warrants just one footnote but, today, it is the third most valuable company on the US stock market. It is a leader in designing AI chips and is indispensable in building many forms of autonomous weapon systems. It has come from nowhere to world leader in just a few short years. Anduril Industries is also based in California. It manufactures AI weapons that can hover and then identify their target—in effect, attack drones. It did not cross our radar either, but now its weapons are in use in Ukraine. Its founder, on a formal day, wears Hawaiian shirts, shorts and flip-flops—he is 30 years old. There are many like him in the tech world and, more and more, they are turning to weapon systems.
+
+Our report highlights that the MoD procurement processes are particularly lacking in relation to software and data, both of which are important for the development and use of AI. Tech bros and Whitehall mandarins are not natural bedfellows. We need translators. I wonder whether our Ministry of Defence procurement officials are temperamentally equipped to engage with those Silicon Valley companies. My guess is that they are not. Perhaps the Minister can comment on this.
+
+Finally, let us look at salaries. Top AI programmers and system designers can earn six or even seven-figure amounts, which is light years away from what our public sector can pay. Such disparities will grow and it will be increasingly difficult for the MoD to recruit top employees. So what do we do? One answer could be for private companies to second their staff to the public sector. We suggested that, but I am not sure that we were heard.
+
+Ours was an outstanding report. The Government could have produced a much more helpful response but, sadly, they did not.
+
+14:14:00
+
+Viscount Waverley (CB)
+My Lords, “proceed with caution” is for an ideal world, but with warfare on the horizon, it is important to move on from abstract and procedural. With the world headed into a dark place, the geopolitical implications of autonomous weapon systems in modern warfare are immeasurable and will require crucial global diplomacy.
+
+The race for AI supremacy and the increased speed of warfare with first-mover advantage, armed with automated systems, drones and predictive analytics, have implications for the balance of military power between states, even transcending national states, with a far-ranging impact on global peace. Non-state actors that also have access, by one means or another, to this advanced technology will have to be added into the conundrum.
+
+Weapon systems that involve no human oversight present challenges but also opportunities beyond ethical questions. They will test democracy and geopolitics and will change the nature of warfare, in that placing human soldiers in harm’s way will become untenable. Autonomous unmanned underwater, surface and air weaponry can also be set to perform the same tasks of automatically engaging incoming missiles. This becomes machine-speed warfare, with humans no longer the central lethal force in the battlefield.
+
+This is closer than many anticipate. Defensive and offensive AI-controlled fighter jets will become smaller, far faster and more manoeuvrable, and will be able to operate in swarms. Predicting intelligence behaviour with the deployment of kinetic forces against a third party that is not human will accelerate, with the rights norms to proportionate military response in effect no longer applicable.
+
+At state level, therefore, countries should work to establish conventions in which the use of lethal force or nuclear is always subject to human command and control mechanisms, never automated, with emergency communication trip-wire channels or early warning system activates established. As immediate retaliatory responses may no longer be legally or morally justified, the historic conventions of war will require revision, with alternate arbitration systems devised at UN Security Council level.
+
+I have three conjectural questions in conclusion. If an AI system were to physically operate on a human, to what extent should its algorithmic programming be open to public due diligence? Who would be liable in the case of misuse when human oversight is required? How do we counter the spatial distance of a development team at the far end of the world from unethical behaviour, making accountability impractical?
+
+It would be amiss of me to end by not thanking the noble Lord, Lord Lisvane, and his committee.
+
+14:18:00
+
+Lord Holmes of Richmond (Con)
+My Lords, it is a pleasure to take part in this critically important debate. In doing so, I declare my technology interests as advisor to Boston Ltd. I too congratulate all those involved with the committee—not least its chair, the noble Lord, Lord Lisvane, for his potent introduction to this afternoon’s debate—and indeed all the committee staff who have been responsible for putting together an excellent, pertinent and timely report.
+
+I believe that, when it comes to AI across the piece, it is time to legislate and it is time to lead, with principles-based, outcomes-focused, input-understood legislation and regulation. This is no more true than when it comes to AWS. I remember when we did the Lords AI Select Committee report in 2018. With all the media lines that we put out, the one line that the press wanted to focus on was something like, “Killer robots will destroy humanity, says Lords committee”. It was incredibly important then and is incredibly important today. If we have principles-based, right-size regulation, we have some chance of security, safety and stability.
+
+We know how to do that. I will take a previous example of something as significant: IVF. What can be more terrifying and more science fiction than bringing human life into being in a laboratory test tube? Why is it today not only a success but seen as a positive, regular part of our lives? Because of a previous Member of your Lordships’ House, the late and great Lady Warnock, and the Warnock commission publicly engaging on such an important issue. We need similar public engagement, not just on AWS but on all the potential and current applications of AI—and we know how to do that.
+
+I will discuss just one of the recommendations of the report—I agree with pretty much all of them—recommendation 4, which has already been mentioned, rightly, by many noble Lords. Without a meaningful definition, it is difficult to put together a mission, plan and strategy to address optimally the issue of AWS. Can my noble friend the Minister say whether the Government will consider reopening the question of a meaningful definition? That will then help everything that flows from that. Otherwise, I fear that not only are we trying to nail jelly to the wall but it is that serious that we are attempting to nail gelignite to that same wall.
+
+We should feel confident that we know how to legislate for these new technologies. Look at what we did with the Electronic Trade Documents Act last year. We know how to do innovation in this country: look at Lovelace, Turing, Berners-Lee and more. Yes, the Bletchley summit was a great success—although it did not involve defence and many other issues that need to be considered—but perhaps the greatest lesson from Bletchley is not so much the summit but more what happened two generations ago, when a diverse team gathered to deploy the technology of the day to defeat the greatest threat to our human civilisation. Talent and technology brought forth the light at one of the darkest periods of our human history. From 1940s Bletchley to 2020s United Kingdom, we need to act now, not just on AWS but across the piece on human-in-the-loop, human-led and human-over-the-loop AI. It is time to legislate and lead for our safety, security and stability, for our very human civilisation, and for #OurAIFutures.
+
+14:23:00
+
+Lord St John of Bletso (CB)
+My Lords, I join in congratulating my noble friend Lord Lisvane and his committee on this detailed report. Coming last to the crease, I will try to raise a few issues that have not been raised by others.
+
+We are certainly living in very uncertain and precarious times, with the emergence of this new form of fast-moving AI battlefield management systems. It is perhaps opportune that we are having this debate today, within just a week of the aggressive Iranian attack on Israel, diffused by the effective use of AWS. The power of AI systems applied to battlefield management has been powerfully demonstrated by Ukraine, in its continuing war with Russia, harnessing the limited resources provided by the West. We are, clearly, in a new form of arms race, with nations seeking superiority in military AI technologies.
+
+I find it alarming that, in his recent Budget, the Chancellor made no provision for increased military expenditure. I refer to the very pertinent point made by my noble and gallant friend Lord Houghton of Richmond, who referred to defence as being impoverished. I also could not find any statistics on the percentage of the defence budget that will be allocated to the development of AI weaponry.
+
+Page 70 of the report, and the Financial Times a few days ago, draws reference to the fact that the European Parliament has taken a far tougher approach to the regulation of AI weaponry systems than the UK. Many commentators believe that overregulation is counterproductive to innovation in the sector. There is, of course, the risk of singularity. Singularity refers to the possibility of computer intelligence surpassing that of humans, but this is unlikely in the short term. We need to harness and promote innovation.
+
+Much has been written in this report on the different spectrums of autonomy. The prospect of fully autonomous weapons capable of making lethal decisions without human intervention raises questions of accountability, morality and compliance with international law.
+
+AI warfare is so much more complex than traditional war, and I am no expert in the military field. AI has the capability to shape new realities, generate deepfakes or even show false videos of masked surrender to lower battlefield morale. This was referred to on page 38 of the report as “intelligentised”—I can hardly pronounce the word—warfare. Clearly, the nature of warfare is continually being redefined.
+
+As several noble Lords have mentioned, AI algorithms have the ability to enhance the accuracy and reliability of missile systems and other precision-guided munitions, facilitating strike capability with reduced collateral damage. Time precludes me delving into the subject of cybersecurity risks and the malfunction of lethal weapon systems, which was referred to by the noble Lord, Lord Hamilton.
+
+The future landscape of AI in weapon systems will depend significantly on international co-operation, regulatory frameworks and ongoing dialogues on ethical standards and accountability mechanisms. Balancing technological advancements with responsible use will be paramount in ensuring global security and stability.
+
+There is no doubt that AI weapon systems are having and will continue to have profound implications for future warfare by enhancing capability but also challenges. I welcome the report, but I hope that the Minister in winding up can give us assurances that the Government will give a lot more focus to funding this important sector.
+
+14:28:00
+
+Lord Clement-Jones (LD)
+My Lords, I add to the congratulations to the noble Lord, Lord Lisvane, on his excellent chairing of the committee and his outstanding introduction today. I thank the staff and advisers of the committee, who made an outstanding contribution to the report. It has been a pleasure hearing the contributions today. I add my thanks to the military who hosted us at the Permanent Joint Headquarters, at Northwood, where we learned a huge amount as part of the inquiry.
+
+Autonomous weapon systems present some of the most emotive and high-risk challenges posed by AI. We have heard a very interesting rehearsal of some of the issues surrounding use and possible benefits, but particularly the risks. I believe that the increasing use of drones in particular, potentially autonomously, in conflicts such as Libya, Syria and Ukraine and now by Iran and Israel, together with AI targeting systems such as Lavender, highlights the urgency of addressing the governance of weapon systems.
+
+The implications of autonomous weapons systems—AWS—are far-reaching. There are serious risks to consider, such as escalation and proliferation of conflict, accountability and lack of accountability for actions, and cybersecurity vulnerabilities. The noble Baroness, Lady Hodgson, emphasised the negatives—the lack of empathy and kindness that humans are capable of in making military decisions. I thought it was interesting that the noble Earl, Lord Attlee, in a sense argued against himself, at the beginning of his contribution, on the kinds of actions that an AI might take which a human would not. There were issues mentioned by the noble Lord, Lord St John, as well, about misinformation and disinformation, which is a new kind of warfare.
+
+Professor Stuart Russell, in his Reith lecture on this subject in 2021, painted a stark picture of the risks posed by scalable autonomous weapons capable of destruction on a mass scale. This chilling scenario underlines the urgency with which we must approach the regulation of AWS. The UK military sees AI as a priority for the future, with plans to integrate “boots and bots” to quote a senior military officer.
+
+The UK integrated review of 2021 made lofty commitments to ethical AI development. Despite this and the near global consensus on the need to regulate AWS, the UK has not yet endorsed limitations on their use. The UK’s defence AI strategy and its associated policy statement, Ambitious, Safe, Responsible, acknowledged the line that should not be crossed regarding machines making combat decisions but lacked detail on where this line is drawn, raising ethical, legal and indeed moral concerns.
+
+As we explored this complex landscape as a committee—as the noble and gallant Lord, Lord Houghton, said, it was quite a journey for many of us—we found that, while the term AWS is frequently used, its definition is elusive. The inconsistency in how we define and understand AWS has significant implications for the development and governance of these technologies. However, the committee demonstrated that a working definition is possible, distinguishing between fully and partially autonomous systems. This is clearly still resisted by the Government, as their response has shown.
+
+The current lack of definition allows for the assertion that the UK neither possesses nor intends to develop fully autonomous systems, but the deployment of autonomous systems raises questions about accountability, especially in relation to international humanitarian law. The Government emphasise the sufficiency of existing international humanitarian law while a human element in weapon deployment is retained. The Government have consistently stated that UK forces do not use systems that deploy lethal force without human involvement, and I welcome that.
+
+Despite the UK’s reluctance to limit AWS, the UN and other states advocate for specific regulation. The UN Secretary-General, António Guterres, has called autonomous weapons with life-and-death decision-making powers “politically unacceptable, morally repugnant” and deserving of prohibition, yet an international agreement on limitation remains elusive.
+
+In our view, the rapid development and deployment of AWS necessitates regulatory frameworks that address the myriad of challenges posed by these technologies. I was extremely interested to hear the views of the noble Lord, Lord Stevens, and others during the debate on the relationship between our own military and the private sector. That makes it even more important that we address the challenges posed by these technologies and ensure compliance with international law to maintain ethical standards and human oversight. I share the optimism of the noble Lord, Lord Holmes, that this is both possible and necessary.
+
+Human rights organisations have urged the UK to lead in establishing new international law on autonomous weapon systems to address the current deadlock in conventional weapons conventions, and we should do so. There is a clear need for the UK to play an active role in shaping the nature of future military engagement.
+
+A historic moment arrived last November with the UN’s first resolution on autonomous weapons, affirming the application of international law to these systems and setting the stage for further discussion at the UN General Assembly. The UK showed support for the UN resolution that begins consultations on these systems, which I very much welcome. The Government have committed also to explicitly ensure human control at all stages of an AWS’s life cycle. It is essential to have human control over the deployment of the system, to ensure both human moral agency and compliance with international humanitarian law.
+
+However, the Government still have a number of questions to answer. Will they respond positively to the call by the UN Secretary-General and the International Committee of the Red Cross that a legally binding instrument be negotiated by states by 2026? How do the Government intend to engage at the Austrian Government’s conference “Humanity at the Crossroads”, which is taking place in Vienna at the end of this month? What is the Government’s assessment of the implications of the use of AI targeting systems under international humanitarian law? Can the Government clarify how new international law on AWS would be a threat to our defence interests? What factors are preventing the Government adopting a definition of AWS, as the noble Lord, Lord Lisvane, asked? What steps are being taken to ensure meaningful human involvement throughout the life cycle of AI-enabled military systems? Finally, will the Government continue discussions at the Convention on Certain Conventional Weapons, and continue to build a common understanding of autonomous weapon systems and elements of the constraints that should be placed on them?
+
+As the noble Lord, Lord Lisvane, started off by saying, the committee rightly warns that time is short for us to tackle the issues surrounding AWS. I hope the Government will pay close and urgent attention to its recommendations.
+
+14:36:00
+
+Baroness Anderson of Stoke-on-Trent (Lab)
+My Lords, I remind your Lordships’ House of my register of interests, specifically my association with the Royal Navy.
+
+I feel that I should start my contribution with an apology to the noble Lord, Lord Lisvane. When I joined your Lordship’s House, I was delighted to be appointed to the AI in Weapon Systems Committee and very much enjoyed my attendance. However, my work on the Front Bench did not allow me to fully participate, so I apologise that I was unable to remain on the noble Lord’s committee. I am, however, delighted to be responding on behalf of His Majesty’s Opposition to such a timely and considered report, and congratulate both the noble Lord, Lord Lisvane, and his committee on the report and today’s informed and challenging debate.
+
+As has been highlighted throughout the debate, if we ever needed a reminder of the changing strategic environment within which we operate, we need only consider the use of drone warfare in both the Ukrainian theatre and the targeting of Israel by Iran at the weekend, compounded by events overnight. Technology is developing at speed, hybrid warfare is increasingly the norm, and consideration of autonomous weapons systems as part of our coterie of defensive platforms is no longer the exception. As the technology develops, the onus is therefore on us to ensure that we are considering the lethality and ethical impact of each new system and tool available to us, ensuring that any AI-enabled systems help to augment our defensive capabilities, not replace them, and that human decision-making remains at the core of every military action. This report has thoughtfully highlighted some of the key challenges this and any future Government will face when procuring and deploying new technology, and working with allies to ensure that our defensive platforms operate within the currently agreed norms.
+
+Turning to the detail: in order to explore and manage an issue, it is vital that we can agree what we are talking about. Although I appreciate the Government’s concerns regarding a narrow definition and the potential legal pitfalls which may follow, the lack of an agreed definition must make conversations harder with partners, including industry. As the committee established, there is no internationally agreed definition of AWS currently in place with NATO allies and our Five Eyes partners. It is vital that, with our key allies, we seek to broadly define and agree the concept of AWS, if only to ensure clear communication channels as the technology develops—defence is rarely an ideal area for ambiguity. If a definition is considered unhelpful by the Government, would the Minister consider the adoption of an agreed framework in this area as an alternative?
+
+“Artificial intelligence” is a fashionable term, and the impact of advanced machine learning is being considered in every field. For defence, the embrace of new technology is nothing new, and the use of machine learning has been a core part of the development of our capabilities during my lifetime. However useful machines are and however effective our technology becomes, the reality is that humans must always be accountable for the operations that our military undertakes. This is a necessary guarantee to ensure compliance with international humanitarian law, and I welcome the Government’s ongoing commitment to this premise. However, as this technology develops, can the Minister provide us with slightly more detail than was afforded by the Government’s response to this report? Specifically, what new processes are being considered by the department to ensure human accountability if some weapons systems are fully autonomous, as seems increasingly likely?
+
+As the events of the past two years have made all too clear, we are living through a period of global turmoil that requires renewed consideration of our defence capabilities. No one in your Lordships’ House is seeking to undermine the efforts of the United Kingdom to defend itself and work with its allies; in fact, it is increasingly clear that a technological edge in defence capabilities, in concert with our allies, is as crucial to our doctrine of deterrence now as it ever has been. To that end, can the Minister update us on how the department plans to reform the procurement process in order to reflect the changing nature of the available technology? The committee recommends that the MoD’s procurement process should be revamped to be appropriate for the world of AI, and says that the current process lacks capability in software and data, which are essential to AI, and has limited expertise in the procurement of these platforms.
+
+As the Minister will be aware, the Labour Party has pledged, if we are fortunate enough to form the next Government, to establish a fully functioning military strategic HQ within the MoD as a strategic authority over the capability that our Armed Forces must have and how it is procured, in order to make Britain better defended and fit to fight. We will also seek to create new strategic leadership in procurement by establishing a national armaments director. The NAD will be responsible to the strategic centre for ensuring that we have the capabilities needed to execute the defence plans and operations demanded by the new era. This role will be key to the development of a new procurement process, which will secure the platforms and technologies needed across all services as the strategic environment changes and will be core to the procurement plans under a future Labour Government, including the procurement of AI-enabled weapon systems.
+
+So, although I welcome the fact that the Government have recognised the need for significant change to transform the MoD procurement process on this and every other issue in order to commission AI-ready platforms effectively, can the Minister update your Lordships’ House on the Government’s plans and how the MoD procurement process will be reformed to ensure that it has the capacity and expertise for the software and data procurement projects that are essential for developing AI?
+
+In his Lancaster House speech earlier this year, the right honourable Grant Shapps MP stated that we are
+
+“moving from a post war to a pre-war world”.
+
+Given recent events and the range of hot conflict zones now impacting UK strategic interests, it is vital that we use every tool available to us to protect our national interest. This includes the use of AI and AWS; we just need to make sure that we always develop and deploy them in line with our shared value systems.
+
+I thank the noble Lord, Lord Lisvane, and the committee for their thoughtful work and for ensuring that we have taken the time at the right juncture to consider how we will progress in defence as technology develops so rapidly.
+
+14:43:00
+
+The Minister of State, Ministry of Defence (The Earl of Minto) (Con)
+My Lords, I am grateful to those present for their considered and, at times, heartfelt contributions to this debate. I am equally grateful to the noble Lord, Lord Lisvane, for bringing this debate to the House and for his excellent opening remarks; and to the entire committee for its informative report on artificial intelligence in weapon systems, which was published at the end of last year and which the Government have considered and contributed to most seriously.
+
+As many noble Lords will be aware, the Government published their formal response to the committee’s recommendations in February. They concurred with the committee’s advice, as a number of noble Lords pointed out, to proceed with caution in this domain. As we have heard today, all sides of this House appreciate that artificial intelligence will be transformative in many ways—a balance of risk and opportunity.
+
+For defence, we can already start to see the influence of artificial intelligence in planning operations, in the analysis of vast quantities of data and imagery, in protecting our people, in the lethality of our weaponry and, crucially, in keeping both our Armed Forces and innocent civilians out of harm’s way.
+
+Take the example of revolutionising the efficacy of CCTV, and surveillance more broadly, in removing the serious levels of risk in bomb or mine disposal, or in refining the pinpoint accuracy of a military strike specifically to avoid collateral damage, as the noble and gallant Lord, Lord Houghton, identified. In this fast-evolving sector, as the noble Lord, Lord Hamilton, and the noble Baroness, Lady Hodgson, also rightly pointed out, it is essential that our Armed Forces are able to embrace emerging advances, drive efficiencies and maintain a technological edge over our adversaries who, noble Lords can be sure, will be pursuing the opportunity with vigour.
+
+The MoD has established the Defence AI Centre to spearhead this critical work, bringing together experts from its strategic command centre in Northwood, its Defence Equipment and Support body in Bristol, and its science and technology laboratories near Salisbury, alongside a broad range of industry and academia: a genuine government and private sector partnership of significant potential.
+
+The MoD also has some 250 projects either already under way or imminently starting work, and has tripled investment in artificial intelligence-specific research over the last three years, reaching more than £54 million in the last financial year. It is £115 million directly over the last three years, to answer the question from the noble Lord, Lord St John of Bletso.
+
+AI is an enabling component, not a capability per se. It is contained within so many capabilities that, probably, the investment is nearer to about £400 million in activities outside raw research.
+
+Evidently, the potential of artificial intelligence in defence will continue to raise myriad technical, ethical and legal questions and challenges. This Government will continue to work through these judiciously, with as much transparency and consultation as possible, within the obvious national security constraints. To guide its work and its use of artificial intelligence in any form, defence is governed by clear ethical and legal principles. In June 2022, defence published its defence AI strategy alongside our “Ambitious, safe, responsible” policy statement, which set out those principles. We were one of the first nations to publish our approach to AI transparently in this way.
+
+To inform our development of appropriate policies and control frameworks, we are neither complacent nor blinkered. The MoD regularly engages with a wide range of experts and civil society representatives to understand different perspectives. Equally, it takes the views expressed in this House and the other place most seriously.
+
+To categorically reassure noble Lords, the British Ministry of Defence will always have context-appropriate human involvement and, therefore, meaningful human control, responsibility and accountability. We know, however, that other nations have not made similar commitments and may seek to use these new technologies irresponsibly. In response to this, we are pushing and pursuing a two-pronged approach. First, the UK is working with its allies and international partners to develop and champion a set of norms and standards for responsible military AI, grounded in the core principles of international humanitarian law. Secondly, we are working to identify and attribute any dangerous use of military AI, therefore holding those irresponsible parties to account.
+
+I realise that the question of how and whether to define autonomous weapons systems is extremely sensitive. The noble Lords, Lord Lisvane and Lord Clement-Jones, and the noble Lord, Lord Browne of Ladyton, who is no longer in his place, have raised this matter. These systems are already governed by international humanitarian law so, unfortunately, defining them will not strengthen their lawful use. Indeed, it is foreseeable that, in international negotiations, those who wilfully disregard international law and norms could use a definition to constrain the capabilities and legitimate research of responsible nations. It is also for that reason that, after sincere and deep consideration, we do not support the committee’s call for a swift agreement of an effective international instrument on lethal autonomous weapons systems—that would be a gift to our adversaries. However, I must emphasise that this Government will work tirelessly with allies to provide global leadership on the responsible use of AI.
+
+On the question of fully autonomous weapons, we have been clear that we do not possess fully autonomous weapons systems and have no intention of developing them. On the very serious issue of autonomous nuclear weapons, which is understandably a troubling thought, as identified by a number of noble Lords, specifically the noble Lords, Lord Lisvane and Lord Hamilton, we call on all other nuclear states to match our commitment to always maintaining human political control over nuclear capabilities.
+
+We will continue to shape international discussions on norms and standards, remaining an active and influential participant in international dialogues to regulate autonomous weapons systems, particularly the UN group of governmental experts under the scope of the Convention on Certain Conventional Weapons, which we believe is the most appropriate international forum to advance co-operation on these issues.
+
+International compliance will continue to be paramount, as the noble Earl, Lord Erroll, brought attention to and the noble Lord, Lord Clement-Jones, mentioned. I will write in detail about the many questions that he asked about this specific point; I am afraid we just do not have the time now.
+
+We believe the key safeguard over military AI is not a definition or document but, instead, ensuring human involvement throughout the life cycle. The noble Lords, Lord Lisvane and Lord Clement-Jones, and the noble and gallant Lord, Lord Houghton, rightly raised that issue. What that looks like in practice varies from system to system and on the environment in which they are deployed. That means every defence activity with an AI component must be subject to rigorous planning and control by suitably trained, qualified and experienced people to ensure that we meet our military objectives in full compliance with international humanitarian law, as well as all our other legal obligations.
+
+This year we will publish governance, accountability and reporting mechanisms. We will build challenge into our processes and input from outside experts in the form of an independent ethics panel. The MoD accepts the committee’s recommendation to increase the transparency of that panel’s advice, and we have just published the minutes of all six previous advisory panel meetings on GOV.UK, alongside the panel’s membership and terms of reference. We are also re-examining the role and options for the ethics advisory panel to include the views of more external experts in sensitive cases.
+
+The committee made a number of recommendations around expertise, training, recruitment and pay, and quite rightly so. The MoD offers some unique opportunities for people interested in national and international security, but we are far from taking this for granted. We have accepted recommendations for the Haythornthwaite review, which will be familiar to many in the House and the other place, to enable any new joiners the option of careers that zigzag between regulars and reserves and, importantly, between the public and private sectors.
+
+This is a highly attractive and highly competitive market, as outlined by a number of noble Lords, in the widest context. We are taking a range of additional steps to make defence AI an attractive and aspirational choice. We are looking at recruitment, retention and reward allowances, developing new ways to identify and incubate existing AI talent within our ranks, and developing new partnerships with private sector companies of whatever company size—particularly SMEs, because they are particularly strong in this area—to encourage more exchanges of expertise.
+
+I also point out that my honourable friend the Minister for Defence Procurement is alive to this issue and has been driving substantial reform through the integrated procurement model, injecting agility and challenge into a system that I think everybody accepts needs considerable work. We will also shortly appoint a capability lead for AI talent and skills to drive this work forward in partnership with the frontline commands and our enabling organisations.
+
+The committee also made a number of eminently sensible recommendations around testing of AI systems and operators. The MoD already has effective processes and procedures in place to ensure that new or novel military capabilities are safe and secure and operate as intended. As the noble Lord, Lord Stevens, illustrated, trial and risk appetite is an important aspect of consideration. We will ensure these are reviewed and updated as necessary as we integrate AI technologies into our armoury.
+
+The Government are committed to providing as much transparency as possible around defence AI investment to aid public and parliamentary scrutiny. However, AI is always going to be an enabling component of much broader systems and programs. It can therefore be very difficult to isolate and quantify the cost of the AI element separate to the wider system. However, we are exploring solutions in the medium term that may give a better picture of specific and overall AI spending and investment across defence.
+
+In conclusion, the department welcomes the overarching conclusions of the committee and the very wise advice to “proceed with caution”. We are determined to use AI to preserve the strategic edge, but we are equally committed to do so responsibly and in conformity with our values and obligations. Defence has a proven track record of integrating new technologies across the UK Armed Forces, and we should meet this one head-on. While we recognise that the adoption of  AI will raise many new challenges, we believe that being open to challenge ourselves, including from Parliament, is an important part of the way forward.
+
+14:59:00
+
+Lord Lisvane (CB)
+My Lords, 3 pm on a Friday afternoon is not a particularly auspicious time for a long final spot, but I am extremely grateful to noble Lords on all sides of the House who have taken part in the debate. Their interest, views and expertise have made this a very valuable proceeding. I am extremely grateful for the kind remarks from many about the committee’s work. I especially thank the noble Lord, Lord Clement-Jones, whose idea it originally was that the committee should be set up. I hope that he is pleased with the result.
+
+I am also grateful to the Minister for some positive announcements made during his speech, although he will accept there are issues on which he and I will need to agree to disagree, at least for the time being. Finally, the importance of the subject and the speed of developments make it certain that your Lordships’ House will need to consider these matters again before long, and I look forward to the occasion.
+
+Motion agreed.
+
+House adjourned at 3 pm.

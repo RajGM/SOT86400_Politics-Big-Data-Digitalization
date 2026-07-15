@@ -1,0 +1,69 @@
+ Artificial Intelligence: National Security Implications
+
+Private Notice Question
+
+15:19:00
+
+Asked by
+
+Baroness Kidron
+To ask His Majesty’s Government, in light of the decision of the government of the United States to restrict foreign national access to Anthropic’s Claude AI models, Mythos 5 and Fable 5, what assessment they have made of the implications for the United Kingdom’s security; and what alternative sovereign UK systems or partnerships they are pursuing, if any.
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Innovation and Technology (Baroness Lloyd of Effra) (Lab)
+My Lords, no Government take AI sovereignty and security more seriously than this one. The UK is not a bystander when it comes to the security of AI. Our world-leading AI Security Institute was one of only a handful of organisations with access to both Mythos and Fable before they were released; they were used to identify risks in advance. We are investing £1.6 billion in the UK’s sovereign AI capabilities, made up of £500 million directly in UK AI firms via our sovereign AI fund and £1.1 billion via our AI hardware plan.
+
+Baroness Kidron (CB)
+I thank the Minister for that response. President Trump gave less than 90 minutes for Anthropic to make Mythos and Fable unavailable to any non-US citizens. In doing so, the White House went from a position of no AI regulation at all to 100% control. These systems are extremely powerful and anticipated to be able to break any other AI system, putting all critical industries and systems into meltdown, and we know other systems of the same ilk will shortly follow. In light of these developments, will the Government ask the AI Security Institute to develop red lines for AI systems deployed in the UK, including those used by government, and bring them forward in the promised AI Bill? Does the Minister not agree that the Government’s increasing dependency on US companies in health, education and security is creating a critical vulnerability for national security?
+
+Baroness Lloyd of Effra (Lab)
+We continue to support the AI Security Institute. It is very well respected by developers. That is why it has early access and is able to test the risks. Those risks are obviously going to develop as the models themselves evolve. It is also looking closely at the question of alignment, and that is something we are supporting in particular. In respect of sovereign AI, our approach is about building strength over key parts of the value chain to bring to the table technologies that no one else can do without.
+
+For the UK, one of the most promising sectors is in AI hardware. We have brilliant start-ups in that area. That is why we announced the £1.1 billion AI hardware plan, which includes up to £400 million to purchase these new types of chips. In respect of regulation, as the noble Baroness knows, we are working with our regulators to support them to take account of the risks posed by AI and the opportunities brought by AI for increased productivity and effective regulation.
+
+Lord Vaizey of Didcot (Con)
+My Lords, my understanding is that the US Government took urgent action because of security flaws found in the AI model in question. They used the legislation that was available to them. There was no sinister or hidden agenda in their decision to cut it off, and it has been cut off from use by all American companies as well. It is also my understanding, as the Minister echoed, that the AI Security Institute, originally set up by Rishi Sunak and supported by this Government, is one of the leading bodies in the world in this work. Can the Minister assure us that the AI Security Institute is able to work closely with its US counterparts as we navigate this extremely complex field?
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord raises very important points, including the fact that Mythos and Fable are unavailable worldwide, including in the US. He rightly stresses the importance of the AI Security Institute—its establishment, its ongoing support and funding by this Government, and the fact that it was able to test both Mythos 5 and Fable 5. We are in touch with the US Government and are monitoring the situation closely.
+
+Lord Clement-Jones (LD)
+My Lords, the Minister has mentioned the AI Security Institute. It identified ways to circumvent the safety guardrails of Fable 5 and Mythos before their public launch, including vulnerabilities that could allow the extraction of instructions for producing dangerous substances, yet the model was released by Anthropic regardless. Will the Minister now accept that voluntary co-operation with safety institutes is wholly insufficient at this level of capability and bring forward legislation giving the AI Security Institute the statutory power, where necessary, to delay or prevent the launch of dangerous frontier AI models in the UK?
+
+Baroness Lloyd of Effra (Lab)
+The AI Security Institute did test Mythos and Fable before they were launched. In light of the risks that they potentially posed—Mythos in particular—we also gave advice to our companies. We worked carefully with the National Cyber Security Centre to provide advice to companies and regulators on what needed to be done because, generally speaking, what we find with these potential new capabilities is that many of the basic mitigants that you need to take will inhibit the effectiveness of these new models. In respect of regulation, as I mentioned a moment ago, we continue to support the effectiveness of sector-based regulators regulating AI risks as they approach their sectors. They are best placed to know what those risks are and what the mitigants will be.
+
+Viscount Stansgate (Lab)
+My Lords, I commend the Government on having introduced the Cyber Security and Resilience (Network and Information Systems) Bill, whose remaining stages are, as it happens, going through another place this very day. The House knows—or, if it does not, it is rapidly coming to understand—that AI is being used to manufacture and promote all kinds of cyber threats and scams. Looking beyond the legislation, what more can the Government do to ensure, whether through the AI Security Institute or by other means, that the risks of AI can be mitigated not just for individuals but for businesses and indeed for the Government themselves?
+
+Baroness Lloyd of Effra (Lab)
+My noble friend highlights the importance of us being incredibly vigilant on cyber security. He highlights the important role that the cyber security Bill will play in bringing data centres, large load controllers and managed service providers into the regulatory ambit, as it were, but he is also right that we need to do more. The National Cyber Security Centre supports organisations through Cyber Essentials. It published new joint guidance with the AISI on preparing cyber defences for frontier AI. My noble friend also mentioned the importance of the Government taking cyber security seriously, which is what they have set out to do through the Government’s cyber action plan.
+
+Lord Tarassenko (CB)
+My Lords, I declare a conflict of interest as a senior adviser to the Alan Turing Institute, the national AI institute. We have known for a while that access to US big tech models might be restricted, and it will happen again. We should not rely on Chinese open source models either, for obvious reasons. There is an alternative: a UK sovereign AI model. The Alan Turing Institute has argued for several months that the UK has the technological capability in the institute, in academia and in its nascent AI industry. The UK also has sovereign data assets, such as data from the BBC and the Met Office. The Alan Turing Institute, as a national AI institute, could lead a team to train a sovereign model for millions of pounds, not billions of dollars, following UK values, including transparency and respect for copyright. The Council for Science and Technology’s AI subgroup and many others are convinced. What more evidence does DSIT need to fund the training of a UK sovereign AI model?
+
+Baroness Lloyd of Effra (Lab)
+We are very attentive to the importance of building out sovereign AI capabilities that complement the strength of the UK’s AI sector. At the model level, the sovereign AI fund has invested in Ineffable Intelligence and Cosine, and we are targeting companies innovating in hardware, providing an investment into Callison. In terms of the importance of investing in this area, that is an approach that we are able to take through the sovereign AI fund. In respect of the specific proposal that the noble Lord recommends, I am happy to pick that up with the department and come back to him specifically on that model.
+
+Viscount Camrose (Con)
+My Lords, I very much welcome the proposal of the noble Lord, Lord Tarassenko, for sovereign AI capability here. But I would welcome a great deal more clarity from the Government on what exactly they mean by sovereign AI. Does it mean a complete sovereign stack of hardware, software and data? Does it mean AI capability being sovereign, as the Tony Blair Institute suggested, or some variation of that? Until there is a clear definition, it will be very difficult to understand the way forward.
+
+Baroness Lloyd of Effra (Lab)
+Sovereignty is not just about controlling AI models. It is about building leverage over key parts of the value chain and bringing to the table technologies that no one else can live without. It is about looking at where the UK has competitive strengths and where we can support our most promising sectors and start-ups, whether through financial investment, support for R&D or support with visas and so on. We have identified five priority areas: compute efficiency and sovereign architecture; next generation AI labs and model development; AI for health and life sciences; AI for scientific discovery; and AI trust, integrity and assurance. Those are the areas in which we think the UK has a competitive advantage.
+
+Baroness Stowell of Beeston (Con)
+My Lords, bearing in mind that Fable is Mythos with guardrails, have the Government asked Anthropic whether it is addressing the jailbreak that threatens cyber security to a Mythos-style extent? If they are not addressing it, why not? There appeared to be some reluctance from Anthropic when the flag was first raised, which is surprising, bearing in mind how much emphasis that company places on security and safety. Have the Government sought confirmation from the US Administration that if Anthropic addresses that jailbreak, the US Government will lift the export control alongside all the other controls they have placed on this model?
+
+Baroness Lloyd of Effra (Lab)
+The focus of the AI Security Institute is on its great relationships with frontier developers in order to be able to test these and provide feedback to them. Indeed, it publishes its findings so that others can see them as well, allowing people to address those risks. As I mentioned before, we are in touch with the US Government, but it is not for me to talk about what the US Government do in terms of their export control decisions.
+
+Lord Dixon of Jericho (LD)
+My noble friend Lord Clement-Jones is right that this is about investment, but it is also about people. The Minister touched on visas briefly. Given that many of the leading researchers in the US are deeply concerned about the way the US Administration are taking action in this area, what practical steps are the Government taking to ensure that the UK is attractive to the very best AI researchers in the world?
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord is spot on to highlight this point. On the approach that the sovereign AI fund is taking, it is investing. We are also providing access to compute, and we are able to support visas. The Global Talent Taskforce is looking to support researchers and expert scientists from around the world to bring them to the UK.
+
+Lord Brooke of Alverthorpe (Lab)
+Is my noble friend the Minister aware of the growing desire for the UK to have an independent sovereign entity in this field? That is going to cost a great deal of money, of course. First, can she copy the letter that she is sending to the noble Lord on the Cross Benches to the whole House? Secondly, can she please update us on the questions we keep asking about the possibility of developing a new public/private partnership to fund such a venture?
+
+Baroness Lloyd of Effra (Lab)
+I am very happy to make the letter regarding the suggestion from the Turing Institute and the noble Lord, Lord Tarassenko, available to all in the House. Our view is that the best way for the UK to build up strength, and hence sovereign strength, is not just about controlling AI models. It is about having leverage over key parts of the value chain by bringing those technologies here, supporting UK expertise and supporting people to come to the UK to build companies here, to stay and to scale. That is the approach we will take.

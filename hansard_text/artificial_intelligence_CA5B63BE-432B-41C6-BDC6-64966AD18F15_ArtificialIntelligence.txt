@@ -1,0 +1,40 @@
+ Artificial Intelligence
+
+Iqbal Mohamed (Dewsbury and Batley) (Ind)
+5.  What steps she is taking to help ensure artificial intelligence is developed responsibly.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Kanishka Narayan)
+There are three particular things that this Government are doing to make sure that artificial intelligence is developed responsibly, and developed here: first, we are building deep capability in Government, with the AI Security Institute; secondly, we are developing a wider AI assurance sector, so that Britain is at the frontier in this context; and thirdly, we are ensuring robust regulation at the point of use.
+
+Iqbal Mohamed
+Given the growing warnings from leading scientists, industry figures and Nobel laureates that advanced AI systems could pose existential risks on a par with nuclear or biological threats, does the Minister agree that the current reliance on voluntary commitments through the AI Security Institute is insufficient, and will he outline the concrete steps that the Government will now take to move beyond non-binding agreements, and to introduce enforceable, internationally agreed standards?
+
+Kanishka Narayan
+First, I would point out to the hon. Member that there is a series of regulations that apply to AI algorithms and systems at the point of use. Secondly, we have taken powers in the Crime and Policing Act 2026 that allow us to bring unregulated chatbots into the scope of that Act and its requirements on illegal content. Thirdly, through the AI Security Institute, Britain has been at the frontier internationally of thinking about policies and the best ways of developing our capability. This is across the mandatory regulatory contexts that I have just mentioned—and of course there are some voluntary requirements on top of that.
+
+Anneliese Dodds (Oxford East) (Lab/Co-op)
+The AI Security Institute’s pre-release analysis of AI models did not prevent Grok’s production of over 3 million sexualised images. Even Steve Bannon, of all people, is now calling for mandatory pre-release vetting of AI models, so has the time come for the UK to review our voluntary approach?
+
+Kanishka Narayan
+I thank my right hon. Friend for raising this topic, and for her deep expertise. On Grok, she will be aware that the regulatory and legal context made a number of those instances illegal. We will continue to enforce the law very robustly, and of course we have ongoing conversations on further policy.
+
+Sir Oliver Dowden (Hertsmere) (Con)
+Given the recent rapid advances of frontier AI models in areas such as identifying software vulnerabilities, and in rapid testing for those vulnerabilities in a very sophisticated way, what engagement do the Government have with those frontier companies, and particularly Anthropic? Are the Government considering making changes to the carried-over Cyber Security and Resilience (Network and Information Systems) Bill to address these very real vulnerabilities?
+
+Kanishka Narayan
+On the question of engagement, I must first pay tribute to the AI Security Institute, which is one of the only labs in the world that engaged with all the frontier companies prior to the deployment of models, and in this case with Anthropic’s Mythos model as well. On the broader question of the Cyber Security and Resilience (Network and Information Systems) Bill, a major reason why we brought data centres into scope was that we appreciate the cyber risks that apply to them. We will continue to keep that under review.
+
+Emily Darlington (Milton Keynes Central) (Lab)
+One of the best ways to make sure that any AI developed contributes to innovation and growth is to set very high standards. We are lucky to have the British Standards Institute—the oldest standards institute in the world—and I am very lucky that it is based in Milton Keynes. Will the Minister join me in wishing it a huge happy birthday in this momentous year for it? What kind of engagement has he had with it on its work to set reassuringly high standards for AI’s development?
+
+Kanishka Narayan
+My hon. Friend has been a remarkable champion for the BSI, on this and on wider issues as well. I will not sing “Happy Birthday”, but I will certainly wish it a very happy birthday, and I look forward to continuing my conversations with it.
+
+Mr Speaker
+I call the Liberal Democrat spokesperson.
+
+Victoria Collins (Harpenden and Berkhamsted) (LD)
+Having worked across Departments and with my technology counterpart in the Lords, we have published a comprehensive paper on how Britain can thrive in the age of AI. It calls for a digital sovereign strategy and an integrated approach to AI that is bold, responsible, pro-innovation, pro-trust and built alongside industry and civic expertise. I would be happy to discuss this. We see Britain having a leading place in AI services, but we have squandered leads before, and the Government have not offered a coherent, joined-up strategy on how to do this differently, in a way that is centred on trust and standards. Where is the Government’s AI Bill? Can we have guarantees that Labour’s latest internal drama will not cost Britain its most important economic opportunity in a generation?
+
+Kanishka Narayan
+Can I gently point out to the hon. Lady that there is a very clear strategy? We set out the AI opportunities action plan early on, and we then built in a public dashboard, so that people right across the country can follow progress on the plan: 75% of it has been delivered, and just this week, we found out that IT and AI have driven productivity revivals for this country. We are firing on all cylinders when it comes to UK AI.

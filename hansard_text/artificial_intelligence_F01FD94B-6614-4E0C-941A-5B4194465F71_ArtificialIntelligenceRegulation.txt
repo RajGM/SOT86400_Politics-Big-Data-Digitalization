@@ -1,0 +1,23 @@
+ Artificial Intelligence Regulation
+
+Rebecca Long Bailey (Salford and Eccles) (Lab)
+7. What steps she is taking to ensure that regulators have adequate capacity and co-ordination to implement the AI regulatory principles.
+
+The Secretary of State for Science, Innovation and Technology (Michelle Donelan)
+Ensuring that regulators have the right skills and capabilities to regulate in their domains is fundamental to the effective delivery of our approach on artificial intelligence regulation. To support that, we have established a central co-ordination function, which will provide regulators with guidance on implementing the regulatory principles and help them to identify emerging risks and challenges. The £10 million funding we have announced to jump-start regulator capacity and capability will form a crucial element of this work.
+
+Rebecca Long Bailey
+AI in the UK still lacks sufficient regulation, despite the pace of change and the risks posed. The Government stated that they expect to introduce
+
+“a statutory duty on regulators requiring them to have due regard”
+
+to the five high-level principles outlined in the AI White Paper. So will the Secretary of State confirm if and when she will legislate for that, and what factors will inform her decision?
+
+Michelle Donelan
+The risks of AI are still emerging, so the priority of this Government is keeping pace with those risks, to keep the public safe. That is why we have an agile, sector-specific approach, utilising our world-leading regulators, whereas the Opposition keep calling for legislation on an area they do not understand.
+
+Sir Oliver Heald (North East Hertfordshire) (Con)
+Does the Secretary of State agree that one important thing about the Bletchley conference was that it enabled international co-operation on interoperability and a common approach? Does she also agree that that will enable regulators to co-operate internationally?
+
+Michelle Donelan
+I absolutely agree with what my right hon. and learned Friend says, and I call it the “Bletchley effect”; we have seen action taken in other nations across the world since our world-leading first ever AI global summit on safety.

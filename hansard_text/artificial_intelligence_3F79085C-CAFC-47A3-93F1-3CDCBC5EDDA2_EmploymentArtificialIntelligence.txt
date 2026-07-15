@@ -1,0 +1,76 @@
+ Employment: Artificial Intelligence
+
+Question
+
+14:46:00
+
+Asked by
+
+Lord Khan of Burnley
+To ask His Majesty’s Government what assessment they have made of the impact of artificial intelligence on employment in the UK; and what support they plan to provide for affected workers.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Baroness Lloyd of Effra) (Lab)
+We published an assessment of AI impacts on the labour market in January, and the new AI Economics Institute will broaden and deepen our analytical capability. We will upskill 10 million people through the AI skills boost and help people to develop digital skills through the £187 million TechFirst programme. Our £20 million Early Careers Jobs Alliance will bring together employers, unions and young people to redesign roles while maintaining progression in the digital and technology sector.
+
+Lord Khan of Burnley (Lab)
+I thank my noble friend the Minister for her response. The Open University’s latest Business Barometer report on the employer skills gap included a survey of 1,500 UK businesses and over 1,000 young people outside education, employment and training. Some 42% of young people agree that AI is threatening their job prospects, and 49% are wary of the future of AI and its impact on their future work. Do His Majesty’s Government agree that the best way to equip our people for the future is upskilling, as the Minister talked about, and investing in people? What assessment, strategy and planning are taking place to ensure that all regions are upskilled and no one is left behind?
+
+Baroness Lloyd of Effra (Lab)
+My noble friend is right about the potential of AI and that many people are uncertain about how it will develop in the future. The critical point that I think he and I agree on is that the best way of approaching this technological development is equipping people in all regions of the country—young people and those who need retraining—which is exactly the approach we are taking. With our AI skills boost, we will upskill 10 million people in work, and we have already reached 1.7 million. In that way, workers in this country will be able to make the most of this technological revolution.
+
+Lord Clement-Jones (LD)
+My Lords, the Milburn interim report, Young People and Work, found that a growing share of entry-level roles are now filtered by algorithmic screening before a human has even seen an application. Given that NEET numbers are shockingly high, what specific assessment have the Government made of the extent to which AI-driven recruitment tools are narrowing rather than widening life chances for these young people? Will the Minister commit to mandatory algorithmic impact assessments, as suggested by the TUC, for recruitment algorithms so that employers and platforms are required to test for bias before these tools are deployed at scale?
+
+Baroness Lloyd of Effra (Lab)
+The Government previously set out guidance on recruitment in the age of AI. The new future of work unit will look at what is developing in the labour market and at whether guidance such as that needs updating and in what respect. In the meantime, we are supporting young people, through our youth guarantee and through provision of early training opportunities for them, so that they can get into work now and continue to advance through their careers.
+
+Baroness Manzoor (Con)
+My Lords, what action are the Government taking to tackle interoperability within government departments? What are they doing to ensure that there is AI investment in the regions? We need actions, please.
+
+Baroness Lloyd of Effra (Lab)
+On investment in the regions, the Government are supporting huge investment in AI through AI growth zones and through investment in people, with the £10 million jobs boost and £187 million to support young people and those returning to work to get the skills that they need. These programmes are developed centrally and delivered in partnership with local organisations and civil society. We are investing in infrastructure and we are investing in people.
+
+Viscount Colville of Culross (CB)
+My Lords, I am concerned about the adverse effect that AI is having on employment in the creative sector. The Communications and Digital Committee, in its recent report on AI and copyright, recommended protections against both unauthorised digital replicas and harmful AI outputs in the style of a creator’s work. The consultation that the Government announced in March appears to cover only digital replicas. Will the Minister tell the House whether she will address harmful “in the style of” outputs?
+
+Baroness Lloyd of Effra (Lab)
+The noble Viscount is right that we have a programme of work looking at digital replicas. We will be consulting on that. The fact that there are many who are affected by this—musicians, politicians and everyday citizens—means that it is an extensive piece of work. I will take back his question on the precise remit of this consultation and reply to him.
+
+Baroness O’Grady of Upper Holloway (Lab)
+My Lords, my noble friend the Minister is right that skills are critical, and the launch of the AI skills hub is welcome, with its focus on providing free training for 10 million workers. However, is she aware of reports that the majority of courses on the hub charge fees and that some are tied to particular products? Will she agree to monitor the quality of courses on the hub, alongside unions and educational professionals, to ensure that workers get the training they need?
+
+Baroness Lloyd of Effra (Lab)
+I will indeed do what my noble friend suggests and make sure that we look at the quality of the courses that are available. They are provided in concert with a large number of providers who are developing these courses to support their workers and are extending them to other workers, in particular SMEs, because we know that SMEs and other workers are those who most need to adopt AI and who may be currently lagging in this country.
+
+Baroness Lane-Fox of Soho (CB)
+My Lords—
+
+Lord Hintze (Con)
+My Lords—
+
+Captain of the Honourable Corps of Gentlemen-at-Arms and Chief Whip (Lord Kennedy of Southwark) (Lab Co-op)
+My Lords, it is the turn of the Cross Benches, then the Conservative Benches.
+
+Baroness Lane-Fox of Soho (CB)
+My Lords, I declare an interest as chair of the Mayor of London’s taskforce on the effect of AI on jobs in London. What we found consistently in our live data and in talking to employers is that there are crucial skills that are not being delivered right now, around the human part that goes alongside AI: critical thinking, judgment, creative ability and curiosity. What steps are the Government taking to ensure that, in a world of augmented humanity, we are developing the human skills, for young people in particular?
+
+Baroness Lloyd of Effra (Lab)
+The noble Baroness raises an important point. The development of technology and what can be augmented leaves the human aspect very much to the fore, which can include issues around discernment and judgment. The Government have a number of courses and training opportunities—for example, to support businesses in management. I know that the Office for Students is looking carefully at what all this means for higher education, for example, and the Department for Education has provided a range of advice to schools about this. The noble Baroness’s point is well made and is something that the future of work unit will look at, among its other considerations.
+
+Lord Hintze (Con)
+My Lords, the Minister has been very clear on how much it will cost. But it is not clear to me, and not for the first time, how effective the Government’s money—taxpayers’ money—will be when it is spent in this way.
+
+Baroness Lloyd of Effra (Lab)
+Some of the programmes that I have mentioned, including the TechFirst programme, have been running for some time. TechFirst has been successfully run and we learn from what is effective. We work carefully with partners to deliver these programmes. They are seeing good outcomes in the alumni who then go into the industry.
+
+Lord Fox (LD)
+My Lords, whatever the effect on jobs, the figures set out by the noble Lord, Lord Khan, indicate that there is already a crisis of confidence among our young people as they face the future. The point made by the noble Baroness, Lady Lane-Fox, is key. What are the Government doing, alongside training, to set out a vision—a human vision—for the young people of today?
+
+Baroness Lloyd of Effra (Lab)
+We are supporting young people to get into work. We are supporting youth employment through the changes to the youth guarantee and to the growth and skills levy, so that we can provide work and training places in jobs. We can support businesses hiring those young people, so that they get the opportunity of the experience of work and of the changing labour force, and can be supported through that.
+
+Viscount Camrose (Con)
+I welcome the Government providing a great deal of skills education, but I do not see how the Government know what skills the marketplace is looking for in AI, particularly in the situation in which we find ourselves, where the recruitment marketplace has been so badly damaged by the misapplication of AI that the market signals on what skills are actually required are not getting through. What does the AI Economics Institute think about this and how will the incoming Prime Minister take this forward?
+
+Baroness Lloyd of Effra (Lab)
+The Government have set up the future of work unit and have built on that with the AI Economics Institute precisely to examine the changes in the labour market and the changes to jobs—whether that is sector-specific changes or changes to particular cohorts, such as if women are particularly affected—and to then determine what action should be taken in that resolve. That is exactly what we are doing; we are being very active in understanding the technological change coming.

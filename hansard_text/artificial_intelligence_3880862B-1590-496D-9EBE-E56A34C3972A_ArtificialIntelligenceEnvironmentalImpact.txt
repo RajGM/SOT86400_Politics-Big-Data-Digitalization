@@ -1,0 +1,19 @@
+ Artificial Intelligence: Environmental Impact
+
+Bell Ribeiro-Addy (Clapham and Brixton Hill) (Lab)
+5. What discussions he has had with Cabinet colleagues on the potential impact of AI on the environment.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)
+DSIT works closely with other Departments, including the Department for Energy Security and Net Zero and the Department for Environment, Food and Rural Affairs, to align AI energy demand with future energy planning to ensure long-term sustainability. We understand that AI is an energy-hungry technology, which is why we have set up the AI energy council. Through that council, we are assessing ways to address the growing energy demands of AI and AI sustainability, including by exploring bold clean energy solutions, from next generation renewables to small modular reactors.
+
+Bell Ribeiro-Addy
+We know that AI has the power to transform civilisation, but its huge drain on the environment is a problem. For example, ChatGPT has an estimated 57 million daily users, but for every five to 50 questions it is asked, 500 ml of water are used to cool down its data centres. The Minister has explained some of the work that is being done and I understand that the AI energy council is looking at energy solutions to align the Government’s AI ambitions with our net zero goals, but with the increased incidence of drought and the overall climate emergency, what steps are the Government taking specifically to manage water consumption and sustainability with their AI ambitions?
+
+Feryal Clark
+I assure my hon. Friend that the Government are committed to ensuring that AI development aligns with sustainability goals. We welcome the advances in cooling technologies, such as dry cooling and closed-loop systems, in addition to promoting the use of renewable energy resources. I chair the AI Ministers group, which brings together Ministers from all Departments to co-ordinate cross-cutting challenges, including water consumption.
+
+Sir Roger Gale (Herne Bay and Sandwich) (Con)
+The astonishingly successful GrowUp vertical agriculture project in Sandwich, in my constituency, is highly dependent on data, which could be hugely assisted by artificial intelligence. I understand that agriculture is not represented on any of the working parties. Will the Minister seek to ensure that agriculture is included and possibly find time to visit the project?
+
+Feryal Clark
+As I have set out, we have inter-ministerial meetings that bring Ministers together, including Ministers from DEFRA. The Secretary of State regularly meets representatives from the National Farmers Union and other Secretaries of State to discuss these issues.

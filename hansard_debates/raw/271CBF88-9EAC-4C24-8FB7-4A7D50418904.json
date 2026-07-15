@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 5119438,
+    "ExtId": "271CBF88-9EAC-4C24-8FB7-4A7D50418904",
+    "Title": "Artificial Intelligence Skills",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-12-17T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 777,
+    "ContentLastUpdated": "2025-12-18T17:44:26.707",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "DC6CB626-354B-46C3-A2DA-74C0102E4362",
+    "NextDebateTitle": "Digital ID System",
+    "PreviousDebateExtId": "BFA34555-B7C4-4E3E-8EC3-AAA1D10756F3",
+    "PreviousDebateTitle": "Supply Chain Resilience"
+  },
+  "Navigator": [
+    {
+      "Id": 5119430,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "b5ef0c7d-1b9c-488d-a084-331ab7672397",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5119432,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5119430,
+      "SortOrder": 3,
+      "ExternalId": "D3F6B4E9-5DC9-4D1B-A028-0A42B73291DE",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5119433,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 5119432,
+      "SortOrder": 4,
+      "ExternalId": "E5E9A089-62FB-40EA-8437-4BF8172FBB54",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5119438,
+      "Title": "Artificial Intelligence Skills",
+      "ParentId": 5119433,
+      "SortOrder": 9,
+      "ExternalId": "271CBF88-9EAC-4C24-8FB7-4A7D50418904",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602040,
+      "MemberId": 5067,
+      "AttributedTo": "Tony Vaughan (Folkestone and Hythe) (Lab)",
+      "Value": "<Question HRSContentId=\"{CDCA7717-7835-4BC1-AAFB-F07575C91965}\">6. <QuestionText HRSContentId=\"{4332DC90-DCF1-4DF7-BC69-954E9DCA1718}\">What steps she is taking with the Secretary of State for Education to support young people to develop AI skills. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "CDCA7717-7835-4BC1-AAFB-F07575C91965",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "906993",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602041,
+      "MemberId": 4026,
+      "AttributedTo": "The Secretary of State for Science, Innovation and Technology (Liz Kendall)",
+      "Value": "This Government are determined to ensure that young people can seize the opportunities that AI brings. That is why we are giving 1 million secondary school pupils skills in tech and AI as part of our TechFirst skills programme. It is why we are replacing the currently over-narrow computer science GCSE and exploring a new qualification in data science and AI for 16 to 18-year-olds, so that we can tear down the barriers to success and give young people the chances and choices they deserve to get the jobs of the future.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "DCD906F6-AC59-4A71-8CC0-0EED4610E4F8",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602042,
+      "MemberId": 5067,
+      "AttributedTo": "Tony Vaughan",
+      "Value": "Research commissioned by DSIT estimates that by 2035 approximately 10 million UK workers will be in jobs where AI will be part of their responsibilities. PwC estimates that 18% of existing UK jobs face a high probability of automation by 2035, so what steps are the Government taking to ensure that young people in my constituency are well prepared for the integration of AI into their daily working lives, so that we can minimise the chances of unemployment in the future?",
+      "OrderInSection": 3,
+      "Timecode": "2025-12-17T11:50:37",
+      "ExternalId": "4C649094-7C2D-49CB-94DF-46BACF7B8326",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602043,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"897\" class=\"column-number column-only\" data-column-number=\"897\"></span>",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602044,
+      "MemberId": 4026,
+      "AttributedTo": "Liz Kendall",
+      "Value": "My hon. Friend has hit on one of the biggest challenges and opportunities we face as a country: how AI is going to transform how we live, earn and learn. We must prepare not only our young people but the entire workforce for the changes that AI inevitably brings. That is why, alongside the changes I have already outlined for young people, we will upskill 7.5 million workers in AI skills over the course of the next five years, so that people in every part of our country and all walks of life can shape their own future, not just be shaped by it.",
+      "OrderInSection": 6,
+      "Timecode": "2025-12-17T11:51:06",
+      "ExternalId": "26F75CAD-988E-4099-8224-AC0EE471CFC3",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602045,
+      "MemberId": 5277,
+      "AttributedTo": "Graham Leadbitter (Moray West, Nairn and Strathspey) (SNP)",
+      "Value": "Science and technology skills are vital if we are to fully realise the economic and social opportunities available to us, and I am sure the Secretary of State would agree that science centres are a vital part of that ecosystem in engaging and enthusing young people in science, technology, engineering and maths—STEM—learning. Does the Secretary of State agree that the Government’s funding of science centres has to date, as described by the sector, been piecemeal? Will she take action in support of the Science Centres for Our Future campaign and get science centres into sustainable and predictable funding arrangements?",
+      "OrderInSection": 7,
+      "Timecode": "2025-12-17T11:51:53",
+      "ExternalId": "2E1A830A-455D-4BC9-BAAB-3A7E5DB83770",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46602046,
+      "MemberId": 4026,
+      "AttributedTo": "Liz Kendall",
+      "Value": "I do not agree that this Government’s approach to supporting STEM has been piecemeal. As I have said, we have announced the biggest investment into research and development by any Government ever. As part of that, alongside supporting curiosity-led research, we are for the first time directing taxpayers’ money towards key Government priorities and key British strengths, including in STEM courses. I want to make sure that everyone in this country has those opportunities, but I am more than happy to discuss with the hon. Gentleman what more he thinks we could be doing.",
+      "OrderInSection": 8,
+      "Timecode": null,
+      "ExternalId": "0AFB3F83-E531-4752-92EB-1C64CF4E3DE8",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

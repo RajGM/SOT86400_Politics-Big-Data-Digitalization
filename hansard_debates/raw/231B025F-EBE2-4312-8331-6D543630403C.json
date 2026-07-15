@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 4868237,
+    "ExtId": "231B025F-EBE2-4312-8331-6D543630403C",
+    "Title": "Live Facial Recognition Surveillance",
+    "HRSTag": "hs_8Question",
+    "Date": "2024-07-29T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 752,
+    "ContentLastUpdated": "2025-03-18T16:20:27.263",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "51E8BF7D-883A-4D13-B55D-A3CA6AD25689",
+    "NextDebateTitle": "Asylum Claims Backlog",
+    "PreviousDebateExtId": "EAF7CD1B-BDF8-4E67-8C29-7A13DA4E8A2B",
+    "PreviousDebateTitle": "Antisocial Behaviour"
+  },
+  "Navigator": [
+    {
+      "Id": 4868226,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "31491b2e-f840-4954-b6f3-1600b3d2ab0b",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4868229,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4868226,
+      "SortOrder": 4,
+      "ExternalId": "7AAEF573-E260-487A-A1E6-CAA051684080",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4868230,
+      "Title": "Home Department",
+      "ParentId": 4868229,
+      "SortOrder": 5,
+      "ExternalId": "A673A300-9803-46D1-8572-6B6F452F2F3A",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4868237,
+      "Title": "Live Facial Recognition Surveillance",
+      "ParentId": 4868230,
+      "SortOrder": 12,
+      "ExternalId": "231B025F-EBE2-4312-8331-6D543630403C",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AE-AH",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42928151,
+      "MemberId": 4824,
+      "AttributedTo": "Kim Johnson (Liverpool Riverside) (Lab)",
+      "Value": "<Question HRSContentId=\"{7D6BC016-1B84-46C5-8741-497CF5804269}\">9. <QuestionText HRSContentId=\"{70CF1E91-F05C-476C-BD1A-B54419A99D39}\">If she will make an assessment of the potential merits of bringing forward legislative proposals to protect the right to privacy from live facial recognition surveillance.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "7D6BC016-1B84-46C5-8741-497CF5804269",
+      "HRSTag": "Question",
+      "HansardSection": "AE-AH",
+      "UIN": "900108",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42928152,
+      "MemberId": 4243,
+      "AttributedTo": "The Minister of State, Home Department (Dan Jarvis)",
+      "Value": "Facial recognition technology is being used effectively by police forces to identify suspects more quickly and accurately but, of course, it is essential that any new technologies are accompanied by strong safeguards and are underpinned by a robust legal framework. This Government will give careful consideration to the overall impact of all new policing technology.",
+      "OrderInSection": 2,
+      "Timecode": "2024-07-29T15:10:33",
+      "ExternalId": "CAFAD2DD-CCDC-429D-B32F-6BDA861813DA",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42928153,
+      "MemberId": 4824,
+      "AttributedTo": "Kim Johnson",
+      "Value": "I welcome my hon. Friend’s response, but facial recognition technology is being used by the police in publicly accessible places, and it breaches human rights and discriminates disproportionately against black people. <span id=\"1025\" class=\"column-number\" data-column-number=\"1025\"></span>The previous Government failed to introduce legislation to restrict its use, so can my hon. Friend confirm when there will be legislation to protect us? Will he meet me and representatives of civil liberties organisations to discuss this matter further?",
+      "OrderInSection": 3,
+      "Timecode": "2024-07-29T15:10:37",
+      "ExternalId": "433E79E9-301E-4C2B-82B9-EBCC0EC21D64",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42928154,
+      "MemberId": 4243,
+      "AttributedTo": "Dan Jarvis",
+      "Value": "I understand that the National Physical Laboratory has independently tested the algorithms that the police have been using in live facial recognition cases and has found them to be highly accurate. It found no statistically significant differences based on ethnicity at the settings the police generally use.\r\n\r\nIt is extremely important that any new technology used by the police is accompanied by strong safeguards, including to prevent bias or disproportionality, and that a robust legal framework is in place to govern the use of these new technologies. My hon. Friend still has concerns, and I am sure the policing Minister, my right hon. Friend the Member for Kingston upon Hull North and Cottingham (Dame Diana Johnson), or I will be happy to meet her.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "20144F32-FA47-45BD-852A-96302FBD2A69",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

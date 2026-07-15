@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4525659,
+    "ExtId": "81985F09-FE6E-4170-AFB7-82F618291F68",
+    "Title": "Artificial Intelligence in Weapon Systems Committee",
+    "HRSTag": "NewDebate",
+    "Date": "2023-04-27T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 829,
+    "ContentLastUpdated": "2023-04-28T00:08:26.863",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "C9B048AA-08F1-4E00-A369-77E02720C38A",
+    "NextDebateTitle": "Built Environment Committee",
+    "PreviousDebateExtId": "0CF33A69-71DB-4C5C-80B8-6D0255156B6E",
+    "PreviousDebateTitle": "House of Lords Commission, Services, Liaison, Procedure and Privileges and Selection Committees"
+  },
+  "Navigator": [
+    {
+      "Id": 4525651,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "5b1968fb-2475-4360-b2c4-f21566d8a22d",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4525659,
+      "Title": "Artificial Intelligence in Weapon Systems Committee",
+      "ParentId": 4525651,
+      "SortOrder": 9,
+      "ExternalId": "81985F09-FE6E-4170-AFB7-82F618291F68",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AF-AF",
+      "Timecode": "2023-04-27T11:50:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 37398531,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Membership Motion",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "82db9a78-5e33-44ac-9d64-f8c736cd143f",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AF-AF",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 2594306,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "11:50:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AF-AF",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 37398532,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Moved by",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AF-AF",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 37398533,
+      "MemberId": 4161,
+      "AttributedTo": "The Senior Deputy Speaker",
+      "Value": "That Lord Mitchell and Lord Triesman be appointed members of the Select Committee in place of Baroness Anderson of Stoke-on-Trent and Baroness Symons of Vernham Dean.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "154CD03B-DAF8-499D-BFE9-091342A2C971",
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AF-AF",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 37398534,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Motion agreed.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "23042714000502",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AF-AF",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

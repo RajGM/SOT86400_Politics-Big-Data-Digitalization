@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4856994,
+    "ExtId": "7074A49A-6719-4F08-8CB8-7F67B2F6ECC1",
+    "Title": "Artificial Intelligence (Regulation) Bill [HL]",
+    "HRSTag": "NewDebate",
+    "Date": "2025-03-04T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 844,
+    "ContentLastUpdated": "2025-03-06T16:10:27.067",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "EB426FF3-0830-4F7C-83D9-D79DEB7AC434",
+    "NextDebateTitle": "Finance Bill",
+    "PreviousDebateExtId": "55F3842F-D9C4-49E0-B120-D57D649E7C31",
+    "PreviousDebateTitle": "Official Development Assistance"
+  },
+  "Navigator": [
+    {
+      "Id": 4856986,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "d762e9e9-01c9-4e74-b756-99d54031cc22",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4856994,
+      "Title": "Artificial Intelligence (Regulation) Bill [HL]",
+      "ParentId": 4856986,
+      "SortOrder": 9,
+      "ExternalId": "7074A49A-6719-4F08-8CB8-7F67B2F6ECC1",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AN-AP1",
+      "Timecode": "2025-03-04T15:34:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42704151,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "First Reading",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "e41b87ff-b51d-413e-8193-161d1ecbd83f",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AN-AP1",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 3125412,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:34:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AN-AP1",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42704152,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "A Bill to make provision for the regulation of artificial intelligence; and for connected purposes.",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "25030454000237",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AN-AP1",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42704153,
+      "MemberId": 4294,
+      "AttributedTo": "Lord Holmes of Richmond (Con)",
+      "Value": "I declare my technology interests as set out in the register, not least as adviser to Socially Recruited.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "E8FCDAD7-939A-41C5-8C40-8CA15F1239E1",
+      "HRSTag": "hs_para",
+      "HansardSection": "AN-AP1",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42704154,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "The Bill was introduced by Lord Holmes of Richmond, read a first time and ordered to be printed.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "25030454000238",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AN-AP1",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

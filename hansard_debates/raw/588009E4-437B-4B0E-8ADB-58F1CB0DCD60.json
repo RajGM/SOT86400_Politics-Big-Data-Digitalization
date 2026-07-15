@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 5357368,
+    "ExtId": "588009E4-437B-4B0E-8ADB-58F1CB0DCD60",
+    "Title": "AI: Impact on Employment",
+    "HRSTag": "hs_8Question",
+    "Date": "2026-02-04T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 780,
+    "ContentLastUpdated": "2026-06-09T21:06:29.147",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "27A4C756-EB23-4D76-A5B0-11B969674C6C",
+    "NextDebateTitle": "Teenagers’ Use of Social Media",
+    "PreviousDebateExtId": "5779ED09-EFEA-4846-A77E-9D9019D75ADA",
+    "PreviousDebateTitle": "House of Commons"
+  },
+  "Navigator": [
+    {
+      "Id": 5357364,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "526cb48e-4b6a-42b3-a881-f8bb69cce0b2",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5357366,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5357364,
+      "SortOrder": 3,
+      "ExternalId": "FD750B9E-4791-463D-817B-1C7310DB6018",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5357367,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 5357366,
+      "SortOrder": 4,
+      "ExternalId": "510B3096-D5CE-412D-8BA5-FE747263A8FE",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5357368,
+      "Title": "AI: Impact on Employment",
+      "ParentId": 5357367,
+      "SortOrder": 5,
+      "ExternalId": "588009E4-437B-4B0E-8ADB-58F1CB0DCD60",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647656,
+      "MemberId": 5232,
+      "AttributedTo": "Lorraine Beavers (Blackpool North and Fleetwood) (Lab)",
+      "Value": "<Question HRSContentId=\"{A24C9DE7-C909-45AC-B7EA-4E6B5680DBA7}\">1. <QuestionText HRSContentId=\"{0C0528F1-18ED-4F95-A454-FF9A868F7477}\">What assessment she has made of the potential impact of AI on trends in the level of employment. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "A24C9DE7-C909-45AC-B7EA-4E6B5680DBA7",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "907711",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647657,
+      "MemberId": 4026,
+      "AttributedTo": "The Secretary of State for Science, Innovation and Technology (Liz Kendall)",
+      "Value": "Very briefly, Mr Speaker, if I may, I am aware of a serious incident having taken place in my city of Leicester, at De Montfort University. I know that people will be deeply worried and concerned. I will just say that I hope people use trusted sources of information, including online. Do not speculate; more information will be forthcoming. My thoughts are, as always, with my constituents and people in my city.\r\n\r\nArtificial intelligence is creating jobs, such as the 15,000 new jobs in our five AI growth zones. AI is changing jobs, freeing up nurses’ and teachers’ time so they can focus on their professions. But AI will also displace jobs, as is the case with all technological change. Unlike the Conservatives in the ’80s and ’90s, we will never leave people to cope on their own and we will help them through the jobs transition. Our new future of work unit will bring together action from across Government, and we will upskill 10 million workers by 2030, with free AI skills for all, in the biggest single plan to upskill our nation since Harold Wilson’s Open University.",
+      "OrderInSection": 2,
+      "Timecode": "2026-02-04T11:35:10",
+      "ExternalId": "F7F1F072-1AFF-4A3B-A106-F16321DAF856",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647658,
+      "MemberId": 5232,
+      "AttributedTo": "Lorraine Beavers",
+      "Value": "History shows that workers’ voices must be heard to ensure that advances in technology provide better living and working conditions. Will the Secretary of State tell me what conversations she has had with the trade unions about ensuring that working-class people gain from the innovation in artificial intelligence?",
+      "OrderInSection": 3,
+      "Timecode": "2026-02-04T11:36:23",
+      "ExternalId": "D308BDE6-C778-4331-8537-0F5B60D24C95",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647659,
+      "MemberId": 4026,
+      "AttributedTo": "Liz Kendall",
+      "Value": "My hon. Friend, as always, is spot on. We are determined to ensure that the benefits of AI are felt by working people right across the country. That is why our new AI growth zones in north Wales, south Wales, Lanarkshire and the north-east are built on places that were the beating heart of our industrial success and which will now drive our technological success. Trade unions and workers will be at the heart of that. I am delighted that we are working with the TUC on this, and I have spoken to the general secretary. I am also pleased that Mike Clancy, general secretary of the  <span id=\"250\" class=\"column-number\" data-column-number=\"250\"></span>Prospect union is on our new expert panel for the future of work unit to make sure that trade union and workers’ views are at the heart of this vital jobs transition.",
+      "OrderInSection": 4,
+      "Timecode": "2026-02-04T11:37:22",
+      "ExternalId": "F8FB7291-7543-4EE9-AC96-A5C9E3768D86",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647660,
+      "MemberId": 4484,
+      "AttributedTo": "Alan Mak (Havant) (Con)",
+      "Value": "The Government’s failure to resolve the uncertainty around AI data mining and copyright is undermining the UK’s economic competitiveness. Will the Secretary of State accept that that failure is driving jobs in both AI and the creative industries abroad?",
+      "OrderInSection": 5,
+      "Timecode": "2026-02-04T11:37:33",
+      "ExternalId": "8E25BC3B-1F3D-4735-9AD0-214A38447C88",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49647661,
+      "MemberId": 4026,
+      "AttributedTo": "Liz Kendall",
+      "Value": "We are creating new jobs, with 15,000 from our AI growth zones alone. Culture Secretary and I deeply understand the need to resolve the issues around AI and copyright. That is why we have been meeting the creative sector and those from the AI industry so that we find a way forward that works for both our world-leading creatives and our world-leading AI entrepreneurs.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "941190E6-8A5A-4B9D-A729-384EBBA4E33D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

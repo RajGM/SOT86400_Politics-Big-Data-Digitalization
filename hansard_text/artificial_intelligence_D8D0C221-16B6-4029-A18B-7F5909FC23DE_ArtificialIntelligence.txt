@@ -1,0 +1,59 @@
+ Artificial Intelligence
+
+Question
+
+15:06:00
+
+Asked by
+
+Lord Harries of Pentregarth
+To ask His Majesty’s Government what steps they are taking in co-operation with international partners to reach a global agreement on the regulation of advanced forms of artificial intelligence.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Viscount Camrose) (Con)
+The Government are co-operating with international partners both bilaterally and multilaterally to address advanced AI’s regulatory challenges, including via our autumn global AI safety summit. The AI regulation White Paper recognises the importance of such co-operation, as we cannot tackle these issues alone. As per the G7 leaders’ communiqué, we are committed to advancing international discussions on inclusive AI governance and interoperability to achieve our common vision and goal of trustworthy AI aligned with shared democratic values.
+
+Lord Harries of Pentregarth (CB)
+I thank the Minister for his Answer and commend the Prime Minister for his initiatives in this area. Clearly, advanced AI is epoch-making for the future of humanity and international co-operation is essential. Can the Minister say, first, whether there has been any response from China to the Prime Minister’s initiatives? Secondly, would he agree that one possible role model is the International Atomic Energy Agency as a way of monitoring future developments?
+
+Viscount Camrose (Con)
+We must recognise that China is ranked number two in AI capabilities globally, and we would not therefore envisage excluding China from any such discussions on how to deal best with the frontier risks of AI. That said, in the way we approach China and involve it in this, we need to take full cognisance of the associated risks. Therefore, we will engage effectively with our partners to assess the best way forward.
+
+Lord Clement-Jones (LD)
+My Lords, in a recent speech the Minister rightly said that AI regulation clarity is critical. How on earth, in trying to achieve this, is he going to reconcile the AI White Paper’s tentative and voluntary sectoral approach to AI governance with the Prime Minister saying that unregulated AI poses an existential threat to humanity and with his desire to lead the world in AI safety and regulation? Does this mean that a screeching U-turn is in prospect?
+
+Viscount Camrose (Con)
+I thank the noble Lord for that question. The starting point for the AI White Paper—of which I do not accept the characterisation of tentative—was, first, not to duplicate existing regulators’ work; secondly, not to go after specific technologies, because the technology space is changing so quickly; and, thirdly, to remain agile and adaptive. We are seeing the benefits of being agile and adapting to a very rapidly shifting landscape.
+
+Lord Kirkhope of Harrogate (Con)
+My Lords, I congratulate my noble friend the Minister and the Government on getting involved in international negotiations and discussions in this area. However, is this not an area where we have to be careful that we do not have a situation where there is nothing to fear but fear itself, and where we will lose out, if we are not careful, in having overregulation that prevents us using AI to the fullest extent for positive, excellent reasons on behalf of the people of this country?
+
+Viscount Camrose (Con)
+My noble friend is absolutely right that the potential benefits of AI are extremely great, but so too are the risks. One of the functions of our recently announced Foundation Model Taskforce will be to scan the horizon on both sides of this—for the risks, which are considerable, and for the benefits, which are considerable too.
+
+Lord Reid of Cardowan (Lab)
+My Lords, I differ from the noble Lord, Lord Kirkhope, who said that we must develop AI to the maximum extent. There are benefits, but does the Minister accept that we ignore the dangers of AI to the great peril of not only ourselves but the world? The problem is that, despite the advantages of artificial intelligence, within a very short period it will be more intelligent than human beings but it will lack one essential feature of humanity: empathy. Anybody or anything without empathy is, by definition, psychopathic. It will achieve its ends by any means. Therefore, the noble and right reverend Lord, Lord Harries, is correct to say that, despite the difficulty of competition between states, such as the US and China, and within states, such as between Google, Microsoft and the rest, it is essential that we get an ethical regulatory framework before technology runs so far ahead of us that it becomes impossible to control this phenomenon.
+
+Viscount Camrose (Con)
+The risks have indeed been well publicised and are broadly understood as to whether and when AI becomes more intelligent than humans. Opinions vary but the risk is there. Collectively and globally, we must take due account of the risks; if not, I am afraid that the scenario that the noble Lord paints will become reality. That is why bilateral and multilateral engagements globally are so important, so as to have a single interoperable regulatory and safety regime, and to have AI that the world can trust to produce some of the extraordinary benefits of which it would be capable.
+
+The Archbishop of York
+My Lords, I am very grateful to the noble and right reverend Lord, Lord Harries, for raising this issue. I too believe that the best way for us to find the potential of AI is by paying great attention to regulation and ethics, building on what has just been said. What is best in us is beyond rationality—
+
+“Greater love hath no man than this, that a man lay down his life for his friends” 
+
+is not a rational decision. I have a simple question about the autumn summit, which I welcome. Because of the smorgasbord of ethical issues that AI raises, I am slightly concerned—although I may have got this wrong—that the summit will be gathering together business leaders. What about people from civil society? Will they be invited to the summit, and has this been given real consideration in helping us build an ethical framework for regulation?
+
+Viscount Camrose (Con)
+The most reverend Primate is right to argue that we need a broad field of contributors to the difficult questions around AI ethics. As to the specific attendees and agenda of the AI global summit this autumn, those are to be determined, but we will have, if I may use the phrase, a broad church.
+
+Lord Patel (CB)
+My Lords, it is easier to talk about ethical regulations, particularly internationally, than to address them. Innovations, particularly in advanced AI and generative AI, are occurring at a pace. Generative AI is already threatening some of our key industries. We need regulation that reduces that threat at the same time as allowing the economy to grow.
+
+Viscount Camrose (Con)
+The White Paper set out the Government’s approach to regulation. The consultation on the White Paper closed on Wednesday; it has received a range of highly informed critiques, and praise from several surprising quarters. Once we have been through it and assessed the findings of that, we will take forward the approach to regulating AI, which, as the noble Lord quite rightly points out, is moving at a very fast pace.
+
+Lord Bassam of Brighton (Lab)
+My Lords, while we are told that the Online Safety Bill is both technology-neutral and future-proofed, concerns are being raised, with doubts that emerging AI-related threats are sufficiently covered. With the Bill finally approaching Report, do the Government intend to introduce any AI-focused protective measures? What if the Government realise after the Bill’s passage that more regulations are needed? How confident is the Minister that future legislation will not be subject to the same sorts of delays that we have experienced with the Online Safety Bill?
+
+Viscount Camrose (Con)
+The noble Lord is absolutely right to point out that legislation must necessarily move more slowly than technology. As far as possible, the Online Safety Bill has been designed to be future-proof and not to specify or identify specific technologies and their effects. AI has been discussed as part of that, and those discussions continue.

@@ -1,0 +1,65 @@
+ Sovereign AI Fund
+
+Question
+
+14:39:00
+
+Asked by
+
+Lord Clement-Jones
+To ask His Majesty’s Government what strategy they have to ensure that the Sovereign AI Fund will support sovereign AI infrastructure and reduce public sector dependence on foreign hyperscale cloud providers.
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Innovation and Technology (Baroness Lloyd of Effra) (Lab)
+The sovereign AI fund will support early-stage British start-ups at strategically important parts of the AI value chain, including AI infrastructure and compute. It is not designed to replace foreign cloud providers or achieve total UK self-sufficiency. Instead, the fund seeks to reduce our strategic dependence and ensure that the UK has a stake in a world economy transformed by AI.
+
+Lord Clement-Jones (LD)
+My Lords, the Secretary of State has said that Britain
+
+“must be an AI maker, not an AI taker”,—[Official Report, Commons, 18/3/26; col. 55WS.]
+
+and the sovereign AI unit’s own chair has promised British start-ups a guaranteed route to government contracts. But even the AI Minister, Mr Narayan, has admitted that procurement is too hard for British start-ups across government. So when will public procurement, in particular the G-Cloud framework, be reformed to match that promise? Will “sovereign AI” not remain just a slogan without that?
+
+Baroness Lloyd of Effra (Lab)
+Public procurement through G-Cloud must deliver value for money, security, and effective public services. Suppliers are not selected or excluded purely on the basis of nationality where they meet operational security and value for money obligations. The commercialisation of the sovereign AI fund to make the Government an early customer for strategically important UK start-ups is ongoing across technical, commercial and government leads to ensure that a robust, flexible, and scalable option is available.
+
+Lord Ranger of Northwood (Con)
+My Lords, perhaps I could highlight that the biggest challenge I see is not just initial funding. We welcome what the sovereign AI fund will do to provide compute and help commercialisation at a start-up moment for British AI companies, but the tragedy that we are seeing right now is losing those companies to international funders and overseas platforms. Once they reach a point for scaling, what will the fund or the Government do to help retain them, so they remain headquartered in the UK and continue to succeed commercially here?
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord is right. Our ambition is to make the UK the best place to start, to scale and to stay. That is not just for the AI sovereign fund, important though that is, but for the ecosystem. That is why we are investing in public compute, so that firms here will be able to access it, why we have our ambition for UK procurement and why we are looking at measures such as AI growth zones: to make this country one of the most attractive, as we can see from the amount of foreign direct investment that is already coming into the UK.
+
+Baroness Berger (Lab)
+My Lords, France, Germany, South Korea, Switzerland, Singapore, Canada and Ukraine are all investing in their own sovereign AI models, for a variety of reasons, including data control, data protection and, most importantly, economic competitiveness. What consideration are the Government giving to using the sovereign AI fund to invest in the UK’s own sovereign AI model?
+
+Baroness Lloyd of Effra (Lab)
+As I mentioned just now, the sovereign AI fund is one of the components of how we think about UK strength. With it, we are looking at where we can have a UK strategic advantage. The five main priority areas that we have outlined are compute efficiency and sovereign architecture, next-generation AI labs and model development, AI for health and life sciences, AI for scientific discovery, and AI for trust, integrity and assurance.
+
+Lord Patel (CB)
+My Lords, I commend the Government for their sovereign AI development, particularly the Isambard-AI project at Bristol University, which has one of the world’s fastest processors. My question relates to parallel development. Do the Government still have a plan for the parallel development of the cloud, to assist in both digitisation and health research data for the NHS?
+
+Baroness Lloyd of Effra (Lab)
+I welcome the noble Lord’s welcome, as it were, for the developments happening here in the UK. It is true that the UK has a lot to offer. On cloud discussions and the provision of data, the National Data Library is advancing and we have gone through our period of discovery, with five areas of kick-starters, so we can provide UK public data to those who can benefit from it. Separately, we are using the sovereign AI fund to develop the domestic technology sector, so that it can provide one of the options for government procurement in the future.
+
+Lord Markham (Con)
+My Lords, the Competition and Markets Authority has expressed concerns that AI may entrench the market power of a small number of cloud providers. If the sovereign AI fund is not designed to increase the UK’s strategic authority in the cloud space, what are the Government’s plans to do so?
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord is right to refer to the independent Competition and Markets Authority. It has conducted a major, 22-month investigation into the cloud market and is now acting. It has announced a package of actions to strengthen competition in business software and cloud services. It will be launching a strategic market status designation investigation into Microsoft’s business software system in May that will allow the CMA to examine cloud licensing and actions from Microsoft and Amazon on improving cloud interoperability and reducing egress fees. In terms of the role the AI sovereign fund might play, it is at a relatively early stage of development. Infrastructure is one of its priority areas, and we will see what opportunities come in the near future.
+
+Lord Brennan of Canton (Lab)
+My Lords, my noble friend Lady Berger listed a number of countries that have decided to go down another path in terms of developing sovereign AI. Can the Minister outline to us why the UK is not choosing to take that path and rather may be relying, as some of us fear, far too much on the powerful tech bros of America to supply the needs of this country?
+
+Baroness Lloyd of Effra (Lab)
+The UK benefits from access to many international service providers, whether from America or elsewhere. The way we think about sovereignty is in ensuring that the UK has the capability, access and influence it needs to ensure that the technologies that will shape our economy do so in the interests of the UK. The reason we have focused on the areas I mentioned before for the AI sovereign fund is to increase our economic resilience and reduce strategic dependency by building areas where the UK can realistically develop a comparative advantage.
+
+Baroness Kidron (CB)
+Representatives of the sovereign AI unit have repeatedly said that the companies it funds or supports with compute must comply with “applicable UK law”, including when copyright law applies to their training activity. However, they have been unwilling to say whether they will fund or support companies that scrape UK copyrighted material overseas without a licence. Will the Minister confirm that the UK sovereign AI fund will not use taxpayers’ money to support companies that train on copyrighted work without a licence, irrespective of where that training happens, whether in the UK or elsewhere? If she is unable to answer categorically, will she undertake to write with a complete answer?
+
+Baroness Lloyd of Effra (Lab)
+The noble Baroness is correct to highlight that we have been clear that copyright rules should be respected and the use of copyright works to train AI in the UK requires a licence unless an exception applies. Companies supported by the sovereign AI fund are expected to comply with applicable UK law, including copyright. When we are talking about compliance in relation to grant-funded compute allocations, they equally must comply with copyright law while undertaking that funded activity.
+
+Lord Walney (CB)
+Is the Minister open-minded about the huge potential that the UK embracing an open-source AI model alongside allies may accrue to the country to put us back in the premier league rather than needing to be reliant on America and overseas?
+
+Baroness Lloyd of Effra (Lab)
+It is not an area on which I feel I can definitively give an opinion on the view of the Government. I know from the cyber security point of view that there are many merits and disbenefits of open-weight models in terms of their cyber security credentials, and that is something that we are working on very carefully.

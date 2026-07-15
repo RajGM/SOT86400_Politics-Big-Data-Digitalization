@@ -1,0 +1,94 @@
+ Facial Recognition Surveillance
+
+Statement
+
+17:32:00
+
+The Minister of State, Home Office (Baroness Williams of Trafford) (Con)
+My Lords, with the leave of the House, I shall repeat in the form of a Statement the Answer given by my honourable friend the Minister for Crime, Policing and the Fire Service in another place on facial recognition surveillance. The Statement is as follows:
+
+“Mr Speaker, this Government are backing our outstanding police to keep our streets safe. We are delivering on the people’s priorities by cutting the crime blighting our communities. That means supporting the police and empowering them with the tools they need. We have already pledged 20,000 more officers, new powers and the biggest funding increase in a decade.
+
+Embracing new technology is also vital, and we fully support the use of live facial recognition. This can help identify, locate and arrest violent and dangerous criminals who might otherwise evade justice. Live facial recognition compares the images of people passing a camera to a specific and pre-determined list of those sought by police. It is then up to officers to decide whether to stop and speak to those flagged as a possible match. This replicates traditional police methods, such as a spotter at a football match. The technology can make the search for suspects quicker and more effective, but it must be used strictly within the law.
+
+The High Court has found there is an appropriate legal framework for the police use of live facial recognition. This includes police common-law powers, data protection and human rights legislation, and the surveillance camera code. These restrictions mean that sensitive personal data must be used appropriately for policing purposes and only where necessary and proportionate. There are strict controls on the data gathered. If a person’s face does not match any on the watchlist, the record is deleted immediately. The innocent should have nothing to fear. All alerts against the watchlist are deleted within 31 days, including the raw footage, and the police do not share the data with third parties.
+
+The Metropolitan Police Service told me about its plans in advance. It will deploy the technology where intelligence indicates it is most likely to locate serious offenders. Each deployment will have a bespoke watchlist made up of images of wanted people, predominantly those wanted for serious and violent offences. It will also help the police tackle child sexual exploitation and protect the vulnerable.
+
+Live facial recognition is an important addition to the tools available to the police to protect us all and to keep murderers, drug barons and terrorists off our streets.”
+
+17:35:00
+
+Lord Kennedy of Southwark (Lab Co-op)
+My Lords, I thank the Minister for repeating the Answer given to the Urgent Question in the other place today. The Government have promised to empower the police to safely use new technologies within a strict legal framework. The announcement of automated facial recognition has been made before such legislation has been introduced and seems to be on the basis of a court ruling that is being appealed.
+
+Further, Article 8 of the European Convention on Human Rights requires that intrusions, however justified, are in accordance with the law. With those points in mind, can the Minister confirm when the Government will introduce the necessary legislation, and can she further confirm that the technology will not be used until that legislation has been passed?
+
+Baroness Williams of Trafford
+My Lords, this was recently tested in court and the High Court found that the police were operating within the law, so we do not feel that there is any need for further legislation at this point. However, I understand that the decision is being appealed, so that is probably about as far as I can go today.
+
+Lord Clement-Jones (LD)
+My Lords, I confess to being rather baffled by the Government’s agreement to this. Only in September, the Metropolitan Police Commissioner said in the context of live facial recognition technology that the UK risks becoming a
+
+“ghastly, Orwellian, omniscient police state”
+
+with
+
+“potential for bias in the data or the algorithm.”
+
+The Information Commissioner expressed deep concern in her last report and in her reaction to the Met’s deployment. She said:
+
+“We reiterate our call for Government to introduce a statutory and binding code of practice for LFR as a matter of priority.” 
+
+The Home Office’s own Biometrics and Forensics Ethics Group has questioned the accuracy of live facial recognition technology and noted its potential for biased outputs and biased decision-making on the part of system operators. The Science and Technology Committee recommended a moratorium in its report of just over a year ago. When the Minister responded to me in an Oral Question about the watchlist, that was not reassuring either: the watchlist is extensive. Is the answer not a moratorium as a first step, to put a stop to this unregulated invasion of our privacy? I commend to the Minister in that context my Private Member’s Bill, due to have a First Reading next week.
+
+Baroness Williams of Trafford
+My Lords, I wish the noble Lord’s Private Member’s Bill all the very best when it comes to your Lordships’ House—without pre-empting, obviously, its outcome.
+
+As for inaccuracy, LFR has been shown to be 80% accurate. It has thrown up one false result in 4,500 and there was no evidence of racial bias against BME people. I should point out that a human operative always makes the final decision; this is not decision by machine.
+
+Lord Marlesford (Con)
+My Lords, the lamentable decline in security on our streets and elsewhere makes it essential that every modern technique to increase security is used. Will the Minister agree to a seminar or something so that those noble Lords who are particularly interested in this subject may be given a briefing in some depth?
+
+Baroness Williams of Trafford
+That is a very constructive suggestion. I am happy to arrange a briefing on this technology for any noble Lords who wish to have one.
+
+Baroness Jones of Moulsecoomb (GP)
+My Lords, I declare an interest, as I have issued judicial review proceedings against the Home Office and the Metropolitan Police regarding the use of facial recognition technology, about which I have a huge number of concerns. I would have thought that the Minister would herself be concerned about its inaccuracy. I do not recognise the figures cited. I have a host of other trials, which the police undertook, where it failed abysmally. It just does not work and is surely a waste of police time. For example, at a Welsh rugby match, there were 10 alerts on the system for a wanted woman; none was accurate. This is an utter waste of police time until the manufacturer gets the systems right.
+
+Baroness Williams of Trafford
+The noble Baroness will understand if I do not discuss her ongoing JR against the Home Office. I do not know where the noble Baroness got her accuracy figures from. On the point about bias, the Met’s original trials found no statistically significant differences in identifying different demo- graphics, and Cardiff University’s independent review of South Wales Police’s trials found no overt discrimination effects. I repeat the figures I gave earlier: there is a one in 4,500 chance of triggering a false alert and over an 80% chance of a correct one, but I would be interested to see where the noble Baroness got her figures.
+
+Lord Campbell-Savours (Lab)
+My Lords, I strongly welcome the Government’s approach to this matter, but why is facial recognition an acceptable form of identity in the case of surveillance in combating crime yet it, and other personal identifiers, are unacceptable in the case of a national identity card, which could be equally important in combating crime?
+
+Baroness Williams of Trafford
+I like the way the noble Lord got the identity card in; I was wondering when he was going to deploy it. The Question is on AFR, which we can use to identify criminals because it is a unique biometric, which an identity card may not necessarily be. I am not going to get drawn on identity cards today, but I congratulate the noble Lord on managing to get them in.
+
+Lord Paddick (LD)
+My Lords, I take the Minister back to my noble friend’s question about the Information Commissioner’s Office statement in October 2019, which said:
+
+“We reiterate our call for Government to introduce a statutory and binding code of practice for LFR as a matter of priority.” 
+
+Why are the Government putting the cart before the horse and allowing live facial recognition before a statutory, binding code of practice is in place?
+
+Baroness Williams of Trafford
+I agree with the noble Lord that the ICO criticised some areas. However, last Friday it acknowledged a number of improvements. LFR is used for a policing purpose; it is used to detect serious criminals and might be used to find missing people. The framework in which it operates includes common-law powers, data protection, human rights legislation and the surveillance camera code.
+
+Lord Faulks (Non-Afl)
+My Lords, is it not important to make a distinction between the use of modern technology to assist in the possible identification of an offender and its evidential status? That distinction is very important.
+
+Baroness Williams of Trafford
+My noble friend is of course absolutely right.
+
+Lord Harris of Haringey (Lab)
+My Lords, given that these techniques are used not just by police forces but by many private sector organisations, will the noble Baroness give us a very clear assurance that we will not face a situation in this country where our police and security forces are operating in a more restrictive environment than private sector organisations?
+
+Baroness Williams of Trafford
+The noble Lord makes a very good point and I think I know to which cases he is referring. The police must be able to use the technology available for policing purposes, but within the framework I have just discussed.
+
+Baroness Ludford (LD)
+My Lords, the ICO statement of last Friday reiterated the call for the Government to introduce a statutory, binding code of practice, so there has been no change since October. Can the Minister tell us whether she believes the comment in the Statement, “The innocent should have nothing to fear”? Is she proud of that comment by the Government? It really is a complete red herring in terms of data protection and privacy rights.
+
+Baroness Williams of Trafford
+No, I reiterate that statement.

@@ -1,0 +1,44 @@
+{
+  "Overview": {
+    "Id": 4598440,
+    "ExtId": "FF451A4D-30AE-414A-9B35-D4EBAB86AA87",
+    "Title": "Artificial Intelligence in Weapon Systems Committee",
+    "HRSTag": "NewDebate",
+    "Date": "2023-11-08T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 834,
+    "ContentLastUpdated": "2023-11-15T12:08:27.053",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "4FF51A4D-30AE-414A-9B35-D4EBAB76AH79",
+    "NextDebateTitle": "Built Environment Committee",
+    "PreviousDebateExtId": "C42EC30D-277E-4978-9877-A76866873E52",
+    "PreviousDebateTitle": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]"
+  },
+  "Navigator": [
+    {
+      "Id": 4598433,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "f9e84dac-219f-43e4-92df-2a4d38e9e9d6",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4598440,
+      "Title": "Artificial Intelligence in Weapon Systems Committee",
+      "ParentId": 4598433,
+      "SortOrder": 8,
+      "ExternalId": "FF451A4D-30AE-414A-9B35-D4EBAB86AA87",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AA-AB",
+      "Timecode": null
+    }
+  ],
+  "Items": [],
+  "ChildDebates": []
+}

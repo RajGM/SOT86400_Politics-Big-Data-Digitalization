@@ -1,0 +1,76 @@
+ Artificial Intelligence  (Regulation) Bill [HL]
+
+Third Reading
+
+10:22:00
+
+Motion
+
+Moved by
+
+Lord Holmes of Richmond
+That the Bill be now read a third time.
+
+A privilege amendment was made.
+
+10:22:00
+
+Motion
+
+Moved by
+
+Lord Holmes of Richmond
+That the Bill do now pass.
+
+Lord Holmes of Richmond (Con)
+My Lords, I declare my technology interests as adviser to Boston Ltd. I thank all the organisations and individuals that took the trouble to meet with me ahead of the Second Reading of my Bill, shared their expertise and insight, and added to the positive, almost unified, voice that we had at Second Reading in March. I thank colleagues around the House and in the other place for their support, and particularly thank the Labour and Liberal Democrat Front Benches for their support on all the principles set out in the Bill. I also thank my noble friend the Minister for the time he took to meet with me at all stages of the Bill.
+
+It is clear that, when it comes to artificial intelligence, it is time to legislate—it is time to lead. We know what we need to do, and we know what we need to know, to legislate. We know the impact that AI is already having on our creatives, on our IP, on our copyright, across all that important part of our economy. We know the impact that having no labelling on IP products is having. Crucially, we know the areas where there is no competent legislation or regulator when it comes to AI decisions. Thus, there is no right of redress for consumers, individuals and citizens.
+
+Similarly, it is also time to legislate to end the illogicality that grew out of the Bletchley summit—successful of itself, but strange to put only a voluntary code, rather than something statutory, in place as a result of that summit. It was strange also to have stood up such a successful summit and then not sought to legislate for all the other areas of artificial intelligence already impacting people’s lives—oftentimes without them even knowing that AI is involved.
+
+It is time to bring forward good legislation and the positive powers of right-size regulation. What this always brings is clarity, certainty, consistency, security and safety. When it comes to artificial intelligence, we do not currently have that in the United Kingdom. Clarity and certainty, craved by consumers and businesses, is a driver of innovation, inward investment, pro-consumer protection and pro-citizen rights. If we do not legislate, the most likely, and certainly unintended, consequence is that businesses and organisations looking for a life raft will understandably, but unfortunately, align to the EU AI Act. That is not the optimal outcome that we can secure.
+
+It is clear that when it comes to AI legislation and regulation things are moving internationally, across our Parliament and—dare I say—in No. 10. With sincere thanks again to all those who have helped so much to get the Bill to this stage, I say again that it is time to legislate—it is time to lead #OurAIFutures.
+
+Lord Leong (Lab)
+My Lords, I regret that I was unable to speak at Second Reading of the Bill. I am grateful to the government Benches for allowing my noble friend Lady Twycross to speak on my behalf on that occasion. However, I am pleased to be able to return to your Lordships’ House with a clean bill of health, to speak at Third Reading of this important Bill. I congratulate the noble Lord, Lord Holmes of Richmond, on the progress of his Private Member’s Bill.
+
+Having read the whole debate in Hansard, I think it is clear that there is consensus about the need for some kind of AI regulation. The purpose, form and extent of this regulation will, of course, require further debate. AI has the potential to transform the world and deliver life-changing benefits for working people: whether delivering relief through earlier cancer diagnosis or relieving traffic congestion for more efficient deliveries, AI can be a force for good. However, the most powerful AI models could, if left unchecked, spread misinformation, undermine elections and help terrorists to build weapons.
+
+A Labour Government would urgently introduce binding regulation and establish a new regulatory innovation office for AI. This would make Britain the best place in the world to innovate, by speeding up decisions and providing clear direction based on our modern industrial strategy. We believe this will enable us to harness the enormous power of AI, while limiting potential damage and malicious use, so that it can contribute to our plans to get the economy growing and give Britain its future back.
+
+The Bill sends an important message about the Government’s responsibility to acknowledge and address how AI affects people’s jobs, lives, data and privacy, in the rapidly changing technological environment in which we live. Once again, I thank the noble Lord, Lord Holmes of Richmond, for bringing it forward, and I urge His Majesty’s Government to give proper consideration to the issues raised. As ever, I am grateful to noble Lords across the House for their contributions. We support and welcome the principles behind the Bill, and we wish it well as it goes to the other place.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Viscount Camrose) (Con)
+My Lords, I too sincerely thank my noble friend Lord Holmes for bringing forward the Bill. Indeed, I thank all noble Lords who have participated in what has been, in my opinion, a brilliant debate.
+
+I want to reassure noble Lords that, since Second Reading of the Bill in March, the Government have continued to make progress in their regulatory approach to artificial intelligence. I will take this opportunity to provide an update on just a few developments in this space, some of which speak to the measures proposed by the Bill.
+
+First, the Government want to build public visibility of what regulators are doing to implement our pro-innovation approach to AI. Noble Lords may recall that we wrote to key regulators in February asking them for an update on this. Regulators have now published their updates, which include an analysis of AI-related opportunities and risks in the areas that they regulate, and the actions that they are taking to address these. On 1 May, we published a GOV.UK page where people can access each regulator’s update.
+
+We have taken steps to establish a multidisciplinary risk-monitoring function within the Department for Science, Innovation and Technology, bringing together expertise in risk, regulation and AI. This expertise will provide continuous examination of cross-cutting AI risks, including evaluating the effectiveness of interventions by government and regulators.
+
+10:30:00
+
+We have also set out plans to establish a new steering committee, with regulator and government representatives, to guide the work of our central co-ordination function, supporting effective co-ordination across the AI governance landscape and facilitating regulator join-up. We have been working at pace to design the steering committee and we will provide a further update on this in the summer.
+
+We have delivered on our White Paper commitment to pilot new regulatory tools to support AI innovators with the launch of the Digital Regulation Cooperation Forum’s AI and digital hub pilot on 22 April. The Government have made up to £2 million of funding available to support this new multiagency advisory service, which will support AI and digital innovators with complex compliance queries that span regulatory remits. It will increase innovators’ confidence in bringing new products more quickly and safely to market by helping them to understand and navigate regulatory requirements. It will also provide regulators with a collaborative space in which to develop and clarify their guidance about the application of the AI regulatory principles outlined in the White Paper.
+
+I reassure noble Lords that the Government are committed to addressing the serious misuse of AI, which can cause significant harm and distress. Last month, the Government announced a new criminal offence to tackle the creation of deepfake sexual images of adults without their consent. Under the new offence, people who create these horrific images face a criminal record and an unlimited fine. If the image is then shared more widely, offenders can be sent to jail.
+
+The UK continues to play a leading role in international AI developments. In April, the Government signed a memorandum of understanding with the US to work together to develop robust methods for evaluating the safety of AI tools and systems that underpin them, following through on commitments made at the AI Safety Summit in Bletchley last November. Building on the success of the Bletchley declaration last year, we are proud to be co-hosting the AI Seoul Summit alongside the Republic of Korea on 21 and 22 May. This summit will address the capabilities of the most advanced AI models. I look forward to updating noble Lords on the summit following its conclusion.
+
+On the Bill before us as a whole, I understand Members’ concerns regarding the rapid development of artificial intelligence and the desire to put in place effective guard-rails. I hope that what I have said gives reassurance that the Government are progressing work on the most pressing areas. On legislation specifically, the Government are not ruling out new law in the future, but we believe our non-statutory approach is still the right one for now while we continue to build the understanding needed to inform any future legislation based on a more comprehensive assessment of the benefits and risks of this fast-evolving technology.
+
+Although the Government do not support the Bill, I hope noble Lords will continue to contribute their valuable expertise in this area as our regulatory approach evolves. In that light, I look forward to speaking with my noble friend Lord Holmes on this issue again very soon.
+
+Lord Empey (UUP)
+Before the noble Viscount sits down, he listed a whole series of activities that are very welcome, but I said at Second Reading that I felt the Government were losing momentum, because the Prime Minister had set an international lead: the United Kingdom was going to lead the world and would be an example to everybody. It seems, with the Minister’s statement, that we have slipped back now. The European Union has set out its stall. If we are not going to have a legislative framework, we need to know that. I just hope the Government will reflect that the position the Prime Minister adopted at the beginning of this process was innovative, positive and good for the United Kingdom as a whole, but I fear that the loss of momentum means we will be slipping back down at a very rapid rate.
+
+Viscount Camrose (Con)
+I thank the noble Lord for his comments. I am not sure I accept the characterisation of a loss of momentum. We are, after all, co-hosting the AI safety summit along with our Korean friends in a couple of weeks. On moving very quickly to legislation, it has always been the Government’s position that it is better to have a deeper understanding of the specific risks of AI across each sector and all sectors before legislating too narrowly, and that there is a real advantage to waiting for the right moment to have judicious legislation that addresses specific risks, rather than blanket legislation that goes to all of them.
+
+10:35:00
+
+Bill passed and sent to the Commons.

@@ -1,0 +1,49 @@
+ Schools: Biometric Technologies
+
+Question
+
+14:48:00
+
+Asked by
+
+Lord Scriven
+To ask Her Majesty’s Government what assessment they have made of the adherence of schools to Chapter 2 of the Protection of Freedoms Act 2012 when implementing biometric technologies.
+
+The Parliamentary Under-Secretary of State, Department for Education (Baroness Barran) (Con)
+My Lords, the decision to use biometric technology rests entirely with individual schools, which must ensure that the use of biometric data complies with all relevant legislation. We provide guidance, making clear that schools must comply with the law when implementing biometric technologies, including the Data Protection Act, the UK GDPR and the Protection of Freedoms Act.
+
+Lord Scriven (LD)
+Facial recognition technology is now used in classrooms to monitor children’s mood and engagement, despite some parents objecting. The biometric regulator has no powers to enforce compliance with the law in schools and the department does not even monitor the use of this technology. Why are the Government taking this approach, allowing private companies’ marketing departments to determine the parameters of our children’s civil liberties and privacy in the classroom?
+
+Baroness Barran (Con)
+The Government have extensive legislation in relation to the individual’s rights for their own data, particularly highly sensitive data such as biometric data. The Government have been clear that live facial recognition technology is not appropriate in schools and colleges.
+
+Baroness Chapman of Darlington (Lab)
+Some 65% of transactions are now cashless in schools, using biometrics, so the idea that we can turn the clock back is unrealistic. However, it is clear that schools must have confidence that these systems work, and there is a complex legal framework around the use of these technologies. Does the Minister think that it would be helpful to schools to have some crisp, clear guidance, so that these systems can be used safely and with parental confidence?
+
+Baroness Barran (Con)
+The noble Baroness is right. The department is working on the guidance and is aware that it needs updating. I am expecting it to be updated very soon. There will be some important changes within it, particularly in relation to the use of live facial recognition technology.
+
+Baroness Chakrabarti (Lab)
+My Lords, the Minister quite rightly spoke about data protection. Do the Government agree that this is not just about the individual’s data but about their dignity as well? Is this the way we should be softening up our young people for treatment by corporates coming out of China or anywhere else in the future?
+
+Baroness Barran (Con)
+The Government are not softening up our children. The use of biometric data in schools requires explicit consent from both parents of a child, and the child themselves can overrule that, should they wish.
+
+Lord Clement-Jones (LD)
+My Lords, from what the Minister has said today, it is clear that, despite promises, no new guidance has been produced since 2018, the Government have no means of ensuring compliance with that guidance and they have very little information about the use of this technology in schools. From that, can we conclude that this Government are washing their hands of virtually any responsibility for the deployment of this technology?
+
+Baroness Barran (Con)
+The Government are clearly not washing their hands; there are very clear procedures which schools must follow if they want to introduce this technology and very clear procedures which must be followed if a breach takes place.
+
+Lord Flight (Con)
+My Lords, for what purposes are biometric technologies used in schools?
+
+Baroness Barran (Con)
+There are a range of purposes. One, as the noble Baroness, Lady Chapman, mentioned, is in relation to payment; another is access to libraries, where fingerprinting is often used. They are also used in order that children accessing free school meals do not have a separate payment system and are not stigmatised and their dignity is not affected.
+
+Lord Scriven (LD)
+Why will the Government not allow the Biometrics Commissioner to be the regulator of schools? The commissioner has asked for that, and the Government have so far refused. Why are the Government refusing a regulator to ensure that the rules and regulations that the Minister keeps referring to are being adhered to by every school in this country?
+
+Baroness Barran (Con)
+There is already a regulator. The Information Commissioner’s Office regulates this area and, if the noble Lord would let me respond, the key statutory functions of the Biometrics Commissioner are explicitly to keep under review the retention and use of DNA and fingerprints by the police.

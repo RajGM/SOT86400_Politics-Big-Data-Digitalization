@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 4637406,
+    "ExtId": "0FAE3E29-DC61-45DE-8E16-8FFAF4B8813B",
+    "Title": "Artificial Intelligence: Public Services",
+    "HRSTag": "hs_8Question",
+    "Date": "2024-01-18T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 743,
+    "ContentLastUpdated": "2024-02-06T00:08:27.223",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "F7B87E91-600A-4C99-9297-5DAEC3302455",
+    "NextDebateTitle": "Infected Blood Inquiry",
+    "PreviousDebateExtId": "5EF09209-E822-4113-A07A-2839C126234E",
+    "PreviousDebateTitle": "Ministers’ Interests: Transparency"
+  },
+  "Navigator": [
+    {
+      "Id": 4637394,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "d049cffb-bdaa-4aa7-8f4e-dfe35caf0307",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4637397,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4637394,
+      "SortOrder": 4,
+      "ExternalId": "4A482D89-698E-472F-B4C3-76DF5EABAEC3",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4637398,
+      "Title": "Cabinet Office",
+      "ParentId": 4637397,
+      "SortOrder": 5,
+      "ExternalId": "507B3D2A-77B8-4086-B387-EE03A5ED6195",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4637406,
+      "Title": "Artificial Intelligence: Public Services",
+      "ParentId": 4637398,
+      "SortOrder": 13,
+      "ExternalId": "0FAE3E29-DC61-45DE-8E16-8FFAF4B8813B",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AE-AH",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39154394,
+      "MemberId": 4463,
+      "AttributedTo": "Chris Stephens (Glasgow South West) (SNP)",
+      "Value": "<Question HRSContentId=\"{31541A56-813A-4D8A-96C8-F8F0BDBB761E}\">11. <QuestionText HRSContentId=\"{3079CE62-FC6C-4DA9-AB71-72FF20545892}\">Whether he has had discussions with Cabinet colleagues on the potential impact of the use of AI on the delivery of public services.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "31541A56-813A-4D8A-96C8-F8F0BDBB761E",
+      "HRSTag": "Question",
+      "HansardSection": "AE-AH",
+      "UIN": "901033",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39154395,
+      "MemberId": 4441,
+      "AttributedTo": "The Chancellor of the Duchy of Lancaster and Secretary of State in the Cabinet Office (Oliver Dowden)",
+      "Value": "I discuss this area regularly with Cabinet colleagues. The Incubator for Artificial Intelligence, which I announced last year, will recruit experts from the private sector, academia and beyond, who will work with Departments to rapidly and responsibly develop new applications for artificial intelligence across Government, as part of radical plans to harness the potential of AI to improve lives and public services.",
+      "OrderInSection": 2,
+      "Timecode": "2024-01-18T10:02:54",
+      "ExternalId": "92912762-FAE6-4D87-8CA7-863ED8AA892D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39154396,
+      "MemberId": 4463,
+      "AttributedTo": "Chris Stephens",
+      "Value": "I join others in paying tribute to the great Sir Tony Lloyd; our thoughts and prayers are with his family today.\r\n\r\nI thank the Minister for his answer. As the Government have started work on an artificial intelligence hit squad to eliminate civil service jobs and replace human labour, it is of urgent importance that they lay out the safeguards they will enact. The childcare benefit scandal in the Netherlands in 2021, where artificial intelligence baked in racial profiling that discriminated against minorities, highlights the necessity of strict controls and protections, so will the Minister reveal what steps they are taking to prevent the harmful use of artificial intelligence?",
+      "OrderInSection": 3,
+      "Timecode": "2024-01-18T10:01:21",
+      "ExternalId": "997530AF-7D70-4CA7-817B-D038FB04D463",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39154397,
+      "MemberId": 4441,
+      "AttributedTo": "Oliver Dowden",
+      "Value": "It is not the case that this is about taking jobs off civil servants; it is to enable them to do their jobs better and more efficiently for the benefit of the public we serve in this place. In respect of the measures that we are taking to ensure that we follow best practice, the Government’s Central Digital and Data Office is ensuring a high delivery of quality and regular testing of that software throughout all stages of development. In addition, there is a service assessment model, so we are taking a number of steps to ensure that we guard against the risks that the hon. Gentleman highlights.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "66A37785-D9B0-44E4-88D9-5DC0A8B83F09",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

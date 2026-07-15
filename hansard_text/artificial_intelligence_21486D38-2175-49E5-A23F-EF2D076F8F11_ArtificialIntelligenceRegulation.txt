@@ -1,0 +1,85 @@
+ Artificial Intelligence: Regulation
+
+Question
+
+15:10:00
+
+Asked by
+
+Lord Holmes of Richmond
+To ask His Majesty’s Government, following the publication of the AI Opportunities Action Plan on 13 January, what plans they have to introduce legislation in 2025 for regulating artificial intelligence in areas including intellectual property, automated decision-making, and data labelling.
+
+Lord Holmes of Richmond (Con)
+My Lords, I beg leave to ask the Question standing in my name on the Order Paper and declare my technology interest as set out in the register.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+As set out in the manifesto, the Government are developing legislative proposals which will allow us to safely realise the benefits of the most powerful AI systems. The Government are also consulting on AI and copyright. Next steps, including on potential legislation, will be decided once all evidence is considered. The Data (Use and Access) Bill will enable the responsible deployment of solely automated decision-making, with stringent safeguards in place for individuals.
+
+Lord Holmes of Richmond (Con)
+My Lords, with the world talking AI in Paris this week and with parts of the EU AI Act already brought into force earlier this month, is it not over time for the Government to bring forward AI legislation in the UK: for the jobseeker who constantly finds herself not making the shortlist, not even knowing that AI is in the mix, or for the creative constantly finding her work stolen by AI with no consent, no remuneration and no respect? Does the Minister agree that sector-wide AI legislation, ushering in right-sized regulation, is good for investment, good for innovation, good for creatives, good for citizens and good for all our AI futures?
+
+Lord Vallance of Balham (Lab)
+As the noble Lord points out, getting regulation right here is good for investment and good for business. We are taking the approach of regulation by the existing regulators for the use of AI. We intend to bring forward legislation which allows us to safely realise the enormous benefits of AI in the frontier space. Of course, in the Data (Use and Access) Bill, some of the issues the noble Lord raised are already addressed.
+
+Viscount Colville of Culross (CB)
+My Lords, last week, the Startup Coalition of AI companies told a House of Commons Joint Committee that the Government should support a full commercial text and data mining model for AI training which would get rid of all copyright licensing for commercial AI training in the UK. Does the Minister support this suggestion?
+
+Lord Vallance of Balham (Lab)
+As I think I have made clear on several occasions at this Dispatch Box, we do not support that position. We believe that there needs to be control for creators; we need much better transparency in the system, and there needs to be access to use those images for AI. Those three things go hand in hand.
+
+Lord Watts (Lab)
+My Lords, the creative industries are the second-most important industry in the UK. Will the Minister guarantee that under the legislation creators’ work will be protected and they will be properly rewarded for the work that they do?
+
+Lord Vallance of Balham (Lab)
+We absolutely agree that creators need to be appropriately recognised and rewarded. That is why the system being developed will give greater transparency on what is being used for what purposes and will allow access while also protecting the rights of creators. It is important to have a technological solution to allow this and to prevent access where creators did not want it to occur.
+
+Lord Foster of Bath (LD)
+My Lords, ideally, as your Lordships agreed recently, proposals for an opt-out from a mechanism for text and data mining exceptions should be dropped, but if the Government continue, the Minister has made it clear that it will be adopted only if a workable solution can be found and that the views of the creative industries will be taken into account. Can he go further and agree to rule out any mechanism unless it has the full support of rights holders, and if not, why not?
+
+Lord Vallance of Balham (Lab)
+The noble Lord may find that not all rights holders have the same views, so I do not think it is possible to give the assurance he asked for, but I am very clear that we need a workable solution, and that means for creators as well as for access.
+
+The Lord Bishop of Oxford
+My Lords, according to the Government’s own recent survey, 43% of the public trust that the impact of AI will be positive, but 33% believe it will be negative. Given this very narrow gap and the critical importance of building trust in embracing new technologies, what specific steps are the Government planning to take to improve that public trust as they embed AI in the nation’s most trusted institutions, not least in the NHS?
+
+Lord Vallance of Balham (Lab)
+I thank the right reverend Prelate for that important question. Trust is key to all this, and it is why we are committed to maintaining high standards of data protection in whichever context the AI system is deployed. The right reverend Prelate is quite right to raise the question of the NHS, where already AI is being used to read scans, to improve performance in terms of missed appointments and to advance pathology services, many of which are narrow AI uses which are extremely important.
+
+Viscount Camrose (Con)
+My Lords, in opposition and in government, the party opposite has promised an AI Bill, but it continues to say very little about what it will do. This uncertainty is creating real challenges for AI labs and their customers, as well as for copyright holders and civil society groups. In short, everyone needs to feel more confident about the scope, the timing and the intentions of the Bill. What can the Minister say here and now to reassure us that there is actually a plan?
+
+Lord Vallance of Balham (Lab)
+As the noble Viscount says, this is an urgent matter. A summit is going on in Paris at the moment discussing many of these issues. We remain committed to bringing forward legislation. We are continuing to refine the proposals and look forward to engaging extensively in due course to ensure that our approach is future-proofed and effective against what is a fast-evolving technology.
+
+Lord Patel (CB)
+My Lords, if the UK were to consider AI regulation, which specific areas that are not covered currently by a whole bunch of other regulations does the Minister think would be worth regulating?
+
+Lord Vallance of Balham (Lab)
+That is precisely the point that I was trying to get to in the last few questions. There is regulation by the existing regulators, all of whom will need to deal with AI, and there is regulation which is covered in the Data (Use and Access) Bill, leaving frontier model control as the unregulated area. That is the area in which we seek to bring in some form of legislation in due course. We want to consult on it; it is a very complicated, fast-moving area, and an important one, and it is why the AI Safety Institute is such an important body in the UK.
+
+Baroness O'Grady of Upper Holloway (Lab)
+My Lords, does my noble friend the Minister agree that AI has the potential to be a liberating force for workers in terms of repetitive work and so on if workers have strong rights and the gains are shared fairly? Is he aware of the TUC manifesto on AI, and does he agree that workers should have the right to a human review when it comes to recruitment and indeed sackings?
+
+Lord Vallance of Balham (Lab)
+I completely agree with my noble friend that the aim of AI should be to increase the opportunity for those things that humans can do, and that includes, of course, human-to-human interaction. It is a very important point to consider as this is rolled out, including across the NHS. On automated decision-making, we have been clear that there needs to be human involvement in terms of somebody who knows what they are doing having the opportunity to review a decision and to alter it if necessary.
+
+The Earl of Clancarty (CB)
+My Lords—
+
+Lord Ranger of Northwood (Con)
+My Lords—
+
+Captain of the King’s Bodyguard of the Yeomen of the Guard and Deputy Chief Whip (Baroness Wheeler) (Lab)
+It is the turn of the Cross Benches.
+
+The Earl of Clancarty (CB)
+My Lords, the Government will have heard clearly enough by now—consultation or no consultation—that the creative industries want, and indeed require, an opt-in on the use of their own data. Will the Government simply listen and do this?
+
+Lord Vallance of Balham (Lab)
+We are clearly in the middle of a consultation. It is due to read out on 25 February. We are accumulating evidence both on how this would work and on the technologies necessary to make it work. It would be inappropriate to jump to a conclusion before we hear all that.
+
+Lord Ranger of Northwood (Con)
+My Lords, I refer your Lordships to my interests as declared in the register and as vice-chair of the APPG on AI. I have a simple question about the AI Opportunities Action Plan. I have been speaking to many AI SMEs in the UK—UK businesses that are booming and growing—and they feel that the conversation about regulation and safety drowns out their success stories. What activities are the Government pursuing to hear from those SMEs and how can the Government help them? Those businesses are so successful that they are being drawn into other markets, such as the US, via investment and taken away from the growth opportunities in the UK.
+
+Lord Vallance of Balham (Lab)
+I could not agree more with the noble Lord, Lord Ranger. We have a thriving start-up scene in AI. We need to encourage that; they need to grow. The AI action plan is about exactly that. The 50 recommendations in it are very much geared towards opportunities. We should grasp those opportunities and make sure that those small companies grow into big, sustainable companies in the UK.

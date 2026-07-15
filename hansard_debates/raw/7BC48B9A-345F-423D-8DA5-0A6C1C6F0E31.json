@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 5278404,
+    "ExtId": "7BC48B9A-345F-423D-8DA5-0A6C1C6F0E31",
+    "Title": "Artificial Intelligence Growth Zones",
+    "HRSTag": "hs_8Question",
+    "Date": "2026-03-18T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 782,
+    "ContentLastUpdated": "2026-04-22T01:04:28.717",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "82C9B216-308F-4FCF-90C8-D6CA99BF7E59",
+    "NextDebateTitle": "Social Media: Children and Young People",
+    "PreviousDebateExtId": "34569497-7CD3-41A0-BD8B-68984309B77E",
+    "PreviousDebateTitle": "Pornography: Regulation"
+  },
+  "Navigator": [
+    {
+      "Id": 5278398,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "d26af4b0-fd88-4378-8ddb-2c97fc6b3d54",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5278400,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5278398,
+      "SortOrder": 3,
+      "ExternalId": "AD37A493-5D9D-4095-9271-D7FB7434E2D1",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5278401,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 5278400,
+      "SortOrder": 4,
+      "ExternalId": "7C649003-9819-4BC2-AE0D-A2C439B0BA02",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5278404,
+      "Title": "Artificial Intelligence Growth Zones",
+      "ParentId": 5278401,
+      "SortOrder": 7,
+      "ExternalId": "7BC48B9A-345F-423D-8DA5-0A6C1C6F0E31",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 48725271,
+      "MemberId": 5194,
+      "AttributedTo": "Steve Yemm (Mansfield) (Lab)",
+      "Value": "<Question HRSContentId=\"{9D302415-FD87-4460-B74F-AB14CCBF86C8}\">3. <QuestionText HRSContentId=\"{5DBFF25E-7328-4844-9DF9-9755EBC7754F}\">What assessment her Department has made of the potential impact of AI growth zones on regeneration in Mansfield.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "9D302415-FD87-4460-B74F-AB14CCBF86C8",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "908396",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 48725272,
+      "MemberId": 4026,
+      "AttributedTo": "The Secretary of State for Science, Innovation and Technology (Liz Kendall)",
+      "Value": "This Government have already launched five AI growth zones, creating 15,000 jobs and unlocking £40 billion of investment in industrial heartlands across the country. The east midlands AI growth zone— <span id=\"844\" class=\"column-number\" data-column-number=\"844\"></span>a high-potential bid for that is under active consideration —could bring thousands of good jobs to the region, including in Nottinghamshire, unlocking investment, creating opportunities and regenerating the area in partnership with local businesses and universities.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "5C095D59-49C3-4DB1-AC7E-A0C6A45A2FDA",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 48725273,
+      "MemberId": 5194,
+      "AttributedTo": "Steve Yemm",
+      "Value": "Fourteen years of Conservative economic decline saw jobs and opportunity leave places such as my constituency of Mansfield, and AI now presents a chance to turn that around. How will the Secretary of State ensure that the Government roll-out of AI growth zones, creating opportunity across the country, will translate into local jobs and skills in left-behind communities?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "F0C45232-D2C2-4716-BC89-71BD7DF374C0",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 48725274,
+      "MemberId": 4026,
+      "AttributedTo": "Liz Kendall",
+      "Value": "In the 14 months we have been in government, our AI growth zones have done more to level up the country than Conservative Members achieved in 14 years; these zones are being built in the areas that once led the industrial revolution and will now lead the technological revolution. We are also upskilling 10 million workers with free AI skills, introducing the first dedicated national apprenticeship in practical AI and automation, and delivering our £27 million TechLocal programme to help people from all walks of life move into AI. We are determined to ensure that AI benefits people in Mansfield and every part of the country, so that no one is left behind.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "601DA605-8A23-4EEA-B08F-858F84832738",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

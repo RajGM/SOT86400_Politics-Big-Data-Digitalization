@@ -1,0 +1,32 @@
+ AI Regulation
+
+Preet Kaur Gill (Birmingham, Edgbaston) (Lab/Co-op)
+4. What steps the Government are taking to regulate AI.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Saqib Bhatti)
+The AI regulation White Paper set out how we will regulate AI through a flexible framework. We have taken steps to implement our approach, including establishing a central AI risk function and the AI Safety Institute. We are engaging closely with regulators and their sponsoring Government Departments to understand their readiness to regulate AI effectively.
+
+Preet Kaur Gill
+This weekend I was disturbed by news of a deepfake audio of Sadiq Khan circulating online, clearly manufactured to whip up hate and disinformation. That is cause for grave concern for elected representatives. As the National Cyber Security Centre warned yesterday, advances in artificial intelligence will be exploited by “malicious actors” seeking to spread disinformation and undermine our democracy, and the technology is already falling into the wrong hands. With elections next year, does the Minister recognise the urgent need for binding, not voluntary, regulation of frontier AI?
+
+Saqib Bhatti
+I share those concerns and have been following the news. It is not just the video at the weekend; there has been another one, which is about the Leader of the Opposition—that is incredibly concerning. We are working with media organisations and online platforms, and looking at this closely with the defending democracy taskforce.
+
+Tracey Crouch (Chatham and Aylesford) (Con)
+This week, the Science and Technology Committee has been in Brussels listening to how the EU is progressing with its regulation of AI. Despite the commitment to introducing legislation in the White Paper, it was not included in the King’s Speech. Why not?
+
+Saqib Bhatti
+The Government have been clear that we will take a contextual and proportionate response. The key is to understand the risks involved. The Government are not saying that there will not be any legislation in the future; we are saying that we need first to understand the risks and then to adapt accordingly. The Secretary of State is in the United States at the moment. What is clear from the Bletchley declaration, and from the conversation that I had with her yesterday, is that we are seen as a global leader in this field, and other countries are looking to us to lead the way.
+
+Mr Speaker
+I call the shadow Secretary of State.
+
+Peter Kyle (Hove) (Lab)
+I welcome the Minister of State, the hon. Member for Arundel and South Downs (Andrew Griffith), to his role, and I congratulate the Under-Secretary of State, the hon. Member for Meriden (Saqib Bhatti), on his appointment and on the birth of his child. I hope that he is getting some sleep in these busy days.
+
+AI has potential benefits across the public sector—I have seen that in hospitals, where it is already delivering huge benefits to patients—but the new safety institute, which will gather together world-class talent, is not being tasked with finding new uses to improve our public services. Why not?
+
+Saqib Bhatti
+I thank the hon. Member for his question and his kind remarks—I can assure him that I am getting some sleep.
+
+The AI Safety Institute will look at the risks involved. We will be working with the private sector, and we have always been clear that AI brings many benefits and we will ensure that we have a regulatory framework that encourages innovation and growth in the private and public sectors.

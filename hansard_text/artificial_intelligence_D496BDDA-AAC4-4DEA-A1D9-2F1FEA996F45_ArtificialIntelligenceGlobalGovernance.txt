@@ -1,0 +1,65 @@
+ Artificial Intelligence: Global Governance
+
+Question
+
+14:48:00
+
+Asked by
+
+Lord Pitkeathley of Camden Town
+To ask His Majesty’s Government what discussions they are having with international partners regarding global governance frameworks for artificial intelligence.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Baroness Lloyd of Effra) (Lab)
+AI is a global technology, so the UK is working with partners to advance secure, responsible and trustworthy AI design, development and adoption. This includes bilateral programmes and multilateral collaboration through the AI summit series, the G7, the United Nations and partnerships with national AI security institutes worldwide.
+
+Lord Pitkeathley of Camden Town (Lab)
+I thank my noble friend the Minister for that reply. I agree that international co-operation is essential and, from a domestic point of view, I warmly welcome the new AI Economics Institute, and indeed the work that the Prime Minister has been doing in this area on the international stage. Does my noble friend agree that, as recent events have shown, the danger is not simply regulatory fragmentation but the concentration of AI power in the hands of a small number of states and companies? Given the United Kingdom’s long experience of shaping legal and commercial frameworks, what leadership role does she see for this country in developing global governance arrangements for artificial intelligence?
+
+Baroness Lloyd of Effra (Lab)
+My noble friend is right to draw attention to the strengths of the UK in AI. Given the pace of change, the UK is determined to shape AI and not be shaped by it. These are issues that countries do not face alone, so we are working with international partners to seize the opportunities and address the challenges that AI presents, both bilaterally and multilaterally. The UK is well placed to lead, including through our AI Security Institute, working with allies to share expertise, build capability and strengthen our resilience together.
+
+Lord Clement-Jones (LD)
+My Lords, I declare an interest as a consultant to DLA Piper on AI policy and regulation. The UK signed the Council of Europe Framework Convention on Artificial Intelligence nearly two years ago. Can the Minister tell the House when the UK intends to ratify the convention, and what steps the Government intend to take to implement it, given their own statement that
+
+“existing laws and measures will be enhanced”
+
+once ratification occurs? Has the moment arrived for the UK to champion binding international obligations on AI, rather than continuing to place its faith in voluntary commitments that have clearly failed to hold either Governments or developers to account?
+
+Baroness Lloyd of Effra (Lab)
+The convention on AI is flexible and does not create new human rights obligations. Contracting states are given broad discretion when it comes to selecting the appropriate form of implementation, including sector-led regulation. That fits with our mission to highlight the benefits of AI for working people in a way that recognises that regulation largely is based on a sector-based approach.
+
+Lord Ranger of Northwood (Con)
+My Lords, as we know, and as I have said quite often in this House, the UK AI sector for SMEs is booming. Thousands of new businesses have set up in the UK over the last few years, and the UK can be proud of that on the global stage. With the last Prime Minister, and maybe the new Prime Minister, searching for growth, when will the Government meet organisations such as SMEs, particularly around the challenges of procurement into government? I declare my interest as a co-founder of the Business AI Alliance, a not-for-profit organisation that champions 300 UK AI businesses.
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord is right to pay testament to the strength of the UK economy and sector in both AI adoption and in new businesses taking opportunities, whether in law tech, fintech, or health and life sciences, to name a few. I am sure that colleagues in the department will be happy to meet the organisations he mentions. We meet other alliances such as those who represent start-ups and scale-ups in the UK. As he mentions, they are a source of growth and employment here.
+
+Baroness Nargund (Lab)
+My Lords, I welcome the Government’s commitment to using AI in healthcare to improve patients’ outcomes. However, AI brings risks too. We need international collaboration for large studies to establish effectiveness and long-term risks to patients. The World Health Organization has published a document on ethics and a governance framework for AI in health. Can the Minister say how the UK Government are contributing to the WHO-led governance framework for AI in healthcare, in order to not only improve outcomes but establish risks and equity in outcomes for our patients?
+
+Baroness Lloyd of Effra (Lab)
+The UK collaborates with many different forums, such as the OECD and the UN, and I am pleased to hear of the advances made by the WHO in setting out frameworks for ethical developments. In the UK, we are working carefully with the MHRA to allow advances in AI to bring real patient benefits through the development of new treatments and drugs.
+
+Lord Patel (CB)
+My Lords, does the Minister agree that we are more likely to succeed in having international regulation for AI if the regulations are based not on a single set of regulations for all algorithms but on risk-based classifications in a set of regulations, as with other technologies such as atomic energy?
+
+Baroness Lloyd of Effra (Lab)
+Developments in AI, with AI as a general technology, are indeed permeating many sectors, including health, as we heard from my noble friend, and other areas, as the noble Lord mentioned. The best approach is to keep collaborating in multilateral forums and with bilateral partners, so that we can share standards and approaches, and be agile and nimble as the technology develops.
+
+Lord Markham (Con)
+My Lords, recent restrictions by the United States on access by foreign nationals to certain advanced AI models have highlighted the extent to which access to frontier AI technology can be determined by decisions taken overseas. What discussions have the Government had with international partners to ensure that the United Kingdom retains reliable access to strategically important AI capabilities?
+
+Baroness Lloyd of Effra (Lab)
+The noble Lord highlights the developments in frontier models, which are delivering unprecedented advances at present. We are ensuring that the UK has sovereign capability based on our strengths, so that we can compete in this new, developing technological area in areas where we contribute. For example, that is why we are backing the AI hardware plan, an area of real strength in the UK, and we have set up the sovereign AI fund to back those particular sectors which the UK is particularly strong in.
+
+The Lord Bishop of Leicester
+My Lords, a deepfake or AI-generated social media post manufactured in one country can inflame communities in another country within hours. Ahead of the UN global dialogue in Geneva next month, can the Minister give us a reassurance that the Government are pressing international partners for common standards on content provenance and authentication, so that citizens can tell what is real from what is synthetic and deliberately sown to divide communities?
+
+Baroness Lloyd of Effra (Lab)
+The right reverend Prelate is right to highlight the importance of applying our values and laws, whether the content is generated by AI or by other actors. In the UK, the Online Safety Act takes that approach, whether content is developed by AI or elsewhere. It is through these kinds of dialogues, including with the UN, that we will share our best practice, so we can have standards globally that are based on the approach we are taking here in the UK.
+
+Lord Brooke of Alverthorpe (Lab)
+My Lords, is it not a fact that, if we are to secure international agreements, we are dependent on the Chinese being willing to enter into them, and in particular our close friends the Americans, who are showing a preference not for international regulation but to lead the world, have competitiveness and be in charge? In those circumstances, I welcome what the Minister was saying about UK sovereignty. Could she define it a bit more precisely? Are we going to establish an independent sovereign UK AI which would give us greater power than we have at the moment?
+
+Baroness Lloyd of Effra (Lab)
+Our sovereignty strategy includes many elements, such as developing AI growth zones, supporting the expansion of compute, and the sovereign AI fund, which is focused on five priority areas. We are supporting the building of a series of non-language frontier models, for example Ineffable. Also, as language models develop, we are seeing how the next era of them could be different. Today, there was an announcement of a further investment in that area from UKRI.

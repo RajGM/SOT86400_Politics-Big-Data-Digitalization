@@ -1,0 +1,74 @@
+ Artificial Intelligence: Legislation
+
+Question
+
+14:47:00
+
+Asked by
+
+Lord Holmes of Richmond
+To ask His Majesty’s Government when they will publish their consultation on their plans for artificial intelligence legislation and when they expect any subsequent bill to be introduced.
+
+Lord Holmes of Richmond (Con)
+My Lords, I beg leave to ask the Question standing in my name on the Order Paper and declare my technology interests, as set out in the register. They include being a member of the global advisory board at Endava plc and a member of the science and technology advisory committee of the Crown Estate.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+My Lords, the Government are preparing a consultation on AI legislation in order to gather views on the proposals. This would better prepare the UK for AI security risks, while making sure that our statute book is ready for the age of AI and its undoubted opportunities. The Government will update Parliament in due course.
+
+Lord Holmes of Richmond (Con)
+My Lords, I was rather hoping that we might have a consultation for our summer reading, but we will await the consultation and subsequent Bill. The Government have said that they will take a domain-specific approach to the legislation and regulation of AI, rather than cross-sector. To that end, how will consistency be assured through such an approach?
+
+Similarly, what about areas that currently do not have any competent regulator, such as hiring and recruitment? People find themselves not being shortlisted for roles because AI has made that decision, without even knowing that AI was in the mix. Even if they knew that AI was in the mix, there would be no place to seek redress. Surely, clarity, certainty and consistency are what anyone in the country requires when it comes to AI, whether they are an investor, innovator, consumer or creative. How will a domain-specific approach, with no guiding mind, ensure that clarity, consistency and certainty?
+
+Lord Vallance of Balham (Lab)
+I am sorry that I disappoint the noble Lord with his summer reading list. I am happy to meet him to give him some other recommendations of good books.
+
+As set out in the AI Opportunities Action Plan, we believe that most AI systems should be regulated by the existing regulators. They are the experts. They need the AI skills to be able to do it. The Government are working with regulators to drive collaboration and alignment across the regulatory domains through, for example, the Digital Regulation Cooperation Forum’s AI and digital advisory hub and the Regulatory Innovation Office, which is working with DRCF to collaborate on the support of the development of tools to help businesses and investors better navigate digital regulations.
+
+We recognise the point the noble Lord has raised, which is that there are some aspects of AI that need to be looked at across AI generally. That is why we are undertaking consultation on legislation, and why we have ongoing work with all the departments around the impact on jobs that he described.
+
+Lord Clement-Jones (LD)
+My Lords, as long ago as February, the Minister’s Secretary of State said:
+
+“AI is a powerful tool and powerful tools can be misused. State-sponsored hackers are using AI to write malicious code and identify system vulnerabilities, increasing the sophistication and efficiency of their attacks. Criminals are using AI deepfakes to assist in fraud, breaching security by impersonating officials”. 
+
+He went on to say:
+
+“These aren’t distant possibilities. They are real, tangible harms, happening right now”. 
+
+If that is the case, why are the Government not taking a much more urgent approach to the introduction of regulation? I declare an interest as an adviser to DLA Piper on AI policy and regulation.
+
+Lord Vallance of Balham (Lab)
+I agree that this is an urgent issue, and it is changing day by day. The urgency is reflected in the work that has already taken place through the Online Safety Act, the Data (Use and Access) Act and, of course, the Crime and Policing Bill. But the need to get the legislation right for a more widespread AI Bill is important and has to be taken with due consideration. It would be very wrong to try to rush this. A consultation that brings in all the relevant parties will be launched, and that will be the time when we can make sure that we get this absolutely right.
+
+Viscount Colville of Culross (CB)
+My Lords, at the Bletchley AI safety summit, major AI companies, such as Google, signed a voluntary agreement that they would not release AI frontier models without a safety card explaining how they had been tested and by whom. However, in March this year, Google released its Gemini 2.5 model without such a safety card. Does the Minister agree that examples such as this only add pressure for AI models safety testing to be put on a statutory basis?
+
+Lord Vallance of Balham (Lab)
+We do agree that the issue of safety in AI is very important. That is why we formed the AI Security Institute, which is busy working with companies around the world, testing their models, bringing their models in, working out where the vulnerabilities are, working in a way that allows those companies to build in the safety requirements that are needed, and, importantly, working with other AI safety and security institutes around the world. They have between them formed a group that is looking at these very issues. This is something we will be very vigilant on. It is something the world needs to be vigilant on as these models rapidly advance.
+
+Viscount Stansgate (Lab)
+My Lords, I agree with my noble friend that it is important to get it right. But, in addition to the consultation, will it be the case that any future proposed Bill will be subject to pre-legislative scrutiny, to allow both Houses of Parliament to look in more detail at these very important issues?
+
+Lord Vallance of Balham (Lab)
+I thank my noble friend. The consultation, which is in the process of being developed, will need input from everybody. It is important that we get the right people looking at what this consultation needs. As that consultation rolls out, it will be important that we have very widespread engagement right across Parliament.
+
+The Lord Bishop of Newcastle
+My Lords, I am very pleased that Blyth in north-east England has been chosen as the site of a new AI data centre. This represents good investment in training and skills and in transport infrastructure. However, data centres have a lot of impact on the environment and local communities, particularly in terms of water shortages. What ongoing assessment has been done of the impact, particularly on water shortages in local communities?
+
+Lord Vallance of Balham (Lab)
+I thank the right reverend Prelate for that question. I gave quite an extensive Answer on water and AI last week. There are specific requirements for places that could host the new AI growth zones, including for the power supply but also, importantly, the ability to look at how water is used, the use of technologies to reduce water use, including recirculation and the types of chips that allow you to generate less heat during processing, and an obligation to work with water companies to come up with a clear, credible plan.
+
+Viscount Camrose (Con)
+My Lords, on 3 July, over 150 major EU businesses wrote to the European Commission seeking a pause on the rollout of the EU’s AI Act. They objected, among other things, to its rigidity, complexity, overregulation and threat to competitiveness. What do the Government make of these objections? Do they remain as keen as they were in opposition on close alignment with the EU on AI regulation?
+
+Lord Vallance of Balham (Lab)
+I think the noble Viscount is very well aware that we have taken a rather different approach, in that we are proposing regulation largely through the existing regulators rather than having everything in one place. We are now looking at an AI Bill that would go across; that is what the consultation will be about.
+
+This is one of those areas where it is crucial to work with colleagues around the world. This is not a domestic but a global issue, and one that has to be dealt with with our colleagues in the US and in the EU. We will look very carefully at some of the features of the EU Act, which, as the noble Viscount rightly said, have been carefully looked at by a number of people, who found some things that I think the EU also wishes to change as it looks at its legislation. This goes back to my earlier answer: if we rush the consultation, we will get this wrong; if we take the time and do it right, we could end up having the best regulation in this area, which will none the less need to change, as this advances very rapidly.
+
+Baroness Kidron (CB)
+My Lords, both the AI Opportunities Action Plan and the industrial strategy outline a commitment to sovereign AI, including the creation of a UK sovereign AI unit, but with little detail about the timeline or the terms under which it will operate. Meanwhile, the Government continue to sign contracts with global AI firms across multiple government departments without reference to the concerns expressed in both Houses about the need to protect the UK’s valuable datasets. Could the noble Lord reassure the House that the UK’s very valuable public datasets will not be shared with international tech companies before Parliament has the opportunity to understand the terms on which they are being shared? Given that the Government have pushed back the timeline of the promised AI Bill, could he also explain how and when the details of what constitutes UK sovereign AI will be established?
+
+Lord Vallance of Balham (Lab)
+The noble Baroness will be aware that we have allocated up to £2 billion for AI, £500 million of which is on sovereign AI. That unit is just being established now. It will look at the features, which, of course, include data, hardware and software. One thing I can tell her, which I hope she will be pleased with, is that there is a programme on the creative content exchange in the creative industries sector that is specifically designed to look at how data from the creative industries can be pulled together so that it is easy to license it, easy to understand what has happened to it, and, therefore, easier to use it appropriately in an AI setting.

@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4459776,
+    "ExtId": "721F5DB9-1E1A-4300-8982-116CCA089850",
+    "Title": "Artificial Intelligence in Weapon Systems Committee",
+    "HRSTag": "NewDebate",
+    "Date": "2023-03-27T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 829,
+    "ContentLastUpdated": "2023-03-28T02:16:26.887",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "72035D5F-9240-4B47-869C-41F028FF31AB",
+    "NextDebateTitle": "Employment (Allocation of Tips) Bill",
+    "PreviousDebateExtId": "1AE259A6-C457-4943-8BF8-160DCC7B4656",
+    "PreviousDebateTitle": "Firearms Bill"
+  },
+  "Navigator": [
+    {
+      "Id": 4459764,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "b86de9ee-4072-4230-b772-564ffafcd43e",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4459776,
+      "Title": "Artificial Intelligence in Weapon Systems Committee",
+      "ParentId": 4459764,
+      "SortOrder": 13,
+      "ExternalId": "721F5DB9-1E1A-4300-8982-116CCA089850",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AN2-AO",
+      "Timecode": "2023-03-27T15:39:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 36246584,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Membership Motion",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "e08f5ae6-cb88-4b6b-869e-6a19cd166cb8",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AN2-AO",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 2491740,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:39:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AN2-AO",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 36246585,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Moved by",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AN2-AO",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 36246586,
+      "MemberId": 4161,
+      "AttributedTo": "The Senior Deputy Speaker",
+      "Value": "That Lord Sarfraz be appointed a member of the Select Committee, in place of Viscount Camrose.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "3FF2A64F-949E-4F9D-893C-71B50F9619E4",
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AN2-AO",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 36246587,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Motion agreed.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "2303279000261",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AN2-AO",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

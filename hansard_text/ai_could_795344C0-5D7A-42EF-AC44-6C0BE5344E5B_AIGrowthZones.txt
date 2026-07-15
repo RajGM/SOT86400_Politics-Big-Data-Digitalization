@@ -1,0 +1,19 @@
+ AI Growth Zones
+
+Lauren Edwards (Rochester and Strood) (Lab)
+7. What progress he has made on setting up AI growth zones across the country.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)
+As detailed in the “AI Opportunities Action Plan”, artificial intelligence growth zones will help to secure the UK’s position as a global leader in AI, ensuring that benefits are felt across the whole of the UK. My hon. Friend will be pleased to hear that on Monday we invited local and regional authorities along with the industry to come forward with potential suitable sites for hosting AI infrastructure.
+
+Lauren Edwards
+Rochester and Strood, positioned between London and mainland Europe, is well placed to help drive the UK’s AI economy. We have: several net zero energy projects ready to go, with further plans for a data centre and battery storage; a council that is already using AI and which created an AI accelerator programme to support local businesses; and three university campuses that are driving innovation. Will the Minister meet me to discuss my constituency’s potential as a future AI growth zone?
+
+Feryal Clark
+I thank my hon. Friend for strongly advocating for her constituency in Medway to become an AI growth zone. She will well know that the “AI Opportunities Action Plan” outlines the steps we are taking so that the UK can build the cutting-edge computer infrastructure needed to lead in AI development and deployment. I eagerly look forward to reading expressions of interest from hon. Members’ constituencies. I will be more than happy to meet her to discuss this in detail.
+
+Sir Jeremy Wright (Kenilworth and Southam) (Con)
+The Minister will be well aware that the growth of AI across the country depends on a ready supply of data and other content on which models can be trained. She will recognise that much of that content comes from our creative industries, and she will know that they are profoundly troubled that they are not being properly treated by the companies currently scraping their data without their permission or without proper compensation. I know that the Government will want to resolve that, and she will know that the Data Bill saw amendments made in the other place to address that. Do the Government intend to resolve this issue by means of the Data Bill or by other means? If by other means, what other means and when?
+
+Feryal Clark
+The right hon. and learned Member will know that there is an ongoing consultation looking at clarifying the copyright and AI issues. There will be a speech this afternoon on the Data Bill that will cover the issue in more detail. As he will also know, the consultation ends on 25 February, after which we will review its responses to see what we need to do.

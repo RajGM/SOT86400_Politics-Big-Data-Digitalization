@@ -1,0 +1,40 @@
+ Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]
+
+Third Reading
+
+10:15:00
+
+Motion
+
+Moved by
+
+Lord Clement-Jones
+That the Bill do now pass.
+
+Lord Clement-Jones (LD)
+My Lords, the Bill is part of a wider debate that, as was the case with the previous Private Member’s Bill today, from the noble Baroness, Lady Owen, we had as part of the Data (Use and Access) Bill. The Government have now published their vision for digital public service and their State of Digital Government Review. For the Government Digital Service, we are now told that a new chapter begins. All this is, apparently, designed to improve productivity and services in the public sector. But how citizen-centred will the new technology be? How transparent and accountable will it be? To improve algorithmic and automated decision-making in the public sector, there needs to be an increase in transparency, fairness, accountability and the implementation of robust safeguards and human oversight mechanisms.
+
+We obviously welcome the promise of an ICO code of conduct for automated decisions in the public and private sectors, as well as the algorithmic transparency recording standard of course. But that in itself lacks a number of elements: a human oversight requirement; impact assessments; a transparency register; and the prohibition of non-scrutinisable systems. There are considerable gaps in that standard. It does not cover local authorities, police forces and other public services. I simply predict that this will become a bigger issue as government starts to implement its plans for the adoption of AI in the public sector. The Government will find themselves well behind the curve of public opinion on this.
+
+The Earl of Effingham (Con)
+My Lords, I thank all noble Lords for their contributions on the Bill, particularly the noble Lord, Lord Clement-Jones, who brought it forward. In an era increasingly shaped by the decisions of automated systems, it is the responsibility of all those using algorithmic and automated decision-making systems to safeguard individuals from the potential harm caused by them. We understand the goals of the Bill: namely, to ensure trustworthy artificial intelligence that garners public confidence, fosters innovation and contributes to economic growth. But His Majesty’s Official Opposition also see certain aspects of the Bill that we believe risk its effectiveness.
+
+As the noble Viscount, Lord Camrose, pointed out at Second Reading, we suggest the Bill may be prescriptive. The definition of “algorithmic systems” in Clause 2(1) is broad, encompassing any process, even those unrelated to digital or computational systems. While the exemptions in Clause 2(2) and (4) are noted, we believe that adopting our White Paper definitions to focus on autonomous and adaptive systems would provide clarity and align the scope with the Bill’s purpose.
+
+The Bill may also benefit from an alternative approach to addressing the blistering pace of artificial intelligence development. Requiring ongoing assessments for every update under Clause 3(3) could be challenging, given that systems often change daily. We may also find that unintended administrative burdens are created from the Bill. For example, Clause 2(1) requires a detailed assessment even before a system is purchased, which may be unworkable, particularly for pilot projects that may not yet operate in test environments, as described in Clause 2(2)(b). These requirements could risk dampening exploration and innovation within the public sector.
+
+Finally, we might suggest that in order to avoid potentially large amounts of bureaucracy, a more effective approach would be to require public bodies to have due regard for the five principles of artificial intelligence as evidenced in our White Paper, those  five principles being: safety, security and robustness; appropriate transparency and explainability; fairness; accountability and governance; and contestability and redress. His Majesty’s Official Opposition do of course value the importance of automated algorithmic tools in the public sector.
+
+Lord in Waiting/Government Whip (Lord Leong) (Lab)
+My Lords, I thank the noble Lord, Lord Clement-Jones, for bringing the important issue of public sector algorithmic transparency for debate, both today and through the Data (Use and Access) Bill, and I thank the noble Earl, Lord Effingham, for his contribution.
+
+The algorithmic transparency recording standard, or ATRS, is now mandatory for government departments. It is focused, first, on the 16 largest departments, including HMRC; some 85 ALBs; and local authorities. It has also now been endorsed by the Welsh Government. While visible progress on enforcing this mandate was slow for some time, new records are now being added to the online repository at pace. The first batch of 14 was added in December and a second batch of 10 was added just last week. I am assured that many more will follow shortly.
+
+The blueprint for modern digital government, as mentioned by the noble Lord, Lord Clement-Jones, was published on 21 January, promising explicitly to commit to transparency and accountability by building on the ATRS. The blueprint also makes it clear that part of the new Government Digital Service role will be to offer specialist assurance support, including a service to rigorously test models and products before release.
+
+The Government share the desire of the noble Lord, Lord Clement-Jones, to see algorithmic tools used in the public sector safely and transparently, and they are taking active steps to ensure that that happens. I hope that reassures the noble Lord, and I look forward to continuing to engage with him on this important issue.
+
+Lord Clement-Jones (LD)
+My Lords, I thank the noble Earl for taking the trouble to read my Bill quite carefully. I shall obviously dispute various aspects of it with him in due course; however, I welcome the fact that he has taken the trouble to look at its provisions. I thank the Minister for his careful reply. I do not think that the Government are going far enough, but time will tell.
+
+Bill passed and sent to the Commons.

@@ -1,0 +1,67 @@
+ Copyright and Artificial Intelligence
+
+Question
+
+11:50:00
+
+Asked by
+
+Baroness Chakrabarti
+To ask His Majesty’s Government what is their initial assessment of the scale and balance of responses to their consultation on copyright and artificial intelligence.
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Information and Technology (Baroness Jones of Whitchurch) (Lab)
+My Lords, the Government consulted on several issues regarding copyright and AI. That consultation closed on 25 February and over 11,500 responses were received. We welcome this significant engagement from across the creative and AI sectors. Our priority must be now to analyse the evidence that has been submitted. Proposals will be set out in due course, including a fuller breakdown of the types of respondent to the consultation.
+
+Baroness Chakrabarti (Lab)
+I am very grateful to my noble friend the Minister for that Answer. I declare my interests as an author, like many Members of your Lordships’ House. Does she agree that the intellectual property of creatives in this country is no less precious or important than the intellectual property of tech companies that have, frankly, already been scraping the internet for creative work and ripping these people off? Wherever the policy lands in the future as a result of the consultation, will the Government consider offering assistance to creatives, many of whom are really not very well off, to ensure that they have restitution for the grand theft that has already been perpetrated?
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, of course the Government recognise the concerns that many in the creative industries have about the potential impact of AI on that sector. This is why we want to act now to give UK creators greater control over their works and more transparency about how their work is being used, as well as creating the ability for them to be paid for it. That is exactly what the proposals in our consultation aim to achieve. But I should say that this is a complicated area, because AI adoption also has the potential to drive growth across the economy, including in the creative industries. For example, 38% of creative industry businesses are already using AI technologies. So this is a complicated area, but we know we have to find a solution and protect the interests of creatives in the future in the way that the noble Baroness has alerted us to.
+
+Viscount Colville of Culross (CB)
+My Lords, the Government intend to take out the transparency amendments tabled by my noble friend Lady Kidron in the Data (Use and Access) Bill. What provision are they going to make to ensure that creatives know that their copyrighted work has been pirated by AI models, so that they can then take action?
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, the Government agree with many of the points made during the debate on the data Bill, and in other discussions in this House, that further transparency is needed from AI developers about their use of web crawlers and the materials that they use to train their models. However, we have a consultation out and it would be premature to commit to specific legislation until we have analysed the responses to that consultation and heard all the voices in this sector. Nevertheless, I assure the noble Viscount that we intend to resolve this issue. It is one that the previous Government failed to resolve and we need to resolve it now, so we will take action as soon as the consultation has been analysed and resolved.
+
+Lord Parkinson of Whitley Bay (Con)
+My Lords, there has been widespread concern that the Secretary of State in the Minister’s department has been very happy to meet representatives of big tech and AI firms but less willing to meet representatives of our thriving but threatened creative industries. Of course, in due course his meetings will be published through the Government’s quarterly transparency returns but, given how germane this is to a contentious area of policy currently under discussion, will she give consideration to publishing that list of meetings sooner?
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, as the noble Lord knows, that information will be published in the normal way. What I will say is that the Minister for AI and Digital Government and the Minister for Creative Industries, Arts and Tourism have been extremely active in engaging on this subject. They have held round tables with the creative industries and the AI sector during the consultation, which is a joint consultation involving DCMS and DSIT. This morning, the Secretary of State for DSIT explained that, and also said that he is of course open to meetings with the creative sector. All that is on the table and there is no problem about dialogue or engagement. That will go on in the next few months as well, while we seek to find a solution to this issue.
+
+Lord Foster of Bath (LD)
+My Lords, regardless of whatever future plans are brought forward, will the Minister confirm that, if the outcome of current challenges shows that our current IP regime is legal, the Government will provide assistance to those creators whose IP has been stolen on an industrial scale by AI companies?
+
+Baroness Jones of Whitchurch (Lab)
+The noble Lord is right that this is a complicated copyright area and there are some legal cases in the offing. It is a complicated area that needs a holistic approach. Our view is that addressing the issue in isolation will not provide sufficient legal clarity or resolve the issue in a way that I think that most noble Lords would expect. The consultation will help guide us on this issue and I urge noble Lords to await its outcome, which I hope will provide some solutions.
+
+The Earl of Clancarty (CB)
+My Lords, despite what the Minister says, there is a basic concern about the framing of this issue by the Government, their perceived need for a balance between the tech companies and the creative industries, and the logic of that in terms of the need for someone to give something up. Should any side have to give up something that is already theirs, morally and in law: namely, work made by artists, who therefore hold the copyright? This is not about balance; it is about rights.
+
+Baroness Jones of Whitchurch (Lab)
+The noble Earl is right, and we are trying to find a way to ensure that those rights are upheld. However, all these sectors need to grow in our economy. As I was just explaining, the creative sector uses AI, so it is not as simple “us and them” situation. AI is increasingly being used by all sectors across our economy. We need to find a way through this that rewards creators in the way that the noble Earl has outlined, which I think we all understand.
+
+Viscount Camrose (Con)
+My Lords, I recognise of course that the task of analysing the results of the consultation still needs to go ahead. That said, does the Minister agree with us that digital watermarking is going to be a key component of the solution to the AI and copyright issue? If so, what does she make of the number of digital watermarking solutions that are now coming to market? In her view, is this to be welcomed or should we be pursuing a single standard for digital watermarks?
+
+Baroness Jones of Whitchurch (Lab)
+The noble Viscount has made an important point about watermarks, and that is certainly one solution that we are considering. The issue of transparency is crucial to the outcome of this issue, and watermarks would certainly help with that. I do not have a view as yet on whether we should have one or many, but I am hoping that the consultation will give us some guidance on that.
+
+Lord Brennan of Canton (Lab)
+My Lords, the Minister is right when she says that AI is extensively used in the creative industries and the music industry, and has been for a long time—as a servant, not a master of creatives. Is this not an opportunity to look at those companies such as DAACI that try to use AI in an ethical way which ensures that creators are rewarded for their input?
+
+Baroness Jones of Whitchurch (Lab)
+I thank my noble friend for that proposal. Again, I hope that all these companies will contribute, or have contributed, to the consultation, because those are exactly the sorts of standards we want to achieve. We want to make sure that creators get the right awards; that is certainly our intention through this consultation. We need to find a way through this. We are working hard and we will not give up until we have found a way to resolve the issue.
+
+Baroness Bennett of Manor Castle (GP)
+My Lords, the noble Earl, Lord Clancarty, the noble Lord, Lord Foster, and the noble Baroness, Lady Chakrabarti, all pointed out the way in which big tech has already stolen large amounts of property. Had that property been cash or gold, we surely would be getting a different reaction from the Government—yet it is actually the same thing. I have a constructive suggestion to help the Minister. How about a universal basic income for the creative sector as compensation?
+
+Baroness Jones of Whitchurch (Lab)
+I thank the noble Baroness for her helpful suggestion. Hopefully, she has fed that into the consultation. I am sure it will be considered as one of the many proposals to resolve this issue.
+
+Lord Pannick (CB)
+My Lords, have His Majesty’s Government received representations, formal or informal, on this subject from the Government of the United States and, if so, will they publish the substance of those representations?
+
+Baroness Jones of Whitchurch (Lab)
+To my knowledge, we have not received any representations from the US Government. I am sure any such discussions that take place will become public very quickly.

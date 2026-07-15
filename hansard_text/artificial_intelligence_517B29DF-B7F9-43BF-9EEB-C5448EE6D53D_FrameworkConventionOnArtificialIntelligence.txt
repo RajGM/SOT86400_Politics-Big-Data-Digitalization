@@ -1,0 +1,59 @@
+ Framework Convention on Artificial Intelligence
+
+Question
+
+14:47:00
+
+Asked by
+
+Baroness Chakrabarti
+To ask His Majesty’s Government what assessment they have made of the value of, and the progress towards achieving the aims of the Council of Europe Framework Convention on artificial intelligence and human rights, democracy, and the rule of law, adopted on 17 May.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+Artificial intelligence has the potential to significantly boost economic growth, but to enable this it is essential to build public trust. That is why the UK has, together with international partners, signed the first ever legally binding treaty on AI, which, alongside our existing legal framework, will enhance the protection of human rights, democracy and the rule of law, supporting democratic institutions and ensuring that AI can develop and be used in line with our values.
+
+Baroness Chakrabarti (Lab)
+I am grateful to my noble friend, whom I belatedly welcome to the Dispatch Box. It is easily done on all sides of politics, but one minute we berate so-called red tape and the next minute we weep for tragedies like Grenfell. So does my noble friend agree with me that concepts like human rights, democracy and the rule of law are far from red tape? Does he agree that the Council of Europe, which at least one pretender to the Conservative crown wants us to pull out of, will be essential to navigating this very difficult territory in the years to come?
+
+Lord Vallance of Balham (Lab)
+It is important that the convention does not introduce new human rights. Instead, it is meant to make sure that, during its development, AI takes into account the existing rules and regulations and the appropriate respect of democracy and freedoms that are already enshrined in laws and taken into account in practice. I agree that this can be done in a way that does not mean new red tape.
+
+Lord Kirkhope of Harrogate (Con)
+My Lords, it is important to note the remarks of the Prime Minister, and indeed his Ministers, at the investment conference yesterday. When talking about artificial intelligence, they encouraged entrepreneurs in particular to have as little limitation on the development of AI as possible. Bearing in mind the position of the United States, which has a very free approach, and the European Union, which now has strict regulation, is the Minister confident that this Government will be putting in place the right balance in regulating AI?
+
+Lord Vallance of Balham (Lab)
+The convention has been signed by the US as well as the EU, the UK and various other nations. On the point about red tape, it is very important that, as we think about AI, we do not introduce measures which restrict innovation. At the investment summit yesterday, Eric Schmidt said very clearly that some guidelines are rather important; otherwise, companies do not have certainty and cannot progress. Getting that balance—getting some guidelines without restrictions—will be our clear priority.
+
+Earl Russell (LD)
+My Lords, given the Lord Chancellor’s statement that the framework
+
+“convention is a major step to ensuring that these new technologies can be harnessed without eroding our oldest values, like human rights and the rule of law”,
+
+and given that the convention is specifically designed to protect human rights, democracy and the rule of law, is it not crucial that this be reflected and implemented in the AI Bill as promised in the Labour Party’s manifesto, and will the Minister confirm that it will be?
+
+Lord Vallance of Balham (Lab)
+We have signed the convention and will bring it forward in the usual way—it will not happen overnight—providing a chance for wide consultation and consideration in Committee as it is laid before Parliament. The AI Bill itself is of course a different proposition.
+
+Lord Browne of Ladyton (Lab)
+My Lords, Article 3 of the framework convention, at the insistence of the United States, is discretionary in nature, offering signatory states a choice as to how to apply the convention’s principles to private actors, including those operating at the state’s behest. Given this and the somewhat vague nature of the enforcement procedures contained in Article 23, how does my noble friend the Minister envisage this convention affecting the operations of private firms contracted to supply, for example, facial recognition software—much flawed—to the Home Office and police forces?
+
+Lord Vallance of Balham (Lab)
+The convention sets out activities in the life cycle of AI systems, and they should not infringe our values of human rights, democratic processes and the effectiveness of democratic institutions or the rule of law. It applies to the public sector, to the public sector when using the private sector, and there is an obligation to consider how private sector activities can be taken into account when this is implemented in a national framework.
+
+Viscount Camrose (Con)
+My Lords, international bodies currently working on AI safety and regulation include the UN, UNESCO, the ITU, the G7, the G20 and the GPI, among several others. Do the Government agree that although each of these groups is crucial and has a very important role to play in creating safe and well-regulated AI globally, they will be successful only to the extent that they are effectively co-ordinated? If so, what steps are the Government taking to bring that about?
+
+Lord Vallance of Balham (Lab)
+We are in active discussion with all those partners. As we consider an AI Act, we will work closely with partners in the US and elsewhere and apply it only to the limited number of companies at the very forefront of AI, to those models of tomorrow which carry particular risk and, again, where guard-rails have been asked for.
+
+Lord West of Spithead (Lab)
+My Lords, a number of countries are using AI and developing weapons systems that have no human being between sensor and shooter. What are we doing to regulate this arena? It is extremely dangerous and is becoming a growing area of endeavour for a number of countries that, I have to say, I do not particularly like.
+
+Lord Vallance of Balham (Lab)
+I thank my noble friend for that important question. The convention does not apply to military matters, but the responsible AI in the military domain—the REAIM Forum, which the UK co-hosted in September this year—covers exactly those issues, which are incredibly important.
+
+Lord Kakkar (CB)
+My Lords, I draw attention to my registered interests. The Minister will be aware that the regulatory approaches to approving innovative medicines and to approving novel medical devices are quite different. With the introduction of AI to drive many of those devices, their impact on human health may be just as profound as administering a novel therapeutic. How do His Majesty’s Government propose to go about aligning the regulation of devices in the future when they are AI labelled?
+
+Lord Vallance of Balham (Lab)
+We are taking a sector-specific approach to AI regulation. On medicines, we announced last week the formation of the regulatory innovation office, which will look specifically at the question of AI in healthcare to try to bring together the different regulators and make sure that we have a clear system.

@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 4949265,
+    "ExtId": "536A4E1C-A3EB-45A4-B6CF-0F1477FB14FB",
+    "Title": "Artificial Intelligence: Schools",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-06-25T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 769,
+    "ContentLastUpdated": "2025-06-30T21:24:26.517",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "D124B12C-0680-441F-926B-0FBA098173F4",
+    "NextDebateTitle": "Artificial Intelligence: Legislative Proposals",
+    "PreviousDebateExtId": "3836370A-24E7-4A92-8B77-623988AD9B8B",
+    "PreviousDebateTitle": "Rural Mobile Coverage"
+  },
+  "Navigator": [
+    {
+      "Id": 4949258,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "3827400e-4d69-4c77-8be2-3d9fdad192b2",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4949260,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4949258,
+      "SortOrder": 3,
+      "ExternalId": "39416357-1448-4834-9C24-8C4961253516",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4949261,
+      "Title": "Science, Innovation and Technology",
+      "ParentId": 4949260,
+      "SortOrder": 4,
+      "ExternalId": "1E65EA07-D2D1-4F38-AA00-6EF0E5E90DE7",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4949265,
+      "Title": "Artificial Intelligence: Schools",
+      "ParentId": 4949261,
+      "SortOrder": 8,
+      "ExternalId": "536A4E1C-A3EB-45A4-B6CF-0F1477FB14FB",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474202,
+      "MemberId": 5186,
+      "AttributedTo": "Bradley Thomas (Bromsgrove) (Con)",
+      "Value": "<Question HRSContentId=\"{C2E5E12E-A209-4529-8018-080366D888CD}\">4. <QuestionText HRSContentId=\"{9F834D93-CD2B-464C-AD9A-DAFEDDA088C6}\">What discussions he has had with the Secretary of State for Education on AI in schools.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "C2E5E12E-A209-4529-8018-080366D888CD",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "904806",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474203,
+      "MemberId": 4822,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Feryal Clark)",
+      "Value": "My Department is working closely with the Department for Education and Skills England to ensure that the education system is ready for the opportunities and the challenges that AI poses. We are assessing the AI skills gap and mapping pathways to address it. My officials have been working closely with the DFE on the education content store, for example, which is a pilot project that seeks to help developers to make better AI tools for teachers by providing a store of reliable and relevant UK data. Last week, the DFE produced guidance to support schools with the safe and effective use of AI in education.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "0FBFDE85-6C25-4F3E-B0F7-3C902E63880E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474204,
+      "MemberId": 5186,
+      "AttributedTo": "Bradley Thomas",
+      "Value": "Will the Minister outline what steps are being taken to reduce academic dishonesty and plagiarism in schools resulting from the use of artificial intelligence tools?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "7B11F1A7-1171-404C-BAB2-9F0BAD384294",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474205,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "AI has demonstrated that it can help the education workforce by reducing some of the administrative burdens and the hard work that teaching staff and school leaders face in their day-to-day role. On the hon. Gentleman’s question, evidence is still emerging on the benefits and risks of pupils and students using generative AI. We will continue to work with the <span id=\"1097\" class=\"column-number\" data-column-number=\"1097\"></span>education sector on use cases to develop our understanding of how to use AI safely and effectively. As I have said, the Department has issued guidance to teachers on how to identify and best use AI in schools.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "3EAAAF89-C391-4EAE-BE40-E72B9DFC813B",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474206,
+      "MemberId": 467,
+      "AttributedTo": "Mr Speaker",
+      "Value": "I call the Chair of the Science, Innovation and Technology Committee.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "0F4A2446-0478-4EE3-B753-6C96702F5820",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474207,
+      "MemberId": 4124,
+      "AttributedTo": "Dame Chi Onwurah (Newcastle upon Tyne Central and West) (Lab)",
+      "Value": "AI is already prevalent in the workplace and in the education system, and we need to equip the next generation to be able to use AI tools productively and securely while also delivering on their unique potential as human beings. How is the Minister working with the Department for Education to ensure that the AI tools that are used in our education system support this kind of learning? Specifically, what advice has she given to the Department with regard to the procurement of edtech tools, which are widely available? Some are free and some need to be paid for, so how are schools to decide which to use?",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "ACE5F11F-085A-4353-B301-AD6F5904481D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 44474208,
+      "MemberId": 4822,
+      "AttributedTo": "Feryal Clark",
+      "Value": "As I have said, I work very closely with my counterparts in the Department for Education. Earlier this year, we launched safe standards for the sector and provided guidance on how to safely develop AI tools for education. The DFE has also provided guidance to schools on how to safely use AI in schools. That work is ongoing. As I have said, we are working both with the sector and with educators to make sure that we get this right.",
+      "OrderInSection": 7,
+      "Timecode": null,
+      "ExternalId": "264A9D9E-011B-4A87-84B5-EE5DCC590A5F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

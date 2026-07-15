@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 5135785,
+    "ExtId": "355A2692-5F19-45AB-AE82-1A82531E4315",
+    "Title": "Artificial Intelligence: Scotland",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-07-09T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 770,
+    "ContentLastUpdated": "2026-01-16T16:10:27.02",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "8B4FC3EE-B9FB-4510-BF8C-E611DBCE2ECA",
+    "NextDebateTitle": "Broadcasting: Scotland",
+    "PreviousDebateExtId": "AB364E50-16AE-4863-B9AE-45C6E856F4C7",
+    "PreviousDebateTitle": "Spending Review 2025: Scottish Public Services"
+  },
+  "Navigator": [
+    {
+      "Id": 5135780,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "7741d012-2ef4-4edc-acf4-685a953eb1a1",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5135782,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5135780,
+      "SortOrder": 3,
+      "ExternalId": "4BF73798-750E-4ECA-9B40-2454F36CFD8F",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5135783,
+      "Title": "Scotland",
+      "ParentId": 5135782,
+      "SortOrder": 4,
+      "ExternalId": "9708CDC8-7FED-457B-BAE8-1BBA05186D42",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5135785,
+      "Title": "Artificial Intelligence: Scotland",
+      "ParentId": 5135783,
+      "SortOrder": 6,
+      "ExternalId": "355A2692-5F19-45AB-AE82-1A82531E4315",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853023,
+      "MemberId": 5200,
+      "AttributedTo": "Kenneth Stevenson (Airdrie and Shotts) (Lab)",
+      "Value": "<Question HRSContentId=\"{A478C8D6-01D4-4165-A3E5-6C8C76EAC763}\">2. <QuestionText HRSContentId=\"{3549CBA7-7292-45DB-9908-49EAD0782C25}\">What discussions he has had with Cabinet colleagues on the future of artificial intelligence in Scotland. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "A478C8D6-01D4-4165-A3E5-6C8C76EAC763",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "905050",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853024,
+      "MemberId": 5114,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Scotland (Kirsty McNeill)",
+      "Value": "Artificial intelligence will drive incredible change in our country. It will turbocharge growth and boost living standards. Scotland, as we know well, has been the UK’s home of AI since 1963, and it will become the home of the most powerful supercomputer in the UK, with this Labour Government investing £750 million in its development at the University of Edinburgh’s advanced computing facility in Midlothian. We are currently assessing applications for AI growth zones from across the UK, including several from Scotland, which is at the cutting edge of computing power globally.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "1F596421-3DE3-4872-9154-F6306E8CE160",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853025,
+      "MemberId": 5200,
+      "AttributedTo": "Kenneth Stevenson",
+      "Value": "It is refreshing to have a UK Government so committed to investing in and developing AI, in comparison with John Swinney and the Scottish Government, who are stuck in an analogue age, unable even to provide patients and staff with a functioning NHS app. Does the Minister agree that the towns of Airdrie and Shotts and the former industrial heartland of North Lanarkshire are incredibly well placed to serve as an AI growth zone and capture the Government’s clear ambition?",
+      "OrderInSection": 3,
+      "Timecode": "2025-07-09T11:39:59",
+      "ExternalId": "A445CB89-FB1A-48BB-9A34-0E5387ACDD68",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853026,
+      "MemberId": 5114,
+      "AttributedTo": "Kirsty McNeill",
+      "Value": "Much like my hon. Friend, who is a truly passionate advocate for his community, I am proud to represent one of Scotland’s industrial heartlands. He is right to highlight the role that they can play in Scotland’s AI future. As for his comments regarding the First Minister, my right hon. Friend the Health Secretary was particularly astute in his assessment. I am afraid that the First Minister is from the age of “Taggart”, when what is upon us is the age of “Dept. Q”.",
+      "OrderInSection": 4,
+      "Timecode": "2025-07-09T11:39:59",
+      "ExternalId": "704898AE-52E1-4A91-8CC8-D73017F45B21",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853027,
+      "MemberId": 5362,
+      "AttributedTo": "Mr Angus MacDonald (Inverness, Skye and West Ross-shire) (LD)",
+      "Value": "The transmission line from Skye to Fort Augustus has been approved. Due to a technicality, the people along the route will be deprived of £22 million. Will the Minister take this up with Ofgem?",
+      "OrderInSection": 5,
+      "Timecode": "2025-07-09T11:39:59",
+      "ExternalId": "EDB30ADA-58D5-4521-BB05-E07177F4910F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46853028,
+      "MemberId": 5114,
+      "AttributedTo": "Kirsty McNeill",
+      "Value": "I am led to believe that the hon. Member has already picked this matter up with the Secretary of State, who will be taking it forward, but I would be delighted to talk to the hon. Member about it.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "7849F4B2-CB35-4B0F-A9DD-ADFC1BD10721",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

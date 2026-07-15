@@ -1,0 +1,163 @@
+{
+  "Overview": {
+    "Id": 5146626,
+    "ExtId": "8C6C3D97-EA04-4CCC-9101-673445BC5E4C",
+    "Title": "Creative Industries: AI",
+    "HRSTag": "hs_8Question",
+    "Date": "2026-01-15T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 778,
+    "ContentLastUpdated": "2026-01-27T00:18:27.123",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "4E5BCD31-2E8A-49B3-B7D4-13AAB768C829",
+    "NextDebateTitle": "Access to Sports Facilities",
+    "PreviousDebateExtId": "62160219-733A-4BB1-B404-9A26A48C2643",
+    "PreviousDebateTitle": "Gambling Advertising"
+  },
+  "Navigator": [
+    {
+      "Id": 5146618,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "20d7ecda-47b7-4778-b02b-ea317ac9e39b",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5146621,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5146618,
+      "SortOrder": 4,
+      "ExternalId": "8FEA59EC-19CA-43B1-BA41-80B7DB394D54",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5146622,
+      "Title": "Culture, Media and Sport",
+      "ParentId": 5146621,
+      "SortOrder": 5,
+      "ExternalId": "C473C08B-D381-423D-834B-94DF5F29E007",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5146626,
+      "Title": "Creative Industries: AI",
+      "ParentId": 5146622,
+      "SortOrder": 9,
+      "ExternalId": "8C6C3D97-EA04-4CCC-9101-673445BC5E4C",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021013,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"1056\" class=\"column-number column-only\" data-column-number=\"1056\"></span>",
+      "OrderInSection": 0,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021014,
+      "MemberId": 5359,
+      "AttributedTo": "Neil Duncan-Jordan (Poole) (Lab)",
+      "Value": "<Question HRSContentId=\"{5DE8A2A2-6E2C-4C55-B8FF-BA9505FAAC6A}\">6. <QuestionText HRSContentId=\"{A131A4D0-8B43-4F7B-AA0D-F263B2CB0700}\">What steps she is taking with Cabinet colleagues to help protect the creative industries in the context of AI. </QuestionText></Question>",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "5DE8A2A2-6E2C-4C55-B8FF-BA9505FAAC6A",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "907277",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021015,
+      "MemberId": 3966,
+      "AttributedTo": "The Minister for Creative Industries, Media and Arts (Ian Murray)",
+      "Value": "On 15 December we published a progress statement on copyright and artificial intelligence, as required by the Data (Use and Access) Act 2025. By law, we have to publish an independent impact assessment before 18 March. The Department for Culture, Media and Sport and the Department for Science, Innovation and Technology recently held a round of successful technical working groups on copyright and AI, and I am engaging with the creative and tech industries to ensure that our copyright regime values and protects human creativity while unlocking innovation across our creative sector and the wider economy.",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "48041D15-3FB9-4924-96EF-57BA9799F966",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021016,
+      "MemberId": 5359,
+      "AttributedTo": "Neil Duncan-Jordan",
+      "Value": "The Minister will know that big tech companies want to use songs, recordings and other creative work to train their AI models, without asking or paying the original creators. Does he agree with my union, the Musicians’ Union, that those working in our creative sector should be asked for consent to use their work, get credit for use of their work and be fairly compensated when their work is used in this way?",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "B8891F30-9E8E-47B2-ADAF-DBE80809D1ED",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021017,
+      "MemberId": 3966,
+      "AttributedTo": "Ian Murray",
+      "Value": "This is one of the most serious issues we have to deal with in this space. As a joint Minister in DSIT and the DCMS, I know this is something we are looking at, and we are very aware of all the concerns raised by creatives. We want to support rights holders in licensing their work in the digital age and to allow AI developers to benefit from access to creative material. In the UK, that will require a landing zone for both industries, and engagement, such as technical working groups, will be key in finding a solution that works for both sides. We will continue to engage with stakeholders in both sectors to further develop that approach, and that is the commitment from both Secretaries of State.",
+      "OrderInSection": 5,
+      "Timecode": "2026-01-15T09:49:59",
+      "ExternalId": "5A3E2373-9192-4475-8F39-A934C8E09BF3",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021018,
+      "MemberId": 4008,
+      "AttributedTo": "Dame Caroline Dinenage (Gosport) (Con)",
+      "Value": "When it comes to AI, as with so many other things, this Government are all smoke and mirrors. In response to the Grok AI outrage this week, the Secretary of State for Science and Tech announced with a flourish that she would be banning intimate image abuse with immediate effect. In reality, this meant triggering legislation that had to be forced through by Baroness Owen of Alderley Edge against the Government’s will and that received Royal Assent last summer. Imagine how many women could have had their trauma prevented if the Government had just got a grip. Every day, our creative industries are having their work scraped. Intellectual property is being stolen every day, and still the Government sit on their hands, promising the world and delivering nothing. When will we see the AI Bill promised in the last King’s Speech, and when is that legislation likely to be brought forward?",
+      "OrderInSection": 6,
+      "Timecode": "2026-01-15T09:49:59",
+      "ExternalId": "367594D7-FA89-4AE5-A29D-2A568F98EA15",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 47021019,
+      "MemberId": 3966,
+      "AttributedTo": "Ian Murray",
+      "Value": "As I said in answer to my hon. Friend the Member for Poole (Neil Duncan-Jordan), there will be an update to Parliament on 18 March, as provided for by the Data (Use and Access) Act. This is an incredibly serious issue, but what we really need to do is <span id=\"1057\" class=\"column-number\" data-column-number=\"1057\"></span>make sure that the Online Safety Act 2023 is completely implemented. My right hon. Friend the Secretary of State for Science, Innovation and Technology made it very clear from the Dispatch Box this week that the Government will have an absolutely no-tolerance approach to what has been happening with AI and Grok. Ofcom must do its job. It must do it quickly, it must do it soon, and it must take the greatest possible action it can against the perpetrators of the disgusting and abhorrent ways in which AI is operating on some platforms.",
+      "OrderInSection": 7,
+      "Timecode": "2026-01-15T09:49:59",
+      "ExternalId": "128E2E03-DB04-4F74-B451-9C9A78E2D0C2",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

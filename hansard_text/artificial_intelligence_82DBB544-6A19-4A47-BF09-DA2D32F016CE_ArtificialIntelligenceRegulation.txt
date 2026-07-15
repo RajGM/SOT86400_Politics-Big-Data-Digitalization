@@ -1,0 +1,28 @@
+ Artificial Intelligence Regulation
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+4. Whether she plans to introduce legislative proposals on regulating artificial intelligence.
+
+The Secretary of State for Science, Innovation and Technology (Chloe Smith)
+Our White Paper was clear that we will regulate AI through a flexible framework underpinned by five important principles. That proportionate and adaptable approach has been welcomed by British business and will include new risk monitoring functions to ensure that the UK leads the world in AI safety, as well as anticipating the introduction of a statutory duty on regulators in time. We would welcome hon. Members’ views on that consultation.
+
+Alan Brown
+In terms of risk, I am sure that the Minister will be concerned that Snapchat’s My AI chatbot recently encouraged a journalist who was posing as a 13-year-old girl to meet up with a 35-year-old man, suggesting ways to hide the meeting from parents, gave tips on hiding bruises from social workers and gave sex tips to a supposedly 13-year-old boy who was proposing to meet an older woman. What specifically are the Government doing to beef up online safety regulation to protect children from the emerging risk of AI?
+
+Chloe Smith
+I am concerned to hear the examples that the hon. Member gives. That is exactly why this House and the other place have spent considerable time going over the provisions in the Online Safety Bill, which goes to the heart of the issues that he raises and includes AI in its scope.
+
+Sir Jeremy Wright (Kenilworth and Southam) (Con)
+Does my right hon. Friend agree that when it comes to AI regulation, two things are important? The first is that there is a significant international dimension, and I congratulate her and the Prime Minister on what they have already achieved in setting out this country’s stall to be a global leader in AI regulation. Secondly, does she agree that the lesson to be learned from the Online Safety Bill, which she mentioned, is that we must regulate swiftly, rather than waiting for the technology to develop and attempting to retrofit the regulation on to the technology?
+
+Chloe Smith
+I welcome my right hon. and learned Friend’s contribution—he knows a great deal about these matters. First, I acknowledge his welcome for the approach we will be taking internationally. It is exactly right that the UK can and should lead in this space, as the Prime Minister has set out, and that is what we will do with our global summit on AI safety. Secondly, on his point about the Online Safety Bill, I can understand his argument, but in this context I would draw the House’s attention to the distinction between regulation and legislation. We intend to use our existing and established regulators to make sure that we have a flexible and adaptable approach to AI.
+
+Mr Speaker
+I call the shadow Minister.
+
+Alex Davies-Jones (Pontypridd) (Lab)
+The rapid growth of AI has the potential to revolutionise the economy and our public services, but with no industrial strategy to speak of and their White Paper already out of date, this Government are behind the curve and risk leaving our workforces behind as AI becomes more prevalent. Exactly what is the Secretary of State doing to ensure that nobody is left behind, and that workers are trained in the digital skills needed to gain high-quality jobs that harness AI’s potential and opportunities?
+
+Chloe Smith
+I think the hon. Lady is on the wrong track here. I must say that I have not seen any substance to Labour’s approach in this field either, which perhaps will not come as a surprise—no doubt it will be covered more in 10 minutes’ time. What I would say is that we are taking the approach of ensuring that we do have the skills of the future: for example, we are investing £30 million in conversion courses to enable people from disadvantaged backgrounds to come into AI, so that they can be part of the technologies of the future, and there is a great deal more besides.

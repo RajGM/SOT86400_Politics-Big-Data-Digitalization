@@ -1,0 +1,84 @@
+ Superintelligent AI
+
+Question
+
+15:21:00
+
+Asked by
+
+Lord Hunt of Kings Heath
+To ask His Majesty’s Government what plans they have to regulate the development of superintelligent AI.
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Innovation and Technology (Baroness Lloyd of Effra) (Lab)
+AI’s superintelligence is the subject of ongoing debate regarding its definition and whether it is achievable. Advanced transformative AI presents both significant opportunities, such as improvements in healthcare and climate action, and risks. As frontier AI evolves, the AI Security Institute helps the Government assess and identify potential emerging risks, which would include pathways towards any kind of superintelligence. The Government will remain vigilant and prepare for new AI risks, including rapid advancements that could affect society and national security. AI regulated by existing expert regulators will be informed by the AISI findings.
+
+Lord Hunt of Kings Heath (Lab)
+My Lords, I am grateful to my noble friend for that considered Answer. Clearly, AI has great potential; the UK is third in the global league of AI investment. I understand the Government’s response, which is essentially a nuanced approach to encourage both proper regulation and investment.
+
+However, superintelligent AI undoubtedly does present risks. The Minister will know that the director-general of MI5 has warned of the
+
+“potential future risks from non-human, autonomous AI systems which may evade human oversight and control”.
+
+Meanwhile, the UK’s AI Security Institute has warned:
+
+“In a worst-case scenario, this … could lead to catastrophic, irreversible loss of control over advanced Al systems”. 
+
+The problem is that the companies developing superintelligence do not know the outcome and there are currently no barriers to the development. I urge the Government to take this really seriously and to start talking to other countries about putting some safety controls in.
+
+Baroness Lloyd of Effra (Lab)
+My noble friend is right to mention the research of the AI Security Institute, which is advice the Government listen to and take very seriously. AI is a general-purpose technology with a wide range of applications, which is why the UK believes that the vast majority of AI should be regulated at the point of use. My noble friend is also right that collaboration with other countries is critical, and the UK’s approach is to engage with many other countries, and through the AI Security Institute with developers so that it has good insight into what is happening in development today.
+
+Lord Clement-Jones (LD)
+My Lords—
+
+Baroness Harding of Winscombe (Con)
+My Lords—
+
+Captain of the Honourable Corps of Gentlemen-at-Arms and Chief Whip (Lord Kennedy of Southwark) (Lab Co-op)
+Let us have the Lib Dem Bench next and then the Conservative Benches.
+
+Lord Clement-Jones (LD)
+My Lords, I declare an interest as a consultant to DLA Piper on AI regulation and policy. In their manifesto, the Government promised
+
+“binding regulation on … companies developing the most powerful AI models”,
+
+yet, 18 months later, even in light of the harmful activities of stand-alone AI bots, we have seen neither the promised consultation nor any draft legislation. How can the Government credibly claim to be taking superintelligence seriously when they cannot get round even to publishing a consultation, let alone legislating?
+
+Baroness Lloyd of Effra (Lab)
+As I mentioned earlier, most AI systems are regulated by our existing expert regulators, and they are already acting. The ICO has released guidance on AI and data protection and the MHRA is taking action to allow a sandbox for AI as a medical device product. We are working with regulators to boost their capabilities as part of the AI opportunities action plan, and where we need to take action—for example, as we have under the Online Safety Act—we will do so. We do not speculate on legislation ahead of future parliamentary Sessions, but we will keep noble Lords updated should and when we bring forward a consultation ahead of any potential legislation.
+
+Baroness Harding of Winscombe (Con)
+My Lords, in 1982, the then Government commissioned a philosopher, Dame Mary Warnock, to explore the moral and ethical frameworks around human embryology and fertilisation, long before many of the developments were really possible. I worry that the AI Security Institute is just trying to work out what it does, rather than what it should do. Will the Government consider a similar commission to establish the ethical frameworks for superintelligence?
+
+Baroness Lloyd of Effra (Lab)
+The AI Security Institute looks at the science and the implications of AI, and collaborates with many other research institutes to examine some of the implications for our society and economy. That approach is bearing great fruit. The institute publishes findings so that we can all take account of them.
+
+Lord St John of Bletso (CB)
+Can the Minister elaborate on what economic and labour market risks are associated with superintelligent AI, as distinct from generative AI?
+
+Baroness Lloyd of Effra (Lab)
+As I mentioned at the start, there is a lot of debate about the pathway that AI development will take and the pace at which it is developing. The AI Security Institute has reported a sharp rise in AI capabilities over the past 18 months, with continued growth almost certain, and it is looking at the implications of this. For example, one of its research focuses is tracking the development of AI capabilities that would test the limits of human control, which is one of the most pertinent questions for anybody thinking about the implications of superintelligence.
+
+Viscount Camrose (Con)
+My Lords, I want to build on the very important point raised by the noble Lord, Lord Hunt. Given that AI research and development can be conducted, in effect, anywhere, regulation of the development of superintelligent AI is going to have to be global. Does the Minister feel that the UK is genuinely taking full advantage of our considerable convening power in this space to drive forward the global AI safety agenda? Further, might there be grounds for concern that our convening power may be diminished over time by the emerging political uncertainty that came to the fore over the weekend?
+
+Baroness Lloyd of Effra (Lab)
+The Government have forged many extremely successful relationships; as evidenced, for example, by the number of trade deals secured over the past 18 months or so. These relationships with the EU, the US, India, France and many other countries include discussions on AI. In addition, the UK is the co-ordinator on related questions for the International Network for Advanced AI Measurement, Evaluation and Science, which aims to shape and advance the science of AI evaluations globally. Our engagement is on all levels, and specifically on the technical level. The noble Viscount makes an extremely important point. This is an effort of global development, so it is important that we engage with developers globally and with other countries.
+
+Lord Browne of Ladyton (Lab)
+My Lords—
+
+Lord Pitkeathley of Camden Town (Lab)
+My Lords—
+
+Noble Lords
+Labour!
+
+Lord Kennedy of Southwark (Lab Co-op)
+They are both Labour.
+
+Lord Browne of Ladyton (Lab)
+My Lords, I am and always have been a faithful. With tighter regulation in the future confidently anticipated, is it not often the case that its absence in the present can impede innovation rather than foster it? Given that many of those responsible for the development of AI—and, in some cases, the development of AI superintelligence—have repeatedly requested tighter controls on their activities, can my noble friend the Minister assure your Lordships’ House that the existing regulatory structures are adequate? Can she describe the mechanisms through which their salience and strength are kept under constant review?
+
+Baroness Lloyd of Effra (Lab)
+My noble friend makes a very good point: our regulators need to be equipped and to have the capabilities, capacity and expertise to regulate a fast-advancing technology. We have put in place many actions and convening powers as part of the AI action plan, to make sure that our regulators have that capacity and capability. Through the AI Security Institute, we are making sure that they have the information they need to regulate. Many departments are thinking about this in concert with their regulators, to ensure that we are taking advantage of the opportunities and preparing for the risks that AI will undoubtedly bring.

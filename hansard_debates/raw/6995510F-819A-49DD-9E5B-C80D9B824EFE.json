@@ -1,0 +1,135 @@
+{
+  "Overview": {
+    "Id": 5344944,
+    "ExtId": "6995510F-819A-49DD-9E5B-C80D9B824EFE",
+    "Title": "Private Sector Investment: Buckingham and Bletchley",
+    "HRSTag": "hs_8Question",
+    "Date": "2026-03-12T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 782,
+    "ContentLastUpdated": "2026-05-14T00:38:35.053",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "650AA763-6632-47A0-AE6C-38B173DBFB70",
+    "NextDebateTitle": "Scottish Industry: International Promotion",
+    "PreviousDebateExtId": "2FB12599-DA35-4A00-B6C0-1864162BBD1F",
+    "PreviousDebateTitle": "Parental Rights at Work"
+  },
+  "Navigator": [
+    {
+      "Id": 5344939,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "31d682aa-a876-4d59-8e3a-9718b04cd7e0",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5344941,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5344939,
+      "SortOrder": 3,
+      "ExternalId": "D9D37E3D-04F2-4E81-A6E3-4354203D286B",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5344942,
+      "Title": "Business and Trade",
+      "ParentId": 5344941,
+      "SortOrder": 4,
+      "ExternalId": "4A5B60FD-A66A-47A9-B577-6F6D006FFBFA",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5344944,
+      "Title": "Private Sector Investment: Buckingham and Bletchley",
+      "ParentId": 5344942,
+      "SortOrder": 6,
+      "ExternalId": "6995510F-819A-49DD-9E5B-C80D9B824EFE",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49442670,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+      "Value": "<Question HRSContentId=\"{73E4CB79-F5F3-4DC6-A3AF-603A7E241FDE}\">2.  <QuestionText HRSContentId=\"{C63833BB-A5AE-4237-9957-0B982C1F7609}\">What steps he is taking to help increase levels of private sector investment in Buckingham and Bletchley constituency.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "73E4CB79-F5F3-4DC6-A3AF-603A7E241FDE",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "908236",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49442671,
+      "MemberId": 5116,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Business and Trade (Chris McDonald)",
+      "Value": "We are supporting private sector investment in Buckingham and Bletchley by working with partners across the Oxford-Cambridge growth corridor to find new opportunities for businesses. I acknowledge the work of my hon. Friend in launching the Bletchley investment taskforce, which is bringing together private capital and local partners, using infrastructure such as East West Rail to improve connectivity, and working with OxCam partners so that local businesses benefit from innovation, skills and inward investment.",
+      "OrderInSection": 2,
+      "Timecode": "2026-03-12T09:40:24",
+      "ExternalId": "6C101CDA-1430-4364-8CC6-91A8F49F28F1",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49442672,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson",
+      "Value": "As the Minister says, I launched the Bletchley investment taskforce last year to attract the businesses, investments, jobs and apprenticeships that local people need, and we are developing an investment prospectus to deliver that end. Will the Minister meet me and taskforce members to ensure that the Government are working hand in hand with local partners?",
+      "OrderInSection": 3,
+      "Timecode": "2026-03-12T09:41:31",
+      "ExternalId": "4B257807-EFB0-457B-A44A-03B34296EE83",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49442673,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"476\" class=\"column-number column-only\" data-column-number=\"476\"></span>",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 49442674,
+      "MemberId": 5116,
+      "AttributedTo": "Chris McDonald",
+      "Value": "I congratulate my hon. Friend on his work with the Bletchley investment taskforce. I know that businesses in his constituency, such as Envisics, Carnot and Pulsar, have benefited from the work he has done, and I would be very happy to ensure that he gets a meeting with the relevant Minister.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "532F5466-E53F-42BD-A8BD-935D78C9671E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

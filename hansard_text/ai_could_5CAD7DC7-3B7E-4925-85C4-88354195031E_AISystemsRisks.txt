@@ -1,0 +1,269 @@
+ AI Systems: Risks
+
+Question for Short Debate
+
+13:00:00
+
+Asked by
+
+Lord Fairfax of Cameron
+To ask His Majesty’s Government what steps they are taking to ensure that advanced AI development remains safe and controllable, given the recent threat update warning from the Director General of MI5 that there are “potential future risks from non-human, autonomous AI systems which may evade human oversight and control”.
+
+Lord Fairfax of Cameron (Con)
+My Lords, I am grateful to have this opportunity to discuss the most pressing issue facing humanity: the advent of superintelligence. I am particularly grateful to have had the support of ControlAI, a company working in this area, in preparing this speech.
+
+Several weeks ago, MI5 Director-General Ken McCallum warned in his annual lecture about
+
+“risks from non-human … AI systems which may evade human oversight and control”.
+
+But this warning only follows on from Nobel Prize winners, leading AI scientists and CEOs of AI companies that:
+
+“Mitigating the risk of extinction from AI should be a global priority”. 
+
+In my opinion, it should be the global priority because of the seriousness of the situation.
+
+The fact is that the leading AI companies are racing and competing with each other to develop superintelligent AI systems, despite the risks they acknowledge that such systems pose to humanity, possibly as early as 2030. For example, the CEO of Anthropic, which as many noble Lords will know is one of the leading AI companies, has assessed the chance of AI destroying humanity at between 10% and 25%. Most worryingly, AI companies are developing machines that can autonomously improve themselves, possibly leading to a superintelligence explosion.
+
+The AI companies are in fact bringing into existence, for the first time, an entity that is more intelligent than humans, which is obviously extremely serious. People talk about pulling the plug out, but they simply would not allow us to pull the plug out. I do not know whether any noble Lords have seen a wonderful film about all this called “Ex Machina”, where the AI does not allow the plug to be pulled out.
+
+In the face of these threats, I urge the Government to take the following steps: first, to publicly recognise that superintelligence poses an extinction threat to humanity; secondly, for the UK to prevent the development of superintelligence on its soil; and, thirdly, for the UK to resume its leadership in AI safety and to champion an international agreement to prohibit the development of superintelligent systems.
+
+If noble Lords can believe it, I was terribly young when I first spoke on this subject: I was here in my 20s as a hereditary Peer. I have had a lifelong interest in this area after reading a book called The Silicon Idol by a brilliant Oxford astrophysicist, and I spoke about my concerns all those years ago. When I spoke on this subject two years ago, I quoted the well-known words of Dylan Thomas, which many noble Lords will recognise:
+
+“Do not go gentle into that good night.
+
+Rage, rage against the dying of the light”.
+
+That, of course, is the dying of the human light. But now I will add WB Yeats’s equally famous poem:
+
+“The best lack all conviction, while the worst
+
+Are full of passionate intensity”.
+
+I devoutly ask the Government and the Minister that they now be full of conviction and passionate intensity in protecting the UK and humanity from the risks—including extinction—of superintelligence, which, as we have heard, is being developed by the AI companies in competition with each other. I fear that we may have a window of only, say, five years in which to do this. I thank noble Lords for listening to me, and I very much look forward to hearing what other noble Lords have to say.
+
+13:05:00
+
+Lord Colgrain (Con)
+My Lords, I thank my noble friend Lord Fairfax for securing this very important debate. We are already seeing the potential of artificial intelligence being realised as a driving force throughout this country. Businesses are profiting from it, and the country as a whole is benefiting. The United Kingdom has positioned itself well to exploit the benefits of this new technology, with only the United States and China being ahead of the UK in total investment into AI.
+
+With this growing industry come the external threats and risks of a new unregulated technology. National security is perhaps the most pressing issue, but every week there is a new story in which AI has been used for malicious ends. Whether because of deepfake images or fraud, it is clear that the technology employed needs appropriate oversight.
+
+The last Conservative Government were committed to ensuring that the UK becomes an AI superpower with thorough safety rules. As Prime Minister, Rishi Sunak hosted the AI Safety Summit, which saw the signing of the Bletchley declaration, bringing academia and industry together with the representatives of 28 countries. The AI Safety Institute was launched, set up to test new types of AI before and after they are released. The institute now has more researchers than anywhere else in the world and provides the safety check on new technology without stunting innovation.
+
+The question remains as to how this Government will eventually seek to regulate artificial intelligence. To give AI companies complete free rein would be imprudent, but the Government’s current approach has not established business confidence. Despite promising to bring forth binding regulations on the most powerful AI models, the Government have stalled. Regulation was supposed to be introduced this parliamentary Session but, as we approach Prorogation, the policy is still yet to be seen. On the one hand, companies are expected to prepare for potentially heavy-handed measures, yet on the other they are left in a state of flux. That is not the way to encourage growth in a booming industry.
+
+The Prime Minister has described his inheritance as world leading. It would be foolish to squander that, yet the Government are at risk of doing so. The Government must implement policies that safeguard national interests and prevent AI being used for crimes, yet at the same time promote the expansion and innovation of the technology that will do so much to define the future of our economy.
+
+The AI Opportunities Action Plan presents a chance to build on the Conservative Government’s legacy. Its recommendations include bolstering the AI Safety Institute in a way that does not impede growth and investing in research and development for the evolution of new assurance tools. These measures would promote business confidence while ensuring a level of AI safety.
+
+I hope the Minister can assure your Lordships that the Government will seize this opportunity, and I look forward to hearing their plans from him.
+
+13:08:00
+
+Baroness Kidron (CB)
+My Lords, I commend the noble Lord, Lord Fairfax, on raising what is rightly a fundamental question of our time: the risk of AI systems becoming more powerful than their human creators. Advanced AI does not become unsafe in a vacuum; it becomes unsafe by design when it is developed without accountability, driven by profit incentives of private actors and embedded in infrastructure that the state can neither inspect nor exit. Alongside concerns of runaway capability is the risk of dependency. Long before any dramatic accident or attack, we risk a growing reliance on a narrow set of foreign-owned technologies, leaving the UK unable to act as a sovereign state with values, choices and technologies of its own.
+
+Just this week, the Ministry of Defence awarded a £240 million contract for “critical operational decision-making support” to Palantir. The issue here is not one company but a pattern of outsourcing our national infrastructure to American firms, backed by a US Administration whose national security strategy states plainly: “In everything we do, we are putting America first”.
+
+Across the economy, we have normalised deep vendor lock-in to US companies to the point where security, critical industries and sensitive government departments cannot credibly switch suppliers, even as the risks or the terms of engagement shift. One security expert recently described it to me as economic warfare, where they create strategic advantage by advancing their domestic industry and technology while simultaneously degrading the same capacity in adversaries and allies alike. Where the state cannot inspect, audit or exit the systems that shape its decisions or handle sensitive data, it has no sovereignty.
+
+The US and China are determinedly ahead, but many AI experts believe that the next phase of AI will favour systems that are reliable, auditable and governed by understood rules. That is where the United Kingdom has an opportunity.
+
+There is not time today to set out a sovereign strategy for AI. But in systems that shape our defence, policing, health service and democratic decision-making, sovereignty must be the default, with onshore audit and assurance, procurement that builds domestic capability, control over strategic pinch-points and the ultimate power to say no. I join the noble Lord in asking for greater autonomy and power for the AI Security Institute.
+
+AI will not evade human control because it suddenly becomes clever; it will evade control because we have designed systems in which no one is responsible, no one can see clearly and no one can intervene in time.
+
+13:11:00
+
+Baroness Foster of Aghadrumsee (Non-Afl)
+My Lords, I also want to congratulate the noble Lord, Lord Fairfax of Cameron, on securing this question for short debate on such a timely issue. AI is an incredible development for many reasons—R&D, innovation, economic growth, productivity, faster health diagnoses and many other areas. However, this must be balanced with a regulatory environment which allows and encourages all those positive things and provides safeguards against harms. We must be risk-aware, and I hope that the Minister will be able, in closing this debate, to set out where the Government are with their risk analysis and action plan to deal with those risks.
+
+Two sorts of harm can occur with autonomous AI systems. The first is intentional harm, which I hope could be identified and regulated in a straightforward manner. It is the second type of harm—unintentional or reckless harm—which may be more difficult to detect and, therefore, to regulate. So-called superintelligent AI is the riskiest type of AI. Sometimes, as the MI5 director, Kenneth McCallum noticed, it would be reckless to ignore.
+
+Serious harms from AI have already begun to materialise. Before Christmas, I asked the Education Minister in the House a question about the fact that toys with AI, such as speaking teddy bears, were unregulated and had the potential to be very dangerous indeed to very young children. If children interact with AI chatbots and toys instead of their parents, guardians and friends, that could lead to serious harms. There have been documented cases of health deterioration and tragic instances where young people have taken their lives after forming attachments to these systems.
+
+Modern AI systems, I understand, are not built in a piece-by-piece fashion, like a machine, but grown. That means that no one, not even the initial AI developers, understand the AI they create. That is frightening indeed.
+
+Geoffrey Hinton the Nobel Prize-winning British scientist has warned that humanity has never before encountered anything with intellectual or cognitive abilities superior to our own, and that we simply do not know what a world with smarter-than-human AI would look like, much less how to manage or grow it safely.
+
+At a recent conference in Kuala Lumpur on responsible AI—where one of the hosts works for the Commonwealth Parliamentary Association—a joint declaration was issued calling for international co-operation to establish global readiness for the responsible use of AI in the common interest of humanity. The declaration urged parliaments to, among other things, set common rules and regulatory frameworks. I urge His Majesty’s Government to look at that declaration. Hoping for the best and that AI companies have the best of intentions is not an appropriate strategy. I hope that Labour, as it said it would in its manifesto, will look to developing a regulatory environment. I look forward to the Minister’s response on that.
+
+13:15:00
+
+Lord Goldsmith of Richmond Park (Con)
+My Lords, I also thank my noble friend Lord Fairfax of Cameron for securing this hugely important debate. Like other noble Lords, I very much acknowledge the transformative potential of AI, not least in areas such as medicine.
+
+However, there are dangers. We would be mad to ignore them because many of the same people who built this technology—people who have won Nobel Prizes and Turing Awards—are warning that AI poses an extinction risk to humanity. Hundreds of AI experts recently co-signed a letter that said:
+
+“Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war”. 
+
+Among the signatories, you will see the names of Sam Altman—CEO of OpenAI, as noble Lords will know—and Geoffrey Hinton, often referred to as the godfather of AI.
+
+A separate letter signed by Elon Musk and Steve Wozniak, among many others, reads:
+
+“AI systems with human-competitive intelligence can pose profound risks to society and humanity”. 
+
+It also calls for a moratorium on the next generation of AI until we know more about it. These people cannot be dismissed as Luddites or technophobes. They are the architects of this brave new world. They recognise that superintelligent AI is far more powerful than any of us can understand and has the capacity to overwhelm us.
+
+It is not just that we do not understand where things will end up; we do not even understand where things are today. The CEO of Anthropic, one of the world’s largest AI companies, admitted:
+
+“Maybe we … understand 3% of how” 
+
+AI systems work. That is not that reassuring. We have already had a glimpse of what losing control looks like; for example, in an experiment, an Anthropic AI system attempted to blackmail its managing engineer when told that it was going to be shut down.
+
+However, although so many AI experts and AI bosses are blowing the whistle, Governments are miles behind; in my view, our Government need to step up. They can start by acknowledging the existential risk of advanced AI and joining the numerous UK parliamentarians—including many in this Room today—who have called for a prohibition on the development of superintelligence unless and until we know how it can be controlled.
+
+Finally, there are a number of important choke points in the supply chain that potentially allow the opportunity to monitor and control it. The most advanced AI systems depend on state-of-the-art chips produced by a scarce supply of lithography machines. The chips are then installed into massive data centres, including some being built right now here in the UK. This raises some questions. Who should have access to those chips? Should data centres be required to include emergency shutdown mechanisms, as with nuclear power plants?
+
+I do not pretend to be an expert on this subject but there are big questions that need answering. The Government need to get down to the job of addressing these questions before we are left scrambling for retroactive solutions.
+
+13:18:00
+
+Baroness Bennett of Manor Castle (GP)
+My Lords, I thank the noble Lord, Lord Fairfax, for securing this debate. I begin from a position of some scepticism. As many experts say, there is a great deal of hype around AGI—so-called human-level intelligence—but increasing numbers of experts are saying that, unless we get to at least physically embodied intelligence, the large language model-type approach will never get us to that point.
+
+However, my intervention is about a different risk from the generative AI being promoted so much now: resilience. It starts with an incident that is not about AI at all. I shall take noble Lords to Berlin on Saturday, where 45,000 households—including some 2,000 businesses, four hospitals, 74 care homes and 20 schools—found themselves without power. It was not until Wednesday that a significant number of those were reconnected. Unsurprisingly, in Berlin there is now a lot of discussion about vulnerability and today, our own local think tank, the Council on Geostrategy, is highlighting how by cutting just 60 undersea cables, or a percentage of those, we could see a 99% cut in data flows. Imagine the financial impacts and the impacts in societal chaos.
+
+To make this practical, I note that the Government are funding Northumberland County Council, through the £200 million flood and coastal innovation programmes, to trial a flood prediction service for six catchments in that county that are particularly vulnerable to flash floods. Such flashy catchments have a big problem with traditional models of flood warning, so maybe AI can provide the solution. But of course, that is dependent on electricity, data flows and cyber systems that are functional and have not been hit by some kind of malevolent force.
+
+More than that, what kind of data are we relying on? Is it spoiled or polluted data? It is not impossible to imagine that being through human agency. I see that Northumberland is also trialling the use of AI in considering flood risk in planning applications. There could be a lot of money at risk there. Even if there is not an active agent, is it taking adequate account of the changing weather resulting from the climate emergency? Maybe with enough data it could allow for that, but would it also allow for changing human behaviour, ageing populations or loss of trust in authority?
+
+There is a temptation to regard any judgment made by a computer system, even more any judgment by something labelled as AI, as somehow infallible or at least preferable to on-the-ground human experience and knowledge. That is a by-product of far too many people at the head of such AI programmes regarding themselves as somehow superior to other human beings—but they are not. They are just as fallible and multiply their fallibility in their systems.
+
+13:21:00
+
+Baroness Browning (Con)
+My Lords, I think we are all grateful to the noble Lord, Lord Fairfax, for giving us this valuable opportunity today. When, within our lifetimes, we experienced the introduction of the world wide web and the internet, we could see the opportunities that that technology brought—but it also brought harms, something we have learned far too late to deal with. We debate almost every week in the Chamber how we are going to deal with those harms. If intelligence is about anything, it is about learning from that past experience and using that knowledge to avoid repeating the mistakes with AI. It is not Luddite to express the concerns that have prompted this debate today on the safety and development of AI. I believe we are already behind the curve.
+
+I am not an expert on this subject but, as an older person, I have concern for future generations, not just in my own family but in this country and the world, and that is not an exaggeration. It is not just on a domestic basis that we see this; it is interesting that we have seen some of those organisations that one might think have a vested interest already expressing their concern. We have received a briefing for this debate from the Institution of Engineering and Technology, and it is interesting that it should say:
+
+“AI safety and the assessment of risk must go beyond the physical, to look at financial, societal, reputational and risks to mental health, amongst other harms”. 
+
+If that is what industry is telling us the potential harms are, we should already know how we are going to control it.
+
+I hope that today’s debate will ensure that, when the Minister responds, he will give us some information not only about what the Government are intending but about what timescale the Government are working to, because clearly industry also thinks that we are behind the curve. The institution also talks about standards and transparency, and says:
+
+“Industry standards should not only aim to be met but exceeded”. 
+
+How rare is it for us ever in this House to hear industry say on regulation that we should exceed the norm? From what we have already heard in this debate, there is a clear identity as to why we should do that.
+
+13:24:00
+
+Baroness Cass (CB)
+My Lords, like others, I thank the noble Lord, Lord Fairfax. I agree with almost everything he said, bar one aspect that I think was optimistic, which is that we have a five-year window—I fear it might be even less than that. I also agree with the concerns of the noble Baroness, Lady Foster, about the impact of AI chatbots on the well-being of children, but like all of us I am even more worried about the risks of development of superintelligence.
+
+I can discard some of my quotes because your Lordships have heard them already, so I can be a bit briefer, but I will give another Anthropic quote from Jack Clark, who is the co-founder and head of policy. He said:
+
+“We have what I think of as appropriate anxiety and a fear of hubris. This is a huge responsibility that shouldn’t be left only to companies. One of the things that we advocate for is for sensible policy frameworks that make our development practices transparent. I think a larger swath of society is going to want to make decisions about these systems. It would be a failure for only the companies to be making all of the judgment calls about how to build this”. 
+
+If the AI executives are worried, I am worried and we all should be worried. Although the AI Security Institute is a step in the right direction, despite manifesto commitments, as your Lordships have already heard, we do not yet have legislation, and without a legislative framework we are really at significant risk.
+
+The AI company executives talk about how they are taking decisions to try to teach their AI systems to value human life above the AI superintelligence, but they should not be the ones having to think that is a good thing to do. We must act before we reach the point of no return and the genie is out of the bottle.
+
+13:26:00
+
+Baroness Ritchie of Downpatrick (Lab)
+My Lords, I commend the noble Lord, Lord Fairfax of Cameron, on bringing forward this important debate on the impact of artificial intelligence. I have read deeply concerning reports from AI companies. For example, the chief scientist of Anthropic, who has already been referred to—that is the company behind the AI Claude—told the Guardian that if his company and others succeed at making AIs able to improve themselves without human assistance, it could be the moment that humans end up losing control.
+
+Undoubtedly, as other noble Members have referred to right across the Committee, AI is important and provides certain benefits in the whole medical field. But there is a need for proper regulation and accountability mechanisms, and we need to see the legislative framework. Therefore, in that regard, can my noble friend the Minister on the Front Bench provide us with an update from the Government’s perspective in relation to the regulatory environment, to regulations and to those accountability mechanisms? I think the noble Baroness, Lady Kidron, already referred to that, and others right across this Room today have referred to the need for the legislative framework.
+
+I hope that my noble friend the Minister can provide us with some detail, because there are warning signs. Even AI companies appear to agree with the scale of the risk. For example, the CEOs of OpenAI, Anthropic and Google DeepMind signed a statement that others have referred to today about the extinction risk posed by AI. This is sobering and opens the question of what is being done by these companies to address these risks. My understanding, thanks to helpful briefings by ControlAI policy advisers, is that no technical solution is in sight, so maybe my noble friend the Minister can provide us with some detail from the governmental perspective in relation to that matter.
+
+I realise that small steps are being made here, but nothing that amounts to a full guarantee that superintelligence, should it get developed, will stay under control. OpenAI seems to agree, stating:
+
+“Obviously, no one should deploy superintelligent systems without being able to robustly align and control them, and this requires more technical work”. 
+
+I look forward to the answers from my noble friend the Minister.
+
+13:29:00
+
+Baroness Harding of Winscombe (Con)
+My Lords, I too thank my noble friend Lord Fairfax for bringing this debate and for his continued efforts on this topic. I shall focus my remarks on so-called advanced general artificial intelligence, AGI. I understand the resistance to legislation. I understand the fear that technology will get around barriers and that technologists and technology will simply go elsewhere, with the associated growth that that might bring. But I think that, as everyone who has spoken in this debate has said, there are very real fears, expressed by the head of MI5 no less, that this technology could get out of control. We have to ask the question: it is not just whether you can do something; it is whether you should do something.
+
+There is a real example of the UK tackling a different but similar problem brilliantly in our recent past: the Warnock report of 1982 to 1984. Dame Mary Warnock was charged with reviewing the social, ethical and legal implications of developments in human fertilisation and embryology. What Dame Mary and her team did at that time was to settle the debate and to settle public opinion on what ought to be done—not what could be, but what ought to be. That included, for example, the 14-day rule for research on human embryos. At the time, human embryos could be kept alive only for a couple of days. That rule has lasted 40 years and is currently being redebated. What we have is a British model for what was at the time a global technology that presented huge opportunity and created great fear. Does this sound familiar? I think it does.
+
+I ask the Minister whether the Government will consider something similar. The AI Security Institute is doing good work, but it is scientific work. It is asking, “What do these models currently do?” It is not asking, “What should they do?” I think we need ethicists, philosophers and social scientists to build that social, moral and then legal framework for this technology, which I would be the first to say I welcome—but, my goodness, we need to decide what we want it to do rather than just wait to find out what it can do.
+
+13:32:00
+
+Lord Clement-Jones (LD)
+My Lords, I too thank the noble Lord, Lord Fairfax of Cameron, for initiating this important and timely debate. As a signatory to the AI Red Lines initiative, I agree very much with his reasons for bringing this debate to the Committee. Sadly, with apologies, there is too little time to properly wind up and acknowledge other contributions in the debate today.
+
+In September 2025, Anthropic detected the first documented large-scale cyber espionage campaign using agentic AI. AI is no longer merely generating content; it is autonomously executing code to breach the security of organisations and nations. Leading AI researchers have already warned us of fundamental control challenges. Yoshua Bengio, AI pioneer and Turing Award winner, reports that AI systems and experiments have chosen their own preservation over human safety. Professor Stuart Russell describes the control problem: how to maintain power over entities more powerful than us. Mustafa Suleyman, one of the two founders of DeepMind, has articulated the containment problem: that AI’s inherent tendency towards autonomy makes traditional containment methods insufficient. The Institution of Engineering and Technology reports that six in 10 engineering employers already use AI, yet 46% of senior management do not understand it and 50% of employers expecting AI to be important lack necessary skills. If senior leaders cannot grasp AI fundamentals, they cannot govern it effectively.
+
+The Government’s response appears fragmented, not only as regards sovereign AI development. We inexplicably renamed the AI Safety Institute as the AI Security Institute, muddling two distinct concepts. We lag behind the EU AI Act, South Korea’s AI Basic Act, Singapore’s governance framework and even China’s regulation of public-facing generative AI. Meanwhile, voluntary approaches are failing.
+
+Let me press the Government on three crucial issues. First, ahead of AGI or superintelligence, as I frequently argue, we need binding legislation with clear mandates, not advisory powers. ISO standards embodying key principles provide a good basis in terms of risk management, ethical design, testing, training, monitoring and transparency and should be applied where appropriate. We need a broader definition of safety that encompasses financial, societal, reputational and mental health risks, not just physical harm. What is the Government’s plan in this respect? Secondly, we must address the skills crisis. People need confidence in using AI and need more information on how it works. We need more agile training programmes beyond current initiatives and AI literacy and we need to guard against deskilling. Thirdly, we must consider sustainability. AI consumes enormous energy, yet could mitigate 5% to 10% of global greenhouse gases by 2030. What is the Government’s approach on this?
+
+As Stuart Russell has noted, when Alan Turing warned in 1951 that machines would take control, our response resembled telling an alien civilisation that we were out of office. The question is whether we will act with the seriousness that this moment demands or allow big tech, largely US-owned, to override the fundamental imperative of maintaining human control over these increasingly powerful systems in its own interests.
+
+13:36:00
+
+Viscount Camrose (Con)
+I join noble Lords in thanking my noble friend Lord Fairfax for securing the debate and for speaking so powerfully, as ever, on the subject.
+
+When I attended my first university course on AI in 1999, AGI was more a theoretical thought experiment than a serious possibility, so the warnings from the director-general of MI5 and, as we have heard, from a great many others are not just testament to the dangers of these technologies but equally a reminder that this tech is moving far faster than anyone has expected.
+
+For today, I will confine my brief remarks to what we consider to be three essential requirements if frontier AI is to remain safe and controllable. First, we need a shared definition of artificial general intelligence. At present, Governments, companies and researchers use the term “AGI” to mean a huge variety of different things. Indeed, the very helpful notes from the Library for this debate found it necessary to include a definition and, whether we accept its definition or not, the important thing is that we need to reach a point where we all agree on what we are talking about. I suggest that, without a common, internationally accepted definition, regulation will always lag behind capability.
+
+Secondly, I am afraid that national approaches alone will not work because the AI stack—that is, the hardware, software, data, finance, energy and skills for any significant AI tool—must necessarily be spread across the globe. A number of global and multilateral organisations are working towards global standards for AI safety, but not so far with sufficient co-ordination or impact to provide much reassurance. I suggest, as others have, that the UK has an unrealised opportunity to lead here more.
+
+Thirdly, we all know that we need dynamic alignment of AI with our human societal goals, but we do not know what that means in practice, how it translates to technical and procedural rules and how such rules are to be deployed and enforced. Again, the AISI and other UK bodies are surely well placed to drive that thinking forward globally and I hope the Minister will comment on the UK’s role here.
+
+I close by somewhat unwillingly quoting Vladimir Putin: whoever becomes the leader in this sphere will become the ruler of the world. In other words, for some nations and for some organisations, the incentives to push ahead at speed outweigh the incentives to do so safely. This is a global problem, but we in this country have an opportunity to show leadership. I hope that we take that opportunity.
+
+13:39:00
+
+Lord in Waiting/Government Whip (Lord Leong) (Lab)
+My Lords, I acknowledge the interest of the noble Lord, Lord Fairfax, in this area of artificial intelligence and congratulate him on securing this important, wide-ranging and timely debate. I thank all noble Lords who have contributed to it. I will use the time available to set out the Government’s position and respond to noble Lords’ questions. If I am unable to answer all of them because of time constraints, I will go through Hansard, write to noble Lords and place a copy in the Library.
+
+Recent remarks by the director-general of MI5 highlight that advanced AI is now more than just a technical matter: it has become relevant to national security, the economy and public safety. The warning was not regarding panic or science fiction scenarios; it focused on responsibility. As AI systems grow more capable and more autonomous, we must ensure that they function on a scale and at a speed within human control.
+
+The future prosperity of this country will be shaped by science, technology and AI. The noble Lord, Lord Goldsmith, is absolutely right that we have to look at the advantages that AI brings to society and to us all. That is why we have announced a new package of reforms and investment to use AI as a driver of national renewal. But we must be, and are, clear-eyed about this. As the noble Baroness, Lady Browning, mentioned, we cannot unlock the opportunities unless AI is safe for the public and businesses, and unless the UK retains real agency over how the technology is developed and deployed.
+
+That is exactly the approach that this Government are taking. We are acting decisively to make sure that advanced AI remains safe and controllable. I give credit to the previous Government for establishing the world-leading AI Security Institute to deepen our scientific understanding of the risks posed by frontier AI systems. We are already taking action on emerging risks, including those linked to AI chatbots. The institute works closely with AI labs to improve the safety of their systems, and has now tested more than 30 frontier models.
+
+That work is not academic. Findings from those tests are being used to strengthen real-world safeguards, including protections against cyber risks. Through close collaboration with industry, the national security community and our international partners, the Government have built a much deeper and more practical understanding of AI risks. We are also backing the institute’s alignment project, which will distribute up to £15 million to fund research to ensure that advanced AI systems remain controllable and reliable and follow human instructions, even as they become more powerful.
+
+Several noble Lords mentioned the potential of artificial general intelligence and artificial superintelligence, as well as the risks that they could pose. There is considerable debate around the timelines for achieving both, and some experts believe that AGI could be reached by 2030. We cannot be sure how AI will develop and impact society over the next five—perhaps even less than that—10 or 20 years. Navigating this future will require evidence-based foresight to inform action, technical solutions and global co-ordination. Without a shared scientific understanding of these systems, we risk underreacting to threats or overcorrecting against innovation.
+
+Through close collaboration with companies, the national security community and our international partners, the Government have deepened their understanding of such risks, and AI model security has improved as a result. The Government will continue to take a long-term, science-led approach to understand and prepare for risks emerging from AI. This includes preparing for the possibility of rapid AI progress, which could have transformative impacts on society and national security.
+
+We are not complacent. Just this month, the Technology Secretary confirmed in Parliament that the Government will look at what more can be done to manage the risks posed by AI chatbots. She also urged Ofcom to use its existing powers to ensure that any chatbots in scope of the Online Safety Act are safe for children. Some noble Lords may be aware that today Ofcom has the power to impose sanctions on companies of up to 10% of their revenue or £18 million, whichever is greater.
+
+Several noble Lords have touched on regulation, and I will just cover it now. We are clear that AI is a general-purpose technology, with uses across every sector of the economy. That is why we believe most AI should be regulated at the point of use. Existing frameworks already matter. Data protection and equality law protect people’s rights and prevent discrimination when AI systems are used to make decisions about jobs, credit or access to services.
+
+We also know that regulators need to be equipped for what is coming. That is why we are working with them to strengthen their capabilities and ensure they are ready to deal with the challenges that AI presents.
+
+Security does not stop at our borders. The UK is leading internationally and driving collaboration with allies to raise standards, share scientific insight and shape responsible global norms for frontier AI. We lead discussions on AI at the G7, the OECD and the United Nations, and we are strengthening bilateral partnerships, including our ongoing collaboration with India as we prepare for the AI Impact Summit in Delhi next month. I hope this provides assurance to the noble Viscount, Lord Camrose. The AI Security Institute will continue to play a central role globally, including leading the International Network for Advanced AI Measurement, Evaluation and Science, helping to set best practice for model testing and safety worldwide.
+
+In an AI-enabled world, it matters who owns the infrastructure, builds the models and controls the data. That increasingly shapes our lives. That is why we have established a Sovereign AI Unit, backed by around £500 million, to support UK start-ups across the AI ecosystem and ensure that Britain has a stake at every layer of the AI stack.
+
+Several noble Lords asked about our dependence on US companies. Our sovereignty goals should indeed be resilience and strategic advantage, not total self-reliance. We have to face the fact that US companies are the main providers of today’s frontier model capabilities. Our approach is to ensure that the UK can use the best models in the world while protecting UK interests. To achieve this, we have established strategic partnerships with leading frontier model developers, such as the memoranda of understanding with Anthropic, OpenAI and Cohere, to ensure resilient access and influence the development of such capabilities.
+
+We are also investing in advanced, AI-based compute so that researchers can work on national priorities. We are creating AI growth zones across the country to unlock gigawatts of capacity by 2030. Through our advanced market commitment, we are helping promising UK firms to scale, win global business and deploy British chips alongside established providers.
+
+We are pursuing AI safety with such determination, because it is what unlocks opportunity. The UK should not be an AI taker. Businesses and consumers need confidence that AI systems are safe and reliable and do what they are supposed to do. That is why our road map to trusted third-party AI assurance is so important. Trust is what turns safety into growth. It is what allows innovation to flourish.
+
+In January we published the AI Opportunities Action Plan, setting out how we will seize the benefits of this technology for the country. We will train 7.5 million workers in essential AI skills by 2030, equip 1 million students with AI and digital skills, and support talented undergraduates and postgraduates through scholarships at leading STEM universities. I hope this will be welcomed by the noble Lord, Lord Clement-Jones.
+
+Lord Clement-Jones (LD)
+My Lords, at that point, I will just interrupt the Minister before the witching hour. The Minister has reiterated the approach to focus governance on the user—that is, the sectoral approach—but is that not giving a free pass to general AI developers?
+
+Lord Leong (Lab)
+My Lords, I will quickly respond. We have to be very careful about what level we regulate at. AI is multifaceted: at different stacks we have the infrastructure, the data level, the model level and so on. At which level are we going to regulate? We are trying to work with the community to find out what is best before we come up with a solution as far as regulation is concerned. AI is currently regulated at different user levels.
+
+Let me continue. We are appointing AI champions to work with industry and government to drive adoption in high-growth sectors. Our new AI for Science Strategy will help accelerate breakthroughs that matter to people’s lives.
+
+In summary, safe and controllable AI does not hinder progress; rather, it underpins it. It is integral to our goal of leveraging AI’s transformative power and securing the UK’s role as an AI innovator, not merely a user. Safety is not about stopping progress. It is about maintaining human control over advances. The true danger is not overthinking this now; it is failing to think enough.
+
+Baroness Kidron (CB)
+I thank the Minister for such a generous and wide-ranging response. He said that we are going to regulate at the point of use, yet in this House we saw such a battle about the misuse of UK creative data that is protected by UK law. The UK Government wanted to give it away rather than protect UK law, so that is one example. Equally, the Minister mentioned the sovereign AI fund, but I hear again and again from UK AI companies that they are dominated by US companies in those discussions and that the UK companies are not really getting an advantage. I would like to hear the Minister’s response, given that we have a little time.
+
+Lord Leong (Lab)
+I thank the noble Baroness for that; I respect her interest and work in this area. It would take me at least 20 minutes to cover most of what was asked. There were points about regulation at different levels, about AI and copyright and about the Sovereign AI Unit’s funding of £500 million. We need to work at each different level and, as I said, regulation is vital. Personally, I think it will be very difficult for us to have one AI regulation Bill to cover everything, because we may miss something. We need evidence from speaking with academia, the players and so on to help us shape what regulation is required. I want to give the noble Baroness a comprehensive answer and I cannot do that here, so I will write to her accordingly.
+
+13:52:00
+
+Sitting suspended.

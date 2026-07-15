@@ -1,0 +1,61 @@
+ Artificial Intelligence: Safeguarding
+
+Question
+
+15:08:00
+
+Asked by
+
+Baroness Berger
+To ask His Majesty’s Government, following recent reports by Open AI that many people have exhibited signs of suicidal ideation or other mental health emergencies while messaging a generative artificial intelligence chatbot, whether they have plans to safeguard such individuals.
+
+The Parliamentary Under-Secretary of State, Department of Health and Social Care (Baroness Merron) (Lab)
+My Lords, safeguarding people experiencing suicidal ideation or a mental health crisis is a priority. We recognise the growing use of generative AI chatbots and the potential risks that they can pose, particularly when people seek support during moments of acute distress. Whether content is created by AI or humans, the Online Safety Act places robust duties on all in-scope services, including those deploying chatbots, to prevent users encountering illegal suicide and self-harm content.
+
+Baroness Berger (Lab)
+My Lords, ChatGPT is giving British teens dangerous advice on suicide, eating disorders and substance abuse. A report from the Center for Countering Digital Hate found that, within two minutes, the AI platform would advise a 13 year-old how to safely cut themselves; within 40 minutes, it would list the required pills for an overdose; and, after 72 minutes, it would generate suicide notes. Can my noble friend confirm that Ofcom will treat ChatGPT and other chatbots as search engines under the Online Safety Act, and assure the House that the regulator has both the powers and the will to enforce the protection of children code when it comes to generative AI platforms such as ChatGPT?
+
+Baroness Merron (Lab)
+My noble friend describes a disturbing situation. The independent regulator, Ofcom, has made it quite clear that if an AI service searches the live internet and returns results, it will be regulated under the Online Safety Act as a search service. Ofcom can take robust enforcement action, including issuing fines of up to £18 million or 10% of qualifying worldwide revenue, whichever is higher.
+
+Baroness Monckton of Dallington Forest (Con)
+My Lords, I declare my interest as chair of Team Domenica. The people who most need safeguarding from these AI chatbots are those with learning disabilities. In Brighton and Hove, we work closely with the police, who train our candidates how to be safe online. Will the Minister consider special training for police and social workers to protect this highly vulnerable and suggestible cohort?
+
+Baroness Merron (Lab)
+I understand the need for training, as the noble Baroness rightly outlines, but I would emphasise that AI chatbots are in scope of the Act, as I mentioned just now to my noble friend. What matters is the fact that they actually search the live internet. The point the noble Baroness raises is very important, and it is also about literacy in terms of using the internet, equipping individuals to try to stay safe, and safeguarding those who are more vulnerable, as she describes; training is certainly part of that.
+
+Baroness Deech (CB)
+My Lords, I have consulted ChatGPT on this. It calls me “dear Ruth”, and it says that when people write to it about suicide, it responds with empathy and compassion. It does not encourage suicide, and it sends a guide to human support. I do not want to make light of this or condemn it outright. On the contrary, there may be something to be said, certainly at a light level, for unhappy people consulting ChatGPT. I do not want to discourage or limit freedom of speech any further than it is already limited. There may be some help for people in ChatGPT.
+
+Baroness Merron (Lab)
+The noble Baroness makes a helpful challenge about how to regard AI services. Generative AI can indeed offer opportunities to enhance mental health support, and the National Health Service is looking at how we can, particularly through the NHS app, assist and support people. But such technologies must not replace trained professionals, including in crisis situations. It is about getting the right support, at the right place, at the right time—that is a delicate balance, but we should use AI for its great benefits.
+
+Lord Scriven (LD)
+My Lords, following on from the previous question and drawing on international best practice, will the Government look at what they can do to mandate that all general-purpose AI providers implement a prominent, context-sensitive hard stop and clear immediate signposting to UK mental health services when a user’s input suggests a high-risk mental health keyword or suicidal intent?
+
+Baroness Merron (Lab)
+The noble Lord makes a very useful suggestion, and I will certainly raise that with my ministerial colleague at DSIT. I note that companies—admittedly, they are doing this when under pressure—are looking at introducing, for example, age assurance functionalities to ensure that users get the right experience for their age. But we should not be leaving that to chance, and we should not be leaving that to the fact that this is arising following legal challenge. I certainly look forward to looking into the point the noble Lord makes.
+
+Baroness Chakrabarti (Lab)
+My Lords, is there an analogy with drugs here—a potent technology which has great and positive uses in healthcare, but that can also be abused? Therefore, it must be properly regulated. Some uses must not be allowed without prior approval; some should be banned.
+
+Baroness Merron (Lab)
+My noble friend is right that this can be used for good or for ill. Of course, there are other comparisons to draw. My noble friend has not said this, but I want to make sure we keep away from the idea that AI services are escaping regulation. Many AI chatbots are certainly in scope of the Act. I also take the view that AI can actually assist us greatly in supporting those at risk and in improving health. We seek to harness that as we move from analogue to digital, as per our 10-year plan.
+
+Lord Kamall (Con)
+My Lords, I thank the noble Baroness, Lady Berger, for bringing up this issue and for making noble Lords aware of it. With evidence that people with mental health issues are increasingly turning to AI chatbots rather than to health providers, and rather than simply relying on the stick of the Online Safety Act, can the Minister explain what conversations her department, perhaps in conjunction with DSIT, is having with AI companies and with UKAI, the trade body, so they can come together to find a solution for safeguarding? As the noble Lord, Lord Scriven, and the noble Baroness, Lady Deech, have said, perhaps they could suggest how to deal with individuals in distress who go to these chatbots, to make sure they are signposted to appropriate services, rather than offered content that encourages them to take their own life.
+
+Baroness Merron (Lab)
+I certainly agree that this is the way we need to go, and discussions happen regularly with companies, as the noble Lord says. It is probably also worth saying that we have already seen some early signs of improvement in terms of protection for users from online harms, and over 6,000 services are implementing what we would regard as highly effective age assurance, which brings protection to millions of children. Of course, DSIT is monitoring and evaluating the Online Safety Act. Where evidence shows that further intervention is needed to protect children, we will not hesitate to act.
+
+Baroness Finlay of Llandaff (CB)
+My Lords, digital mental health technologies with clinical purposes are classified by MHRA as medical devices. Therefore, what action can the Government take, working with MHRA and Ofcom, to ensure that these chatbots actually promote suicide prevention policies and do not act as suicide promotion sites?
+
+Baroness Merron (Lab)
+The first thing is to ensure the application of the Online Safety Act, and we look to Ofcom in that regard. We will increase access to evidence-based digital interventions, to help patients access treatment in a variety of ways but also potentially to reduce unnecessary GP appointments and A&E attendances, as well as assisting people who are waiting for treatment to wait well.
+
+Baroness Smith of Llanfaes (PC)
+My Lords, is there not a wider lesson here that many young people are turning to ChatGPT instead of calling their GP for health advice? Have the Government reviewed how they communicate different health information, particularly to the younger generation? Are they talking to the younger generation through the channels that they are using?
+
+Baroness Merron (Lab)
+Sadly, I cannot say I am young myself, so I cannot testify to this, but the answer to that is yes, the department does that. I refer to the point that the noble Baroness has emphasised: over a third of five to seven year-olds are using social media in 2025, and that proportion rises as young children get older. We ignore this at our peril. I assure the noble Baroness that the Online Safety Act is providing support, as are the digital interventions that we are providing through the NHS, in particular, the improved NHS app.

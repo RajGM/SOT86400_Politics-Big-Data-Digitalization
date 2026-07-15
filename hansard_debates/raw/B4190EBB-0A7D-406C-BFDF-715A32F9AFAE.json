@@ -1,0 +1,101 @@
+{
+  "Overview": {
+    "Id": 4377053,
+    "ExtId": "B4190EBB-0A7D-406C-BFDF-715A32F9AFAE",
+    "Title": "Automated Facial Recognition Technology (Moratorium and Review) Bill [HL]",
+    "HRSTag": "NewDebate",
+    "Date": "2020-02-04T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 3,
+    "VolumeNo": 801,
+    "ContentLastUpdated": "2022-08-09T13:42:02.297",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "EC07C875-6033-4624-B43E-E76CE66D5BC5",
+    "NextDebateTitle": "Unaccompanied Asylum Seeking Children (Legal Advice and Appeals) Bill [HL]",
+    "PreviousDebateExtId": "37E39804-D2EE-4923-9B05-B70067164DB2",
+    "PreviousDebateTitle": "East Africa: Locusts"
+  },
+  "Navigator": [
+    {
+      "Id": 4377047,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "2f2bc6e4-1c18-4f4a-bb0a-8d640ccae205",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4377053,
+      "Title": "Automated Facial Recognition Technology (Moratorium and Review) Bill [HL]",
+      "ParentId": 4377047,
+      "SortOrder": 7,
+      "ExternalId": "B4190EBB-0A7D-406C-BFDF-715A32F9AFAE",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AG-AH",
+      "Timecode": "2020-02-04T15:06:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34916731,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "First Reading",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "7d6adb0a-d74d-4908-bfda-cf0dd2781365",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AG-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 2359802,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:06:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AG-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34916732,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "A Bill to prohibit the use of automated facial recognition technology in public places and to provide for a review of its use.",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "20020450000335",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AG-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 34916733,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "The Bill was introduced by Lord Clement-Jones, read a first time and ordered to be printed.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "20020450000336",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AG-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

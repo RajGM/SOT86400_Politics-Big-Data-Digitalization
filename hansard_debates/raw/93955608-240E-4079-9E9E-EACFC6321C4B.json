@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4812485,
+    "ExtId": "93955608-240E-4079-9E9E-EACFC6321C4B",
+    "Title": "Public Authority Algorithmic and Automated Decision-Making  Systems Bill [HL]",
+    "HRSTag": "NewDebate",
+    "Date": "2025-01-20T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 842,
+    "ContentLastUpdated": "2025-01-21T02:14:46.673",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "84E7ACDE-41A3-4E59-8058-6EF17A4AB011",
+    "NextDebateTitle": "Child Sexual Exploitation and Abuse",
+    "PreviousDebateExtId": "3B985FEF-8DB9-4B08-8146-61015A7501F6",
+    "PreviousDebateTitle": "Non-Consensual Sexually Explicit Images and Videos (Offences) Bill [HL]"
+  },
+  "Navigator": [
+    {
+      "Id": 4812474,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "d34e3315-a359-4cce-9da1-005c8b862a9b",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4812485,
+      "Title": "Public Authority Algorithmic and Automated Decision-Making  Systems Bill [HL]",
+      "ParentId": 4812474,
+      "SortOrder": 12,
+      "ExternalId": "93955608-240E-4079-9E9E-EACFC6321C4B",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AM2-AN",
+      "Timecode": "2025-01-20T15:33:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41947309,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Order of Commitment",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "e0c49bc8-d66c-42b4-80c2-7fa2e4df6982",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 3052629,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:33:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41947310,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Moved by",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41947311,
+      "MemberId": 3396,
+      "AttributedTo": "Lord Clement-Jones",
+      "Value": "That the order of commitment be discharged.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "87E1AC90-5191-4868-9BC1-38330EE189E2",
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 41947312,
+      "MemberId": 3396,
+      "AttributedTo": "Lord Clement-Jones (LD)",
+      "Value": "My Lords, I understand that no amendments have been set down to this Bill and that no noble Lord has indicated a wish to move a manuscript amendment or to speak in Committee. Unless, therefore, any noble Lord objects, I beg to move that the order of commitment be discharged.\r\n\r\n<em>Motion agreed.</em>",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "A9C0B6D1-980F-4454-B76A-FBB3925D4641",
+      "HRSTag": "hs_para",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

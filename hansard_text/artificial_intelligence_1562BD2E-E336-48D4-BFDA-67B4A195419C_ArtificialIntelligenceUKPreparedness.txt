@@ -1,0 +1,65 @@
+ Artificial Intelligence: UK Preparedness
+
+Question
+
+11:29:00
+
+Asked by
+
+Lord Pitkeathley of Camden Town
+To ask His Majesty’s Government what plans they have to ensure that the UK is adequately prepared for the risks and opportunities presented by rapidly advancing artificial intelligence.
+
+Lord in Waiting/Government Whip (Lord Leong) (Lab)
+My Lords, the Government’s AI Opportunities Action Plan sets out how we will harness AI opportunities by measures including expanding our domestic compute infrastructure, backing UK start-ups and investing in skills. We have established the AI Security Institute to deepen our understanding of frontier AI risks and are already taking actions on emerging issues, including those linked to AI chatbots. As recent developments have shown, we will back our regulators to act decisively when required.
+
+Lord Pitkeathley of Camden Town (Lab)
+My Lords, I thank my noble friend the Minister for that reply and acknowledge the long-standing work of many noble Lords on this issue. Given the pace of AI development and the risks highlighted by analyses such as AI 2027, can my noble friend outline how the Government are preparing the UK and engaging with international partners for what lies ahead and whether, in the absence of a specialist AI committee this year, there is scope to strengthen cross-departmental collaboration within this House?
+
+Lord Leong (Lab)
+My Lords, the AI Security Institute conducts research, builds tools to understand and mitigate frontier AI risks, and works with like-minded partners through the International Network for Advanced AI Measurement, Evaluation and Science to advance the science of AI evaluations. We will continue to update this House with our latest initiatives to ensure that the UK understands and, where necessary, mitigates the impacts of advanced AI systems.
+
+Lord Howell of Guildford (Con)
+My Lords, does the Minister agree that AI systems are proliferating rapidly and may compete rather than co-operate, and that this degree of self-correction is perhaps one of the areas that we should encourage to stand in the way of the undoubted spreading power of the AI system generally?
+
+Lord Leong (Lab)
+My Lords, artificial intelligence is the primary driver of productivity across the economy, from life sciences to the creative industries. We are accelerating adoption by providing businesses of all sizes with access to essential skills, data and compute. I understand the noble Lord’s point about the power of AI. We are ensuring that the AI Security Institute does all the necessary tests to ensure safety before any products are rolled out.
+
+Lord Stirrup (CB)
+My Lords, the United States and China, among others, are working at pace to leverage AI in military capability. Meanwhile, in this country, high-technology companies are in despair at the lack of progress towards the kind of innovative capabilities set out in the Government’s own strategic defence review. Is this another manifestation of the defence procurement valley of death, where good ideas go to die?
+
+Lord Leong (Lab)
+The noble and gallant Lord is absolutely right. That is why, last year, the Government set up the Sovereign AI Unit to strengthen the UK’s domestic AI capability and ensure that British firms can compete and lead globally. We supported it with £500 million. It backs high-potential UK start-ups and scale-ups, helping them to become national AI champions in strategically important sectors. Its sole purpose is to secure the UK’s ability to access, shape and, where necessary, control critical AI capabilities, protecting national interests, enhancing resilience and driving long-term economic growth.
+
+Baroness Ritchie of Downpatrick (Lab)
+My Lords, given the Government’s promise to consult and legislate on artificial general intelligence and superintelligence, which experts warn could lead to the extinction of humans, what indication can my noble friend the Minister give us of a timetable for such legislation in the forthcoming parliamentary Session?
+
+Lord Leong (Lab)
+The Government are adopting a proportionate, context-based approach to regulation. By empowering existing regulators to apply cross-cutting principles such as safety, fairness and transparency, we ensure that oversight is tailored to specific sectoral risks rather than a one-size-fits-all model. This framework improves innovation while maintaining credible and forcible safeguards. We remain in constant dialogue with industry and civil society to ensure a regulatory regime evolves in lockstep with technological advancement.
+
+Earl Russell (LD)
+My Lords, the director-general of MI5 recently publicly warned that it would be reckless to ignore AI’s ability to implement harm, particularly from autonomous systems that are free of human oversight. Anthropic recently detected the first documented large-scale cyber espionage campaign using agentic AI. Given that we are entering an era when AI systems change tasks together and make decisions with minimal human input, what specific mechanisms are the Government establishing to maintain meaningful human control over increasingly autonomous AI systems, before we effectively lose the ability to do so?
+
+Lord Leong (Lab)
+The noble Earl makes an interesting point. Progress has never been risk-free. Every major leap forward has come with doubts, critics and problems to solve. If it had not, we would never have heard,
+
+“one small step for man, one giant leap for mankind”,
+
+and Henry Ford would not have been making cars. With that same spirit, we are investing £500 million in our sovereign AI capabilities. It is why we are creating AI growth labs and growth zones. These are places where the private sector can invest, experiment, scale and turn ideas into real products. The facts are on our side. We are the third-largest destination for AI investment in the world, behind the US and China. We have world-class talent, ambitious companies and a drive to lead.
+
+Lord Markham (Con)
+My Lords, maximising the opportunities from AI while managing the risks rests on three pillars: compute power, skills and regulation. However, in each case, the government pace of delivery is being overtaken by the speed of technology change. Attempts to increase compute and energy centres are being held up by the planning system. The Government’s framework for AI and the national curriculum are still in the planning stage, and regulators are constantly playing catch-up with AI. It is clear that traditional methods of governance cannot keep pace with the speed of AI. What plans do the Government have to change this?
+
+Lord Leong (Lab)
+The noble Lord is right to draw attention to this matter, on which he has been a long-time thoughtful voice. All I can say is that we are investing in this sector. We have put aside £500 million to develop our sovereign AI capabilities. We are going to establish AI growth zones and AI growth labs, where companies can invest, scale and test products before rollout. We are doing a lot more and, at the same time, are leading internationally in ensuring that the safeguards are there so that the products that are rolled out are safe for everybody.
+
+Lord McNicol of West Kilbride (Lab)
+My Lords, I want to agree with one of my noble friend the Minister’s previous answers about opportunity. Yes, there are risks, but the UK is best placed to seize the opportunities that will come forward and the developments that will happen with AI. AI is not going to be put back in a box. How do we as a country seize those opportunities and support our SMEs, which are developing many new products that will deliver on productivity, to get the best of growth for the UK? How do we continue to support those companies that are already leading the way on that?
+
+Lord Leong (Lab)
+My noble friend is spot-on. Small and medium-sized enterprises are vital to AI-driven growth. The Government are supporting SMEs through targeted innovation funding and access to test-based and digital adoption programmes, alongside partnerships with research institutions. By lowering barriers to experimentation, we enable smaller firms to enhance productivity and compete more effectively. This ensures that the economic benefits of AI are shared right across the United Kingdom, fostering a diverse and resilient digital economy throughout the United Kingdom.
+
+Lord Walney (CB)
+My Lords, with that in mind, will the Government think very carefully about regulating social media, as is a big concern for the Government and the House at the moment? Will they acknowledge the danger of setting up a system which could lock out innovation from precisely those smaller companies in favour of the giants in the States which can find their way through the regulatory system and get the exemptions that are being talked about in this House?
+
+Lord Leong (Lab)
+The noble Lord highlights a couple of issues. I mentioned earlier that we are investing to develop our own sovereign AI capability. We are setting up investment zones across the country, working with UK-based companies to scale up. As the noble Lord will know, AI has different stacks—the infrastructure layer, the data layer and the model layer. We must work with each level and steer the course between extremes. We must ensure that AI becomes an engine of national renewal, rather than the author of our own demise.

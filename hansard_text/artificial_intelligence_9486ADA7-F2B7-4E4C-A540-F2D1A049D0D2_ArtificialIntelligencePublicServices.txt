@@ -1,0 +1,65 @@
+ Artificial Intelligence: Public Services
+
+Question
+
+14:58:00
+
+Asked by
+
+Lord Brooke of Alverthorpe
+To ask His Majesty’s Government what plans they have to use artificial intelligence to improve public services.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+Public services are of course central to the AI Opportunities Action Plan, which outlines how we will improve these services to drive growth. We have announced £42 million for three frontier AI exemplars, driving departments to use AI to boost productivity and citizen experience. We are adopting a flexible “scan, pilot, scale” approach to AI adoption in public services and, just this week, the NHS published guidance on ambient voice technologies, which can transcribe patient-clinician conversations and more.
+
+Lord Brooke of Alverthorpe (Lab)
+My Lords, I am grateful to my noble friend the Minister for his reply. Could we bring this a little nearer to home? Perhaps he might say what we can do, if there is the need for it, to improve our performance and the efficiency and effectiveness of both Houses of Parliament. If so, what plans do we have to seek those objectives?
+
+Lord Vallance of Balham (Lab)
+I thank the noble Lord. It is in the Government’s interest to help here as much as we can. However, as the noble Lord will know, that is a parliamentary accountability, not a government one. The Parliamentary Digital Service has issued guidance for Members and their staff on the use of AI, which is going to be updated regularly as required—and, of course, as the understanding around AI improves. Seminars on how to use generative AI effectively are available to all Members and their staff, and the Parliamentary Digital Service is looking at opportunities to apply AI safely to support the work of Members in both Houses.
+
+Baroness Coussins (CB)
+My Lords, does the Minister agree that caution is needed if public services, in an attempt to be inclusive but also to save money, convey information in languages other than English that has been produced by machine translation? That works pretty well for standard Romance languages and for German, but it is much less effective for languages with many dialects, such as Arabic, and it is currently virtually useless for Asian or African languages because they have not been used in AI training data. Is all this being fed into emerging AI policy and prospective regulation?
+
+Lord Vallance of Balham (Lab)
+I thank the noble Baroness. This is an incredibly important point. As the noble Baroness rightly says, the AI training datasets are often not on the right things, and this is an example where there is a need for training of models in different languages and dialects. It will be very important as part of public service improvements. I thank the noble Baroness for raising this issue—and yes, it is something that is being looked at.
+
+Lord Kirkhope of Harrogate (Con)
+This Parliament and our Governments have a chequered history of procurement of software to be used in various government departments. Can the Minister kindly confirm that we will be more rigorous whenever we are procuring services to assist us in the deployment of AI in the public service?
+
+Lord Vallance of Balham (Lab)
+As I mentioned, there are three AI exemplars being used at the moment. They are: future customer experience; citizen AI agents —so starting with an AI agent to help young people to find a job or an education pathway; and the government efficiency accelerator. In all these examples, procurement is exactly one of the things that needs to be looked at. I have mentioned previously in this House that AI assurance services are part of this as well. The point raised, which is that it is easy to get the wrong thing, is right, and we need to look very carefully at this.
+
+Lord Clement-Jones (LD)
+Back in January, the Blueprint for Modern Digital Government stated the intention to establish
+
+“an AI adoption unit to build and deploy AI into public services, growing AI capacity and capability across government, and building trust, responsibility and accountability into all we do”.
+
+How will this new AI adoption unit ensure that ethical principles, safety standards and human rights considerations are embedded from the very beginning of the AI adoption process throughout the public sector rather than being treated as a secondary concern after deployment?
+
+Lord Vallance of Balham (Lab)
+The deployment of AI has started, as the noble Lord recognised, and I have given the three headline exemplars—and others are being put in through the incubator for AI that sits within DSIT. He raises a crucial point, and that is why the responsible AI advisory panel is being set up, which will include civil society, industry and academia to make sure that this is looked at properly. An ethics unit is already looking at this, and there are many diverse groups across government. What the Government Digital Service is trying to do is to pull it together into something more coherent, of which I think the responsible AI advisory panel is an important part.
+
+Baroness Chakrabarti (Lab)
+My Lords, a slogan from the early days of computing is, “Rubbish in, rubbish out”. Biased historic training data can bake discrimination and historic bias into the system, whether on stop and search, which we have discussed, or whether on insurability or employability, and so on. To flip my noble friend’s very positive and commendable Question, what are the Government going to do to ensure that there are safeguards to ensure that historic bias is not baked into the system?
+
+Lord Vallance of Balham (Lab)
+Once again, that is a very important question. The noble Baroness is absolutely right. It is as true for AI as it is for other systems: rubbish in, rubbish out. Well-curated, properly understood datasets are crucial. It is one of the reasons that where there are well-documented, well-curated datasets that can be used to train models for government purposes, we will be pursuing those. We will use the AI assurance mechanism that I discussed previously to try to make sure that we identify where there are systems that carry risks such as the one the noble Baroness raises.
+
+Baroness Bull (CB)
+My Lords, the Minister will know that the US and China are currently responsible for the 80% of the world’s largest AI models. Does he agree that in an increasingly unstable geopolitical environment, and with clear evidence of diversions on values, Europe’s dependency could quickly become a vulnerability, in terms of not just public services but the upholding of our democratic values? Given that the EU and UK have complementary strengths and values in common, will he persuade the Government to pursue, with the EU, a shared attempt to close the competitive gap? Might this be on the agenda at the EU-UK summit in May, given that the trade and co-operation agreement is totally silent on AI?
+
+Lord Vallance of Balham (Lab)
+We are working closely with our friends in Europe on AI, both at the safety and security level through the AI Security Institute and more broadly. We have a bilateral meeting with France coming up in July, where this will be discussed. There is a need for all of us to think about which models we want to rely on and become dependent on and, indeed, where models can be made that are not general-purpose, wide, generative models but narrower models that can answer the questions we need to answer. Not everything comes down to broad, generative AI.
+
+Viscount Camrose (Con)
+My Lords, the Government’s plan to drive tens of billions in productivity savings in the public sector with AI is, of course, welcome. But does the Minister agree that any success here will depend on the effective measurement and reporting of progress? If so, what can he tell us today about how progress is going to be measured and what progress has been made so far?
+
+Lord Vallance of Balham (Lab)
+As the noble Viscount, Lord Camrose, rightly suggests, between 4% and 7% of public sector spend could be reduced with a mix of digitalisation and AI. Both those things become important; it is not all AI, a lot of it is digital change. I have indicated the exemplars that are being piloted at the moment, both at a cross-government level and the ones being led out of DSIT as part of the incubator for AI. These are being assessed and evaluated. For example, programmes that look at the responses—sometimes tens of thousands—to consultations are being evaluated not only for the answers they give but for the time that might be saved by using them. So a series of metrics will be developed to understand the impact of these measures.
+
+Lord Brennan of Canton (Lab)
+My Lords, the Government are to be congratulated on seizing the opportunity that AI presents to improve our public services; it is a great example of how it can be a great servant to humanity. Is the Minister aware, though, of concerns in the creative industries about it becoming a master rather than a servant of human activity? What measures are the Government taking to ensure that those concerns are met?
+
+Lord Vallance of Balham (Lab)
+Like almost every technology that has been introduced, this can do good and harm. The noble Lord is quite right to raise the question of where it is going to cause more harm and, indeed, where it does something that is not in the interest of the community. That is something that is being looked at; it is one of the reasons that the AI Security Institute was set up—to try to understand what these models will do and where we need to have particular concern for risks. He is also right that one of the aims that should be there for any AI is to free up time for humans to do the things that only humans can do. It is a very important principle, whether for application in the NHS or across the public sector.

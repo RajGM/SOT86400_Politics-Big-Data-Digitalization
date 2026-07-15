@@ -1,0 +1,129 @@
+{
+  "Overview": {
+    "Id": 4675146,
+    "ExtId": "F64DEE94-D7AA-4D2C-BD99-F4EED4BAFC58",
+    "Title": "Artificial Intelligence (Regulation) Bill [HL]",
+    "HRSTag": "NewDebate",
+    "Date": "2024-04-24T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 837,
+    "ContentLastUpdated": "2024-04-26T14:06:47.187",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "968AE967-1663-47A4-9DA4-7D9ECD348CCA",
+    "NextDebateTitle": "Infected Blood Inquiry",
+    "PreviousDebateExtId": "7AFAA8DA-DAC5-447A-A388-C926BDC807E8",
+    "PreviousDebateTitle": "BBC World Service: Finances"
+  },
+  "Navigator": [
+    {
+      "Id": 4675139,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "acf4697d-b8bd-4a6d-8532-5d15f99a0da8",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4675146,
+      "Title": "Artificial Intelligence (Regulation) Bill [HL]",
+      "ParentId": 4675139,
+      "SortOrder": 8,
+      "ExternalId": "F64DEE94-D7AA-4D2C-BD99-F4EED4BAFC58",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AH2-AK",
+      "Timecode": "2024-04-24T15:42:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39758299,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Order of Commitment",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "2df54735-ba5b-400f-9f80-62bf8898f934",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 2816375,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:42:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39758300,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Moved by",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39758301,
+      "MemberId": 4294,
+      "AttributedTo": "Lord Holmes of Richmond",
+      "Value": "That the order of commitment be discharged.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "B0640A7D-861F-4C5F-861E-C2069CCECDCA",
+      "HRSTag": "hs_TabledBy",
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39758302,
+      "MemberId": 4294,
+      "AttributedTo": "Lord Holmes of Richmond (Con)",
+      "Value": "My Lords, I understand that no amendments have been set down to this Bill and that no noble Lord has indicated a wish to move a manuscript amendment or to speak in Committee. Unless, therefore, any noble Lord objects, I beg to move that order of commitment be discharged.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "68171B50-C746-4F22-B85E-0DB538C1E475",
+      "HRSTag": "hs_para",
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 39758303,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "Motion agreed.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "24042440000081",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AH2-AK",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

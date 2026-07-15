@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 4842915,
+    "ExtId": "BC59306B-5194-4904-A399-AE88DA5A8E5F",
+    "Title": "Artificial Intelligence: Research and Development",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-01-27T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 761,
+    "ContentLastUpdated": "2025-02-18T14:36:26.71",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "BA4914CE-4E07-4488-9929-A3BD2A59883C",
+    "NextDebateTitle": "Clinical Academics",
+    "PreviousDebateExtId": "221A1756-3DD8-44B8-996B-10313CA88423",
+    "PreviousDebateTitle": "Reading in Schools"
+  },
+  "Navigator": [
+    {
+      "Id": 4842906,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "df7338b5-2432-4049-b2c4-67178429d06d",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4842910,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4842906,
+      "SortOrder": 5,
+      "ExternalId": "BE8F1B07-1E28-4C5F-8188-EE48412A6E78",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4842911,
+      "Title": "Education",
+      "ParentId": 4842910,
+      "SortOrder": 6,
+      "ExternalId": "06CD86D7-8886-4772-9454-EC290F46BD2E",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4842915,
+      "Title": "Artificial Intelligence: Research and Development",
+      "ParentId": 4842911,
+      "SortOrder": 10,
+      "ExternalId": "BC59306B-5194-4904-A399-AE88DA5A8E5F",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42469787,
+      "MemberId": 4634,
+      "AttributedTo": "Christine Jardine (Edinburgh West) (LD)",
+      "Value": "<Question HRSContentId=\"{985CCB47-FC6F-411A-B123-D84B70FB6177}\">4. <QuestionText HRSContentId=\"{7BC053FA-7052-40F0-A477-F6B31820D10B}\">What discussions she has had with Cabinet colleagues on support for artificial intelligence research and development in the higher education sector.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "985CCB47-FC6F-411A-B123-D84B70FB6177",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "902380",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42469788,
+      "MemberId": 4046,
+      "AttributedTo": "The Secretary of State for Education (Bridget Phillipson)",
+      "Value": "The Labour Government are at the forefront of change and, as I said to the Bett conference last week, we are determined to ensure that\r\n\r\n“AI will be a positive, radical, modernising force for good in the lives of working people.”\r\n\r\nThe Department for Education is a member of the AI working group collaborating across Government to share thinking and expertise as we develop future policy.",
+      "OrderInSection": 2,
+      "Timecode": "2025-01-27T14:45:46",
+      "ExternalId": "EFC9C3BE-9BB5-4363-90CA-F7E0CA6DBC9F",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42469789,
+      "MemberId": 4634,
+      "AttributedTo": "Christine Jardine",
+      "Value": "Many of my constituents and local academics have expressed concern about the cancellation last year, by this Government, of what would have been the UK’s only exascale computer, at Edinburgh University. <span id=\"6\" class=\"column-number\" data-column-number=\"6\"></span>That was not mentioned at all in the AI opportunities action plan. It would have been a major beneficial development in this sector. What discussions is the Secretary of State having with Cabinet colleagues to ensure that this takes place, and can she reassure the public that the benefits of AI will be spread to universities across the UK?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "AF67D283-86D8-417B-989D-D029701ED216",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 42469790,
+      "MemberId": 4046,
+      "AttributedTo": "Bridget Phillipson",
+      "Value": "I appreciate the hon. Lady’s interest in this area. She will know that the proposed exascale supercomputer is one programme that the Government are considering. We are currently assessing the best way to take this forward. The previous programme was announced under the last Government, for which full funding was not allocated. We are committed to developing a strategy setting out a 10-year plan for our country’s needs. That plan will be published in the coming months alongside the spending review, but I will ensure that officials in the Department for Science, Innovation and Technology pick up her concern and that she receives a full response.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "29597F81-489B-483E-BEBD-676EA01D2854",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

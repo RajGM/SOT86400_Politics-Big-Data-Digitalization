@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4717940,
+    "ExtId": "989D68B2-4CEF-4591-A0C0-B21B3D6F6700",
+    "Title": "Artificial Intelligence: Government",
+    "HRSTag": "hs_8Question",
+    "Date": "2024-05-23T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 750,
+    "ContentLastUpdated": "2024-09-12T17:08:27.287",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "B31DF9AA-73B6-400F-9D4E-3AA32684384B",
+    "NextDebateTitle": "NHS Procurement",
+    "PreviousDebateExtId": "FEA8193B-6FC3-4164-88BF-255B829E1F62",
+    "PreviousDebateTitle": "Topical Questions"
+  },
+  "Navigator": [
+    {
+      "Id": 4717926,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "8025cce4-1183-44c4-be84-e773475aaf93",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4717930,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4717926,
+      "SortOrder": 5,
+      "ExternalId": "CB923951-6ACA-47D4-9B2A-2ED29773AA8A",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4717939,
+      "Title": "Public Accounts Commission",
+      "ParentId": 4717930,
+      "SortOrder": 14,
+      "ExternalId": "C67BD45C-7F30-423E-BA6B-D30E7E986573",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AJ-AL",
+      "Timecode": null
+    },
+    {
+      "Id": 4717940,
+      "Title": "Artificial Intelligence: Government",
+      "ParentId": 4717939,
+      "SortOrder": 15,
+      "ExternalId": "989D68B2-4CEF-4591-A0C0-B21B3D6F6700",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AJ-AL",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364991,
+      "MemberId": 1502,
+      "AttributedTo": "Mr David Jones (Clwyd West) (Con)",
+      "Value": "<Question HRSContentId=\"{A8497EBA-A1CE-4C19-8208-19DE460F87DC}\">1. <QuestionText HRSContentId=\"{9C1440A5-0FC4-46CE-AB03-E45CCE511151}\">If he will make an assessment of the adequacy of National Audit Office resources to scrutinise the cost of AI in Government.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "A8497EBA-A1CE-4C19-8208-19DE460F87DC",
+      "HRSTag": "Question",
+      "HansardSection": "AJ-AL",
+      "UIN": "902963",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364992,
+      "MemberId": 1451,
+      "AttributedTo": "Mr Richard Bacon (South Norfolk)",
+      "Value": "The National Audit Office does have adequate resources to scrutinise the cost of artificial intelligence and, indeed, produced a report in March that found that AI presents Government with significant opportunities to transform public services and that the Government have identified that artificial intelligence could deliver substantial productivity gains, potentially worth billions.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "3CCB857A-BC37-4871-A37B-B7AB70010AAF",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AJ-AL",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364993,
+      "MemberId": 1502,
+      "AttributedTo": "Mr Jones",
+      "Value": "My hon. Friend has identified the report in which I am interested. That report, as he rightly says, noted the importance of artificial intelligence in delivering transformational public services, but also noted a number of challenges. In the dying embers of this Parliament, would he be willing to leave a message for the next Chair of the Public Accounts Committee, urging that an inquiry be carried out into that report, as I believe its findings are of considerable importance?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "FECDACD7-4EFA-407A-B998-DA4F24E17DB1",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AJ-AL",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364994,
+      "MemberId": 1451,
+      "AttributedTo": "Mr Bacon",
+      "Value": "My right hon. Friend is absolutely right that it is an important subject, and the Public Accounts Committee was due to take oral evidence on it on 17 June. I will certainly draw his concerns to the attention of the new Chair of the Public Accounts Committee when I know who he or she is.",
+      "OrderInSection": 4,
+      "Timecode": "2024-05-23T10:15:36",
+      "ExternalId": "CD7E1C77-631F-4345-BA7D-7D354202639A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AJ-AL",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364995,
+      "MemberId": 4131,
+      "AttributedTo": "Jim Shannon (Strangford) (DUP)",
+      "Value": "I thank the hon. Gentleman for his response. This is a massive subject and will have to be scrutinised greatly in the next term of government. What assessment has been made of the potential negatives of AI within the defence industry and Government, and what steps will be taken to combat them?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "11906C79-BECD-44FB-B885-386FB18F8D8D",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AJ-AL",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40364996,
+      "MemberId": 1451,
+      "AttributedTo": "Mr Bacon",
+      "Value": "I think the short answer is that there is inadequate awareness inside Government—although there is some awareness—that there are potentially very large negatives with artificial intelligence. Indeed, one of the inventors of artificial intelligence has written a book on precisely that subject. I suspect that it is something the Government will continue to assess.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "259FD9C9-4AC1-4371-8497-67A62527D557",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AJ-AL",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

@@ -1,0 +1,121 @@
+{
+  "Overview": {
+    "Id": 5071481,
+    "ExtId": "5DB47F91-078B-4F3E-9EA0-335F60473F7A",
+    "Title": "Youth Services: Buckingham and Bletchley",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-11-27T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 776,
+    "ContentLastUpdated": "2025-12-09T16:36:27.45",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "7E2AA6C0-769F-49AF-9DD8-31B28A7F51ED",
+    "NextDebateTitle": "Future of TV Distribution",
+    "PreviousDebateExtId": "5D086159-34B8-4A6E-B381-CF2CCB936D78",
+    "PreviousDebateTitle": "Access to Arts and Culture"
+  },
+  "Navigator": [
+    {
+      "Id": 5071476,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "1ce6d083-c7b1-4432-a33c-48ee48a81685",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 5071478,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 5071476,
+      "SortOrder": 3,
+      "ExternalId": "BD0F2876-B352-4D3B-B88B-D8D88EF44B21",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5071479,
+      "Title": "Culture, Media and Sport",
+      "ParentId": 5071478,
+      "SortOrder": 4,
+      "ExternalId": "295A2EFF-52F6-4753-A410-6CEA9BA5318B",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 5071481,
+      "Title": "Youth Services: Buckingham and Bletchley",
+      "ParentId": 5071479,
+      "SortOrder": 6,
+      "ExternalId": "5DB47F91-078B-4F3E-9EA0-335F60473F7A",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46168021,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+      "Value": "<Question HRSContentId=\"{BEDBB200-877C-4BBC-991E-CE99CAD877FD}\">2. <QuestionText HRSContentId=\"{98C74C4F-A99A-498E-8C6C-45095D84E59A}\">What discussions she has had with Cabinet colleagues on funding for youth services in Buckingham and Bletchley constituency. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "BEDBB200-877C-4BBC-991E-CE99CAD877FD",
+      "HRSTag": "Question",
+      "HansardSection": "AA-AD",
+      "UIN": "906589",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46168022,
+      "MemberId": 4607,
+      "AttributedTo": "The Parliamentary Under-Secretary of State for Culture, Media and Sport (Stephanie Peacock)",
+      "Value": "We regularly engage with colleagues across Government on issues that affect young people, especially through the development of our national youth strategy. This year alone we are investing over £145 million to deliver projects that reflect young people’s priorities across our country.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "7E2298DD-0249-49F3-B068-1A2A566E8015",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46168023,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson",
+      "Value": "Bletchley youth centre has been a trusted hub for our town for over 60 years, supporting 400 young people in the town every week by providing affordable activities and outreach to prevent antisocial behaviour, but that service has been stretched due to years of underfunding by the previous Government. There is hope, however, with the new Labour Government and their youth strategy. Will the Minister set out what steps her Department is taking to ensure that Bletchley youth centre and others like it receive the support that they need to help our young people?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "85BE5BA4-AA1C-4247-A291-A14FECB61FB1",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 46168024,
+      "MemberId": 4607,
+      "AttributedTo": "Stephanie Peacock",
+      "Value": "Our national youth strategy focuses on rebuilding youth services so that young people have access to people who care, something to do and places to go. A key aspect of our forthcoming youth strategy will be to ensure that funding goes to grassroots organisations such as Bletchley youth centre, and I would be delighted to visit when my diary allows.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "76F1888C-E926-467B-AB61-9D645F97C98A",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AA-AD",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

@@ -1,0 +1,156 @@
+ AI Seoul Summit
+
+11:12:00
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Saqib Bhatti)
+With permission, Mr Deputy Speaker, I shall make a statement on the AI Seoul summit, which the Government co-hosted with the Republic of Korea earlier this week.
+
+The AI Seoul summit built on the legacy of the first AI safety summit, hosted by the UK at Bletchley Park in November 2023. At Bletchley, 28 countries and the European Union, representing the majority of the world’s population, signed the Bletchley declaration agreeing that, for the good of all, artificial intelligence should be designed, developed, deployed and used in a manner that is safe, human-centric, trustworthy and responsible. The same set of countries agreed to support the development of an international, independent and inclusive report to facilitate a shared science-based understanding of the risks associated with frontier AI.
+
+At the same time, the UK announced the launch of our AI Safety Institute, the world’s first Government-backed organisation dedicated to advanced AI safety for the public good. World leaders, together with the leaders of the foremost frontier AI companies, agreed to the principle that states have a role in testing the most advanced models.
+
+Since Bletchley, the UK has led by example with impressive progress on AI safety, both domestically and bilaterally. The AI Safety Institute has built up its capabilities for state-of-the-art safety testing. It has conducted its first pre-deployment testing for potential harmful capabilities on advanced AI systems, set out its approach to evaluations and published its first full results. That success is testament to the world-class technical talent that the institute has hired.
+
+Earlier this week, the Secretary of State announced the launch of an office in San Francisco that will broaden the institute’s technical expertise and cement its position as a global authority on AI safety. The Secretary of State also announced a landmark agreement with the United States earlier this year that will enable our institutes to work together seamlessly on AI safety. We have also announced high-level partnerships with France, Singapore and Canada.
+
+As AI continues to develop at an astonishing pace, we have redoubled our international efforts to make progress on AI safety. Earlier this week, just six months after the first AI safety summit, the Secretary of State was in the Republic of Korea for the AI Seoul summit, where the same countries came together again to build on the progress we made at Bletchley. Since the UK launched our AI Safety Institute six months ago, other countries have followed suit; the United States, Canada, Japan, Singapore, the Republic of Korea and the EU have all established state-backed organisations dedicated to frontier AI safety. On Tuesday, world leaders agreed to bring those institutes into a global network, showcasing the Bletchley effect in action. Coming together, the network will build “complementarity and interoperability” between their technical work and approaches to AI safety, to promote the safe, secure and trustworthy development of AI.
+
+As part of the network, participants will share information about models, and their limitations, capabilities and risk. Participants will also monitor and share information about specific AI harms and safety incidents, where they occur. Collaboration with overseas counterparts via the network will be fundamental to making sure that innovation in AI can continue, with safety, security and trust at its core.
+
+Tuesday’s meeting also marked an historic moment, as 16 leading companies signed the frontier AI safety commitments, pledging to improve AI safety and to refrain from releasing new models if the risks are too high. The companies signing the commitments are based right across the world, including in the US, the EU, China and the middle east. Unless they have already done so, leading AI developers will now publish safety frameworks on how they will measure the risks of their frontier AI models before the AI action summit, which is to be held in France in early 2025. The frameworks will outline when severe risks, unless adequately mitigated, would be “deemed intolerable” and what companies will do to ensure that thresholds are not surpassed. In the most extreme circumstances, the companies have also committed to
+
+“not develop or deploy a model or system at all”
+
+if mitigations cannot keep risks below the thresholds. To define those thresholds, companies will take input from trusted actors, including home Governments, as appropriate, before releasing them ahead of the AI action summit.
+
+On Wednesday, Ministers from more than 28 nations, the EU and the UN came together for further in depth discussions about AI safety, culminating in the agreement of the Seoul ministerial statement, in which countries agreed, for the first time, to develop shared risk thresholds for frontier AI development and deployment. Countries agreed to set thresholds for when model capabilities could pose “severe risks” without appropriate mitigations. This could include: helping malicious actors to acquire or use chemical or biological weapons; and AI’s potential ability to evade human oversight. That move marks an important first step as part of a wider push to develop global standards to address specific AI risks. As with the company commitments, countries agreed to develop proposals alongside AI companies, civil society and academia for discussion ahead of the AI action summit.
+
+In the statement, countries also pledged to boost international co-operation on the science of AI safety, by supporting future reports on AI risk. That follows the publication of the interim “International Scientific Report on the Safety of Advanced AI” last week. Launched at Bletchley, the report unites a diverse global team of AI experts, including an expert advisory panel from 30 leading AI nations from around the world, as well as representatives from the UN and the EU, to bring together the best existing scientific research on AI capabilities and risks. The report aims to give policymakers across the globe a single source of information to inform their approaches to AI safety. The report is fully independent, under its chair, Turing award winner, Yoshua Bengio, but Britain has played a critical role by providing the secretariat for the report, based in our AI Safety Institute. To pull together such a report in just six months is an extraordinary achievement for the international community; Intergovernmental Panel on Climate Change reports, for example, are released every five to seven years.
+
+Let me give the House a brief overview of the report’s findings. It recognises that advanced AI can be used to boost wellbeing, prosperity and new scientific breakthroughs, but notes that, as with all powerful technologies, current and future developments could cause harm. For example, malicious actors can use AI to spark large-scale disinformation campaigns, fraud and scams. Future advances in advanced AI could also pose wider risks, including labour market disruption and economic power imbalances and inequalities. The report also highlights that, although various methods exist for assessing the risk posed by advanced AI models, all have limitations. As is common with scientific syntheses, the report highlights a lack of universal agreement among AI experts on a range of topics, including the state of current AI capabilities and how these could evolve over time. The next iteration of the report will be published ahead of the AI action summit early next year.
+
+Concluding the AI Seoul summit, countries discussed the importance of supporting AI innovation and inclusivity, which were at the core of the summit’s agenda. We recognised the transformative benefits of AI for the public sector, and committed to supporting an environment which nurtures easy access to AI-related resources for SMEs, start-ups and academia. We also welcomed the potential of AI to provide significant advances to resolve the world’s great challenges, such as climate change, global health, and food and energy security.
+
+The Secretary of State and I are grateful for the dedication and leadership shown by the Republic of Korea in delivering a successful summit in Seoul, just six short months after the world came together in Bletchley Park. It was an important step forward but, just as at Bletchley, we are only just getting started. The rapid pace of AI development leaves us no time to rest on our laurels. We must match that speed with our own efforts if we are to grip the risks of this technology, and seize the limitless benefits it can bring to people in Britain and around the world.
+
+The UK stands ready to work with France to ensure that the AI action summit continues the legacy that we began in Bletchley Park, and continued in Seoul, because this is not an opportunity we can afford to miss. The potential upsides of AI are simply immense, but we cannot forget that this is the most complex technology humanity has ever produced. As the Secretary of State said in Seoul, it is our responsibility to ensure that human wisdom keeps pace with human knowledge.
+
+I commend the Secretary of State and the Prime Minister for all the work they have done on the issue, and I commend this statement to the House.
+
+Mr Deputy Speaker (Sir Roger Gale)
+I call the shadow Minister.
+
+11:21:00
+
+Sir Chris Bryant (Rhondda) (Lab)
+I am grateful to the Minister for advance sight of his statement.
+
+I hope this is in order, Mr Deputy Speaker, because I note that the Minister for Employment, the hon. Member for Bury St Edmunds (Jo Churchill) is on the Front Bench, and that she is not standing at the general election. I know she has been very cross with me on occasions over the past few years—she is probably still cross with me now. [Interruption.] As the Minister says, she is only human. On a personal note, as we have both been cancer sufferers—or survivors—and have both had more than one rodeo on that, it is sad that she is leaving. I am sure she will continue to fight for patients with cancer and on many other issues, and I pay tribute to her. It has been a delight to work with her over these years; I hope she will forgive me one day.
+
+The economic opportunities for our country through artificial intelligence are, of course, outstanding. With the right sense of mission and the right Government, we can make the most of this emerging technology to unlock transformative changes in our economy, our NHS and our public services. Let us just think of AI in medicine. It is a personal hope that it might soon be possible to have an AI app that can accurately assess whether a mole on somebody’s back, arm or leg—or the back of their head—is a potential skin cancer, such as melanoma. That could definitely save lives. We could say exactly the same about the diagnosis of brain injury, many other different kinds of cancer and many other parts of medicine There could be no more important issue to tackle, but I fear the Government have fluffed it again. Much as I like the Minister, his statement could have been written by ChatGPT.
+
+I have a series of questions. First, let me ask about the
+
+“shared risk thresholds for frontier AI development and deployment”,
+
+which the Minister says Governments will be developing. How will they be drawn up? What legal force will they have in the UK, particularly if there is to be no legislation, as still seems to be in the mind of the Government?
+
+Secondly, the Secretary of State hails the voluntary agreements from the summit as a success, but does that mean companies developing the most advanced AI are still marking their own homework, despite the potential risks?
+
+Thirdly, the Minister referred several times to “malicious actors”. Which “malicious actors” is he referring to? Does that include state actors? If so, how is that work integrated with the cyber-security strategy for the UK? How will that be integrated with the cyber-security strategy during the general election campaign?
+
+Fourthly, the Government’s own artificial intelligence adviser, Professor Yoshua Bengio, to whom the Minister referred, has said that it is obvious that more regulatory measures will be needed, by which he means regulations or legislation of some kind. Why, therefore, have the Government not even taken the steps that the United States has taken using President Biden’s Executive order?
+
+Next, have the commitments made six months ago at the UK safety summit been kept, or are these voluntary agreements just empty words? Moreover, have the frontier AI companies, which took part in the Bletchley summit, shared their models with the AI Safety Institute before deploying them, as the Prime Minister pledged they would?
+
+Next, the Government press release stated that China participated in person at the AI Seoul summit, so can the Minister just clear up whether it signed the ministerial statement? As the shadow Minister for creative industries, may I ask why there were no representatives of the creative industries at the AI summit? Why none at all, despite the fact that this is a £127 billion industry in the UK, and that many people in the creative industries are very concerned about the possibilities, the threats, the dangers and the risks associated with AI for remuneration of creators?
+
+The code of practice working group, which the Government set up and which was aiming at an entirely voluntary code of conduct, has collapsed, so what is the plan now? The Government originally said that they would still consider legislation, so is that still in their mind?
+
+I love this next phrase of the Minister’s. He said, “We are only just getting started”. Clearly, somebody did not do any editing. What on earth has taken the Government so long? A Labour Government would introduce binding regulation of the most powerful frontier AI companies, requiring them to report before they train models over a capability threshold, to conduct safety testing and evaluation and to maintain strong information security protections. Why have the Government not brought forward any of those measures, despite very strong advice from all of their advisers to do so?
+
+Finally, does the Minister agree that artificial intelligence is there for humanity, and humanity is not there for artificial intelligence?
+
+Saqib Bhatti
+I share the sentiments that the hon. Gentleman expressed about my hon. Friend the Member for Bury St Edmunds (Jo Churchill). It was a very sweet thing that he said—the only sweet thing he has said from the Dispatch Box. My hon. Friend has been a great friend to me, giving me advice when I became a new father. Many people do not see the hard work that goes into the pastoral care that happens here, so I am personally very grateful to her. I know that she was just about to leave the Chamber, so I will let her do so. I just wanted to place on record my thanks and gratitude to her.
+
+I am a bit disappointed with the hon. Member for Rhondda (Sir Chris Bryant), although I have a lot of time for him. Let me first address the important matter of healthcare. We obviously hugely focus on AI safety; we have taken a world-leading position on AI safety, which is what the Bletchley and the Seoul declarations were all about.
+
+Ultimately, the hon. Member’s final statement about AI being for humanity is absolutely right. We will continue to work at pace to help build trust in AI, because it can be a transformative tool in a number of different spheres—whether it is in the public sector or in health, as the hon. Member quite rightly pointed out. On a personal note, I hope that, as a cancer survivor he has the very best of health for a long time to come.
+
+Earlier this week, the Prime Minister spoke about how AI can help in the way that breast cancer scans are looked at. I often talk about Brainomix, which has been greatly helpful to 37 NHS trusts in the early identification of strokes. That means that three times more people are now living independently than was previously possible. AI can also be used in other critical pathways. Clearly, AI will be hugely important in the field of radiotherapy. The National Institute for Health and Care Excellence has already recommended that AI technologies are used in the NHS to help with the contouring of CT and MRI scans and to plan radiotherapy treatment and external therapy for patients.
+
+The NHS AI Lab was set up in 2020 to accelerate the development and the deployment of safe, ethical and effective AI in healthcare. It is worth saying that the hon. Member should not underestimate the complexity of this issue .Earlier this year, I visited a start-up called Aival, which the Government helped to fund through Innovate UK. The success of the AI models varies depending on the different machines that are used and how they are calibrated, so independent verification of the AI models, and how they are employed in the health sector specifically, is very important.
+
+In terms of malicious actors, the hon. Member will understand that I cannot go into specific details for obvious reasons, but I assure him, as someone who sits on the defending democracy taskforce, led by the Security Minister, that we have been looking at pace at how to protect our elections. I am confident that we are prepared, having taken a cross-governmental approach, including with our agencies. It is hugely important that we ensure that people can have trust in our democratic process.
+
+The hon. Member is right that these are voluntary agreements. I was surprised by his response, because we said clearly in our response to the White Paper that we will keep the regulator-led approach, which we have invested money in. We have given £10 million to ensure that the regulator increases its capability in a whole sphere of areas. We have also said that we will not be afraid to legislate when the time is right. That is a key difference between what the Opposition talk about and what we are doing. Our plan is working, whereas the Opposition keep talking about legislating but cannot tell us what they would legislate for.
+
+Sir Chris Bryant
+We just told you. You should have listened.
+
+Saqib Bhatti
+There is no robust detail. I see that has exercised the hon. Member, who is chuntering from a sedentary position. The Opposition just have no serious plan for this.
+
+The results speak for themselves. Around two weeks ago, we had a number of significant investments and a significant amount of job creation in the UK, with investment from CoreWeave, and almost £2 billion—[Interruption.] Those on the Opposition Front Bench would do well to listen to this. We had £2 billion of investment. Scale AI has put its headquarters in the UK. That shows our world-leading position, which is exactly why we co-hosted the Seoul summit and will support the French when they have their AI action summit. It goes to show the huge difference in our approach. We see safety as an enabler of growth and innovation, and that is exactly what we are doing.
+
+The work goes on with the creative industries. It is hugely important, and we will not shy away from the most difficult challenges that AI presents.
+
+Mr Deputy Speaker (Sir Roger Gale)
+Order. Before we proceed, this concludes my last session in the Chair for this Parliament. I thank the House for the courtesy and understanding that I have received during my time as a Deputy Speaker. It has been hugely appreciated. Thank you all.
+
+Hon. Members
+Hear, hear!
+
+Sir John Hayes (South Holland and The Deepings) (Con)
+I thought the shadow Minister was wise to draw attention to the potential benefits of AI in particular for health research and treatment—notably brain injury, a subject in which he and I share a passionate interest—but foolish, if I might say so, to be churlish about the steps that the Government have already taken. The Government deserve great credit for taking a lead on this internationally, and establishing the first organisation dedicated to AI safety in the world.
+
+I thank and congratulate the Minister on that, but in balancing the advantages and risks—the costs and benefits—will he be clear that the real risk is underestimating the effect that AI may have? The internet has already done immense damage, despite the heady optimism at the time it was launched. It has brutalised discourse and blurred the distinction between truth and fiction, and AI could go further to alter our very grasp of reality. I do not want to be apocalyptic, but that is the territory that we are in, and it requires the most considered treatment if we are not to let those risks become a nightmare.
+
+Saqib Bhatti
+I completely agree with my right hon. Friend. We recognise the risks and opportunities that AI presents. That is why we have tried to balance safety and innovation. I refer him to the Online Safety Act 2023, which is a technology agnostic piece of legislation. AI is covered by a range of spheres where the Act looks at illegal harms, so to speak. He is right to say that this is about helping humanity to move forward. It is absolutely right that we should be conscious of the risks, but I am also keen to support our start-ups, our innovative companies and our exciting tech economy to do what they do best and move society forward. That is why we have taken this pro-safety, pro-innovation approach; I repeat that safety in this field is an enabler of growth.
+
+Kirsty Blackman (Aberdeen North) (SNP)
+I would like to thank Sir Roger Gale, who has just left the Chair. He has been excellent in the Chair and I have very much enjoyed his company as well as his chairing.
+
+I thank the Government for advance sight of the statement. My constituents and people across these islands are concerned about the increasing use of AI, not least because of the lack of regulation in place around it. I have specific questions in relation to the declarations and what is potentially coming down the line with regulation.
+
+Who will own the data that is gathered? Who has responsibility for ensuring its safety? What is the Minister doing to ensure that regard is given to copyright and that intellectual property is protected for those people who have spent their time and energy and massive talents in creating information, research and artwork? What are the impacts of the use of AI on climate change? For example, it has been made clear that using this technology has an impact on the climate because of the intensive amounts of electricity that it uses. Are the Government considering that?
+
+Will the Minister ensure that in any regulations that come forward there is a specific mention of AI harms for women and girls, particularly when it comes to deepfakes, and that they and other groups protected by the Equality Act 2010 are explicitly mentioned in any regulations or laws that come forward around AI? Lastly, we waited 30 years for an Online Safety Act. It took a very long time for us to get to the point of having regulation for online safety. Can the Minister make a commitment today that we will not have to wait so long for regulations, rather than declarations, in relation to AI?
+
+Saqib Bhatti
+The hon. Lady makes some interesting points. The thing about AI is not just the large language models, but the speed and power of the computer systems and the processing power behind them. She talks about climate change and other significant issues we face as humanity; that power to compute will be hugely important in predicting how climate change evolves and weather systems change. I am confident that AI will play a huge part in that.
+
+AI does not recognise borders. That is why the international collaboration and these summits are so important. In Bletchley we had 28 countries, plus the European Union, sign the declaration. We had really good attendance at the Seoul summit as well, with some really world-leading declarations that will absolutely be important.
+
+I refer the hon. Lady to my earlier comments around copyright. I recognise the issue is important because it is core to building trust in AI, and we will look at that. She will understand that I will not be making a commitment at the Dispatch Box today, for a number of reasons, but I am confident that we will get there. That is why our approach in the White Paper response has been well received by the tech industry and AI.
+
+The hon. Lady started with a point about how constituents across the United Kingdom are worried about AI. That is why we all have to show leadership and reassure people that we are making advances on AI and doing it safely. That is why our AI Safety Institute was so important, and why the network of AI safety institutes that we have helped to advise on and worked with other countries on will be so important. In different countries there will be nuances regarding large language models and different things that they will be approaching—and sheer capability will be a huge factor.
+
+Matt Hancock (West Suffolk) (Ind)
+I pay tribute to the Government for their approach on AI. The growth of AI, and its exponential impact, has really not yet landed with most people around the world. The scale and impact of that technology is truly once in a generation, if not once in history. Ensuring that we work around the world to harness that incredibly powerful force for good for humanity is vital. It is good to see the UK playing a leading role in that and, frankly, it is good to see a cross-party approach, because this is bigger than party politics. Will all those involved—the Minister, Lord Camrose, the Secretary of State and the Prime Minister—ensure that the agenda of empowering the development of AI and putting guardrails in place is absolutely at the centre not just of UK policy but of policy across the world?
+
+Saqib Bhatti
+I put on record my personal thanks to my right hon. Friend for all that he has done. We worked very closely together on the introduction of the integrated care board when he was Health Secretary, and it continues to be hugely beneficial to my constituents. He raises important points about the opportunities of AI and the building of trust, which I have also spoken about. However, he mentioned a “cross-party approach”. I am not sure that the Opposition are quite there yet in terms of their approach. I say to the Opposition that there is a great tech story in this country: we are now the third most valuable economy in the world, worth over $1 trillion; we have more unicorns than France, Germany and Sweden combined; we have created 1.9 million more jobs—over 22% more—than at pre-pandemic levels; and, as I have said, just over £2 billion of investment has come in just the last fortnight. We believe in British entrepreneurs, British innovation and British start-ups. The real question is: why do the Opposition not believe in Britain?
+
+Jim Shannon (Strangford) (DUP)
+I welcome the Minister’s statement. He is right to say that many Members across the Chamber support the Government’s clear goals and objectives. The continued focus on the Bletchley declaration is to be welcomed, and I welcome the drive to prevent disinformation and other concerns. However, although information and practice sharing will be almost universal, we must retain the ability to prevent the censorship of positions that may not be popular but should not be censored, and ensure that cyber-security is a priority for us nationally, primarily followed by our international obligations.
+
+Saqib Bhatti
+The hon. Gentleman is absolutely right to say that AI will play a huge role in cyber-security. We recently launched our codes of practice for developers in the cyber-security field. AI will be the defining technology of the 21st century—it is hugely important—and his questions highlight exactly why we have taken this approach. We want our regulators, which are closest to their industries, to define and be on top of what is going on. That is why we have given them capacity-building funds and asked them to set out their plans, which they did at the end of April, and we will continue to work with them.
+
+Steve Brine (Winchester) (Con)
+It sounds as if there was a fair bit of discussion at the summit about AI in healthcare, particularly on its use as a medical device. The Minister will know that it has great potential, and I heard his exchanges just a moment ago. To give just one example, AI can support but not replace clinicians in mammography readings. Does he agree that we must follow the strong lead of the US in this area by ensuring that the regulatory landscape is in the right place to assist this innovation, not get in the way of it?
+
+Saqib Bhatti
+My hon. Friend makes a hugely important point. I refer him to what I said earlier. It was insightful for me to see how transformative AI can be in health. When I visited Aival, for example, I gained insight into the complexity of installing AI as a testing bed for different machines depending on who has manufactured and calibrated them. The regulator will play a huge role, as he can imagine, whether on heart disease, radiotherapy, or DeepMind’s work in developing AlphaFold.
+
+Mark Logan (Bolton North East) (Con)
+I congratulate the Minister on all his enthusiastic work on AI. In his statement, he referred to the frontier AI safety commitments, and 16 companies were mentioned. One of those was Zhipu AI of Tsinghua Daxue—Tsinghua University in China—which is, of course, one of the four new AI tigers of China. How important is the work that the Minister is doing to ensure China is kept in the tent when it comes to the safety and regulation of AI, so that we do not end up with balkanisation when it comes to AI?
+
+Saqib Bhatti
+My hon. Friend makes a really important point. I will not try to pronounce the name of that university or that company; what I will say is that AI does not recognise borders, so it is really important for China to be in the room, having those conversations. What those 16 companies signed up to was a world first, by the way: companies from the US, the United Arab Emirates, China and, of course, the UK signed that commitment. This is the first time that they have agreed in writing that they will not deploy or develop models that test the thresholds. Those thresholds will be divined at the AI action summit in France, so my hon. Friend is exactly right that we need a collaborative global approach.
+
+Madam Deputy Speaker (Dame Rosie Winterton)
+I thank the Minister for his statement.

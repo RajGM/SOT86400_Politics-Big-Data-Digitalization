@@ -1,0 +1,225 @@
+ Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]
+
+Second Reading
+
+14:20:00
+
+Moved by
+
+Lord Clement-Jones
+That the Bill be now read a second time.
+
+Lord Clement-Jones (LD)
+My Lords, I declare my AI interests as set out in the register. I thank Big Brother Watch, the Public Law Project and the Ada Lovelace Institute, which, each in their own way, have provided the evidence and underpinned my resolve to ensure that we regulate the adoption of algorithmic and AI tools in the public sector, which are increasingly being used across it to make and support many of the highest-impact decisions affecting individuals, families and communities across healthcare, welfare, education, policing, immigration and many other sensitive areas of an individual’s life. I also thank the Public Bill Office, the Library and other members of staff for all their assistance in bringing this Bill forward and communicating its intent and contents, and I thank all noble Lords who have taken the trouble to come to take part in this debate this afternoon.
+
+The speed and volume of decision-making that new technologies will deliver is unprecedented. They have the potential to offer significant benefits, including improved efficiency and cost effectiveness in government operations, enhanced service delivery and resource allocation, better prediction and support for vulnerable people and increased transparency in public engagement. However, the rapid adoption of AI in the public sector also presents significant risks and challenges, with the potential for unfairness, discrimination and misuse through algorithmic bias and the need for human oversight, a lack of transparency and accountability in automated decision-making processes and privacy and data protection concerns.
+
+Incidents such as the 2020 A-level and GCSE grading fiasco, where an algorithmic approach saw students, particularly those from lower-income areas, unfairly miss out on university places when an algorithm was used to estimate grades from exams that were cancelled because of Covid-19, have starkly illustrated the dangers of unchecked algorithmic systems in public administration disproportionately affecting those from lower-income backgrounds. That led to widespread public outcry and a loss of trust in government use of technology.
+
+Big Brother Watch’s investigations have revealed that councils across the UK are conducting mass profiling and citizen scoring of welfare and social care recipients. Its report, entitled Poverty Panopticon [The Hidden Algorithms Shaping Britain’s Welfare State], uncovered alarming statistics. Some 540,000 benefits applicants are secretly assigned fraud risk scores by councils’ algorithms before accessing housing benefit or council tax support. Personal data from 1.6 million people living in social housing is processed by commercial algorithms to predict rent non-payers. Over 250,000 people’s data is processed by secretive automated tools to predict the likelihood of abuse, homelessness or unemployment.
+
+Big Brother Watch criticises the nature of these algorithms, stating that most are secretive, unevidenced, incredibly invasive and likely discriminatory. It argues that these tools are being used without residents’ knowledge, effectively creating tools of automated suspicion. The organisation rightly expressed deep concern that these risk-scoring algorithms could be disadvantaging and discriminating against Britain’s poor. It warns of potential violations of privacy and equality rights, drawing parallels to controversial systems like the Metropolitan Police’s gangs matrix database, which was found to be operating unlawfully. From a series of freedom of information requests last June, Big Brother Watch found that a flawed DWP algorithm wrongly flagged 200,000 housing benefit claimants for possible fraud and error, which meant that thousands of UK households every month had their housing benefit claims unnecessarily investigated.
+
+In August 2020, the Home Office agreed to stop using an algorithm to help sort visa applications after it was discovered that the algorithm contained entrenched racism and bias, and following a challenge from the Joint Council for the Welfare of Immigrants and the digital rights group Foxglove. The algorithm essentially created a three-tier system for immigration, with a speedy boarding lane for white people from the countries most favoured by the system. Privacy International has raised concerns about the Home Office's use of a current tool called Identify and Prioritise Immigration Cases—IPIC—which uses personal data, including biometric and criminal records to prioritise deportation cases, arguing that it lacks transparency and may encourage officials to accept recommended decisions without proper scrutiny.
+
+Automated decision-making has been proven to lead to harms in privacy and equality contexts, such as in the Harm Assessment Risk Tool, which was used by Durham Police until 2021, and which predicted reoffending risks partly based on an individual’s postcode in order to inform charging decisions. All these cases illustrate how ADM can perpetuate discrimination. The Horizon saga illustrates how difficult it is to secure proper redress once the computer says no.
+
+There is no doubt that our new Government are enthusiastic about the adoption of AI in the public sector. Both the DSIT Secretary of State and Feryal Clark, the AI Minister, are on the record about the adoption of AI in public services. They have ambitious plans to use AI and other technologies to transform public service delivery. Peter Kyle has said:
+
+“We’re putting AI at the heart of the government’s agenda to boost growth and improve our public services”, 
+
+and
+
+“bringing together digital, data and technology experts from across Government under one roof, my Department will drive forward the transformation of the state”.—[Official Report, Commons, 2/9/24; col. 89.]
+
+Feryal Clarke has emphasised the Administration’s desire to “completely transform digital Government” with DSIT. As the Government continue to adopt AI technologies, it is crucial to balance the potential benefits with the need for responsible and ethical implementation to ensure fairness, transparency and public trust.
+
+The Ada Lovelace Institute warns of the unintended consequences of AI in the public sector, including the risk of entrenching existing practices, instead of fostering innovation and systemic solutions. As it says, the safeguards around automated decision-making, which exist only in data protection law, are therefore more critical than ever in ensuring people understand when a significant decision about them is being automated, why that decision is made, and have routes to challenge it, or ask for it to be decided by a human.
+
+Our citizens need greater, not less, protection, but rather than accepting the need for these, we see the Government following in the footsteps of their predecessor by watering down such rights as there are under GDPR Article 22 not to be subject to automated decision-making. We will, of course, be discussing these aspects of the Data (Use and Access) Bill in Committee next week.
+
+ADM safeguards are critical to public trust in AI, but progress has been glacial. Take the Algorithmic Transparency Recording Standard, which was created in 2022 and is intended to offer a consistent framework for public bodies to publish details of the algorithms used in making these decisions. Six records were published at launch, and only three more seem to have been published since then. The previous Government announced earlier this year that the implementation of the Algorithmic Transparency Recording Standard will be mandatory for departments. Minister Clark in the new Government has said,
+
+“multiple records are expected to be published soon”,
+
+but when will this be consistent across government departments? What teeth do the Central Digital and Data Office and the Responsible Technology Adoption Unit, now both within DSIT, have to ensure the adoption of the standard, especially in view of the planned watering down of the Article 22 GDPR safeguards? Where is the promised repository for ATRS records? What about the other public services in local government too?
+
+The Public Law Project, which maintains a register called Tracking Automated Government, believes that in October last year there were more than 55 examples of public ADM systems use. Where is the transparency on those? The fact is that the Government’s Algorithmic Transparency Recording Standard, while a step in the right direction, remains voluntary and lacks comprehensive adoption or indeed a compliance mechanism or opportunity for redress. The current regulatory landscape is clearly inadequate to address these challenges. Despite the existing guidance and framework, there is no legally enforceable obligation on public authorities to be transparent about their use of ADM and algorithmic systems, or to rigorously assess their impact.
+
+To address these challenges, several measures are needed. We need to see the creation of and adherence to ethical guidelines and accountability mechanisms for AI implementation; a clear regulatory framework and standards for use in the public sector; increased transparency and explainability of the adoption and use of AI systems; investment in AI education; and workforce development for public sector employees. We also need to see the right of redress, with a strengthened right for the individuals to challenge automated decisions.
+
+My Bill aims to establish a clear mandatory framework for the responsible use of algorithmic and automated decision-making systems in the public sector. It will help to prevent the embedding of bias and discrimination in administrative decision-making, protect individual rights and foster public trust in government use of new technologies.
+
+I will not adumbrate all the elements of the Bill. In an era when AI and algorithmic systems are becoming increasingly central to government ambitions for greater productivity and public service delivery, this Bill, I hope noble Lords agree, is crucial to ensuring that the benefits of these technologies are realised while safeguarding democratic values and individual rights. By ensuring that ADM systems are used responsibly and ethically, the Bill facilitates their role in improving public service delivery, making government operations more efficient and responsive.
+
+The Bill is not merely a response to past failures but a proactive measure to guide the future use of technology within government and empower our citizens in the face of these powerful new technologies. I hope that the House and the Government will agree that this is the way forward. I beg to move.
+
+14:32:00
+
+Lord Knight of Weymouth (Lab)
+My Lords, I very much welcome this Bill. It is a bit like the previous Bill, in that it addresses an important set of issues, and I encourage my Front-Bench friends to find a way, if not through this Bill, to address them.
+
+In many ways, this is a bit of a warm-up for the debate we will have on Monday on the Data (Use and Access) Bill, to which the noble Lord, Lord Clement-Jones, has tabled a number of amendments on the same sort of issues. Indeed, this Bill could even be using some of the same text as his amendments. So, it is a pleasure to be able to rehearse what I might want to say on Monday.
+
+Automated decision-making by AI is an area where we are balancing efficiency and equity. There are some significant savings to be made in public efficiency and public money with the use of automated decision-making tools. However, we have to be conscious of the risks associated with algorithmic bias and the extensive use of ADMs, which DWP officials have noted in evidence sessions. The noble Lord, Lord Clement-Jones, reminded us of the A-level marking scandal in 2020—it was clearly unreasonable for individuals’ A-levels results to be changed because of the results of previous similar candidates but not the candidates actually taking the tests.
+
+Two weeks ago, I read in my newspaper—online, obviously—that departments are not registering their use of AI systems, as they are mandatorily required to. Only three Cabinet Office ADMs have been registered since 2022. So, not only do we need to legislate in this area; we also need public authorities to stick to it.
+
+The equity risk is higher in some areas than others. We have to pay particular attention where, for example, ADMs are applied to benefits—to the money people receive—to sentencing, which happens in some parts of the world, to immigration decisions and to employment. In addition, as the noble Lord said, they are likely to disproportionately affect the poorest.
+
+Why has the noble Lord, Lord Clement-Jones, confined his Bill to public authorities? I am sympathetic to extending this to work settings generally, including in the private sector. We see people being hired, managed and fired by ADM. Not every Christmas present is delivered by Santa Claus, and logistics workers are working flat out at the moment, under zero-hours contracts, being managed by ADMs. We should give them some protection.
+
+I look forward to the Minister’s response and to discussing this more on Monday, and I hope we can see some progress on this.
+
+14:35:00
+
+Baroness Lane-Fox of Soho (CB)
+My Lords, I declare my interests as stated in the register, most particularly as chair of the Government’s digital centre design panel.
+
+It is appropriate that we are discussing this on Friday the 13th because, on looking into the engine of the Government’s AI plans, it is truly a horror show. The civil servants will not thank me for saying this but—surprise, surprise—they are not keen on regulation when they feel that mandating is quite sufficient. I have some sympathy, but I have more for the noble Lord’s Bill. It is vital that we look at these issues now. I hope that, whether through this Private Member’s Bill, the data Bill being considered on Monday—which, unfortunately, I am unable to contribute to—or other mechanisms, we take seriously this incredible push to a world of AI-powered public services, while trying to stand on the shoulders of what is still a very complex and broken public technology infrastructure.
+
+I would like to make three points that I hope will be helpful in any context, the first of which is on procurement. When we started the Government Digital Service in 2010, we had procurement as priority number 5. As noble Lords will appreciate, getting beyond priority number 1 was a bit of a battle so we did not reach priority number 5. I wish that we had. I hope that the Minister, whether through this Bill or through other opportunities, will not underestimate the power of the grip of procurement on this issue. It is not transparent. The skills on the digital procurement side of the Civil Service are under-egged, and the deals done with suppliers are far from ideal as we move to a world in which we want to encourage innovation but must also encourage safety. I very much hope that procurement will be positioned very closely at the heart of any future plans.
+
+Secondly, I take some guidance from what happened in Canada, which I am sure my noble friend Lord Clement-Jones—I will call him that—is aware of. Canada has also been trying to move to greater regulation of algorithmic transparency, and, as I understand it, the implementation has been very heavy and difficult. It has been resource-intensive, and extreme upskilling was needed to get this done without too much bureaucracy, while doing the job it was intended to do. I urge my noble friend and the Government to think very carefully about implementation. It is very important that we do not add to bureaucracy, at a time when we should be trying to pin it down.
+
+Finally, although noble Lords will be bored of hearing me say this in this Chamber, it is impossible to describe the level of upskilling we need in the Civil Service over the next decade. This Bill highlights one aspect of the problem, but it is fundamental that we put at the heart of any plans for Civil Service reform an enormous increase in understanding of this new world in which we live.
+
+14:38:00
+
+Lord Tarassenko (CB)
+My Lords, it is a pleasure to follow the noble Baroness, Lady Lane-Fox. I agree with her points about implementation and upskilling the Civil Service. There is much that I want to say about automated decision-making, but I will focus on only one issue in the time available.
+
+The draft Bill anticipates the spread of AI systems into ADM, with foundation models mentioned as components within the overall system. Large language models such as ChatGPT, which is probably the best-known example of a foundation model, typically operate non-deterministically. When generating the next word in a sequence, they sample from a probability distribution rather than always selecting the word with the highest probability. Therefore, ChatGPT will not always give the same response to the same query, as I am sure many noble Lords have discovered empirically.
+
+Open AI introduced a setting in the API to its ChatGPT models last year to enable deterministic behaviour. However, there are other sources of non-determinism in the LLMs available from big-tech companies. Very slight changes in a query—for example, just in the punctuation or through the simple addition of the word “please” at the start—can have a major impact on the answer generated by the models.
+
+The models are also regularly updated, and older versions are no longer supported. If any ADM system used by a public authority relies on a deprecated version of a closed-source proprietary AI system from a company such as Google or OpenAI, it will no longer be able to operate reproducibly. For example, when using ChatGPT, OpenAI’s newer GPT4 model will generate quite different outputs from GPT3.5 for the same input data.
+
+I have given these brief examples of non-deterministic and non-reproducible behaviour to underline a very important point: the UK public sector will not be able to control the implementation or evolution of the hyperscale foundation models trained at great cost by US big tech companies. The training and updating of these models will be determined solely by the commercial interests of those companies, not by the requirements of the UK public sector.
+
+To have complete control over training data, learning algorithms, system behaviour and software updates, the UK Government need to fund the development of a sovereign AI capability for public sector applications. This could be a set of tailor-made, medium-scale AI models, each developed by the relevant government department, possibly in partnership with universities or UK-based companies willing to disclose full details of algorithms and computer code. Only then will the behaviour of AI algorithms for ADM be transparent, deterministic and reproducible—requirements that should be built into legislation.
+
+I welcome this Bill, but the implications of introducing AI models into ADM within the public sector need to be fully thought through. If we do not, we risk losing the trust of our fellow citizens in a technology that has the potential to deliver considerable benefits by speeding up and improving decision-making processes.
+
+14:42:00
+
+Baroness Freeman of Steventon (CB)
+I would like to pick up on three important aspects of this Bill that perhaps set it aside from what we might discuss in Committee on Monday. One is the fact that it covers decision support tools, not just fully automated decision-making; one is the fact that it covers tools being considered for procurement, not just once they are in use; and the most important aspect to my mind is that it at least hints at the need for some evaluation of the efficacy and usefulness of such tools.
+
+Until recently, I was in charge of the governance and communication around the algorithmic online decision support tools to predict prostate and breast cancer, which are used extensively around the world to help patients and doctors make shared decisions about treatment options. Because of that, they come under the Medical Devices Regulations, which meant that we needed to provide evidence of efficacy and that they were the right tools to be used in these decisions.
+
+Decisions about financial and judicial aspects of people’s lives are equally important and I do not think we currently have the legislation to help govern these sorts of decision-support tools in these circumstances. These tools are incredibly useful, because they help ensure that the right questions are being asked, so that the decision-maker and the tool can have as much of the salient information for that decision as they can. They can then give a range of outcomes that happened to people with those characteristics in the past, often under different circumstances, allowing them to play out “what if?” scenarios. This can be helpful in making a decision, but only if the decision-maker knows certain things about that tool. The Bill is quite right that these things need to be known by the procurer before the system is unleashed in a particular scenario.
+
+I mentioned that these tools can help ensure that the right questions are being asked. If someone feels that a tool does not have all the salient information about them, they will naturally and correctly downgrade their trust in the precision of the output. An experienced doctor who knows that the tool has not asked about the frailty of a patient, for instance, will naturally know that there is uncertainty and that they will need to look at the patient in front of them and adjust the tool’s output, using their clinical judgment. However, a decision-maker who is not aware that the tool is lacking in some important piece of information, perhaps because that information cannot easily be quantified or because there was not enough data to include it in the algorithm, needs to be alerted to this major cause of uncertainty. Because the algorithms are built using data from what has happened to people in the past, users need to know how relevant that data is to their situation. Does it include enough people with characteristics similar to them? Because for some longer-term outcomes that data might necessarily be quite old, does that add more uncertainty to the outputs? Without knowing the basis for the algorithm, people cannot assess how much weight to put on the tool’s results.
+
+These are questions that can be asked of any algorithmic tool supplier, but any procurer or user should be able to ask about the effectiveness of the tool as used in a real-world scenario as well. How accurate is it in every dimension in your scenario, which might be very different from the situation in which it was developed? How do decision-makers respond to outputs? Do they understand its limitations? Do they overtrust it or undertrust it? These are vital questions to ask, and the answers need to be supplied for any form of decision support tool.
+
+This Bill is the only time I have seen the suggestion that those sorts of questions about efficacy and applicability, and user experience such as training, are talked about as stages that should be completed before procurement, as well as during use, and made transparent. I urge that these aspects are considered.
+
+14:46:00
+
+Baroness Hamwee (LD)
+My Lords, I support my noble friend, who throws himself into these issues to the benefit of all of us. He was very supportive of the work three or so years ago of the Justice and Home Affairs Committee, which I was lucky enough to chair, on advanced technology in the justice system. We recognised the value of ADM, but also the risks to transparency and of inbuilt bias. Then there is the risk of surrendering one’s critical faculties—predictive policing, for instance.
+
+One witness said to the committee:
+
+“We are not building criminal risk assessment tools to identify insider trading or who is going to commit the next kind of corporate fraud … We are looking at high-volume data that is mostly about poor people”. 
+
+I wondered then how it would feel to be arrested, charged and maybe more on the basis of technology which could not be explained. I wonder now about how bias can affect immigration and border security. My noble friend gave some examples.
+
+The Bill is important. It is about our relationship with the state, which I believe is more important than our relationship with commercial organisations—even Amazon, although some might disagree. It takes confidence to counter the notion: “The computer says”. Two Home Secretaries in the last Government assured the committee that the human would always be in the loop of decision-making. We worried that this could mean simply a click at the end of the process. For myself, I would prefer that machines were in the loop of human decision-making. Of course, today’s stellar cast of speakers would not fall foul of the culture of deference.
+
+I am troubled that suppliers are in a very strong position. Even without the dubious sales practices that we heard about, mainly from the US, it is very difficult for a purchaser to challenge a seller’s untested claims, and commercial confidentiality is often prayed in aid against transparency. I very much support the point made by the noble Baroness, Lady Lane-Fox, about procurement. In any event, we need the assurance that the principles that apply—or should apply—to all public authority decisions, such as rationality, proportionality and so on, apply to ADM systems.
+
+I do not want to be negative about AI, just cautious, so I welcome the reference in the Bill to innovation. In the previous debate, my noble friend Lady Grender referred to the time lag in legislation in the face of the development of AI, and that is relevant here as well. I do not think that my noble friend needs the support of a distinctly analogue dinosaur, but he has it.
+
+14:49:00
+
+Viscount Camrose (Con)
+My Lords, of course I must start by joining others in thanking the noble Lord, Lord Clement-Jones, for bringing forward this timely and important Bill, with whose aims we on these Benches strongly agree. As public bodies take ever more advantage of new technological possibilities, surely nothing is more critical than ensuring that they do so in a way that adheres to principles of fairness, transparency and accountability.
+
+It was also particularly helpful to hear from the noble Lord the wide range of very specific examples of the problems caused by what I will call AADM for brevity. I felt that they really brought it to life. I also take on board the point made by the noble Lord, Lord Knight, about hiring and firing by AADM. The way this is done is incredibly damaging and, frankly, if I may say so, too often simply boneheaded.
+
+The point by the noble Baroness, Lady Lane-Fox, about procurement is absolutely well founded: I could not agree more strongly that this is a crucial area for improvement. That point was well supported by the noble Baroness, Lady Freeman of Steventon, as well. I thought that the argument, powerful as ever, from noble Lord, Lord Tarassenko, for sovereign AI capabilities was also particularly useful, and I hope that the Government will consider how to take that forward. Finally, I really welcomed the point made so eloquently by the noble Baroness, Lady Hamwee, in reminding us that just the existence of a human in the loop is a completely insufficient condition for making these things effective.
+
+We strongly support the goal of this Bill: to ensure trustworthy AI that deserves public confidence, fosters innovation and contributes to economic growth. However, the approach proposed, raises—for me, anyway—several concerns that I worry could hinder its effectiveness.
+
+First, definition is a problem. Clause 2(1) refers to “any algorithmic … systems” but, of course, “algorithmic” can have a very broad definition: it can encompass any process, even processes that are unrelated to digital or computational systems. While the exemptions in subsections (2) and (4) are noted, did the noble Lord give consideration to adopting or incorporating the AI White Paper’s definition around autonomy and adaptiveness, or perhaps just the definition around AADM used in the DUA Bill, which we will no doubt be discussing much more on Monday? We feel that improving the definition would provide some clarity and better align the scope with the Bill’s purpose.
+
+I also worry that the Bill fails to address the rapid pace of AI development. For instance, I worry that requiring ongoing assessments for every update under Clause 3(3) is impractical, given that systems often change daily. This obligation should be restricted to significant changes, thereby ensuring that resources are spent where they matter most.
+
+I worry, too, about the administrative burden that the Bill may create. For example, Clause 2(1) demands a detailed assessment even before a system is purchased. I feel that that is unrealistic, particularly with pilot projects that may operate in a controlled way but in a production environment, not in a test environment as described in Clause 2(2)(b). Would that potentially risk stifling exploration and innovation, and, indeed, slowing procurement within the public sector?
+
+Another area of concern is communication. It is so important that AI gains public trust and that people come to understand the systems and the safeguards in place around them. I feel that the Bill should place greater emphasis on explaining decisions to the general public in ways that they can understand rapidly, so that we can ensure that transparency is not only achieved but perceived.
+
+Finally, the Bill is very prescriptive in nature, and I worry that such prescriptiveness ends up being ineffective. Would it be a more effective approach, I wonder, to require public bodies to have due regard for the five principles of AI outlined in the White Paper, allowing them the flexibility to determine how best to meet those standards, but in ways that take account of the wildly differing needs, approaches and staffing of the public bodies themselves? Tools such as the ATRS could obviously be made available to assist, but I feel that public bodies should have the agency to find the most effective solutions for their own circumstances.
+
+Let me finish with three questions for the Minister. First, given the rapid pace of tech change, what consideration will be given to ensure that public authorities can remain agile and responsive, while continuing to meet its requirements? Secondly, the five principles of AI set out in the White Paper by the previous Government offer a strong foundation for guiding public bodies. Will the Minister consider whether allowing flexibility in how these principles are observed might achieve the Bill’s goals, while reducing the administrative burdens and encouraging innovation? Thirdly, what measures will be considered to build public trust in AI systems, ensuring that the public understand both the decisions made and the safeguards in place around them?
+
+14:55:00
+
+The Parliamentary Under-Secretary of State, Department for Business and Trade and Department for Science, Information and Technology (Baroness Jones of Whitchurch) (Lab)
+My Lords, I thank all noble Lords for contributing to a very insightful debate. I particularly welcome the noble Baroness, Lady Lane-Fox, to her new role chairing the board of the new digital centre of government. I am sure she will have a great contribution to make in debates of this kind. I also thank the noble Lord, Lord Clement-Jones, for bringing forward the Bill.
+
+The Government understand the intent of the Bill, in particular on the safe, responsible and transparent use of algorithmic and automated decision-making systems in the public sector. However, for reasons I will now outline, the Government would like to express reservations about the noble Lord’s Bill.
+
+The Government of course believe that such systems have a positive role to play in the public sector. As many noble Lords have said, they can improve services, unlock new insights, deliver efficiencies and give citizens back their time. However, they must be used in ways that maintain public trust. The noble Lord, Lord Clement-Jones, highlighted some shocking examples of where threats of bias and racism, for example, have undermined public trust, and these issues need to be addressed.
+
+We know that transparency is a particularly important driver of rebuilding that trust and delivering fairness. That is what the Algorithmic Transparency Recording Standard, or ATRS, aims to address. The noble Lord asked about its status in government. The ATRS is now mandatory for all government departments. This mandate was agreed in cross-government policy. The ATRS is also recommended by the Data Standards Authority for use across the broader public sector, and the standards will become publicly available on GOV.UK.
+
+The initial groundwork to comply with this mandate is complex, particularly for large organisations. They must identify and assess algorithmic tools from across multiple functions, engaging many individuals and multidisciplinary teams. However, I am pleased to reassure my noble friend Lord Knight and other noble Lords that a number of these records have now been completed under the mandatory rollout, and the Government will publish them in the coming weeks.
+
+The ATRS complements the UK’s data protection framework, which provides protections for individuals when their personal data is processed. The technology-neutral approach of the data protection framework means that its principles, including accuracy, security, transparency and fairness, apply to the processing of personal data regardless of the technology used.
+
+The framework provides additional protections for solely automated decision-making which has a legal or significant effect on individuals. It places a requirement on organisations to provide stringent safeguards for individuals where this type of processing takes place, so that they are available when they matter most. These rules apply to all organisations, including the public sector.
+
+I agree, though, with the noble Baroness, Lady Hamwee, that there are specific responsibilities for clarifying and building our trust relationship with the state. I also agree with my noble friend Lord Knight that we have to be particularly sensitive about how we handle protections at work, given their significance to the individuals involved. To ensure that these rules are effective in the light of emerging technologies and changing societal expectations, the Government have introduced reforms to these rules in the Data (Use and Access) Bill, which is currently in Committee in the Lords. I have been engaging with noble Lords on this topic and look forward to further debates on these issues next week.
+
+The Government are confident that these reforms strike the right balance between ensuring that organisations can make the best use of automated decision-making technology to support economic growth, productivity and service delivery, while maintaining high data protection standards and public trust. I am grateful to the noble Baroness, Lady Freeman, and the noble Lord, Lord Tarassenko, for their specific insights, which will help us finesse our policies on these issues as we go forward.
+
+We recognise that our approach to technology can sometimes be too fragmented across the public sector. To help address this, the Government are establishing a revitalised digital centre of government, with further details to be announced shortly. This transformation is being overseen by a digital inter-ministerial group which will be a powerful advocate for digital change across government, setting a clear expectation on when standards such as the ATRS must be adopted. This combination of the ATRS policy mandate and the establishment of the digital centre are moving us towards a “business as usual” process for public sector bodies to share information about how and why they use algorithmic tools.
+
+I turn to the key proposals in the noble Lord’s Bill. The Bill would require public authorities to complete a prescribed algorithmic impact assessment, and an algorithmic transparency record, prior to deployment of an algorithmic or automated decision-making system. Public authorities would be required to give notice on a public register when decisions are made wholly or partly by such systems, and to give affected individuals meaningful information about these decisions. Further provisions include monitoring and validating performance, outcomes and data; mandatory training; prohibition of the procurement of certain systems and redress. The technical scope of the Bill is broadly similar to that of the ATRS.
+
+The ATRS was deliberately made mandatory via cross-government policy rather than legislation in the first instance. This was to enable better testing and iteration of the ATRS; that ethos still applies. Since the introduction of the policy mandate for the ATRS, we have seen significant progress towards adoption. We are confident that the foundations are in place for a smooth ongoing approach to government algorithmic transparency, delivered from the new digital centre.
+
+Completing and publishing ATRS records also has benefits beyond transparency. A field on risks and mitigations enables references to other resources, such as data protection impact assessment. A field on alternative solutions asks how the tool owners know this tool was the right one to deploy, and indeed, whether an algorithmic tool was necessary. As such, the ATRS encourages a holistic view of how the impact of the tool has been considered, and potential negative outcomes avoided, overlapping considerably with the requirements of an algorithmic impact assessment, as the noble Lord has proposed. As such, we do not believe that legislation for either mandatory transparency records or AIAs for public authorities is necessary at this time.
+
+As I set out earlier, under the data protection framework, individuals already have the right to specific safeguards where they have been subject to solely automated decisions with legal or significant effects on them. These safeguards include the right to be told about a decision, the right to obtain human intervention and the right to challenge the decision. Our reforms under the Data (Use and Access) Bill specifically provide that human involvement must be meaningful. This is to prevent cursory human involvement being used to rubber-stamp decisions as having had meaningful involvement.
+
+Where an individual believes that there has been a failure in compliance with data protection legislation, they can bring a complaint to the independent data protection regulator, the Information Commissioner’s Office. The ICO has the authority to investigate and impose significant penalties for non-compliance, providing robust safeguards against misuse of personal data. Therefore, proposals by the noble Lord are also broadly covered under the data protection framework.
+
+The data protection framework also requires organisations to carry out data protection impact assessments prior to any processing likely to result in a high risk to data protection and to the rights and freedoms of individuals to mitigate against such risks. 
+
+To summarise, the Government believe that transparency in public sector algorithmic and automated decision-making is crucial both to building public trust and to accelerating innovation. Meaningful transparency should not merely identify the existence of such systems but also discuss their purpose and effectiveness. The ATRS provides an established and effective mechanism to deliver this transparency.
+
+The Government are also committed to maintaining the UK’s strong data protection framework while delivering on the DSIT Secretary of State’s priorities of accelerating innovation, technology for good, and modern digital government through the Data (Use and Access) Bill.
+
+The noble Baroness, Lady Lane-Fox, is quite right to identify the need to upskill civil servants. That has certainly been identified within my department and it is part of the need to upskill everyone for the future. Everyone in the existing generation and the next will need those skills to fulfil the exciting technological opportunities that we will have in the future, so we all have a responsibility to upskill our skills.
+
+We look forward to continuing to engage with noble Lords on these important issues as we develop our approach, and to the many other chances we will have, starting with our debates on Monday. I look forward to those debates. If I have missed anything out—I know the noble Viscount, Lord Camrose, asked some specific questions at the end—I will follow-up in writing.
+
+15:07:00
+
+Lord Clement-Jones (LD)
+My Lords, I thank the Minister for her response and all noble Lords who have taken part in this debate, which I thought was perfectly formed and very expert. I was interested in the fact that the noble Baroness, Lady Lane-Fox, has a role in the digital centre for government and in what she had to say about what might be desirable going forward, particularly in the areas of skills and procurement. The noble Baroness, Lady Freeman, said much the same, which indicates something to me. 
+
+By the way, I think the Minister has given new meaning to the word “reservations”. That was the most tactful speech I have heard for a long time. It is a dangerous confidence if the Government really think that the ATRS, combined with the watered-down ADM provisions in the GDPR, are going to be enough. They are going to reap the whirlwind if they are not careful, with public trust being eroded. We have seen what has happened in the NHS: unless you are absolutely on the case on this, you will see 3.3 million people opt out of sharing their data, as in the NHS. This is something live; it erupts without due warning.
+
+The examples I gave show a pretty dangerous use of ADM systems. Big Brother Watch has gone into some detail on the particular models that I illustrated. If the Government think that the ATRS is adequate, alongside their watered-down GDPR provisions, then, as I said, they are heading for considerable problems.
+
+As the noble Lord, Lord Knight, can see, if the Government have reservations about my limited Bill, they will have even more reservations about anything more broad.
+
+I do not want to tread on the toes of the noble Lord, Lord Holmes, who I am sure will come back with another Bill at some stage, but I am very sympathetic to the need for algorithmic impact assessment, particularly in the workplace, as advocated by the Institute for the Future of Work. We may be inflicting more amendments on the Minister when the time comes in the ADM Bill.
+
+This Bill is, as the noble Baroness, Lady Lane-Fox, mentioned, based on the Canadian experience. It is based on a Canadian directive that is now well under way and is perfectly practical.
+
+The warning of the noble Lord, Lord Tarassenko, about the use of large language models, with their unpredictability and inability to produce the same result, was an object lesson in the need for proper understanding and training within the Civil Service in the future, and for the development of open source-type LLMs on the back of the existing large language models that are out there, to make sure that they are properly trained and tested as a sovereign capacity.
+
+It is clear that I am not going to get a great deal further. I am worried that we are going to see a continuation, in the phrase used by my noble friend Lady Hamwee, of the culture of deference: the machine is going to continue saying no and our citizens will continue to be unable to challenge decisions in an effective way. That will lead to further trouble.
+
+I thank the noble Viscount, Lord Camrose, for his in-principle support. If the Bill is to have a Committee stage, I look forward to debating some of the definitions. In the meantime, I commend the Bill to the House.
+
+Bill read a second time and committed to a Committee of the Whole House.
+
+House adjourned at 3.12 pm.

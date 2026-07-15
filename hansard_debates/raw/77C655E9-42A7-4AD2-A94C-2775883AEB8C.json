@@ -1,0 +1,135 @@
+{
+  "Overview": {
+    "Id": 4986976,
+    "ExtId": "77C655E9-42A7-4AD2-A94C-2775883AEB8C",
+    "Title": "New Social Housing: Buckingham and Bletchley",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-10-13T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 773,
+    "ContentLastUpdated": "2025-10-16T18:26:26.69",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "72821559-C4E1-4A7E-9F76-69F81AD9196F",
+    "NextDebateTitle": "New Housing Developments in Cheadle: Infrastructure",
+    "PreviousDebateExtId": "71C8DD0F-E43E-4BE8-8CE5-F1C508B7FF24",
+    "PreviousDebateTitle": "Homelessness"
+  },
+  "Navigator": [
+    {
+      "Id": 4986962,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "55785264-d857-49e0-a26d-0df92f8a3e09",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4986964,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4986962,
+      "SortOrder": 3,
+      "ExternalId": "0127610C-789D-48B5-9B8E-45C8547767C6",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4986965,
+      "Title": "Housing, Communities and Local Government",
+      "ParentId": 4986964,
+      "SortOrder": 4,
+      "ExternalId": "C73A71F2-B65B-4E39-A23A-158A75ED102B",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4986976,
+      "Title": "New Social Housing: Buckingham and Bletchley",
+      "ParentId": 4986965,
+      "SortOrder": 15,
+      "ExternalId": "77C655E9-42A7-4AD2-A94C-2775883AEB8C",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AE-AH",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 45155534,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson (Buckingham and Bletchley) (Lab)",
+      "Value": "<Question HRSContentId=\"{820FC9B3-547C-45B2-B049-39C15F9A9439}\">12. <QuestionText HRSContentId=\"{FF95EA64-1D80-4FFB-9CD9-4D21F7388EEF}\">What steps his Department is taking to support local authorities to build social housing in Buckingham and Bletchley constituency. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "820FC9B3-547C-45B2-B049-39C15F9A9439",
+      "HRSTag": "Question",
+      "HansardSection": "AE-AH",
+      "UIN": "905829",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 45155535,
+      "MemberId": 4268,
+      "AttributedTo": "The Secretary of State for Housing, Communities and Local Government (Steve Reed)",
+      "Value": "The Government have taken decisive action to improve the capacity of all local authorities, including those in Buckingham and Bletchley, to build more social housing, including through our new £39 billion social and affordable homes programme, the new 10-year social housing rent settlement, and right-to-buy reform, so that we can reverse the decline seen under the previous Government.",
+      "OrderInSection": 2,
+      "Timecode": "2025-10-13T15:12:04",
+      "ExternalId": "22BFCE77-060F-442C-B3AE-008BCFC72EA2",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 45155536,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "<span id=\"16\" class=\"column-number column-only\" data-column-number=\"16\"></span>",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": "hs_ColumnNumber",
+      "HansardSection": null,
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 45155537,
+      "MemberId": 5193,
+      "AttributedTo": "Callum Anderson",
+      "Value": "The on-time, on-budget delivery of 183 new council homes for local families on the Lakes estate in Bletchley is a good demonstration of what Labour can achieve in local government. Is my right hon. Friend willing to visit Bletchley over the coming weeks and months to discuss how further investment from the social and affordable homes programme could help ambitious, pro-housebuilding councils like Milton Keynes to go even further for local people?",
+      "OrderInSection": 5,
+      "Timecode": "2025-10-13T15:12:33",
+      "ExternalId": "EE13B97D-F602-40BA-B14B-6EF9B3A41D25",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 45155538,
+      "MemberId": 4268,
+      "AttributedTo": "Steve Reed",
+      "Value": "I am sure that it will come as no surprise to my hon. Friend that I wholeheartedly welcome the delivery of 183 new council homes in his constituency. I fully agree that the Lakes estate demonstrates the ambition of Milton Keynes city council to build the homes that its communities want and need. I also value such councils’ support in helping the Government to meet our ambitious housebuilding targets, which include targets for the biggest boost to social and affordable housing in this country in a generation.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "8CE37AD2-F8F1-49C9-8E4D-25F9EB49FBC5",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

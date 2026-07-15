@@ -1,0 +1,30 @@
+ Artificial Intelligence Biases: Protected Characteristics
+
+Patrick Grady (Glasgow North) (SNP)
+5. What recent discussions she has had with Cabinet colleagues on the potential for biases in artificial intelligence technologies in relation to people with protected characteristics.
+
+The Parliamentary Under-Secretary of State for Science, Innovation and Technology (Saqib Bhatti)
+We are having cross-governmental discussions about AI, and we are very clear that AI systems should not undermine people’s rights or discriminate unfairly. This was a key topic of discussion at the AI safety summit, and it remains a priority for the Government. Fairness is a core principle of our AI regulatory framework, and UK regulators are already taking action to address AI-related bias and discrimination.
+
+Patrick Grady
+In that case, is the Minister aware of the findings of the Institute for the Future of Work that the use of artificial intelligence
+
+“presents risks to equality, potentially embedding bias and discrimination”,
+
+and that auditing AI tools used in recruitment
+
+“are often inadequate in ensuring compliance with UK Equality Law, good governance and best practice”?
+
+What steps are being taken across the whole of Government to ensure that appropriate assessments are made of the equalities impact of the use of AI in the workplace?
+
+Saqib Bhatti
+That is exactly why we had the AI safety summit, at which more than 28 countries plus the EU signed up to the Bletchley declaration. In March, we published the AI regulation White Paper, which set out our first steps towards establishing a regulatory framework for AI. I repeat that AI systems should not undermine people’s rights or discriminate unfairly, and that is one of the core principles set out in the White Paper.
+
+Mr Speaker
+I call the SNP spokesperson.
+
+Kirsten Oswald (East Renfrewshire) (SNP)
+The risk of perpetuating inequality and the problems that arise from solely automated decision making are well accepted both in recruitment and, as we heard earlier, in the challenges for disabled people in accessing employment, but also in other contexts such as immigration and welfare benefits. However, the UK Government’s Data Protection and Digital Information Bill is liberalising the use of artificial intelligence in decision making and reducing the rights of people to appeal those decisions. Does the Minister understand that it is increasingly important to make sure that we mitigate risks such as encoded bias? What is the specific plan to do that?
+
+Saqib Bhatti
+I do not recognise the hon. Member’s assessment, but let me say this: context matters. The risks of bias will vary depending on the specific way in which AI is used. That is why we are letting the regulators describe and illustrate what fairness means within their sectors, because they will be able to apply greater context to their discussions. The risk of discrimination should be assessed in context, and guidance should be issued that is specific to the sector. That is why we are preparing and publishing guidance to support the regulators. We will then encourage and support them to develop joint guidance. We will be working with the Equality and Human Rights Commission, the Information Commissioner’s Office and the Employment Agency Standards Inspectorate.

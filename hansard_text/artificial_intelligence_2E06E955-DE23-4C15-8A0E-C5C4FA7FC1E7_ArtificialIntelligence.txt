@@ -1,0 +1,82 @@
+ Artificial Intelligence
+
+Owen Thompson (Midlothian) (SNP)
+1. Whether she plans to bring forward legislative proposals to regulate the use of artificial intelligence.
+
+Drew Hendry (Inverness, Nairn, Badenoch and Strathspey) (SNP)
+4. Whether she plans to bring forward legislative proposals to regulate the use of artificial intelligence.
+
+Marion Fellows (Motherwell and Wishaw) (SNP)
+5. Whether she plans to bring forward legislative proposals to regulate the use of artificial intelligence.
+
+The Secretary of State for Science, Innovation and Technology (Chloe Smith)
+Our White Paper set out how we will regulate AI through a flexible framework underpinned by five principles. This proportionate and adaptable approach has been welcomed by British business. It includes new monitoring functions allowing us to update our approach in response to a rapidly evolving technology. The Government will come back with proposals in the autumn following the White Paper consultation.
+
+Owen Thompson
+AI has been used by public authorities in a wide range of contexts that affect individual rights, from facial recognition technology used by police to the system used by the Department for Work and Pensions to investigate benefits claimants. Does the Secretary of State agree that public trust in the state of AI is essential and that any changes to the law will require public support and, therefore, greater consultation to ensure that that trust is not undermined?
+
+Chloe Smith
+The hon. Gentleman makes a thoughtful point. He is right that we need a comprehensive public debate on many of these points. He named some risks that concern him. I would marry those with consideration about opportunities. For example, my colleagues in the Department for Work and Pensions are also looking at how the technology can help with job matching and ensuring that people have information about the job market. I look forward to further conversations, as he said, as we go forward with this critical technology.
+
+Drew Hendry
+Following calls from the SNP, the Minister for the Indo-Pacific, the right hon. Member for Berwick-upon-Tweed (Anne-Marie Trevelyan), agreed that human rights must be at the forefront of AI diplomacy. Will the new UK laws on AI protect people by outlawing any collaboration or research with nations that seek to abuse human rights through, for example, facial recognition or social credit systems?
+
+Chloe Smith
+The hon. Gentleman also makes a thoughtful point, which is an important consideration in all our diplomacy and the work that my colleagues in the Foreign Office take forward. Specifically on AI technology, domestically we have set out our proposals in our White Paper, which as we have said will evolve over time, and internationally we are clear that we see a leadership opportunity for the United Kingdom, because we are already a global leader in this technology and care passionately about ensuring its safe and responsible deployment.
+
+Marion Fellows
+Researchers at Robust Intelligence recently discovered that AI could be trained to bypass its in-built restrictions and privacy protections within hours of use. Despite growing concerns about the impact of AI, the Government are expanding the scope of automated decision making as part of their Data Protection and Digital Information (No. 2) Bill. Can the public have confidence that sensitive personal data will be protected as the Government’s use of AI grows?
+
+Chloe Smith
+The short answer is yes. That is because, first, the legislation that the hon. Lady mentioned focuses on doing that. In addition, in our White Paper we set out the principles on which we intend to take advantage of AI, which ensure that we have safety, transparency, explainability, fairness, accountability and governance, and contestability and redress. Those are all vital, as I know she will agree, and there is much work ahead of us.
+
+Mr Speaker
+I call the Chair of the Science, Innovation and Technology Committee.
+
+Greg Clark (Tunbridge Wells) (Con)
+I congratulate the Secretary of State on her sure-footed discharge of her responsibilities over the past few weeks, which I think end today.
+
+In the White Paper, there is a commitment that
+
+“when parliamentary time allows…we will…strengthen and clarify regulators’ mandates by introducing a new duty requiring them to have due regard to the principles”
+
+of the White Paper. Given the blistering pace of AI deployment and the fact that the forthcoming King’s Speech will be the last opportunity until 2025, will the Government confirm that they will bring forward that legislation in the next Session?
+
+Chloe Smith
+I thank the Chair of the Select Committee for his kind words about me. My right hon. Friend the Member for Chippenham (Michelle Donelan) will return later this week. It has been a privilege to help her by conducting her maternity cover at the highest levels.
+
+My right hon. Friend the Chair of the Select Committee is correct that we set out that plan in our White Paper. We said that we anticipate introducing a statutory duty on regulators
+
+“requiring them to have due regard to the principles”,
+
+which I mentioned in my previous answer. He will also know that I cannot commit to the contents of the King’s Speech, but what I have already said this morning is that the Government will be returning to the House with a full update on the conclusion of the consultation on the White Paper.
+
+Alun Cairns (Vale of Glamorgan) (Con)
+I pay tribute to my right hon. Friend’s leadership in this policy area. The conference in the autumn will give the Government an opportunity to lay out their plans for working with international partners. Does she agree that AI cannot be blocked or stopped, and therefore an open, pragmatic approach needs to be shown to harness the benefits of AI for the economy and society in general?
+
+Chloe Smith
+My right hon. Friend is correct. That is what we have laid out in our approach so far. As the Prime Minister said, we intend to lead overseas and domestically, lead the charge of that opportunity in our public services and ensure that our pro-innovation approach enables the benefits of this technology to be captured sooner across the economy.
+
+Michael Fabricant (Lichfield) (Con)
+Was my right hon. Friend reassured by the comments made by Nick Clegg this morning, while representing Meta, that AI at present is not capable of individual thought as such, but goes through a massive trawl very quickly of existing data?
+
+Chloe Smith
+We are drawing on the benefit of a range of experts in our work. In particular, I thank Ian Hogarth and those who have stepped up to form our Foundation Models Taskforce, which is helping us by looking extremely closely at the safety requirements for those models at the very frontier. There will be more updates on that work as time goes on.
+
+Mr Speaker
+I call the shadow Minister.
+
+Alex Davies-Jones (Pontypridd) (Lab)
+The Secretary of State will surely have read the many reports of bad actors using AI technology to create voice clones and, ultimately, scam victims out of money over the phone. For as little as 76p a month, a subscription to one of those websites can be yours, Mr Speaker. Computer security company McAfee recently found that one in four people had experienced a voice scam or knew someone who had. What exactly is the Secretary of State doing right now to prevent and, ultimately, protect people from those voice scams and deepfakes?
+
+Chloe Smith
+The shadow Minister raises a good point, which we should all examine. We have the correct answers, through the approach we have set out in our White Paper using our world-class regulators, the approach we are working on in this House and the other place on the Online Safety Bill, and existing crimes and offences. Right now, my officials are working with Ofcom to ensure it is ready for the duties that will come to it through the Online Safety Bill, and that it has the tools to ensure that scams, fraud and other offences are properly addressed.
+
+Mr Speaker
+I call the Scottish National party spokesperson.
+
+Alan Brown (Kilmarnock and Loudoun) (SNP)
+The Secretary of State said that my colleagues had made thoughtful points about human rights concerns, control of personal data and public trust, but we need actual action and commitment from the Government. In contrast, the EU is moving to become the first regulator in the world to legislate for a specific AI Act, to ensure that AI works for people as well as business and Government. Will she finally commit to the UK following suit and legislating for AI, to ensure that the UK does not become a haven for the worst possible applications of what should be beneficial technology?
+
+Chloe Smith
+The hon. Gentleman is telling the wrong story. The UK Government are acting comprehensively. The framework we set out in our White Paper applies across the UK. The work we are setting out with our global summit leads the way internationally. That approach is proportionate and flexible, and has been welcomed by business across the UK. In addition, the principles I have already named and the work of my colleagues across Government on human rights and other aspects ensure that our citizens can enjoy the safe and responsible use of this technology. I look forward to working with anyone in this House who has a thoughtful approach to take to that.

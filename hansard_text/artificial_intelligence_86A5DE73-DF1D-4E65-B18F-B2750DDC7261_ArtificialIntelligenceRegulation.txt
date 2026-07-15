@@ -1,0 +1,71 @@
+ Artificial Intelligence: Regulation
+
+Question
+
+14:47:00
+
+Asked by
+
+Lord Kirkhope of Harrogate
+To ask His Majesty’s Government what assessment they have made of existing regulations and practices in relation to artificial intelligence, and what plans they have to monitor and control artificial intelligence (1) in the UK, and (2) in cooperation with international partners.
+
+The Parliamentary Under-Secretary of State, Department for Science, Innovation and Technology (Viscount Camrose) (Con)
+The AI Regulation White Paper set out our proposed framework for governing AI, including plans to establish a monitoring and evaluation process to track performance. This will complement the central AI risk function which we have established to identify measures and mitigate risks. We work closely with international partners through the G7, the GPAI and the Council of Europe to understand AI risks, and are leading the way by convening the AI Safety Summit in November.
+
+Lord Kirkhope of Harrogate (Con)
+My Lords, I welcome the Government hosting the AI summit at Bletchley Park, which is an opportunity to define the guard-rails on the use and misuse of AI with international partners. AI is borderless, as we know, so co-operation with others such as the USA, China and the EU is vital. Given the advances in draft legislation on AI by our neighbours in the EU, what plans do the Government have to continue the co-operation and dialogue with these other interests to give our thriving UK AI businesses certainty in their ability to sell and trade into all jurisdictions?
+
+Viscount Camrose (Con)
+My noble friend is absolutely right to highlight the essential need for interoperability of AI given the way that AI is produced across so many jurisdictions. In addition to the global safety summit next week, we continue our very deep engagement with a huge range of multilateral groups. These include the OECD, the Council of Europe, the GPAI, the UN, various standards development groups, the G20 and the G7, along with a range of bilateral groups, including —just signed this year—the Atlantic declaration with the US and the Hiroshima accord with Japan.
+
+Lord Clement-Jones (LD)
+My Lords, Professor Stuart Russell memorably said:
+
+“There are more regulations on sandwich shops than there are on AI companies”. 
+
+After a disappointing White Paper, in the light of the forthcoming summit will the Government put more risk and regulatory meat in their AI sandwich? Is it not high time that we started addressing the AI risks so clearly identified at the G7 meetings this year with clear, effective and proportionate regulation?
+
+Viscount Camrose (Con)
+I am pleased to say that the Government spend more on AI safety than any other Government of any country. We have assembled the greatest concentration of AI safety expertise anywhere and, based on that input, we feel that nobody has sufficient understanding of the risks or potential of AI at this point to regulate in a way that is not premature. The result of premature regulation is regulation that creates unnecessary friction for businesses, or runs the risk of protecting or failing to protect from emerging dangers of which we are as yet unaware.
+
+Baroness Chakrabarti (Lab)
+My Lords, we learned again just this week that our own public sector is already using this very powerful technology across the board in Whitehall on matters such as criminal justice, health and education, with great opportunity but great risk. Where is the statutory framework for that current use of the technology? At a time when so many of the Minister’s colleagues in the Government want to walk away from international agreement, what hope is there for us to deal with technology on a global scale without new agreements, not fewer ones?
+
+Viscount Camrose (Con)
+I certainly do not recognise a situation in which many of my governmental colleagues want to walk away from international regulations; indeed, I have just provided quite a long list of them. It is entirely appropriate that, within the bounds of safety and their remit, different public sector bodies use this crucial new technology. They do so not in an unregulated way but with strict adherence to existing regulations.
+
+Lord Patel (CB)
+My Lords, can the Minister clarify how the Government intend to regulate the use of NHS data, particularly the contract for its collection, which is awarded to an overseas company? Furthermore, the UKRI has requested that the Government invest in the significant amount of computing power which we do not have but require for generating AI in healthcare.
+
+Viscount Camrose (Con)
+The Independent Review of the Future of Compute, which we accepted in its entirety, guided us to commit £900 million initially to buying compute. We have confirmed the purchase of an exascale system in Edinburgh as well as the UK’s soon-to-be most powerful supercomputer, in Bristol. There will be further announcements on this as part of the summit next week. The use of NHS data is subject to not only stringent contractual requirements but, already, stringent regulations about data privacy.
+
+Lord Holmes of Richmond (Con)
+My Lords, does my noble friend agree that we need far greater public engagement and public discourse around AI? Is he aware of the alignment assemblies used in Taiwan to such good effect? Will he consider taking a similar approach to such benefits in the UK?
+
+Viscount Camrose (Con)
+I very much agree with my noble friend that we need maximum public acceptance of AI. However, that must be based on its trustworthiness. That is why we are pursuing, among other things, the global AI Safety Summit next week. I am not familiar with the Taiwanese approach but will look into it, and look forward to discussing it in due course.
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, it has been reported that the Government want big tech companies to agree a set of voluntary guidelines at the AI summit. Can the Minister confirm this? If so, why are the Government not seeking more robust systems of oversight and regulation, notwithstanding some of the advantages of AI, when the dangers of unchecked technology are, as we have heard, so high?
+
+Viscount Camrose (Con)
+I do not believe that anyone anywhere is advocating unregulated AI. The voluntary agreement is, of course, a United States agreement secured with the White House. We welcome it, although it needs to be codified to make it non-voluntary, but that will be discussed as part of the summit next week.
+
+Viscount Colville of Culross (CB)
+My Lords, I would like to pick up on the point made by the noble Lord, Lord Clement-Jones, because Professor Russell also said that he would like to ban certain types of AI deepfakes. With elections looming in this country, can the Minister tell the House whether he thinks AI developers should be banned from creating software that allows the impersonation of people, particularly high-profile politicians?
+
+Viscount Camrose (Con)
+The noble Viscount raises an extremely worrying and serious issue: the use of deepfakes to impersonate politicians. The integrity of our entire political process could be placed at risk with untrammelled and irresponsible use of these technologies. However, I simply cannot see any pathway to banning these technologies unilaterally, as where they are developed could be absolutely anywhere on earth. I am afraid that any step we are likely to take will not affect that.
+
+Noble Lords
+My Lords—
+
+Baroness Williams of Trafford (Con)
+It is the turn of the Liberal Democrat Benches.
+
+Lord Fox (LD)
+I thank your Lordships’ House. I will follow on from the point made by the noble Lord, Lord Holmes. Huge commercial benefits are possible from AI. We have talked about the dangers, but there are benefits as well. However, as the Made Smarter Review made clear, the management skills to implement the digital opportunities of today are insufficient, so they are quite clearly not going to be there to implement the benefits of the future. In conjunction with his colleagues in the business department, what is the Minister doing to make sure that we have the skills to be able to take advantage of this technology?
+
+Viscount Camrose (Con)
+Yes, I thank the noble Lord for his point, which is a really important one. There is no defined curriculum of skills for AI anywhere, and there is such a very large range of different types of skills from data science, analytics and computer science, among others, to do that. I do not believe that anyone has produced what might look like a core curriculum of those things. We are, on the other hand, investing very serious funds into education at all levels, from school age to college age and advanced studies as well. I very much take the point, and driving global acceptance and adoption of AI is absolutely key to realising its value.

@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4888518,
+    "ExtId": "B144E7EF-D01E-410C-9DB7-6A488786592B",
+    "Title": "Live Facial Recognition",
+    "HRSTag": "hs_8Question",
+    "Date": "2025-03-31T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 765,
+    "ContentLastUpdated": "2025-04-07T16:08:27.623",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "3A19ABC8-CD9A-498D-9350-C92DFE54B31F",
+    "NextDebateTitle": "Asylum Policy: Refugee Convention",
+    "PreviousDebateExtId": "D7FA2B7A-2BAC-412B-894E-4DCB0BD98934",
+    "PreviousDebateTitle": "Rural Crime"
+  },
+  "Navigator": [
+    {
+      "Id": 4888506,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "66e94d99-e9a0-44d4-a600-283d8e077bd1",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4888508,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4888506,
+      "SortOrder": 3,
+      "ExternalId": "6A56F8DD-928E-4111-BCCD-69D5934897E5",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4888509,
+      "Title": "Home Department",
+      "ParentId": 4888508,
+      "SortOrder": 4,
+      "ExternalId": "F4E4EEC7-712B-4BE2-8115-EF16DD18D2D9",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4888518,
+      "Title": "Live Facial Recognition",
+      "ParentId": 4888509,
+      "SortOrder": 13,
+      "ExternalId": "B144E7EF-D01E-410C-9DB7-6A488786592B",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AE-AH",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302920,
+      "MemberId": 39,
+      "AttributedTo": "Sir John Whittingdale (Maldon) (Con)",
+      "Value": "<Question HRSContentId=\"{B6F2059C-1506-4B3D-B1FA-16D2EA3F49E1}\">10. <QuestionText HRSContentId=\"{8B12B425-12C3-4DC6-A13A-027ADF361BD7}\">What her policy is on the use of live facial recognition technology by police forces. </QuestionText></Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "B6F2059C-1506-4B3D-B1FA-16D2EA3F49E1",
+      "HRSTag": "Question",
+      "HansardSection": "AE-AH",
+      "UIN": "903507",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302921,
+      "MemberId": 1533,
+      "AttributedTo": "The Minister for Policing, Fire and Crime Prevention (Dame Diana Johnson)",
+      "Value": "I thank the right hon. Member for his interest in this subject and for the Westminster Hall debate that he secured last year. I want to support the police to use live facial recognition safely while <span id=\"14\" class=\"column-number\" data-column-number=\"14\"></span>balancing public safety and safeguarding individuals’ rights. The Home Office invested over £3 million in 2024-25 to develop a small national live facial recognition capability by purchasing and equipping 10 mobile LFR units for deployment later this year. I have been listening to stakeholders and will outline our plans in the coming months.",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": "DD1E21FD-AEE6-4A16-9148-F3A18BC329EC",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302922,
+      "MemberId": 39,
+      "AttributedTo": "Sir John Whittingdale",
+      "Value": "Although I recognise that the use of facial recognition technology can lead to more offenders being caught, does the Minister accept that deployment of a permanent network of fixed cameras across Croydon represents a significant escalation in their use, which makes it all the more important that a clear legislative framework governing their use is debated and approved by Parliament?",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "10D81273-679D-469F-824D-2E8B2D7D9177",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302923,
+      "MemberId": 1533,
+      "AttributedTo": "Dame Diana Johnson",
+      "Value": "I fully accept that there is a need to consider live facial recognition. At the moment the law governing the use of that technology comes from various different things—human rights and equalities legislation, and other measures—and we want to see whether that should be brought together. That is why I have been having a series of meetings over the last few months. As I said, we will set out our plans for live facial recognition in the coming months.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "8D340F9A-55F7-496D-AF03-A392248BEFFB",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302924,
+      "MemberId": 5237,
+      "AttributedTo": "Chris Vince (Harlow) (Lab/Co-op)",
+      "Value": "Harlow police department’s recent successful trial of facial recognition has led to some arrests. Does the Minister agree that technology can play a vital part in tackling crime but cannot be a substitute for neighbourhood policing?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "C6AA2569-CD82-4B36-BFF6-4C4C4B05352E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 43302925,
+      "MemberId": 1533,
+      "AttributedTo": "Dame Diana Johnson",
+      "Value": "Yes, I agree with my hon. Friend. That is why we have committed to neighbourhood policing and 13,000 additional police officers and PCSOs on all our high streets and in communities up and down the land.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "D6F1020C-2B43-49F7-90D5-6ED3849226AB",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

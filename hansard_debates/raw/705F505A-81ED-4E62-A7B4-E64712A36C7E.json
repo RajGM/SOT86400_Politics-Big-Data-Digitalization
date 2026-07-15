@@ -1,0 +1,149 @@
+{
+  "Overview": {
+    "Id": 4402348,
+    "ExtId": "705F505A-81ED-4E62-A7B4-E64712A36C7E",
+    "Title": "Biometric Residence Permits",
+    "HRSTag": "hs_8Question",
+    "Date": "2022-11-14T00:00:00",
+    "Location": "Commons Chamber",
+    "House": "Commons",
+    "Source": 2,
+    "VolumeNo": 722,
+    "ContentLastUpdated": "2022-11-17T15:42:27.077",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "CF133A31-DC23-462D-A899-E2B7F1DFD2AB",
+    "NextDebateTitle": "Ingredients Scheduled under Drug Legislation: Review",
+    "PreviousDebateExtId": "300C4FA9-DD84-44CF-8E97-C7DCECB8AB5A",
+    "PreviousDebateTitle": "Knife Crime and Serious Violence"
+  },
+  "Navigator": [
+    {
+      "Id": 4402334,
+      "Title": "Commons Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "20447166-fa46-43c0-87cc-29311fb10efa",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4402338,
+      "Title": "Oral Answers to Questions",
+      "ParentId": 4402334,
+      "SortOrder": 5,
+      "ExternalId": "0C63A394-A075-4658-9FE3-654B9BEA3F88",
+      "HRSTag": "hs_3OralAnswers",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4402339,
+      "Title": "Home Department",
+      "ParentId": 4402338,
+      "SortOrder": 6,
+      "ExternalId": "E36BB7FD-73F1-46CE-9F80-F19DDB1D579A",
+      "HRSTag": "hs_6bDepartment",
+      "HansardSection": "AA-AD",
+      "Timecode": null
+    },
+    {
+      "Id": 4402348,
+      "Title": "Biometric Residence Permits",
+      "ParentId": 4402339,
+      "SortOrder": 15,
+      "ExternalId": "705F505A-81ED-4E62-A7B4-E64712A36C7E",
+      "HRSTag": "hs_8Question",
+      "HansardSection": "AE-AH",
+      "Timecode": null
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323923,
+      "MemberId": 4048,
+      "AttributedTo": "Caroline Nokes (Romsey and Southampton North) (Con)",
+      "Value": "<Question HRSContentId=\"{4A2525D1-7F8A-4433-81D3-67D30844B42C}\">10. <QuestionText HRSContentId=\"{ABFAB476-2C33-4AE6-A144-5DA58751DB0D}\">What steps she is taking to tackle delays in the processing of biometric residence permits.</QuestionText> </Question>",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "4A2525D1-7F8A-4433-81D3-67D30844B42C",
+      "HRSTag": "Question",
+      "HansardSection": "AE-AH",
+      "UIN": "902165",
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323924,
+      "MemberId": 4320,
+      "AttributedTo": "The Minister for Immigration (Robert Jenrick)",
+      "Value": "There are currently no material delays in the physical production or delivery of biometric residence permits. We aim to deliver a BRP within seven working days of the immigration decision. All BRPs are currently being produced within 48 hours of receipt of a production request at the secure printing facility. Our secure delivery partner, FedEx, is attempting to deliver 99% of BRPs within 48 hours of their production and is successfully delivering nearly 80% of them first time.",
+      "OrderInSection": 2,
+      "Timecode": "2022-11-14T15:07:58",
+      "ExternalId": "F10B8FB6-F233-4B5F-A355-C3B063525C0E",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323925,
+      "MemberId": 4048,
+      "AttributedTo": "Caroline Nokes",
+      "Value": "I thank my right hon. Friend for those statistics, which appear to be somewhat at odds with the experience of my constituents: Oksana Vakaliuk, a refugee from Ukraine, has been waiting since 1 May for her BRP; Adnam Hameed was granted his tier 2 visa in May and was still waiting for his BRP last month; and Mohammed Poswall has been waiting since July for his wife to receive the spousal visa stamp in her passport. I really appreciate the work that my right hon. Friend is doing in this respect, but the challenge is that these individuals could be working in our economy, contributing to meeting our skills shortages and paying tax. Will he meet me to go through these and other cases to help understand what is causing the delays, which may be specific to my region?",
+      "OrderInSection": 3,
+      "Timecode": "2022-11-14T15:07:58",
+      "ExternalId": "64E6B0F1-8374-45F7-9477-320C21819C49",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323926,
+      "MemberId": 4320,
+      "AttributedTo": "Robert Jenrick",
+      "Value": "I would be happy to meet my right hon. Friend. As I said in answer to her initial question, the data suggests that the vast majority of customers are receiving their BRPs within seven days and the <span id=\"390\" class=\"column-number\" data-column-number=\"390\"></span>system is working in an acceptable fashion. But if cases are falling through the cracks, it is of course right that we aim to fix that, and I would be pleased to meet her.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "BB9A6A86-E516-49A7-9E49-96DD7A127891",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323927,
+      "MemberId": 1400,
+      "AttributedTo": "Kevin Brennan (Cardiff West) (Lab)",
+      "Value": "Biometrics are obviously important, but going back to spousal visas, which have also been mentioned, the wife of my constituent is an Afghan citizen who is stuck in Iran. As we know, Afghan refugees are not being treated well in Iran, but the Home Office, in reply to me, says that it will not particularly expedite this case. Will the Minister afford me the same courtesy that he did to the right hon. Member for Romsey and Southampton North (Caroline Nokes) and look into the case that I have mentioned if I write to him after this session?",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "50A7411C-BCDE-4E5D-956A-182DC893E367",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 35323928,
+      "MemberId": 4320,
+      "AttributedTo": "Robert Jenrick",
+      "Value": "I would be very happy to do so.",
+      "OrderInSection": 6,
+      "Timecode": null,
+      "ExternalId": "8CFF50AB-4633-4D98-A926-70E134D9FC70",
+      "HRSTag": "hs_Para",
+      "HansardSection": "AE-AH",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

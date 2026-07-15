@@ -1,0 +1,115 @@
+{
+  "Overview": {
+    "Id": 4713450,
+    "ExtId": "685DC084-4D20-4ED5-AE2F-85EF3BD484DB",
+    "Title": "Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]",
+    "HRSTag": "NewDebate",
+    "Date": "2024-09-09T00:00:00",
+    "Location": "Lords Chamber",
+    "House": "Lords",
+    "Source": 2,
+    "VolumeNo": 839,
+    "ContentLastUpdated": "2024-09-10T13:24:27.527",
+    "DebateTypeId": 1,
+    "SectionType": 1,
+    "NextDebateExtId": "09FD4D7E-EAB5-4712-9E78-63C09F03B03C",
+    "NextDebateTitle": "Permitted Development Rights (Extension) Bill [HL]",
+    "PreviousDebateExtId": "71450A69-A06F-4D9B-AE8E-C3B07EF1B50A",
+    "PreviousDebateTitle": "Local Bus Sector"
+  },
+  "Navigator": [
+    {
+      "Id": 4713441,
+      "Title": "Lords Chamber",
+      "ParentId": null,
+      "SortOrder": 1,
+      "ExternalId": "5cfa4f85-be20-4653-8754-22c59f52dc6b",
+      "HRSTag": null,
+      "HansardSection": null,
+      "Timecode": null
+    },
+    {
+      "Id": 4713450,
+      "Title": "Public Authority Algorithmic and Automated Decision-Making Systems Bill [HL]",
+      "ParentId": 4713441,
+      "SortOrder": 10,
+      "ExternalId": "685DC084-4D20-4ED5-AE2F-85EF3BD484DB",
+      "HRSTag": "NewDebate",
+      "HansardSection": "AM2-AN",
+      "Timecode": "2024-09-09T15:33:00"
+    }
+  ],
+  "Items": [
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40305575,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "First Reading",
+      "OrderInSection": 1,
+      "Timecode": null,
+      "ExternalId": "1c0892f0-f6ac-4e26-9b2b-1a769a545c52",
+      "HRSTag": "hs_DebateType",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Timestamp",
+      "ItemId": 2878684,
+      "MemberId": null,
+      "AttributedTo": "",
+      "Value": "15:33:00",
+      "OrderInSection": 2,
+      "Timecode": null,
+      "ExternalId": null,
+      "HRSTag": null,
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40305576,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "A Bill to regulate the use of automated and algorithmic tools in decision-making processes in the public sector, to require public authorities to complete an impact assessment of automated and algorithmic decision-making systems, to ensure the adoption of transparency standards for such systems, and for connected purposes.",
+      "OrderInSection": 3,
+      "Timecode": null,
+      "ExternalId": "24090913000301",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40305577,
+      "MemberId": 3396,
+      "AttributedTo": "Lord Clement-Jones (LD)",
+      "Value": "My Lords, I draw the attention of the House to my AI advisory interests on the register.",
+      "OrderInSection": 4,
+      "Timecode": null,
+      "ExternalId": "DC6A3B96-8EEC-43A2-B1E0-DE97577EB009",
+      "HRSTag": "hs_para",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    },
+    {
+      "ItemType": "Contribution",
+      "ItemId": 40305578,
+      "MemberId": null,
+      "AttributedTo": null,
+      "Value": "The Bill was introduced by Lord Clement-Jones, read a first time and ordered to be printed.",
+      "OrderInSection": 5,
+      "Timecode": null,
+      "ExternalId": "24090913000302",
+      "HRSTag": "hs_Procedure",
+      "HansardSection": "AM2-AN",
+      "UIN": null,
+      "IsReiteration": false
+    }
+  ],
+  "ChildDebates": []
+}

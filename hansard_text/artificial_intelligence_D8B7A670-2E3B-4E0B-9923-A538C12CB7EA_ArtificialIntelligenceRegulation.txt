@@ -1,0 +1,76 @@
+ Artificial Intelligence: Regulation
+
+Question
+
+11:34:00
+
+Asked by
+
+Lord Holmes of Richmond
+To ask His Majesty’s Government whether they plan to regulate artificial intelligence and, if so, which uses they intend to regulate.
+
+Lord Holmes of Richmond (Con)
+My Lords, I beg leave to ask the Question standing in my name on the Order Paper and declare my technology interests as set out in the register.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+My Lords, as set out in the King’s Speech, we will establish legislation to ensure the safe development of AI models by introducing targeted requirements on companies developing the most powerful AI systems, and we will consult on the proposals in due course. This will build on our ongoing commitment to make sure that the UK’s regulators have the expertise and resources to effectively regulate AI in their respective domains.
+
+Lord Holmes of Richmond (Con)
+My Lords, with individuals having loan applications rejected off the back of AI decisions and creatives having their works ingested by GenAI with no consent or remuneration, would not the Minister agree that we need economy-wide and society-wide AI legislation and regulation for the benefit of citizens, consumers, creatives, innovators and investors—for all our AI futures?
+
+Lord Vallance of Balham (Lab)
+Thank you. It is an important area, and one where we have huge opportunities for growth. There is definitely the need for regulators to become upskilled in the ability to look at AI and understand how it impacts their areas. That is the reason we created the Regulatory Innovation Office, announced last week, to make sure that there are the capabilities and expertise in sector-dependent regulators. We also believe that there is a need for regulation for the most advanced models, which are general purpose, and of course cross many different areas as well.
+
+Baroness Chakrabarti (Lab)
+My Lords, notwithstanding the need for sector-specific approaches and expertise, does my noble friend agree that public confidence and constitutional legitimacy require primary legislation, and sooner rather than later?
+
+Lord Vallance of Balham (Lab)
+The reason we are establishing the prospect of an AI Act is to look at those models that are the ones that are at the biggest forefront in general use and carry with them specific opportunities and risks that require that specific legislation. It is not the case that that is true for every aspect of the application of AI in every single area, much of which can be covered by existing regulation and can be dealt with by regulators, provided that they are appropriately reinforced with the skills, capabilities and knowledge required.
+
+Earl Russell (LD)
+My Lords, if a photograph tells 1,000 words, an AI-generated image can tell 1,000 lies. As a photographer, I am concerned about altered or manipulated imagery in journalism and on social media. Generative AI images used in journalism will soon be good enough to blur our ability to discern truth from fiction. What are the Government doing to support a move to a standard of authenticity signatures on real images, so that all photographs can be quickly verified as either real or AI-generated?
+
+Lord Vallance of Balham (Lab)
+This again is a very important area in which there are rapid technological advances. Watermarking to enable understanding of what is original and what is not, and indeed what component of originality is in any finished product, is an important development that is not there yet but is on the way. In the meantime, there are specific provisions in the Online Safety Bill to make sure that the most egregious examples of this are caught—and, indeed, are illegal.
+
+Viscount Colville of Culross (CB)
+My Lords, this Government have pledged to recalibrate trade relations with the EU. However, the new EU AI legislation is much more prescriptive than the regulation proposed by the Government. How will the Government ensure that UK-based AI organisations with operations in the EU, or which deploy AI into the EU, will be aligned with EU regulation?
+
+Lord Vallance of Balham (Lab)
+As the noble Viscount points out, the EU regulation has gone in a somewhat different direction in taking a very broad approach and not a sector-specific approach. In contrast, the US looks as though it is going down a similar sort of route to the one that we are taking. Of course, there will be a need for interoperability globally, because this is a global technology. I think that there will be consultation and interactions with both those domains as we consider the introduction of the AI Act, and we are starting an extensive consultation process over the next few months.
+
+Baroness Stowell of Beeston (Con)
+My Lords, I am somewhat concerned by the Minister’s reference to regulating the most powerful and general purpose models, because I fear that that is a pathway to closing down markets and preventing access to challenger firms. But, in the context of copyright, which is of concern to all content creators and certainly to publishers, are the Government considering a mandatory mechanism to ensure transparency, so that those publishers that choose to opt out their data from the training purposes are able to do so?
+
+Lord Vallance of Balham (Lab)
+In passing, I will just reference the first part: even Eric Schmidt, at the investment summit on Monday, made the point that some sort of guard-rails and some sort of certainty for business are required in order to grow those most important models. There is a demand for something there and that is what we want to try to get right. It is not right to leave nothing as these models progress. I am sorry, I have completely forgotten the second point.
+
+Baroness Stowell of Beeston (Con)
+Transparency.
+
+Lord Vallance of Balham (Lab)
+Yes—the question of intellectual property and transparency is important. We are consulting widely on this with the creative industries and with others. Indeed, in my own review, which I did for the previous Government when I was in my post as the Government Chief Scientific Adviser, I made the very clear point that we need to distinguish between the inputs to these models and what is required for intellectual property control there, and the outputs of the model, which goes back to the question about watermarking and understanding what component of the output is derived from which part of the input.
+
+Baroness Jones of Moulsecoomb (GP)
+My Lords, one area of AI technology that has been used a lot without regulation for many years, and has been exposed as having some quite severe flaws, is that of facial recognition. It is being used a lot by police forces all over Britain and clearly has caused a lot of confusion and made a lot of mistakes. Will that be one area that the Minister will be looking at, specifically for regulation?
+
+Lord Vallance of Balham (Lab)
+That is an area that of course comes under several other parts of regulation already. It is also an area where there are massive changes in the way that these models perform. If one looks at GPT-4 versus GPT-3—I know it is not facial recognition, but it gives an indication of the types of advances—it is about twice as good now as it was a year ago. These things are moving fast and there is indeed a need to understand exactly how facial recognition technology is valid and where it has problems in recognition.
+
+Viscount Camrose (Con)
+My Lords, the supply chain for the development of the more advanced AI systems is, in almost every case, highly global in nature. That means that it becomes quite straightforward for AI developers to offshore their activities from any jurisdiction whose regulations they might prefer not to follow. This being the case, do the Government agree that the regulations for AI development, as distinguished mostly from use, are going to have to be global in nature? If the Government agree with that, how is it reflected in their plans for AI regulation going forward?
+
+Lord Vallance of Balham (Lab)
+The noble Viscount makes an important point. This will be global; there is no question about it. Therefore, there needs to be some degree of interoperability between different regions in terms of the regulations put in place. At the moment, as I said, of the two most advanced, the US is the biggest AI nation in the world and is developing a regulation along similar lines to ours, we believe. The EU is of course the most regulated place in the world for AI and we need to work out, in consultation over the next months, how to make sure that we work out where the areas of interoperability will lie.
+
+Baroness Winterton of Doncaster (Lab)
+My Lords, does my noble friend the Minister agree that any advisory committees on regulation of AI should include smaller companies involved in the sector and also representation from the regions?
+
+Lord Vallance of Balham (Lab)
+This is an area where there were something like 100 new start-ups in the last year alone. We have something like 4,000 small companies. It is an area where small companies are critically important and must be involved in the discussion. It is worth remembering that some of the enormous companies were small companies not very long ago in this space; it is moving fast. I will also take this opportunity to say how fantastic it is that, in our own country, we had a Nobel prize awarded to Demis Hassabis for his extraordinary work and that of his colleague John Jumper at Google DeepMind.
+
+Lord Hannan of Kingsclere (Con)
+My Lords, I was delighted to hear the Minister’s response to my noble friend Lord Camrose. I am so pleased that the Government are taking advantage of this Brexit opportunity. Last week, I got a new iPhone—for the first time in 10 years —and it came with an Apple intelligence function that was not available on the iPhones released on the same day in the EU. Will the Minister confirm that we have no plans to follow Brussels in imposing needless regulation that is hostile to growth and innovation?
+
+Lord Vallance of Balham (Lab)
+We are very minded of the opportunity of AI—the report by Matt Clifford on AI opportunities will be coming out shortly. We want to see this as a growth industry in this country and, as I said, we are developing in the AI Bill an approach that is only about those general models and is not sector-specific regulation, thereby differing from the EU currently.

@@ -1,0 +1,61 @@
+ Open Artificial Intelligence Service
+
+Question
+
+15:18:00
+
+Asked by
+
+Lord Brooke of Alverthorpe
+To ask His Majesty’s Government whether they will explore the possibility of establishing an entity to provide a sovereign open artificial intelligence service on a public-private partnership basis with shares open to British citizens.
+
+The Minister of State, Department for Science, Innovation and Technology (Lord Vallance of Balham) (Lab)
+The Government are committed to building sovereign AI capabilities spanning hardware, software and data, and they have established a sovereign AI unit. This is backed by up to £500 million. The unit will advance UK strategic interests through supporting promising companies. We recently published the compute road map, setting out plans to build cutting-edge, secure and sustainable AI infrastructure, and of course there is the National Data Library. We will explore novel commercial structures, such as public/private partnerships, as part of that delivery model.
+
+Lord Brooke of Alverthorpe (Lab)
+My Lords, I am grateful to the Minister for the conversations he has had with me and for the report he has just given. While we research, others, like the Indians, already understand the sovereignty question. They are now finding ways of funding and launching their own national AI systems, scheduled probably for next year. I know the noble Lord, Lord Clement-Jones, has been at meetings where the Treasury, responsible for AI developments, has indicated surprise that there is pressure for a national sovereign movement. Can we make sure that the Treasury is not taking a long, slow view on this? Can we also make sure that we are exploring all the opportunities open to us to bring more people into creating public/private partnerships in a new way, quite unlike what we have done before, in order to ensure that parents, particularly, can see that the UK is developing an AI system for their children in which they can place their trust?
+
+Lord Vallance of Balham (Lab)
+A lot is going on. What is being considered is investment in companies, but things that have happened include the formation of a new AI computer infrastructure—Isambard-AI went live this summer. The AI Security Institute is determined to make sure that we have the ability to look at risks of future models, and of course there is the National Data Library. So, there is a lot in train and a lot of sovereign capability is being built. The next phase is to make sure that we have investment for companies that are developing the latest models in the UK.
+
+Lord Holmes of Richmond (Con)
+My Lords, I declare my interests as set out in register, not least as adviser on AI to the Crown Estate and Endava plc. Public engagement and public trust are critical to the success of sovereign AI—indeed, critical to the success of all AI. What are the Government doing to engage the public with their sovereign AI aspirations, and to build on that public engagement? Can the Minister inform the House when the consultation paper on the proposed AI Bill will be published—September?
+
+Lord Vallance of Balham (Lab)
+The sovereign AI unit is already publishing what it does on its website and consulting very broadly. As the noble Lord knows, there is a consultation on the AI Bill. I can confirm that it will not be September, but I cannot confirm beyond that.
+
+Lord Clement-Jones (LD)
+My Lords, this kind of citizen ownership clearly has attractions in terms of developing public trust, developing AI for public benefit, and being an antidote to big-tech concentration. But does not open-source AI represent a more straightforward path to AI sovereignty? This avoids the need for massive capital investment in model training and enables new models to be created using UK expertise. Will the Government, through the sovereign AI unit, incentivise and support this approach, perhaps in tandem with the concept of citizen ownership?
+
+Lord Vallance of Balham (Lab)
+As the noble Lord rightly says, the open AI approach—I mean the general approach to openness, not the company—has been an important part of how this has progressed so rapidly and will be an important part of what we do going forward. We need partnerships where necessary in order to access existing models, but we also need to develop our accompanying hardware, data and skills domestic infrastructure. We will continue to view openness as an important part of how we do that.
+
+Lord Ranger of Northwood (Con)
+My Lords, I refer the House to my registered interests and my interest in supporting AI businesses. The Government’s view on sovereign AI must be adjusted with the view that sovereign AI will be designed by the available data and the Government’s data. What is the Government’s view about how that data will be made accessible to private industry? Secondly, how are the Government proceeding on the AI growth zones, which will help different parts of the country significantly? When can we hear about that?
+
+Lord Vallance of Balham (Lab)
+The noble Lord is right: data is fundamental. People often think of this as being just about the algorithms, but you need the data, the algorithms, the hardware and the skills to come together. The National Data Library is being formed. The Health Data Research Service, which will get health data in the right place, is now advertising for the CEO and chair and is designed to bring together data in a much more accessible and usable way, ultimately for the benefit of patients and the NHS, in that instance. The short-listing on AI growth zones has taken place. We already know that one will be in Culham; the others will be announced shortly.
+
+Lord Fox (LD)
+When the Minister listed things that were happening, he listed a bunch of institutions, but he did not mention the Alan Turing Institute. What should be a powerhouse of sovereign capability in this country seems to be descending into chaos and internecine struggle. What are the Government doing to try to sort out this really important institution?
+
+Lord Vallance of Balham (Lab)
+The Alan Turing Institute is of course an independent institution. In 2023, a quinquennial review determined that it needed significant changes, and those changes have been taking place. They will be ongoing and there is indeed a plan to make sure that the institute is able to deliver AI for missions that are important for the Government, whether that is defence, which has been mentioned, or climate and healthcare. I am confident that the institute will get to a place where it is much more able to have the engineering expertise to deliver products that will be of value.
+
+Viscount Camrose (Con)
+My Lords, to build on the excellent question of my noble friend Lord Holmes, I was concerned this morning to be presented with some research to the effect that Britons are among the most nervous about AI of any population. To what does the Minister attribute this falling off in our level of confidence about AI, and what steps do the Government envisage taking to address it going forward?
+
+Lord Vallance of Balham (Lab)
+I am tempted to refer back to surveys I used to see when I worked in a global company, which always came out worse for the UK than anywhere else in the world. But this is a very real issue, and there are major concerns about some aspects of AI. My worry is that we do not concentrate enough on the benefits and articulate those. We have work to do to make it clear that this is going to benefit people and is not just something to worry about; it is going to be beneficial right across the sectors, including in health. We have work to do to get that message out and to ensure that it is understood and believed.
+
+Lord Brennan of Canton (Lab)
+The Minister is right that it will be beneficial, but what thought are the Government giving to developments in some of these businesses—for example, using AI to create digital clones of their employees, and the implications of that for employees’ moral rights over their own name, likeness, attributes and character? Have the Government given some thought to ensuring that human rights are also considered when AI policy is under consideration?
+
+Lord Vallance of Balham (Lab)
+The AI Security Institute was set up to look at the potential risk of new models. It works closely with model developers and gets access to models early, tests them for things that might be problematic, and is an important source of identifying possible issues. There are of course much broader questions, such as the one that has just been asked, which are beyond what happens inside government. That is why the work the Alan Turing Institute started, looking at some of those issues, is important. I am very pleased that many of the people who led that are now being established in academic positions and will continue to address these very important questions as we go forward.
+
+The Earl of Devon (CB)
+My Lords, we have heard repeatedly about the importance of data to the success of our AI industries. We are also well aware that people’s relationship with AI is very much guided by the fear of their data being misused. I understand that Sir Tim Berners-Lee is looking closely at this issue and how we return the ownership of our data to us as individuals from companies that are harvesting it and using it without our consent. What are the Government doing to pursue this and to look at how we as citizens can control our own data in this new AI world?
+
+Lord Vallance of Balham (Lab)
+Of course, this is a major issue, particularly in health data. I was intrigued when speaking recently to colleagues in Denmark. They made the point that they have a very simple message: they provide a health service free of charge, and in return citizens of Denmark are expected to provide their data to improve that service, but they still own the data. The question of how we manage that with data ownership in the UK, in health and beyond, is one of the things the National Data Library and Health Data Research UK will have uppermost in their minds as they develop their services.

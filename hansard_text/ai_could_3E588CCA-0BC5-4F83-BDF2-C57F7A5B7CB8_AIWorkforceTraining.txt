@@ -1,0 +1,59 @@
+ AI: Workforce Training
+
+Question
+
+15:08:00
+
+Asked by
+
+Lord Evans of Rainow
+To ask His Majesty’s Government what steps they are taking to accelerate AI training for the United Kingdom’s existing workforce.
+
+Lord in Waiting/Government Whip (Lord Leong) (Lab)
+My Lords, we want to ensure that people have access to good, meaningful jobs. That is why the Government are supporting workforce readiness for AI through a range of initiatives. The new AI Skills Hub, developed by Innovate UK and PwC, provides streamlined access to digital training. This will support government priorities through tackling critical skills gaps and improving workforce readiness. At the same time, we are partnering with 11 major companies to train 7.5 million UK workers in essential AI skills by 2030.
+
+Lord Evans of Rainow (Con)
+I thank the Minister for that helpful Answer. Artificial intelligence training courses already exist and, as the noble Lord said, there are many of them. British history provides a template to achieve a greater take-up for the wider population. In 1969 Harold Wilson established the Open University, a distance learning model to reach people who could not or would not attend residential courses. BBC broadcasts made it part of the national conversation. Now is the time, perhaps, to replicate that success with artificial intelligence courses for the 21st century, perhaps calling it “Open AI for all”. Does the noble Lord agree?
+
+Lord Leong (Lab)
+I thank the noble Lord for reminding us of the great work of our former Prime Minister Harold Wilson and the Open University. The Government support modern, flexible learning to cater to diverse learners right across the UK. Many universities already offer fully online postgraduate courses in AI. To expand this, we are also introducing the lifelong learning entitlement, LLE, launching in January 2027, which is designed to help people study in ways that fit their lives, especially mature learners looking to retrain or upskill. We are also working with stakeholders, including the Open University, which the noble Lord mentioned, to shape policy and raise awareness. The LLE will make it easier to access education throughout life, wherever and whenever it is needed.
+
+Baroness Jones of Whitchurch (Lab)
+My Lords, it is a real challenge to get the workforce in the 5 million or so SMEs to embrace the advantages of AI while obviously understanding the pitfalls as well. What are the Government doing to make sure that SMEs do not get left behind in the technology race?
+
+Lord Leong (Lab)
+I thank my noble friend for highlighting the many challenges faced by SMEs. The Government are actively supporting SMEs in adopting AI through Innovate UK’s flagship programme, BridgeAI. This initiative targets sectors with low AI adoption but with high growth potential, including construction, transport, logistics, warehousing, agriculture and the creative industries. BridgeAI provides SMEs with funding, expert advice and support to address technical and commercial skills gaps. To build trust, we have also published the AI management essentials, which help SMEs assess and strengthen their AI governance. This guidance is being updated to better meet industry needs and will serve as a practical tool for responsible AI adoption.
+
+Viscount Colville of Culross (CB)
+The Communications and Digital Select Committee, in its report on media literacy, said:
+
+“Ofcom is not the appropriate body to coordinate or deliver a nationwide media literacy programme”. 
+
+It pointed out that
+
+“the Government has failed to fill”
+
+the “leadership vacuum” in this area. What are the Government going to do about that?
+
+Lord Leong (Lab)
+I thank the noble Viscount for that. At the end of the day, the fact is that AI is now central to the UK’s growth strategy. The results are very clear: UK AI companies deliver some £11.8 billion in gross value added, revenues are up 68% and over 86,000 people now work in the sector.
+
+As for the question itself, the point here is that we need to address the skills gap. AI is already changing the way we work, and we need to support everyone in this country in adopting AI skills. We also need a plan to tackle market challenges and ensure that people right across the UK are ready for the future.
+
+Lord Clement-Jones (LD)
+My Lords, I declare an interest as a consultant at DLA Piper on AI policy and regulation. This year the Government have chosen to devolve responsibility for digital boot camps, which in previous years have helped thousands of participants develop new digital skills. There is a new technical funding guide, but what guarantee of funding for future years do providers and local authorities have, and what consistency of procurement is there? For instance, what core requirement is there for the essential AI training content to be carried? At the very minimum, it should include AI literacy and understanding and critical thinking skills.
+
+Lord Leong (Lab)
+The noble Lord made several points there; I will address the point about AI gaps in the workforce. The Government are actively assessing AI skills gaps and taking action to close them. My department regularly reviews the AI labour market and has commissioned new research, due to be released later this year. We are working with the Department for Education and Skills England to map pathways into AI roles. We recently announced a joint commitment with industry to upskill some 7.5 million workers.
+
+Viscount Camrose (Con)
+My Lords, I draw attention to my interest as a director of Lumi Network, as set out in the register. Whether someone is building or using AI, it is far from clear that there is a finite set of teachable skills that keeps them productive in the workplace, or even employable, particularly given the pace of change of the technology itself. In light of the rapid evolution of skills requirements, can the Minister set out some of the Government’s thinking on how to create and maintain an AI workforce on an ongoing basis?
+
+Lord Leong (Lab)
+The noble Viscount has asked the same question that I answered when I replied to the noble Lord, Lord Clement-Jones. We will be upskilling some 7.5 million workers right across the country. I can also share what we are doing with public sector workers: across the department we are working on AI adoption right across government. We back the Government Digital Service’s AI playbook and its 4,000-strong community of practice, which is helping teams use AI effectively and efficiently. We are skilling up early exemplars, such as AI tools for probation caseworkers and tax investigation, to demonstrate how AI can enhance services. A new £42 million fund will support frontier AI exemplars to boost productivity in HR, finance and policy. Through i.AI—the Incubator for Artificial Intelligence—we are also building reusable AI tools and upskilling civil servants right across the country.
+
+Baroness Kidron (CB)
+My Lords, I am very much behind AI training and the vision of the noble Lord, Lord Evans, in his supplementary question. Having benefited from exemplary instruction from a senior research scientist at one of the world’s leading AI companies, I can see how powerful they are. But the noble Lord talked about growth, and AI skills are not the only contributing skills. Creators have been forced to watch as the Government strike deals with the very tech companies that have used their copyrighted work without permission or payment. Can the Minister explain the rationale for sacrificing one of the UK’s most productive and globally respected industries in favour of another that offers fewer jobs and less revenue and whose major beneficiaries are not in the UK but offshore?
+
+Lord Leong (Lab)
+I thank the noble Baroness for the work that she has done in this area. The Government are not sacrificing the contribution made by the creative sector. AI offers significant opportunities, including for creators, who are already using it to enhance their work. I know of designers and artists using AI to support their work. However, we acknowledge the concerns about how AI models utilise creative content; of course that is a concern. That is why we are working closely with artists, rights holders and the tech sector to get this right. We have launched expert groups, are engaging with Parliament and will publish an update this year, and a full report in March 2026. Reform is urgent but it must be balanced. We are committed to protecting creators’ rights and ensuring that AI supports innovation and fair growth right across the creative and tech sectors.
