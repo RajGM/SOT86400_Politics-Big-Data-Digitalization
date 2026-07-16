@@ -9,10 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch:hansard-text": "node fetchHansardText.js",
-    "fetch:hansard-text:test": "node fetchHansardText.js --limit 5 --concurrency 20"
+    "fetch:hansard-text:test": "node fetchHansardText.js --limit 5 --concurrency 20",
+    "fetch:media": "node fetchMediaStatements.js",
+    "fetch:media:test": "node fetchMediaStatements.js --limit 2"
   },
   "dependencies": {
+    "dotenv": "^16.6.1",
     "googleapis": "^148.0.0",
+    "openai": "^4.104.0",
     "puppeteer": "^25.3.0"
   }
 }

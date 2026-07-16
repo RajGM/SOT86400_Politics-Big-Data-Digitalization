@@ -1,0 +1,237 @@
+{
+  "startedAt": "2026-07-16T12:41:50.248Z",
+  "lastUpdated": "2026-07-16T13:02:19.562Z",
+  "completedAt": "2026-07-16T13:02:19.562Z",
+  "summary": {
+    "totalPoliticians": 28,
+    "completed": 28,
+    "failed": 0,
+    "totalArticles": 283
+  },
+  "politicians": [
+    {
+      "name": "Peter Kyle",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 16,
+      "error": null
+    },
+    {
+      "name": "Michelle Donelan",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 14,
+      "error": null
+    },
+    {
+      "name": "Matt Hancock",
+      "party": "Independent",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 16,
+      "error": null
+    },
+    {
+      "name": "Chi Onwurah",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 12,
+      "error": null
+    },
+    {
+      "name": "Saqib Bhatti",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 7,
+      "error": null
+    },
+    {
+      "name": "Chris Bryant",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "Darren Jones",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 7,
+      "error": null
+    },
+    {
+      "name": "Alan Mak",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 13,
+      "error": null
+    },
+    {
+      "name": "Stephen Timms",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 6,
+      "error": null
+    },
+    {
+      "name": "Joanna Cherry",
+      "party": "SNP",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "Margot James",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "Kevin Foster",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 14,
+      "error": null
+    },
+    {
+      "name": "Greg Clark",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 14,
+      "error": null
+    },
+    {
+      "name": "Theresa May",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 6,
+      "error": null
+    },
+    {
+      "name": "Feryal Clark",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "George Freeman",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 10,
+      "error": null
+    },
+    {
+      "name": "Paul Scully",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 5,
+      "error": null
+    },
+    {
+      "name": "Lucy Frazer",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 7,
+      "error": null
+    },
+    {
+      "name": "Oliver Dowden",
+      "party": "Conservative",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 11,
+      "error": null
+    },
+    {
+      "name": "Kanishka Narayan",
+      "party": "Labour",
+      "house": "Commons",
+      "status": "completed",
+      "articlesFound": 12,
+      "error": null
+    },
+    {
+      "name": "Lord Clement-Jones",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "Viscount Camrose",
+      "party": "Conservative",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 12,
+      "error": null
+    },
+    {
+      "name": "Lord Vallance",
+      "party": "Labour",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 15,
+      "error": null
+    },
+    {
+      "name": "Baroness Kidron",
+      "party": "Crossbench",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 15,
+      "error": null
+    },
+    {
+      "name": "Lord Holmes",
+      "party": "Conservative",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 3,
+      "error": null
+    },
+    {
+      "name": "Baroness Hamwee",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    },
+    {
+      "name": "Lord Keen",
+      "party": "Conservative",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 12,
+      "error": null
+    },
+    {
+      "name": "Baroness Neville-Rolfe",
+      "party": "Conservative",
+      "house": "Lords",
+      "status": "completed",
+      "articlesFound": 8,
+      "error": null
+    }
+  ]
+}
