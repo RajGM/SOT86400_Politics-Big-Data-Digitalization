@@ -1,0 +1,639 @@
+{
+  "mergedAt": "2026-07-20T00:52:49.159Z",
+  "rawFiles": 126,
+  "rowsBeforeApprox": 237545,
+  "rowsAfter": 1248,
+  "politiciansCovered": 126,
+  "perPolitician": [
+    {
+      "file": "lord_oates.json",
+      "name": "Lord Oates",
+      "articles": 20
+    },
+    {
+      "file": "geraint_davies.json",
+      "name": "Geraint Davies",
+      "articles": 19
+    },
+    {
+      "file": "lord_brooke.json",
+      "name": "Lord Brooke",
+      "articles": 17
+    },
+    {
+      "file": "lindsay_hoyle.json",
+      "name": "Lindsay Hoyle",
+      "articles": 16
+    },
+    {
+      "file": "matt_hancock.json",
+      "name": "Matt Hancock",
+      "articles": 16
+    },
+    {
+      "file": "peter_kyle.json",
+      "name": "Peter Kyle",
+      "articles": 16
+    },
+    {
+      "file": "sue_ellen_braverman.json",
+      "name": "Sue-Ellen Braverman",
+      "articles": 16
+    },
+    {
+      "file": "baroness_brinton.json",
+      "name": "Baroness Brinton",
+      "articles": 15
+    },
+    {
+      "file": "baroness_kidron.json",
+      "name": "Baroness Kidron",
+      "articles": 15
+    },
+    {
+      "file": "christian_wakeford.json",
+      "name": "Christian Wakeford",
+      "articles": 15
+    },
+    {
+      "file": "lord_howarth.json",
+      "name": "Lord Howarth",
+      "articles": 15
+    },
+    {
+      "file": "lord_vallance.json",
+      "name": "Lord Vallance",
+      "articles": 15
+    },
+    {
+      "file": "baroness_chakrabarti.json",
+      "name": "Baroness Chakrabarti",
+      "articles": 14
+    },
+    {
+      "file": "baroness_scott.json",
+      "name": "Baroness Scott",
+      "articles": 14
+    },
+    {
+      "file": "baroness_vere.json",
+      "name": "Baroness Vere",
+      "articles": 14
+    },
+    {
+      "file": "greg_clark.json",
+      "name": "Greg Clark",
+      "articles": 14
+    },
+    {
+      "file": "kevin_foster.json",
+      "name": "Kevin Foster",
+      "articles": 14
+    },
+    {
+      "file": "liz_truss.json",
+      "name": "Liz Truss",
+      "articles": 14
+    },
+    {
+      "file": "lord_browne.json",
+      "name": "Lord Browne",
+      "articles": 14
+    },
+    {
+      "file": "lord_scriven.json",
+      "name": "Lord Scriven",
+      "articles": 14
+    },
+    {
+      "file": "lord_smith.json",
+      "name": "Lord Smith",
+      "articles": 14
+    },
+    {
+      "file": "lord_stevenson_of_balmacara.json",
+      "name": "Lord Stevenson of Balmacara",
+      "articles": 14
+    },
+    {
+      "file": "lord_wallace.json",
+      "name": "Lord Wallace",
+      "articles": 14
+    },
+    {
+      "file": "lord_west_of_spithead.json",
+      "name": "Lord West of Spithead",
+      "articles": 14
+    },
+    {
+      "file": "michelle_donelan.json",
+      "name": "Michelle Donelan",
+      "articles": 14
+    },
+    {
+      "file": "robert_seely.json",
+      "name": "Robert Seely",
+      "articles": 14
+    },
+    {
+      "file": "alan_mak.json",
+      "name": "Alan Mak",
+      "articles": 13
+    },
+    {
+      "file": "baroness_bakewell.json",
+      "name": "Baroness Bakewell",
+      "articles": 13
+    },
+    {
+      "file": "baroness_smith.json",
+      "name": "Baroness Smith",
+      "articles": 13
+    },
+    {
+      "file": "baroness_thornton.json",
+      "name": "Baroness Thornton",
+      "articles": 13
+    },
+    {
+      "file": "chris_philp.json",
+      "name": "Chris Philp",
+      "articles": 13
+    },
+    {
+      "file": "lord_houghton.json",
+      "name": "Lord Houghton",
+      "articles": 13
+    },
+    {
+      "file": "lord_hunt.json",
+      "name": "Lord Hunt",
+      "articles": 13
+    },
+    {
+      "file": "alexandra_davies_jones.json",
+      "name": "Alexandra Davies-Jones",
+      "articles": 12
+    },
+    {
+      "file": "baroness_williams_of_trafford.json",
+      "name": "Baroness Williams of Trafford",
+      "articles": 12
+    },
+    {
+      "file": "barry_gardiner.json",
+      "name": "Barry Gardiner",
+      "articles": 12
+    },
+    {
+      "file": "ben_everitt.json",
+      "name": "Ben Everitt",
+      "articles": 12
+    },
+    {
+      "file": "chi_onwurah.json",
+      "name": "Chi Onwurah",
+      "articles": 12
+    },
+    {
+      "file": "david_davis.json",
+      "name": "David Davis",
+      "articles": 12
+    },
+    {
+      "file": "kanishka_narayan.json",
+      "name": "Kanishka Narayan",
+      "articles": 12
+    },
+    {
+      "file": "lord_giddens.json",
+      "name": "Lord Giddens",
+      "articles": 12
+    },
+    {
+      "file": "lord_keen.json",
+      "name": "Lord Keen",
+      "articles": 12
+    },
+    {
+      "file": "matthew_warman.json",
+      "name": "Matthew Warman",
+      "articles": 12
+    },
+    {
+      "file": "michael_ellis.json",
+      "name": "Michael Ellis",
+      "articles": 12
+    },
+    {
+      "file": "michael_gove.json",
+      "name": "Michael Gove",
+      "articles": 12
+    },
+    {
+      "file": "robert_neill.json",
+      "name": "Robert Neill",
+      "articles": 12
+    },
+    {
+      "file": "viscount_camrose.json",
+      "name": "Viscount Camrose",
+      "articles": 12
+    },
+    {
+      "file": "alexander_sobel.json",
+      "name": "Alexander Sobel",
+      "articles": 11
+    },
+    {
+      "file": "baroness_barran.json",
+      "name": "Baroness Barran",
+      "articles": 11
+    },
+    {
+      "file": "baroness_morgan.json",
+      "name": "Baroness Morgan",
+      "articles": 11
+    },
+    {
+      "file": "earl_howe.json",
+      "name": "Earl Howe",
+      "articles": 11
+    },
+    {
+      "file": "lord_alton.json",
+      "name": "Lord Alton",
+      "articles": 11
+    },
+    {
+      "file": "lord_gardiner.json",
+      "name": "Lord Gardiner",
+      "articles": 11
+    },
+    {
+      "file": "lord_grimstone.json",
+      "name": "Lord Grimstone",
+      "articles": 11
+    },
+    {
+      "file": "lord_paddick.json",
+      "name": "Lord Paddick",
+      "articles": 11
+    },
+    {
+      "file": "lord_parkinson_of_whitley_bay.json",
+      "name": "Lord Parkinson of Whitley Bay",
+      "articles": 11
+    },
+    {
+      "file": "lord_rosser.json",
+      "name": "Lord Rosser",
+      "articles": 11
+    },
+    {
+      "file": "oliver_dowden.json",
+      "name": "Oliver Dowden",
+      "articles": 11
+    },
+    {
+      "file": "baroness_blackwood.json",
+      "name": "Baroness Blackwood",
+      "articles": 10
+    },
+    {
+      "file": "christopher_malthouse.json",
+      "name": "Christopher Malthouse",
+      "articles": 10
+    },
+    {
+      "file": "george_freeman.json",
+      "name": "George Freeman",
+      "articles": 10
+    },
+    {
+      "file": "john_whittingdale.json",
+      "name": "John Whittingdale",
+      "articles": 10
+    },
+    {
+      "file": "lord_greaves.json",
+      "name": "Lord Greaves",
+      "articles": 10
+    },
+    {
+      "file": "lord_harrington.json",
+      "name": "Lord Harrington",
+      "articles": 10
+    },
+    {
+      "file": "lord_howe.json",
+      "name": "Lord Howe",
+      "articles": 10
+    },
+    {
+      "file": "lord_mann.json",
+      "name": "Lord Mann",
+      "articles": 10
+    },
+    {
+      "file": "lord_seymour.json",
+      "name": "Lord Seymour",
+      "articles": 10
+    },
+    {
+      "file": "stuart_mcdonald.json",
+      "name": "Stuart McDonald",
+      "articles": 10
+    },
+    {
+      "file": "thomas_pursglove.json",
+      "name": "Thomas Pursglove",
+      "articles": 10
+    },
+    {
+      "file": "alexander_johnson.json",
+      "name": "Alexander Johnson",
+      "articles": 9
+    },
+    {
+      "file": "antony_higginbotham.json",
+      "name": "Antony Higginbotham",
+      "articles": 9
+    },
+    {
+      "file": "lord_bethell.json",
+      "name": "Lord Bethell",
+      "articles": 9
+    },
+    {
+      "file": "lord_croft.json",
+      "name": "Lord Croft",
+      "articles": 9
+    },
+    {
+      "file": "lord_fox.json",
+      "name": "Lord Fox",
+      "articles": 9
+    },
+    {
+      "file": "lord_kamall.json",
+      "name": "Lord Kamall",
+      "articles": 9
+    },
+    {
+      "file": "lord_kennedy.json",
+      "name": "Lord Kennedy",
+      "articles": 9
+    },
+    {
+      "file": "stephen_kinnock.json",
+      "name": "Stephen Kinnock",
+      "articles": 9
+    },
+    {
+      "file": "andrea_leadsom.json",
+      "name": "Andrea Leadsom",
+      "articles": 8
+    },
+    {
+      "file": "andrew_griffith.json",
+      "name": "Andrew Griffith",
+      "articles": 8
+    },
+    {
+      "file": "baroness_bennett.json",
+      "name": "Baroness Bennett",
+      "articles": 8
+    },
+    {
+      "file": "baroness_hamwee.json",
+      "name": "Baroness Hamwee",
+      "articles": 8
+    },
+    {
+      "file": "baroness_neville_rolfe.json",
+      "name": "Baroness Neville-Rolfe",
+      "articles": 8
+    },
+    {
+      "file": "caroline_lucas.json",
+      "name": "Caroline Lucas",
+      "articles": 8
+    },
+    {
+      "file": "chris_bryant.json",
+      "name": "Chris Bryant",
+      "articles": 8
+    },
+    {
+      "file": "damian_collins.json",
+      "name": "Damian Collins",
+      "articles": 8
+    },
+    {
+      "file": "feryal_clark.json",
+      "name": "Feryal Clark",
+      "articles": 8
+    },
+    {
+      "file": "gregory_hands.json",
+      "name": "Gregory Hands",
+      "articles": 8
+    },
+    {
+      "file": "jeremy_quin.json",
+      "name": "Jeremy Quin",
+      "articles": 8
+    },
+    {
+      "file": "joanna_cherry.json",
+      "name": "Joanna Cherry",
+      "articles": 8
+    },
+    {
+      "file": "lord_ahmad.json",
+      "name": "Lord Ahmad",
+      "articles": 8
+    },
+    {
+      "file": "lord_anderson.json",
+      "name": "Lord Anderson",
+      "articles": 8
+    },
+    {
+      "file": "lord_callanan.json",
+      "name": "Lord Callanan",
+      "articles": 8
+    },
+    {
+      "file": "lord_clement_jones.json",
+      "name": "Lord Clement-Jones",
+      "articles": 8
+    },
+    {
+      "file": "lord_maclean.json",
+      "name": "Lord Maclean",
+      "articles": 8
+    },
+    {
+      "file": "lord_sharpe.json",
+      "name": "Lord Sharpe",
+      "articles": 8
+    },
+    {
+      "file": "lord_true.json",
+      "name": "Lord True",
+      "articles": 8
+    },
+    {
+      "file": "margot_james.json",
+      "name": "Margot James",
+      "articles": 8
+    },
+    {
+      "file": "richard_fuller.json",
+      "name": "Richard Fuller",
+      "articles": 8
+    },
+    {
+      "file": "robert_buckland.json",
+      "name": "Robert Buckland",
+      "articles": 8
+    },
+    {
+      "file": "stephen_barclay.json",
+      "name": "Stephen Barclay",
+      "articles": 8
+    },
+    {
+      "file": "baroness_goldie.json",
+      "name": "Baroness Goldie",
+      "articles": 7
+    },
+    {
+      "file": "baroness_rock.json",
+      "name": "Baroness Rock",
+      "articles": 7
+    },
+    {
+      "file": "conor_burns.json",
+      "name": "Conor Burns",
+      "articles": 7
+    },
+    {
+      "file": "darren_jones.json",
+      "name": "Darren Jones",
+      "articles": 7
+    },
+    {
+      "file": "jacob_rees_mogg.json",
+      "name": "Jacob Rees-Mogg",
+      "articles": 7
+    },
+    {
+      "file": "lord_younger.json",
+      "name": "Lord Younger",
+      "articles": 7
+    },
+    {
+      "file": "lucy_frazer.json",
+      "name": "Lucy Frazer",
+      "articles": 7
+    },
+    {
+      "file": "priti_patel.json",
+      "name": "Priti Patel",
+      "articles": 7
+    },
+    {
+      "file": "saqib_bhatti.json",
+      "name": "Saqib Bhatti",
+      "articles": 7
+    },
+    {
+      "file": "barbara_keeley.json",
+      "name": "Barbara Keeley",
+      "articles": 6
+    },
+    {
+      "file": "baroness_jones.json",
+      "name": "Baroness Jones",
+      "articles": 6
+    },
+    {
+      "file": "julian_knight.json",
+      "name": "Julian Knight",
+      "articles": 6
+    },
+    {
+      "file": "kevin_hollinrake.json",
+      "name": "Kevin Hollinrake",
+      "articles": 6
+    },
+    {
+      "file": "stephen_timms.json",
+      "name": "Stephen Timms",
+      "articles": 6
+    },
+    {
+      "file": "theresa_may.json",
+      "name": "Theresa May",
+      "articles": 6
+    },
+    {
+      "file": "yvette_cooper.json",
+      "name": "Yvette Cooper",
+      "articles": 6
+    },
+    {
+      "file": "paul_scully.json",
+      "name": "Paul Scully",
+      "articles": 5
+    },
+    {
+      "file": "sarah_olney.json",
+      "name": "Sarah Olney",
+      "articles": 5
+    },
+    {
+      "file": "jessica_morden.json",
+      "name": "Jessica Morden",
+      "articles": 4
+    },
+    {
+      "file": "jonathan_ashworth.json",
+      "name": "Jonathan Ashworth",
+      "articles": 4
+    },
+    {
+      "file": "lord_broers.json",
+      "name": "Lord Broers",
+      "articles": 4
+    },
+    {
+      "file": "lord_kirkhope.json",
+      "name": "Lord Kirkhope",
+      "articles": 4
+    },
+    {
+      "file": "christopher_green.json",
+      "name": "Christopher Green",
+      "articles": 3
+    },
+    {
+      "file": "damian_hinds.json",
+      "name": "Damian Hinds",
+      "articles": 3
+    },
+    {
+      "file": "lord_freyberg.json",
+      "name": "Lord Freyberg",
+      "articles": 3
+    },
+    {
+      "file": "lord_holmes.json",
+      "name": "Lord Holmes",
+      "articles": 3
+    }
+  ]
+}

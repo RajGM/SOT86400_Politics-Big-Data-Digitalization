@@ -1,0 +1,4 @@
+before_articles=283
+before_politicians=28
+before_raw_files=28
+started_at=2026-07-20T01:34:26.7033780+02:00

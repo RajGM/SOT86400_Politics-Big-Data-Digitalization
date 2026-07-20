@@ -11,7 +11,11 @@
     "fetch:hansard-text": "node fetchHansardText.js",
     "fetch:hansard-text:test": "node fetchHansardText.js --limit 5 --concurrency 20",
     "fetch:media": "node fetchMediaStatements.js",
-    "fetch:media:test": "node fetchMediaStatements.js --limit 2"
+    "fetch:media:test": "node fetchMediaStatements.js --limit 2",
+    "extract:speakers": "node extractTopSpeakers.js --top 40",
+    "fetch:media:expand": "node fetchMediaStatements.js --provider openai --from media_statements/speakers_to_search.json --onlyNew --limit 30 --delay 2000",
+    "merge:media": "node mergeMediaStatements.js --report",
+    "media:expand": "node masterMediaExpansion.js"
   },
   "dependencies": {
     "dotenv": "^16.6.1",

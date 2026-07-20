@@ -1,0 +1,1013 @@
+{
+  "generatedAt": "2026-07-19T23:48:42.517Z",
+  "source": [
+    "parlamint_parsed\\parlamint_ai_debates.csv"
+  ],
+  "mediaListCount": 28,
+  "totalSpeakers": 418,
+  "alreadyInMediaList": 15,
+  "unsearchedCount": 403,
+  "topN": 100,
+  "candidates": [
+    {
+      "name": "Baroness Williams of Trafford",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 32",
+      "utteranceCount": 32,
+      "rank": 1,
+      "speakerId": "SusanWilliams",
+      "speakerName": "Susan Williams"
+    },
+    {
+      "name": "Baroness Barran",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 20",
+      "utteranceCount": 20,
+      "rank": 4,
+      "speakerId": "DianaBarran",
+      "speakerName": "Diana Barran"
+    },
+    {
+      "name": "Robert Seely",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 20",
+      "utteranceCount": 20,
+      "rank": 6,
+      "speakerId": "RobertSeely",
+      "speakerName": "Robert William Henry Seely"
+    },
+    {
+      "name": "Lord Bethell",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 17",
+      "utteranceCount": 17,
+      "rank": 7,
+      "speakerId": "JamesBethell",
+      "speakerName": "James Bethell"
+    },
+    {
+      "name": "Baroness Ludford",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 15",
+      "utteranceCount": 15,
+      "rank": 8,
+      "speakerId": "SarahLudford",
+      "speakerName": "Sarah Ludford"
+    },
+    {
+      "name": "Lord Parkinson of Whitley Bay",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 13",
+      "utteranceCount": 13,
+      "rank": 10,
+      "speakerId": "StephenParkinson",
+      "speakerName": "Stephen Parkinson"
+    },
+    {
+      "name": "Lord West of Spithead",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 10",
+      "utteranceCount": 10,
+      "rank": 12,
+      "speakerId": "AlanWest",
+      "speakerName": "Alan William John West"
+    },
+    {
+      "name": "Ben Everitt",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 10",
+      "utteranceCount": 10,
+      "rank": 13,
+      "speakerId": "BenEveritt",
+      "speakerName": "Ben Everitt"
+    },
+    {
+      "name": "Lord Paddick",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 10",
+      "utteranceCount": 10,
+      "rank": 14,
+      "speakerId": "BrianPaddick",
+      "speakerName": "Brian Paddick"
+    },
+    {
+      "name": "Christopher Malthouse",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 10",
+      "utteranceCount": 10,
+      "rank": 15,
+      "speakerId": "ChristopherMalthouse",
+      "speakerName": "Christopher Laurie Malthouse"
+    },
+    {
+      "name": "Gregory Hands",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 10",
+      "utteranceCount": 10,
+      "rank": 16,
+      "speakerId": "GregoryHands",
+      "speakerName": "Gregory William Hands"
+    },
+    {
+      "name": "David Davis",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 9",
+      "utteranceCount": 9,
+      "rank": 17,
+      "speakerId": "DavidDavis",
+      "speakerName": "David Michael Davis"
+    },
+    {
+      "name": "Baroness Goldie",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 8",
+      "utteranceCount": 8,
+      "rank": 18,
+      "speakerId": "AnnabelGoldie",
+      "speakerName": "Annabel Goldie"
+    },
+    {
+      "name": "Damian Collins",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 8",
+      "utteranceCount": 8,
+      "rank": 19,
+      "speakerId": "DamianCollins",
+      "speakerName": "Damian Noel Thomas Collins"
+    },
+    {
+      "name": "Liz Truss",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 8",
+      "utteranceCount": 8,
+      "rank": 20,
+      "speakerId": "ElizabethTruss",
+      "speakerName": "Elizabeth Mary Truss"
+    },
+    {
+      "name": "Lord Rosser",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 8",
+      "utteranceCount": 8,
+      "rank": 21,
+      "speakerId": "RichardRosser",
+      "speakerName": "Richard Rosser"
+    },
+    {
+      "name": "Lord Alton",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 7",
+      "utteranceCount": 7,
+      "rank": 22,
+      "speakerId": "DavidAlton",
+      "speakerName": "David Alton"
+    },
+    {
+      "name": "Jacob Rees-Mogg",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 7",
+      "utteranceCount": 7,
+      "rank": 23,
+      "speakerId": "JacobReesMogg",
+      "speakerName": "Jacob William Rees-Mogg"
+    },
+    {
+      "name": "Christopher Green",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 24,
+      "speakerId": "ChristopherGreen",
+      "speakerName": "Christopher James Green"
+    },
+    {
+      "name": "Lord Browne",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 25,
+      "speakerId": "DesmondBrowne",
+      "speakerName": "Desmond Browne"
+    },
+    {
+      "name": "Baroness Jones",
+      "party": "Green Party",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 26,
+      "speakerId": "JenniferJones",
+      "speakerName": "Jennifer Jones"
+    },
+    {
+      "name": "Kevin Hollinrake",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 27,
+      "speakerId": "KevinHollinrake",
+      "speakerName": "Kevin Paul Hollinrake"
+    },
+    {
+      "name": "Lord True",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 28,
+      "speakerId": "NicholasTrue",
+      "speakerName": "Nicholas True"
+    },
+    {
+      "name": "Lord Hunt",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 29,
+      "speakerId": "PhilipHunt",
+      "speakerName": "Philip Alexander Hunt"
+    },
+    {
+      "name": "Priti Patel",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 30,
+      "speakerId": "PritiPatel",
+      "speakerName": "Priti Sushil Patel"
+    },
+    {
+      "name": "Lord Stevenson of Balmacara",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 31,
+      "speakerId": "RobertStevenson",
+      "speakerName": "Robert Stevenson"
+    },
+    {
+      "name": "Lord Croft",
+      "party": "Bishops",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 6",
+      "utteranceCount": 6,
+      "rank": 33,
+      "speakerId": "StevenCroft",
+      "speakerName": "Steven Croft"
+    },
+    {
+      "name": "Lord Oates",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 5",
+      "utteranceCount": 5,
+      "rank": 34,
+      "speakerId": "JonathanOates",
+      "speakerName": "Jonathan Oates"
+    },
+    {
+      "name": "Julian Knight",
+      "party": "Independent",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 5",
+      "utteranceCount": 5,
+      "rank": 35,
+      "speakerId": "JulianKnight",
+      "speakerName": "Julian Carlton Knight"
+    },
+    {
+      "name": "Lord Scriven",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 5",
+      "utteranceCount": 5,
+      "rank": 36,
+      "speakerId": "PaulScriven",
+      "speakerName": "Paul Scriven"
+    },
+    {
+      "name": "Alexander Johnson",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 37,
+      "speakerId": "AlexanderJohnson",
+      "speakerName": "Alexander Boris de Pfeffel Johnson"
+    },
+    {
+      "name": "Andrew Griffith",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 38,
+      "speakerId": "AndrewGriffith",
+      "speakerName": "Andrew Griffith"
+    },
+    {
+      "name": "Lord Giddens",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 39,
+      "speakerId": "AnthonyGiddens",
+      "speakerName": "Anthony Giddens"
+    },
+    {
+      "name": "Baroness Vere",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 41,
+      "speakerId": "CharlotteVere",
+      "speakerName": "Charlotte Vere"
+    },
+    {
+      "name": "Lord Brooke",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 42,
+      "speakerId": "CliveBrooke",
+      "speakerName": "Clive Brooke"
+    },
+    {
+      "name": "Conor Burns",
+      "party": "Independent",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 43,
+      "speakerId": "ConorBurns",
+      "speakerName": "Conor Burns"
+    },
+    {
+      "name": "Baroness Thornton",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 45,
+      "speakerId": "DorotheaThornton",
+      "speakerName": "Dorothea Glenys Thornton"
+    },
+    {
+      "name": "Earl Howe",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 46,
+      "speakerId": "FrederickCurzon",
+      "speakerName": "Frederick Richard Penn Curzon"
+    },
+    {
+      "name": "Lord Grimstone",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 47,
+      "speakerId": "GeraldGrimstone",
+      "speakerName": "Gerald Grimstone"
+    },
+    {
+      "name": "Baroness Scott",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 48,
+      "speakerId": "JaneScott",
+      "speakerName": "Jane Scott"
+    },
+    {
+      "name": "Jeremy Quin",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 49,
+      "speakerId": "JeremyQuin",
+      "speakerName": "Jeremy Mark Quin"
+    },
+    {
+      "name": "Lord Gardiner",
+      "party": "Non-affiliated",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 50,
+      "speakerId": "JohnGardiner",
+      "speakerName": "John Eric Gardiner"
+    },
+    {
+      "name": "John Whittingdale",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 51,
+      "speakerId": "JohnWhittingdale",
+      "speakerName": "John Flasby Lawrance Whittingdale"
+    },
+    {
+      "name": "Lord Mann",
+      "party": "Non-affiliated",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 52,
+      "speakerId": "JohnMann",
+      "speakerName": "John Mann"
+    },
+    {
+      "name": "Lindsay Hoyle",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 53,
+      "speakerId": "LindsayHoyle",
+      "speakerName": "Lindsay Harvey Hoyle"
+    },
+    {
+      "name": "Baroness Jones",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 54,
+      "speakerId": "MargaretJones",
+      "speakerName": "Margaret Beryl Jones"
+    },
+    {
+      "name": "Lord Callanan",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 55,
+      "speakerId": "MartinCallanan",
+      "speakerName": "Martin Callanan"
+    },
+    {
+      "name": "Matthew Warman",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 56,
+      "speakerId": "MatthewWarman",
+      "speakerName": "Matthew Robert Warman"
+    },
+    {
+      "name": "Michael Gove",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 57,
+      "speakerId": "MichaelGove",
+      "speakerName": "Michael Andrew Gove"
+    },
+    {
+      "name": "Michael Ellis",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 58,
+      "speakerId": "MichaelEllis",
+      "speakerName": "Michael Tyrone Ellis"
+    },
+    {
+      "name": "Baroness Bennett",
+      "party": "Green Party",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 59,
+      "speakerId": "NatalieBennett",
+      "speakerName": "Natalie Bennett"
+    },
+    {
+      "name": "Baroness Morgan",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 60,
+      "speakerId": "NickyMorgan",
+      "speakerName": "Nicky Morgan"
+    },
+    {
+      "name": "Baroness Blackwood",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 61,
+      "speakerId": "NicolaBlackwood",
+      "speakerName": "Nicola Blackwood"
+    },
+    {
+      "name": "Stuart McDonald",
+      "party": "SNP",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 62,
+      "speakerId": "StuartMcDonald",
+      "speakerName": "Stuart Campbell McDonald"
+    },
+    {
+      "name": "Lord Kamall",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 63,
+      "speakerId": "SyedKamall",
+      "speakerName": "Syed Kamall"
+    },
+    {
+      "name": "Lord Ahmad",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 64,
+      "speakerId": "TariqAhmad",
+      "speakerName": "Tariq Ahmad"
+    },
+    {
+      "name": "Yvette Cooper",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 4",
+      "utteranceCount": 4,
+      "rank": 65,
+      "speakerId": "YvetteCooper",
+      "speakerName": "Yvette Cooper"
+    },
+    {
+      "name": "Alexandra Davies-Jones",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 66,
+      "speakerId": "AlexandraDaviesJones",
+      "speakerName": "Alexandra Mary Davies-Jones"
+    },
+    {
+      "name": "Lord Sharpe",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 67,
+      "speakerId": "AndrewSharpe",
+      "speakerName": "Andrew Sharpe"
+    },
+    {
+      "name": "Antony Higginbotham",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 68,
+      "speakerId": "AntonyHigginbotham",
+      "speakerName": "Antony Higginbotham"
+    },
+    {
+      "name": "Barbara Keeley",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 69,
+      "speakerId": "BarbaraKeeley",
+      "speakerName": "Barbara Mary Keeley"
+    },
+    {
+      "name": "Barry Gardiner",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 70,
+      "speakerId": "BarryGardiner",
+      "speakerName": "Barry Strachan Gardiner"
+    },
+    {
+      "name": "Caroline Lucas",
+      "party": "Green Party",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 71,
+      "speakerId": "CarolineLucas",
+      "speakerName": "Caroline Lucas"
+    },
+    {
+      "name": "Chris Philp",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 72,
+      "speakerId": "ChrisPhilp",
+      "speakerName": "Chris Ian Brian Mynott Philp"
+    },
+    {
+      "name": "Damian Hinds",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 73,
+      "speakerId": "DamianHinds",
+      "speakerName": "Damian Patrick George Hinds"
+    },
+    {
+      "name": "Lord Anderson",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 74,
+      "speakerId": "DavidAnderson",
+      "speakerName": "David Anderson"
+    },
+    {
+      "name": "Lord Maclean",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 75,
+      "speakerId": "DavidMaclean",
+      "speakerName": "David John Maclean"
+    },
+    {
+      "name": "Geraint Davies",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 77,
+      "speakerId": "GeraintDavies",
+      "speakerName": "Geraint Richard Davies"
+    },
+    {
+      "name": "Lord Younger",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 78,
+      "speakerId": "JamesYounger",
+      "speakerName": "James Younger"
+    },
+    {
+      "name": "Jessica Morden",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 79,
+      "speakerId": "JessicaMorden",
+      "speakerName": "Jessica Elizabeth Morden"
+    },
+    {
+      "name": "Lord Houghton",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 81,
+      "speakerId": "JohnHoughton",
+      "speakerName": "John Houghton"
+    },
+    {
+      "name": "Lord Seymour",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 82,
+      "speakerId": "JohnSeymour",
+      "speakerName": "John Seymour"
+    },
+    {
+      "name": "Jonathan Ashworth",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 83,
+      "speakerId": "JonathanAshworth",
+      "speakerName": "Jonathan Michael Graham Ashworth"
+    },
+    {
+      "name": "Baroness Rock",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 84,
+      "speakerId": "KateRock",
+      "speakerName": "Kate Rock"
+    },
+    {
+      "name": "Lord Harrington",
+      "party": "Independent",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 86,
+      "speakerId": "RichardHarrington",
+      "speakerName": "Richard Harrington"
+    },
+    {
+      "name": "Richard Fuller",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 87,
+      "speakerId": "RichardFuller",
+      "speakerName": "Richard Quentin Fuller"
+    },
+    {
+      "name": "Robert Buckland",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 88,
+      "speakerId": "RobertBuckland",
+      "speakerName": "Robert James Buckland"
+    },
+    {
+      "name": "Robert Neill",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 89,
+      "speakerId": "RobertNeill",
+      "speakerName": "Robert James MacGillivray Neill"
+    },
+    {
+      "name": "Lord Kennedy",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 90,
+      "speakerId": "RoyKennedy",
+      "speakerName": "Roy Kennedy"
+    },
+    {
+      "name": "Sarah Olney",
+      "party": "Liberal Democrat",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 91,
+      "speakerId": "SarahOlney",
+      "speakerName": "Sarah Jane Olney"
+    },
+    {
+      "name": "Baroness Brinton",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 92,
+      "speakerId": "SarahBrinton",
+      "speakerName": "Sarah Virginia Brinton"
+    },
+    {
+      "name": "Baroness Chakrabarti",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 93,
+      "speakerId": "ShamiChakrabarti",
+      "speakerName": "Shami Chakrabarti"
+    },
+    {
+      "name": "Stephen Kinnock",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 94,
+      "speakerId": "StephenKinnock",
+      "speakerName": "Stephen Nathan Kinnock"
+    },
+    {
+      "name": "Stephen Barclay",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 95,
+      "speakerId": "StephenBarclay",
+      "speakerName": "Stephen Paul Barclay"
+    },
+    {
+      "name": "Sue-Ellen Braverman",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 96,
+      "speakerId": "SueEllenBraverman",
+      "speakerName": "Sue-Ellen Cassiana Braverman"
+    },
+    {
+      "name": "Thomas Pursglove",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 97,
+      "speakerId": "ThomasPursglove",
+      "speakerName": "Thomas Christopher John Pursglove"
+    },
+    {
+      "name": "Lord Kirkhope",
+      "party": "Conservative",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 98,
+      "speakerId": "TimothyKirkhope",
+      "speakerName": "Timothy Kirkhope"
+    },
+    {
+      "name": "Lord Freyberg",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 99,
+      "speakerId": "ValerianFreyberg",
+      "speakerName": "Valerian Bernard Freyberg"
+    },
+    {
+      "name": "Lord Wallace",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 3",
+      "utteranceCount": 3,
+      "rank": 100,
+      "speakerId": "WilliamWallace",
+      "speakerName": "William John Lawrence Wallace"
+    },
+    {
+      "name": "Lord Smith",
+      "party": "Bishops",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 101,
+      "speakerId": "AlanSmith",
+      "speakerName": "Alan Smith"
+    },
+    {
+      "name": "Lord Howarth",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 102,
+      "speakerId": "AlanHowarth",
+      "speakerName": "Alan Thomas Howarth"
+    },
+    {
+      "name": "Lord Broers",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 103,
+      "speakerId": "AlecBroers",
+      "speakerName": "Alec Broers"
+    },
+    {
+      "name": "Alexander Sobel",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 104,
+      "speakerId": "AlexanderSobel",
+      "speakerName": "Alexander David Sobel"
+    },
+    {
+      "name": "Andrea Leadsom",
+      "party": "Conservative",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 105,
+      "speakerId": "AndreaLeadsom",
+      "speakerName": "Andrea Jacqueline Leadsom"
+    },
+    {
+      "name": "Baroness Smith",
+      "party": "Labour",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 106,
+      "speakerId": "AngelaSmith2",
+      "speakerName": "Angela Smith"
+    },
+    {
+      "name": "Lord Greaves",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 107,
+      "speakerId": "AnthonyGreaves",
+      "speakerName": "Anthony Robert Greaves"
+    },
+    {
+      "name": "Lord Howe",
+      "party": "Crossbench",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 108,
+      "speakerId": "BernardHoganHowe",
+      "speakerName": "Bernard Hogan-Howe"
+    },
+    {
+      "name": "Baroness Bakewell",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 109,
+      "speakerId": "CatherineBakewell",
+      "speakerName": "Catherine Bakewell"
+    },
+    {
+      "name": "Christian Wakeford",
+      "party": "Labour",
+      "house": "Commons",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 110,
+      "speakerId": "ChristianWakeford",
+      "speakerName": "Christian Wakeford"
+    },
+    {
+      "name": "Lord Fox",
+      "party": "Liberal Democrat",
+      "house": "Lords",
+      "role": "ParlaMint AI utterances: 2",
+      "utteranceCount": 2,
+      "rank": 111,
+      "speakerId": "ChristopherFox",
+      "speakerName": "Christopher Fox"
+    }
+  ]
+}

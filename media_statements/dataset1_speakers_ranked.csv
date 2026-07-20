@@ -1,0 +1,419 @@
+rank,speakerName,searchName,party,partyAbbrev,chamber,house,utteranceCount,already_in_media_list,matched_media_name,speakerId
+1,Susan Williams,Baroness Williams of Trafford,Conservative,CONS,Lords,Lords,32,false,,SusanWilliams
+2,Timothy Francis Clement-Jones,Lord Jones,Liberal Democrat,LIBDEM,Lords,Lords,28,true,Lord Clement-Jones,TimothyClementJones
+3,Kevin John Foster,Kevin Foster,Conservative,CONS,Commons,Commons,22,true,Kevin Foster,KevinFoster
+4,Diana Barran,Baroness Barran,Conservative,CONS,Lords,Lords,20,false,,DianaBarran
+5,Matthew John David Hancock,Matthew Hancock,Independent,I,Commons,Commons,20,true,Matt Hancock,MatthewHancock
+6,Robert William Henry Seely,Robert Seely,Conservative,CONS,Commons,Commons,20,false,,RobertSeely
+7,James Bethell,Lord Bethell,Conservative,CONS,Lords,Lords,17,false,,JamesBethell
+8,Sarah Ludford,Baroness Ludford,Liberal Democrat,LIBDEM,Lords,Lords,15,false,,SarahLudford
+9,Christopher Holmes,Lord Holmes,Non-affiliated,NA,Lords,Lords,14,true,Lord Holmes,ChristopherHolmes
+10,Stephen Parkinson,Lord Parkinson of Whitley Bay,Conservative,CONS,Lords,Lords,13,false,,StephenParkinson
+11,Chinyelu Susan Onwurah,Chinyelu Onwurah,Labour,LAB,Commons,Commons,12,true,Chi Onwurah,ChinyeluOnwurah
+12,Alan William John West,Lord West of Spithead,Labour,LAB,Lords,Lords,10,false,,AlanWest
+13,Ben Everitt,Ben Everitt,Conservative,CONS,Commons,Commons,10,false,,BenEveritt
+14,Brian Paddick,Lord Paddick,Liberal Democrat,LIBDEM,Lords,Lords,10,false,,BrianPaddick
+15,Christopher Laurie Malthouse,Christopher Malthouse,Conservative,CONS,Commons,Commons,10,false,,ChristopherMalthouse
+16,Gregory William Hands,Gregory Hands,Conservative,CONS,Commons,Commons,10,false,,GregoryHands
+17,David Michael Davis,David Davis,Conservative,CONS,Commons,Commons,9,false,,DavidDavis
+18,Annabel Goldie,Baroness Goldie,Conservative,CONS,Lords,Lords,8,false,,AnnabelGoldie
+19,Damian Noel Thomas Collins,Damian Collins,Conservative,CONS,Commons,Commons,8,false,,DamianCollins
+20,Elizabeth Mary Truss,Liz Truss,Conservative,CONS,Commons,Commons,8,false,,ElizabethTruss
+21,Richard Rosser,Lord Rosser,Labour,LAB,Lords,Lords,8,false,,RichardRosser
+22,David Alton,Lord Alton,Crossbench,CB,Lords,Lords,7,false,,DavidAlton
+23,Jacob William Rees-Mogg,Jacob Rees-Mogg,Conservative,CONS,Commons,Commons,7,false,,JacobReesMogg
+24,Christopher James Green,Christopher Green,Conservative,CONS,Commons,Commons,6,false,,ChristopherGreen
+25,Desmond Browne,Lord Browne,Labour,LAB,Lords,Lords,6,false,,DesmondBrowne
+26,Jennifer Jones,Baroness Jones,Green Party,GREEN,Lords,Lords,6,false,,JenniferJones
+27,Kevin Paul Hollinrake,Kevin Hollinrake,Conservative,CONS,Commons,Commons,6,false,,KevinHollinrake
+28,Nicholas True,Lord True,Conservative,CONS,Lords,Lords,6,false,,NicholasTrue
+29,Philip Alexander Hunt,Lord Hunt,Labour,LAB,Lords,Lords,6,false,,PhilipHunt
+30,Priti Sushil Patel,Priti Patel,Conservative,CONS,Commons,Commons,6,false,,PritiPatel
+31,Robert Stevenson,Lord Stevenson of Balmacara,Labour,LAB,Lords,Lords,6,false,,RobertStevenson
+32,Sally Rachel Hamwee,Baroness Hamwee,Liberal Democrat,LIBDEM,Lords,Lords,6,true,Baroness Hamwee,SallyHamwee
+33,Steven Croft,Lord Croft,Bishops,BI,Lords,Lords,6,false,,StevenCroft
+34,Jonathan Oates,Lord Oates,Liberal Democrat,LIBDEM,Lords,Lords,5,false,,JonathanOates
+35,Julian Carlton Knight,Julian Knight,Independent,I,Commons,Commons,5,false,,JulianKnight
+36,Paul Scriven,Lord Scriven,Liberal Democrat,LIBDEM,Lords,Lords,5,false,,PaulScriven
+37,Alexander Boris de Pfeffel Johnson,Alexander Johnson,Conservative,CONS,Commons,Commons,4,false,,AlexanderJohnson
+38,Andrew Griffith,Andrew Griffith,Conservative,CONS,Commons,Commons,4,false,,AndrewGriffith
+39,Anthony Giddens,Lord Giddens,Labour,LAB,Lords,Lords,4,false,,AnthonyGiddens
+40,Beeban Kidron,Baroness Kidron,Crossbench,CB,Lords,Lords,4,true,Baroness Kidron,BeebanKidron
+41,Charlotte Vere,Baroness Vere,Conservative,CONS,Lords,Lords,4,false,,CharlotteVere
+42,Clive Brooke,Lord Brooke,Labour,LAB,Lords,Lords,4,false,,CliveBrooke
+43,Conor Burns,Conor Burns,Independent,I,Commons,Commons,4,false,,ConorBurns
+44,Darren Paul Jones,Darren Jones,Labour,LAB,Commons,Commons,4,true,Darren Jones,DarrenJones
+45,Dorothea Glenys Thornton,Baroness Thornton,Labour,LAB,Lords,Lords,4,false,,DorotheaThornton
+46,Frederick Richard Penn Curzon,Earl Howe,Conservative,CONS,Lords,Lords,4,false,,FrederickCurzon
+47,Gerald Grimstone,Lord Grimstone,Conservative,CONS,Lords,Lords,4,false,,GeraldGrimstone
+48,Jane Scott,Baroness Scott,Conservative,CONS,Lords,Lords,4,false,,JaneScott
+49,Jeremy Mark Quin,Jeremy Quin,Conservative,CONS,Commons,Commons,4,false,,JeremyQuin
+50,John Eric Gardiner,Lord Gardiner,Non-affiliated,NA,Lords,Lords,4,false,,JohnGardiner
+51,John Flasby Lawrance Whittingdale,John Whittingdale,Conservative,CONS,Commons,Commons,4,false,,JohnWhittingdale
+52,John Mann,Lord Mann,Non-affiliated,NA,Lords,Lords,4,false,,JohnMann
+53,Lindsay Harvey Hoyle,Lindsay Hoyle,Labour,LAB,Commons,Commons,4,false,,LindsayHoyle
+54,Margaret Beryl Jones,Baroness Jones,Labour,LAB,Lords,Lords,4,false,,MargaretJones
+55,Martin Callanan,Lord Callanan,Conservative,CONS,Lords,Lords,4,false,,MartinCallanan
+56,Matthew Robert Warman,Matthew Warman,Conservative,CONS,Commons,Commons,4,false,,MatthewWarman
+57,Michael Andrew Gove,Michael Gove,Conservative,CONS,Commons,Commons,4,false,,MichaelGove
+58,Michael Tyrone Ellis,Michael Ellis,Conservative,CONS,Commons,Commons,4,false,,MichaelEllis
+59,Natalie Bennett,Baroness Bennett,Green Party,GREEN,Lords,Lords,4,false,,NatalieBennett
+60,Nicky Morgan,Baroness Morgan,Conservative,CONS,Lords,Lords,4,false,,NickyMorgan
+61,Nicola Blackwood,Baroness Blackwood,Conservative,CONS,Lords,Lords,4,false,,NicolaBlackwood
+62,Stuart Campbell McDonald,Stuart McDonald,Scottish National Party,SNP,Commons,Commons,4,false,,StuartMcDonald
+63,Syed Kamall,Lord Kamall,Conservative,CONS,Lords,Lords,4,false,,SyedKamall
+64,Tariq Ahmad,Lord Ahmad,Conservative,CONS,Lords,Lords,4,false,,TariqAhmad
+65,Yvette Cooper,Yvette Cooper,Labour,LAB,Commons,Commons,4,false,,YvetteCooper
+66,Alexandra Mary Davies-Jones,Alexandra Davies-Jones,Labour,LAB,Commons,Commons,3,false,,AlexandraDaviesJones
+67,Andrew Sharpe,Lord Sharpe,Conservative,CONS,Lords,Lords,3,false,,AndrewSharpe
+68,Antony Higginbotham,Antony Higginbotham,Conservative,CONS,Commons,Commons,3,false,,AntonyHigginbotham
+69,Barbara Mary Keeley,Barbara Keeley,Labour,LAB,Commons,Commons,3,false,,BarbaraKeeley
+70,Barry Strachan Gardiner,Barry Gardiner,Labour,LAB,Commons,Commons,3,false,,BarryGardiner
+71,Caroline Lucas,Caroline Lucas,Green Party,GREEN,Commons,Commons,3,false,,CarolineLucas
+72,Chris Ian Brian Mynott Philp,Chris Philp,Conservative,CONS,Commons,Commons,3,false,,ChrisPhilp
+73,Damian Patrick George Hinds,Damian Hinds,Conservative,CONS,Commons,Commons,3,false,,DamianHinds
+74,David Anderson,Lord Anderson,Crossbench,CB,Lords,Lords,3,false,,DavidAnderson
+75,David John Maclean,Lord Maclean,Conservative,CONS,Lords,Lords,3,false,,DavidMaclean
+76,George William Freeman,George Freeman,Conservative,CONS,Commons,Commons,3,true,George Freeman,GeorgeFreeman
+77,Geraint Richard Davies,Geraint Davies,Labour,LAB,Commons,Commons,3,false,,GeraintDavies
+78,James Younger,Lord Younger,Conservative,CONS,Lords,Lords,3,false,,JamesYounger
+79,Jessica Elizabeth Morden,Jessica Morden,Labour,LAB,Commons,Commons,3,false,,JessicaMorden
+80,Joanna Catherine Cherry,Joanna Cherry,Scottish National Party,SNP,Commons,Commons,3,true,Joanna Cherry,JoannaCherry
+81,John Houghton,Lord Houghton,Crossbench,CB,Lords,Lords,3,false,,JohnHoughton
+82,John Seymour,Lord Seymour,Crossbench,CB,Lords,Lords,3,false,,JohnSeymour
+83,Jonathan Michael Graham Ashworth,Jonathan Ashworth,Labour,LAB,Commons,Commons,3,false,,JonathanAshworth
+84,Kate Rock,Baroness Rock,Conservative,CONS,Lords,Lords,3,false,,KateRock
+85,Oliver James Dowden,Oliver Dowden,Conservative,CONS,Commons,Commons,3,true,Oliver Dowden,OliverDowden
+86,Richard Harrington,Lord Harrington,Independent,I,Lords,Lords,3,false,,RichardHarrington
+87,Richard Quentin Fuller,Richard Fuller,Conservative,CONS,Commons,Commons,3,false,,RichardFuller
+88,Robert James Buckland,Robert Buckland,Conservative,CONS,Commons,Commons,3,false,,RobertBuckland
+89,Robert James MacGillivray Neill,Robert Neill,Conservative,CONS,Commons,Commons,3,false,,RobertNeill
+90,Roy Kennedy,Lord Kennedy,Labour,LAB,Lords,Lords,3,false,,RoyKennedy
+91,Sarah Jane Olney,Sarah Olney,Liberal Democrat,LIBDEM,Commons,Commons,3,false,,SarahOlney
+92,Sarah Virginia Brinton,Baroness Brinton,Liberal Democrat,LIBDEM,Lords,Lords,3,false,,SarahBrinton
+93,Shami Chakrabarti,Baroness Chakrabarti,Labour,LAB,Lords,Lords,3,false,,ShamiChakrabarti
+94,Stephen Nathan Kinnock,Stephen Kinnock,Labour,LAB,Commons,Commons,3,false,,StephenKinnock
+95,Stephen Paul Barclay,Stephen Barclay,Conservative,CONS,Commons,Commons,3,false,,StephenBarclay
+96,Sue-Ellen Cassiana Braverman,Sue-Ellen Braverman,Conservative,CONS,Commons,Commons,3,false,,SueEllenBraverman
+97,Thomas Christopher John Pursglove,Thomas Pursglove,Conservative,CONS,Commons,Commons,3,false,,ThomasPursglove
+98,Timothy Kirkhope,Lord Kirkhope,Conservative,CONS,Lords,Lords,3,false,,TimothyKirkhope
+99,Valerian Bernard Freyberg,Lord Freyberg,Crossbench,CB,Lords,Lords,3,false,,ValerianFreyberg
+100,William John Lawrence Wallace,Lord Wallace,Liberal Democrat,LIBDEM,Lords,Lords,3,false,,WilliamWallace
+101,Alan Smith,Lord Smith,Bishops,BI,Lords,Lords,2,false,,AlanSmith
+102,Alan Thomas Howarth,Lord Howarth,Labour,LAB,Lords,Lords,2,false,,AlanHowarth
+103,Alec Broers,Lord Broers,Crossbench,CB,Lords,Lords,2,false,,AlecBroers
+104,Alexander David Sobel,Alexander Sobel,Labour,LAB,Commons,Commons,2,false,,AlexanderSobel
+105,Andrea Jacqueline Leadsom,Andrea Leadsom,Conservative,CONS,Commons,Commons,2,false,,AndreaLeadsom
+106,Angela Smith,Baroness Smith,Labour,LAB,Lords,Lords,2,false,,AngelaSmith2
+107,Anthony Robert Greaves,Lord Greaves,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,AnthonyGreaves
+108,Bernard Hogan-Howe,Lord Howe,Crossbench,CB,Lords,Lords,2,false,,BernardHoganHowe
+109,Catherine Bakewell,Baroness Bakewell,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,CatherineBakewell
+110,Christian Wakeford,Christian Wakeford,Labour,LAB,Commons,Commons,2,false,,ChristianWakeford
+111,Christopher Fox,Lord Fox,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,ChristopherFox
+112,Christopher Murray Alexander Law,Christopher Law,Scottish National Party,SNP,Commons,Commons,2,false,,ChristopherLaw
+113,Claire Fox,Baroness Fox,Non-affiliated,NA,Lords,Lords,2,false,,ClaireFox
+114,Colin Moynihan,Lord Moynihan,Conservative,CONS,Lords,Lords,2,false,,ColinMoynihan
+115,Damian Howard Green,Damian Green,Conservative,CONS,Commons,Commons,2,false,,DamianGreen
+116,Daniel Stephen Zeichner,Daniel Zeichner,Labour,LAB,Commons,Commons,2,false,,DanielZeichner
+117,David Arthur Russell Howell,Lord Howell,Conservative,CONS,Lords,Lords,2,false,,DavidHowell
+118,David Blunkett,Lord Blunkett,Labour,LAB,Lords,Lords,2,false,,DavidBlunkett
+119,David Mervyn Johnston,David Johnston,Conservative,CONS,Commons,Commons,2,false,,DavidJohnston
+120,Deborah Bull,Baroness Bull,Crossbench,CB,Lords,Lords,2,false,,DeborahBull
+121,Deborah Stedman-Scott,Baroness Scott,Conservative,CONS,Lords,Lords,2,false,,DeborahStedmanScott
+122,Dehenna Sheridan Fareham,Dehenna Fareham,Conservative,CONS,Commons,Commons,2,false,,DehennaFareham
+123,Denis Tunnicliffe,Lord Tunnicliffe,Labour,LAB,Lords,Lords,2,false,,DenisTunnicliffe
+124,Diane Julie Abbott,Diane Abbott,Labour,LAB,Commons,Commons,2,false,,DianeAbbott
+125,Eleanor Fulton Laing,Eleanor Laing,Conservative,CONS,Commons,Commons,2,false,,EleanorLaing
+126,Elizabeth Barker,Baroness Barker,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,ElizabethBarker
+127,Elizabeth Rose Berridge,Baroness Berridge,Conservative,CONS,Lords,Lords,2,false,,ElizabethBerridge
+128,Emily Thornberry,Emily Thornberry,Labour,LAB,Commons,Commons,2,false,,EmilyThornberry
+129,Felicity Christiana Buchan,Felicity Buchan,Conservative,CONS,Commons,Commons,2,false,,FelicityBuchan
+130,Frederick Ponsonby,Lord Ponsonby,Labour,LAB,Lords,Lords,2,false,,FrederickPonsonby
+131,Geoffrey Robert Clifton-Brown,Geoffrey Clifton-Brown,Conservative,CONS,Commons,Commons,2,false,,GeoffreyCliftonBrown
+132,George Foulkes,Lord Foulkes,Labour,LAB,Lords,Lords,2,false,,GeorgeFoulkes
+133,Greg Smith,Greg Smith,Conservative,CONS,Commons,Commons,2,false,,GregSmith
+134,James Neale Hanvey,James Hanvey,Alba Party,PAUB,Commons,Commons,2,false,,JamesNealeHanvey
+135,Jennifer Elizabeth Randerson,Baroness Randerson,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,JenniferRanderson
+136,Joanna Penn,Baroness Penn,Conservative,CONS,Lords,Lords,2,false,,JoannaPenn
+137,Johanna Peta Churchill,Johanna Churchill,Conservative,CONS,Commons,Commons,2,false,,JohannaChurchill
+138,John Anderson,Lord Anderson,Crossbench,CB,Lords,Lords,2,false,,JohnAnderson
+139,John Lytton,Lord Lytton,Crossbench,CB,Lords,Lords,2,false,,JohnLytton
+140,John Reid,Lord Reid,Labour,LAB,Lords,Lords,2,false,,JohnReid
+141,John Robert Lamont,John Lamont,Conservative,CONS,Commons,Commons,2,false,,JohnLamont
+142,John Sentamu,Lord Sentamu,Crossbench,CB,Lords,Lords,2,false,,JohnSentamu
+143,John Taylor,Lord Taylor,Non-affiliated,NA,Lords,Lords,2,false,,JohnTaylor3
+144,Julia Louise Lopez,Julia Lopez,Conservative,CONS,Commons,Commons,2,false,,JuliaLopez
+145,Julie Marson,Julie Marson,Conservative,CONS,Commons,Commons,2,false,,JulieMarson
+146,Julie Smith,Baroness Smith,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,JulieSmith
+147,Kenneth Baker,Lord Baker,Conservative,CONS,Lords,Lords,2,false,,KennethBaker
+148,Kishwer Falkner,Baroness Falkner,Crossbench,CB,Lords,Lords,2,false,,KishwerFalkner
+149,Liam Dominic Byrne,Liam Byrne,Labour,LAB,Commons,Commons,2,false,,LiamByrne
+150,Lloyd Russell-Moyle,Lloyd Russell-Moyle,Labour,LAB,Commons,Commons,2,false,,LloydRussellMoyle
+151,Lucy Neville-Rolfe,Baroness Rolfe,Conservative,CONS,Lords,Lords,2,true,Baroness Neville-Rolfe,LucyNevilleRolfe
+152,Margaret Ritchie,Baroness Ritchie,Labour,LAB,Lords,Lords,2,false,,MargaretRitchie
+153,Maria Frances Lewis Miller,Maria Miller,Conservative,CONS,Commons,Commons,2,false,,MariaMiller
+154,Mark Gino Francois,Mark Francois,Conservative,CONS,Commons,Commons,2,false,,MarkFrancois
+155,Mark Steven Spencer,Mark Spencer,Conservative,CONS,Commons,Commons,2,false,,MarkSpencer
+156,Mary Elizabeth Twist,Mary Twist,Labour,LAB,Commons,Commons,2,false,,MaryTwist
+157,Matthew Raymond Western,Matthew Western,Labour,LAB,Commons,Commons,2,false,,MatthewWestern
+158,Natalie Evans,Baroness Evans,Conservative,CONS,Lords,Lords,2,false,,NatalieEvans
+159,Nicholas Bourne,Lord Bourne,Conservative,CONS,Lords,Lords,2,false,,NicholasBourne
+160,Nicklaus Thomas-Symonds,Nicklaus Thomas-Symonds,Labour,LAB,Commons,Commons,2,false,,NicklausThomasSymonds
+161,Nigel Martin Evans,Nigel Evans,Conservative,CONS,Commons,Commons,2,false,,NigelEvans
+162,Olivia Bloomfield,Baroness Bloomfield,Conservative,CONS,Lords,Lords,2,false,,OliviaBloomfield
+163,Patience Wheatcroft,Baroness Wheatcroft,Crossbench,CB,Lords,Lords,2,false,,PatienceWheatcroft
+164,Patrick John Grady,Patrick Grady,Independent,I,Commons,Commons,2,false,,PatrickGrady
+165,Paul Christopher Blomfield,Paul Blomfield,Labour,LAB,Commons,Commons,2,false,,PaulBlomfield
+166,Peter Derek Truscott,Lord Truscott,Non-affiliated,NA,Lords,Lords,2,false,,PeterTruscott
+167,Peter Ricketts,Lord Ricketts,Crossbench,CB,Lords,Lords,2,false,,PeterRicketts
+168,Ralph Matthew Palmer,Lord Palmer of Childs Hill,Conservative,CONS,Lords,Lords,2,false,,RalphPalmer
+169,Raymond Collins,Lord Collins,Labour,LAB,Lords,Lords,2,false,,RaymondCollins
+170,Richard Balfe,Lord Balfe,Conservative,CONS,Lords,Lords,2,false,,RichardBalfe
+171,Richard Gordon Thomson,Richard Thomson,Scottish National Party,SNP,Commons,Commons,2,false,,RichardThomson
+172,Robert Andrew Stunell,Lord Stunell,Liberal Democrat,LIBDEM,Lords,Lords,2,false,,RobertStunell
+173,Robert Ben Lobban Wallace,Robert Wallace,Conservative,CONS,Commons,Commons,2,false,,RobertWallace
+174,Rosalie Winterton,Rosalie Winterton,Labour,LAB,Commons,Commons,2,false,,RosalieWinterton
+175,Ruth Lorraine Jones,Ruth Jones,Labour,LAB,Commons,Commons,2,false,,RuthJones
+176,Stephen Greenhalgh,Lord Greenhalgh,Conservative,CONS,Lords,Lords,2,false,,StephenGreenhalgh
+177,Stewart Malcolm McDonald,Stewart McDonald,Scottish National Party,SNP,Commons,Commons,2,false,,StewartMcDonald
+178,Tahir Ali,Tahir Ali,Labour,LAB,Commons,Commons,2,false,,TahirAli
+179,Theodore Agnew,Lord Agnew,Conservative,CONS,Lords,Lords,2,false,,TheodoreAgnew
+180,Vernon Coaker,Lord Coaker,Labour,LAB,Lords,Lords,2,false,,VernonCoaker
+181,Victoria Atkins,Victoria Atkins,Conservative,CONS,Commons,Commons,2,false,,VictoriaAtkins
+182,Aamer Sarfraz,Lord Sarfraz,Conservative,CONS,Lords,Lords,1,false,,AamerSarfraz
+183,Aaron Stuart Bell,Aaron Bell,Conservative,CONS,Commons,Commons,1,false,,AaronBell
+184,Abimbola Afolami,Abimbola Afolami,Conservative,CONS,Commons,Commons,1,false,,AbimbolaAfolami
+185,Adam James Harold Holloway,Adam Holloway,Conservative,CONS,Commons,Commons,1,false,,AdamHolloway
+186,Alexander Carlile,Lord Carlile,Crossbench,CB,Lords,Lords,1,false,,AlexanderCarlile
+187,Alexander Jesse Norman,Alexander Norman,Conservative,CONS,Commons,Commons,1,false,,AlexanderNorman
+188,Alexander Morrison Carmichael,Alexander Carmichael,Liberal Democrat,LIBDEM,Commons,Commons,1,false,,AlexanderCarmichael
+189,Alexander Randall,Lord Randall,Conservative,CONS,Lords,Lords,1,false,,AlexanderRandall
+190,Alexander Scrymgeour,Lord Scrymgeour,Conservative,CONS,Lords,Lords,1,false,,AlexanderScrymgeour
+191,Alicia Alexandra Martha Kearns,Alicia Kearns,Conservative,CONS,Commons,Commons,1,false,,AliciaKearns
+192,Alok Kumar Sharma,Alok Sharma,Conservative,CONS,Commons,Commons,1,false,,AlokSharma
+193,Alun Hugh Cairns,Alun Cairns,Conservative,CONS,Commons,Commons,1,false,,AlunCairns
+194,Alyn Edward Smith,Alyn Smith,Scottish National Party,SNP,Commons,Commons,1,false,,AlynSmith
+195,Amanda Jane Solloway,Amanda Solloway,Conservative,CONS,Commons,Commons,1,false,,AmandaSolloway
+196,Andrew Egan Henderson Hendry,Andrew Hendry,Scottish National Party,SNP,Commons,Commons,1,false,,AndrewHendry
+197,Andrew Fleming,Lord Fleming,Crossbench,CB,Lords,Lords,1,false,,AndrewFleming
+198,Andrew John Carter,Andrew Carter,Conservative,CONS,Commons,Commons,1,false,,AndrewCarter
+199,Andrew Lansley,Lord Lansley,Conservative,CONS,Lords,Lords,1,false,,AndrewLansley
+200,Andrew Richard Rosindell,Andrew Rosindell,Conservative,CONS,Commons,Commons,1,false,,AndrewRosindell
+201,Andrew William Murrison,Andrew Murrison,Conservative,CONS,Commons,Commons,1,false,,AndrewMurrison
+202,Angela Harris,Baroness Harris,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,AngelaHarris
+203,Angela Joy Richardson,Angela Richardson,Conservative,CONS,Commons,Commons,1,false,,AngelaRichardson
+204,Angela Rayner,Angela Rayner,Labour,LAB,Commons,Commons,1,false,,AngelaRayner
+205,Anna Rhiannon McMorrin,Anna McMorrin,Labour,LAB,Commons,Commons,1,false,,AnnaMcMorrin
+206,Anne Marie Morris,Anne Morris,Independent,I,Commons,Commons,1,false,,AnneMarieMorris
+207,Anne McIntosh,Baroness Mcintosh,Conservative,CONS,Lords,Lords,1,false,,AnneMcIntosh
+208,Anne-Marie Belinda Trevelyan,Anne-Marie Trevelyan,Conservative,CONS,Commons,Commons,1,false,,AnneMarieTrevelyan
+209,Anthony Gueterbock,Lord Gueterbock,Labour,LAB,Lords,Lords,1,false,,AnthonyGueterbock
+210,Anthony Howe Browne,Anthony Browne,Conservative,CONS,Commons,Commons,1,false,,AnthonyBrowne
+211,Anthony Tudor St John,Lord John,Crossbench,CB,Lords,Lords,1,false,,AnthonyStJohn
+212,Barry John Sheerman,Barry Sheerman,Labour,LAB,Commons,Commons,1,false,,BarrySheerman
+213,Benjamin David Bradley,Benjamin Bradley,Conservative,CONS,Commons,Commons,1,false,,BenjaminBradley
+214,Benjamin Peter James Bradshaw,Benjamin Bradshaw,Labour,LAB,Commons,Commons,1,false,,BenjaminBradshaw
+215,Brian Mackenzie,Lord Mackenzie,Non-affiliated,NA,Lords,Lords,1,false,,BrianMackenzie
+216,Caroline Anne Cox,Baroness Cox,Crossbench,CB,Lords,Lords,1,false,,CarolineCox
+217,Caroline Chisholm,Baroness Chisholm of Owlpen,Non-affiliated,NA,Lords,Lords,1,false,,CarolineChisholm
+218,Caroline Fiona Ellen Nokes,Caroline Nokes,Independent,I,Commons,Commons,1,false,,CarolineNokes
+219,Caroline Julia Dinenage,Caroline Dinenage,Conservative,CONS,Commons,Commons,1,false,,CarolineDinenage
+220,Catherine Elizabeth West,Catherine West,Labour,LAB,Commons,Commons,1,false,,CatherineWest
+221,Charles Colville,Lord Colville,Crossbench,CB,Lords,Lords,1,false,,CharlesColville
+222,Charles Courtenay,Lord Courtenay,Crossbench,CB,Lords,Lords,1,false,,CharlesCourtenay
+223,Charles Hay,Lord Hay,Non-affiliated,NA,Lords,Lords,1,false,,CharlesHay
+224,Christine Anne Jardine,Christine Jardine,Liberal Democrat,LIBDEM,Commons,Commons,1,false,,ChristineJardine
+225,Christine Mary Crawley,Baroness Crawley,Labour,LAB,Lords,Lords,1,false,,ChristineCrawley
+226,Christopher Heaton-Harris,Christopher Heaton-Harris,Conservative,CONS,Commons,Commons,1,false,,ChristopherHeatonHarris
+227,Christopher James Skidmore,Christopher Skidmore,Conservative,CONS,Commons,Commons,1,false,,ChristopherSkidmore
+228,Christopher Stephen Grayling,Christopher Grayling,Conservative,CONS,Commons,Commons,1,false,,ChristopherGrayling
+229,Christopher Suenson-Taylor,Lord Taylor,Labour,LAB,Lords,Lords,1,false,,ChristopherSuensonTaylor
+230,Claire Coryl Julia Coutinho,Claire Coutinho,Conservative,CONS,Commons,Commons,1,false,,ClaireCoutinho
+231,Clive James Charles Betts,Clive Betts,Labour,LAB,Commons,Commons,1,false,,CliveBetts
+232,Clive Stanley Efford,Clive Efford,Labour,LAB,Commons,Commons,1,false,,CliveEfford
+233,Daisy Cooper,Daisy Cooper,Liberal Democrat,LIBDEM,Commons,Commons,1,false,,DaisyCooper
+234,Dale Norman Campbell-Savours,Lord Savours,Labour,LAB,Lords,Lords,1,false,,DaleCampbellSavours
+235,Daniel Rayne Kruger,Daniel Kruger,Conservative,CONS,Commons,Commons,1,false,,DanielKruger
+236,David Chidgey,Lord Chidgey,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,DavidChidgey
+237,David Jonathan Edwards,David Edwards,Independent,I,Commons,Commons,1,false,,DavidEdwards
+238,David Lindon Lammy,David Lammy,Labour,LAB,Commons,Commons,1,false,,DavidLammy
+239,Deborah Wilcox,Baroness Wilcox,Labour,LAB,Lords,Lords,1,false,,DeborahWilcox
+240,Diana Ruth Johnson,Diana Johnson,Labour,LAB,Commons,Commons,1,false,,DianaJohnson
+241,Dominic Rennie Raab,Dominic Raab,Conservative,CONS,Commons,Commons,1,false,,DominicRaab
+242,Donald Curry,Lord Curry,Crossbench,CB,Lords,Lords,1,false,,DonaldCurry
+243,Donald Foster,Lord Foster,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,DonaldFoster
+244,Doreen Massey,Baroness Massey,Labour,LAB,Lords,Lords,1,false,,DoreenMassey
+245,Duncan Charles Baker,Duncan Baker,Conservative,CONS,Commons,Commons,1,false,,DuncanBaker
+246,Edward Jonathon Davey,Edward Davey,Liberal Democrat,LIBDEM,Commons,Commons,1,false,,EdwardDavey
+247,Edward Julian Egerton Leigh,Edward Leigh,Conservative,CONS,Commons,Commons,1,false,,EdwardLeigh
+248,Edward Udny-Lister,Lord Lister,Conservative,CONS,Lords,Lords,1,false,,EdwardUdnyLister
+249,Edward Vaizey,Lord Vaizey,Independent,I,Lords,Lords,1,false,,EdwardVaizey
+250,Eleanor Claire Reeves,Eleanor Reeves,Labour,LAB,Commons,Commons,1,false,,EleanorReeves
+251,Elizabeth Andrews,Baroness Andrews,Labour,LAB,Lords,Lords,1,false,,ElizabethAndrews
+252,Elizabeth Sugg,Baroness Sugg,Conservative,CONS,Lords,Lords,1,false,,ElizabethSugg
+253,Ellen Eaton,Baroness Eaton,Conservative,CONS,Lords,Lords,1,false,,EllenEaton
+254,Ewen Cameron,Lord Cameron,Crossbench,CB,Lords,Lords,1,false,,EwenCameron
+255,Fabian Hamilton,Fabian Hamilton,Labour,LAB,Commons,Commons,1,false,,FabianHamilton
+256,Fiona Claire Bruce,Fiona Bruce,Conservative,CONS,Commons,Commons,1,false,,FionaBruce
+257,Fleur Anderson,Fleur Anderson,Labour,LAB,Commons,Commons,1,false,,FleurAnderson
+258,Florence Eshalomi,Florence Eshalomi,Labour,LAB,Commons,Commons,1,false,,FlorenceEshalomi
+259,Gavin Barwell,Lord Barwell,Conservative,CONS,Lords,Lords,1,false,,GavinBarwell
+260,Gavin James Robinson,Gavin Robinson,Democratic Unionist Party,DUP,Commons,Commons,1,false,,GavinRobinson
+261,George Edward Howarth,George Howarth,Labour,LAB,Commons,Commons,1,false,,GeorgeHowarth
+262,George Iain Duncan Smith,George Smith,Conservative,CONS,Commons,Commons,1,false,,GeorgeDuncanSmith
+263,George Robertson,Lord Robertson,Labour,LAB,Lords,Lords,1,false,,GeorgeRobertson
+264,George Young,Lord Young of Cookham,Conservative,CONS,Lords,Lords,1,false,,GeorgeYoung
+265,Giacomo Lopresti,Giacomo Lopresti,Conservative,CONS,Commons,Commons,1,false,,GiacomoLopresti
+266,Gillian Furniss,Gillian Furniss,Labour,LAB,Commons,Commons,1,false,,GillianFurniss
+267,Gillian Keegan,Gillian Keegan,Conservative,CONS,Commons,Commons,1,false,,GillianKeegan
+268,Gillian Merron,Baroness Merron,Labour,LAB,Lords,Lords,1,false,,GillianMerron
+269,Guy Mansfield,Lord Mansfield,Conservative,CONS,Lords,Lords,1,false,,GuyMansfield
+270,Harriet Ruth Harman,Harriet Harman,Labour,LAB,Commons,Commons,1,false,,HarrietHarman
+271,Harriett Mary Morison Baldwin,Harriett Baldwin,Conservative,CONS,Commons,Commons,1,false,,HarriettBaldwin
+272,Heather Kay Wheeler,Heather Wheeler,Conservative,CONS,Commons,Commons,1,false,,HeatherWheeler
+273,Helen Elizabeth Hayes,Helen Hayes,Labour,LAB,Commons,Commons,1,false,,HelenHayes
+274,Helena Kennedy,Baroness Kennedy,Labour,LAB,Lords,Lords,1,false,,HelenaKennedy
+275,Holly Jamie Walker-Lynch,Holly Walker-Lynch,Labour,LAB,Commons,Commons,1,false,,HollyWalkerLynch
+276,Howard Emerson Flight,Lord Flight,Conservative,CONS,Lords,Lords,1,false,,HowardFlight2
+277,Hugh Trenchard,Lord Trenchard,Conservative,CONS,Lords,Lords,1,false,,HughTrenchard
+278,Huw William Merriman,Huw Merriman,Conservative,CONS,Commons,Commons,1,false,,HuwMerriman
+279,Hywel Williams,Hywel Williams,Plaid Cymru,PLAID,Commons,Commons,1,false,,HywelWilliams
+280,Ian Macpherson,Lord Macpherson,Conservative,CONS,Lords,Lords,1,false,,IanMacpherson
+281,Igor Judge,Lord Judge,Crossbench,CB,Lords,Lords,1,false,,IgorJudge
+282,Ilora Gillian Finlay,Baroness Finlay,Crossbench,CB,Lords,Lords,1,false,,IloraFinlay
+283,Jacqueline Doyle-Price,Jacqueline Doyle-Price,Conservative,CONS,Commons,Commons,1,false,,JacquelineDoylePrice
+284,James O’Shaughnessy,Lord Oshaughnessy,Conservative,CONS,Lords,Lords,1,false,,JamesOShaughnessy
+285,James Oliver Wild,James Wild,Conservative,CONS,Commons,Commons,1,false,,JamesWild
+286,James Philip Duddridge,James Duddridge,Conservative,CONS,Commons,Commons,1,false,,JamesDuddridge
+287,James Philip Knight,Lord Knight,Labour,LAB,Lords,Lords,1,false,,JamesKnight
+288,James Stephen Heappey,James Heappey,Conservative,CONS,Commons,Commons,1,false,,JamesHeappey
+289,Jamie Hamilton Wallis,Jamie Wallis,Conservative,CONS,Commons,Commons,1,false,,JamieWallis
+290,Janet Alison Whitaker,Baroness Whitaker,Labour,LAB,Lords,Lords,1,false,,JanetWhitaker
+291,Janric Fraser Craig,Lord Craig,Crossbench,CB,Lords,Lords,1,false,,JanricCraig
+292,Jasset Ormsby Gore,Lord Gore,Conservative,CONS,Lords,Lords,1,false,,JassetOrmsbyGore
+293,Jenny Chapman,Baroness Chapman,Labour,LAB,Lords,Lords,1,false,,JennyChapman
+294,Jerome Patrick Burke Mayhew,Jerome Mayhew,Conservative,CONS,Commons,Commons,1,false,,JeromeMayhew
+295,Joan Walmsley,Baroness Walmsley,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,JoanWalmsley
+296,Joanna Mary Gideon,Joanna Gideon,Conservative,CONS,Commons,Commons,1,false,,JoannaGideon
+297,Joanna Shields,Baroness Shields,Conservative,CONS,Lords,Lords,1,false,,JoannaShields
+298,John Alderdice,Lord Alderdice,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,JohnAlderdice
+299,John Alston Maxton,Lord Maxton,Labour,LAB,Lords,Lords,1,false,,JohnMaxton
+300,John Bassam,Lord Bassam,Labour,LAB,Lords,Lords,1,false,,JohnBassam
+301,John Birt,Lord Birt,Crossbench,CB,Lords,Lords,1,false,,JohnBirt
+302,John Healey,John Healey,Labour,LAB,Commons,Commons,1,false,,JohnHealey
+303,John Hendy,Lord Hendy,Labour,LAB,Lords,Lords,1,false,,JohnHendy
+304,John Kerr,Lord Kerr,Crossbench,CB,Lords,Lords,1,false,,JohnKerr
+305,John Martin McDonnell,John McDonnell,Labour,LAB,Commons,Commons,1,false,,JohnMcDonnell
+306,John Montagu,Lord Montagu,Crossbench,CB,Lords,Lords,1,false,,JohnMontagu
+307,Jonathan Evans,Lord Evans,Crossbench,CB,Lords,Lords,1,false,,JonathanEvans
+308,Jonathan Simon Djanogly,Jonathan Djanogly,Conservative,CONS,Commons,Commons,1,false,,JonathanDjanogly
+309,Julia Frances Cumberlege,Baroness Cumberlege,Conservative,CONS,Lords,Lords,1,false,,JuliaCumberlege
+310,Julian Murray Lewis,Julian Lewis,Conservative,CONS,Commons,Commons,1,false,,JulianLewis
+311,Karan Bilimoria,Lord Bilimoria,Crossbench,CB,Lords,Lords,1,false,,KaranBilimoria
+312,Kathryn Jane Parminter,Baroness Parminter,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,KathrynParminter
+313,Kieran John Mullan,Kieran Mullan,Conservative,CONS,Commons,Commons,1,false,,KieranMullan
+314,Kirsten Frances Oswald,Kirsten Oswald,Scottish National Party,SNP,Commons,Commons,1,false,,KirstenOswald
+315,Laura Rose Farris,Laura Farris,Conservative,CONS,Commons,Commons,1,false,,LauraFarris
+316,Leslie John Griffiths,Lord Griffiths,Labour,LAB,Lords,Lords,1,false,,LeslieGriffiths
+317,Leslie Turnberg,Lord Turnberg,Labour,LAB,Lords,Lords,1,false,,LeslieTurnberg
+318,Lindsay Granshaw,Baroness Granshaw,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,LindsayGranshaw
+319,Lisa Eva Nandy,Lisa Nandy,Labour,LAB,Commons,Commons,1,false,,LisaNandy
+320,Louise Margaret Haigh,Louise Haigh,Labour,LAB,Commons,Commons,1,false,,LouiseHaigh
+321,Lucy Allan,Lucy Allan,Conservative,CONS,Commons,Commons,1,false,,LucyAllan
+322,Malcolm Bruce,Lord Bruce,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,MalcolmBruce
+323,Malcolm Sinclair,Lord Sinclair,Conservative,CONS,Lords,Lords,1,false,,MalcolmSinclair
+324,Manzila Pola Uddin,Baroness Uddin,Non-affiliated,NA,Lords,Lords,1,false,,ManzilaUddin
+325,Margaret Eileen Joyce Wheeler,Baroness Wheeler,Labour,LAB,Lords,Lords,1,false,,MargaretWheeler
+326,Margaret Olivia Hillier,Margaret Hillier,Labour,LAB,Commons,Commons,1,false,,MargaretHillier
+327,Marion Fellows,Marion Fellows,Scottish National Party,SNP,Commons,Commons,1,false,,MarionFellows
+328,Mark James Harper,Mark Harper,Conservative,CONS,Commons,Commons,1,false,,MarkHarper
+329,Mark Lancaster,Lord Lancaster,Conservative,CONS,Lords,Lords,1,false,,MarkLancaster
+330,Mark Phillip Hendrick,Mark Hendrick,Labour,LAB,Commons,Commons,1,false,,MarkHendrick
+331,Mark Schreiber,Lord Marlesford,Conservative,CONS,Lords,Lords,1,false,,MarkSchreiber
+332,Martyn Day,Martyn Day,Scottish National Party,SNP,Commons,Commons,1,false,,MartynDay
+333,Matthew Ridley,Lord Ridley,Conservative,CONS,Lords,Lords,1,false,,MatthewRidley
+334,Matthew Toby Perkins,Matthew Perkins,Labour,LAB,Commons,Commons,1,false,,MatthewPerkins
+335,Meghnad Desai,Lord Desai,Crossbench,CB,Lords,Lords,1,false,,MeghnadDesai
+336,Melvyn John Stride,Melvyn Stride,Conservative,CONS,Commons,Commons,1,false,,MelvynStride
+337,Merlin Hay,Lord Hay,Crossbench,CB,Lords,Lords,1,false,,MerlinHay
+338,Michael Boyce,Lord Boyce,Crossbench,CB,Lords,Lords,1,false,,MichaelBoyce
+339,Michael German,Lord German,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,MichaelGerman
+340,Michael John Storey,Lord Storey,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,MichaelStorey
+341,Michelle Emma May Elizabeth Donelan,Michelle Donelan,Conservative,CONS,Commons,Commons,1,true,Michelle Donelan,MichelleDonelan
+342,Mohammad Yasin,Mohammad Yasin,Labour,LAB,Commons,Commons,1,false,,MohammadYasin
+343,Nadine Vanessa Dorries,Nadine Dorries,Conservative,CONS,Commons,Commons,1,false,,NadineDorries
+344,Narendra Babubhai Patel,Lord Patel,Crossbench,CB,Lords,Lords,1,false,,NarendraPatel
+345,Nathanael Ming-Yan Wei,Lord Wei,Conservative,CONS,Lords,Lords,1,false,,NathanaelWei
+346,Navnit Dholakia,Lord Dholakia,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,NavnitDholakia
+347,Neil John O'Brien,Neil O'Brien,Conservative,CONS,Commons,Commons,1,false,,NeilOBrien
+348,Nicholas Trench,Lord Trench,Crossbench,CB,Lords,Lords,1,false,,NicholasTrench
+349,Nigel Adams,Nigel Adams,Conservative,CONS,Commons,Commons,1,false,,NigelAdams
+350,Nigel Dodds,Lord Dodds,Democratic Unionist Party,DUP,Lords,Lords,1,false,,NigelDodds
+351,Nigel Paul Huddleston,Nigel Huddleston,Conservative,CONS,Commons,Commons,1,false,,NigelHuddleston
+352,Olivia Frances Blake Dagnall,Olivia Dagnall,Labour,LAB,Commons,Commons,1,false,,OliviaBlakeDagnall
+353,Olukemi Olufunto Badenoch,Olukemi Badenoch,Conservative,CONS,Commons,Commons,1,false,,OlukemiBadenoch
+354,Parry Mitchell,Lord Mitchell,Labour,LAB,Lords,Lords,1,false,,ParryMitchell
+355,Paul Strasburger,Lord Strasburger,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,PaulStrasburger
+356,Paul Stuart Scully,Paul Scully,Conservative,CONS,Commons,Commons,1,true,Paul Scully,PaulScully
+357,Penelope Mary Mordaunt,Penelope Mordaunt,Conservative,CONS,Commons,Commons,1,false,,PenelopeMordaunt
+358,Peter Hain,Lord Hain,Labour,LAB,Lords,Lords,1,false,,PeterHain
+359,Peter James Guy Aldous,Peter Aldous,Conservative,CONS,Commons,Commons,1,false,,PeterAldous
+360,Peter Snape,Lord Snape,Labour,LAB,Lords,Lords,1,false,,PeterSnape
+361,Peter William Bone,Peter Bone,Conservative,CONS,Commons,Commons,1,false,,PeterBone
+362,Philippa Whitford,Philippa Whitford,Scottish National Party,SNP,Commons,Commons,1,false,,PhilippaWhitford
+363,Rachael Helen Maskell,Rachael Maskell,Labour,LAB,Commons,Commons,1,false,,RachaelMaskell
+364,Richard Benyon,Lord Benyon,Independent,I,Lords,Lords,1,false,,RichardBenyon
+365,Richard Gilbey,Lord Gilbey,Crossbench,CB,Lords,Lords,1,false,,RichardGilbey
+366,Richard James Shannon,Richard Shannon,Democratic Unionist Party,DUP,Commons,Commons,1,false,,RichardShannon
+367,Richard Michael John Ogilvie Graham,Richard Graham,Conservative,CONS,Commons,Commons,1,false,,RichardGraham
+368,Richard Newby,Lord Newby,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,RichardNewby
+369,Robert Alexander Stewart,Robert Stewart,Conservative,CONS,Commons,Commons,1,false,,RobertStewart
+370,Robert Butler,Robert Butler,Conservative,CONS,Commons,Commons,1,false,,RobertButler
+371,Robert Edward Jenrick,Robert Jenrick,Conservative,CONS,Commons,Commons,1,false,,RobertJenrick
+372,Robert John Blackman,Robert Blackman,Conservative,CONS,Commons,Commons,1,false,,RobertBlackman
+373,Robert Mair,Lord Mair,Crossbench,CB,Lords,Lords,1,false,,RobertMair
+374,Robin Granville Hodgson,Lord Hodgson,Conservative,CONS,Lords,Lords,1,false,,RobinHodgson
+375,Robin Janvrin,Lord Janvrin,Crossbench,CB,Lords,Lords,1,false,,RobinJanvrin
+376,Roger John Liddle,Lord Liddle,Labour,LAB,Lords,Lords,1,false,,RogerLiddle
+377,Ronald Jack Cowan,Ronald Cowan,Scottish National Party,SNP,Commons,Commons,1,false,,RonaldCowan
+378,Rosalind Altmann,Baroness Altmann,Conservative,CONS,Lords,Lords,1,false,,RosalindAltmann
+379,Rosena Chantelle Allin-Khan,Rosena Allin-Khan,Labour,LAB,Commons,Commons,1,false,,RosenaAllinKhan
+380,Rupa Asha Huq,Rupa Huq,Independent,I,Commons,Commons,1,false,,RupaHuq
+381,Ruth Deech,Baroness Deech,Crossbench,CB,Lords,Lords,1,false,,RuthDeech
+382,Ruth Margaret Cadbury,Ruth Cadbury,Labour,LAB,Commons,Commons,1,false,,RuthCadbury
+383,Ruth Rosamond Edwards,Ruth Edwards,Conservative,CONS,Commons,Commons,1,false,,RuthEdwards
+384,Samuel Peter Tarry,Samuel Tarry,Labour,LAB,Commons,Commons,1,false,,SamuelTarry
+385,Seema Malhotra-Saluja,Seema Malhotra-Saluja,Labour,LAB,Commons,Commons,1,false,,SeemaMalhotraSaluja
+386,Selaine Rachel Saxby,Selaine Saxby,Conservative,CONS,Commons,Commons,1,false,,SelaineSaxby
+387,Sharon Bowles,Baroness Bowles,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,SharonBowles
+388,Simon Anthony Hart,Simon Hart,Conservative,CONS,Commons,Commons,1,false,,SimonHart
+389,Siobhain Ann McDonagh,Siobhain McDonagh,Labour,LAB,Commons,Commons,1,false,,SiobhainMcDonagh
+390,Siobhan Kathleen Baillie,Siobhan Baillie,Conservative,CONS,Commons,Commons,1,false,,SiobhanBaillie
+391,Stella Judith Creasy,Stella Creasy,Labour,LAB,Commons,Commons,1,false,,StellaCreasy
+392,Stephen Benn,Lord Benn,Labour,LAB,Lords,Lords,1,false,,StephenBenn
+393,Stephen Charles Brine,Stephen Brine,Independent,I,Commons,Commons,1,false,,StephenBrine
+394,Stephen Creswell Timms,Stephen Timms,Labour,LAB,Commons,Commons,1,true,Stephen Timms,StephenTimms
+395,Stephen Gilbert,Lord Gilbert,Conservative,CONS,Lords,Lords,1,false,,StephenGilbert
+396,Stephen James Metcalfe,Stephen Metcalfe,Conservative,CONS,Commons,Commons,1,false,,StephenMetcalfe
+397,Stephen John Doughty,Stephen Doughty,Labour,LAB,Commons,Commons,1,false,,StephenDoughty
+398,Stephen William Hammond,Stephen Hammond,Independent,I,Commons,Commons,1,false,,StephenHammond
+399,Stewart Hosie,Stewart Hosie,Scottish National Party,SNP,Commons,Commons,1,false,,StewartHosie
+400,Stuart Paul Anderson,Stuart Anderson,Conservative,CONS,Commons,Commons,1,false,,StuartAnderson
+401,Stuart Polak,Lord Polak,Conservative,CONS,Lords,Lords,1,false,,StuartPolak
+402,Susan Garden,Baroness Garden,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,SusanGarden
+403,Susan Kramer,Baroness Kramer,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,SusanKramer
+404,Susan Lilian Primrose Cunliffe-Lister,Baroness Lister,Crossbench,CB,Lords,Lords,1,false,,SusanCunliffeLister
+405,Suzanne Webb,Suzanne Webb,Conservative,CONS,Commons,Commons,1,false,,SuzanneWebb
+406,Taiwo Owatemi,Taiwo Owatemi,Labour,LAB,Commons,Commons,1,false,,TaiwoOwatemi
+407,Tanni Carys Davina Grey-Thompson,Baroness Thompson,Crossbench,CB,Lords,Lords,1,false,,TanniGreyThompson
+408,Thomas Georg John Tugendhat,Thomas Tugendhat,Conservative,CONS,Commons,Commons,1,false,,ThomasTugendhat
+409,Thomas Jeremy King,Lord King,Conservative,CONS,Lords,Lords,1,false,,ThomasKing
+410,Tom McNally,Lord McNally,Liberal Democrat,LIBDEM,Lords,Lords,1,false,,TomMcNally
+411,Tracey Elizabeth Anne Crouch,Tracey Crouch,Conservative,CONS,Commons,Commons,1,false,,TraceyCrouch
+412,Usha Kumari Prasher,Baroness Prasher,Crossbench,CB,Lords,Lords,1,false,,UshaPrasher
+413,Valerie Carol Marian Vaz,Valerie Vaz,Labour,LAB,Commons,Commons,1,false,,ValerieVaz
+414,Victoria Grace Ford,Victoria Ford,Conservative,CONS,Commons,Commons,1,false,,VictoriaFord
+415,Wendy Anne Chamberlain,Wendy Chamberlain,Liberal Democrat,LIBDEM,Commons,Commons,1,false,,WendyChamberlain
+416,Zac Goldsmith,Lord Goldsmith,Conservative,CONS,Lords,Lords,1,false,,ZacGoldsmith
+417,Zahida Manzoor,Baroness Manzoor,Conservative,CONS,Lords,Lords,1,false,,ZahidaManzoor
+418,Zarah Sultana,Zarah Sultana,Labour,LAB,Commons,Commons,1,false,,ZarahSultana
