@@ -22,6 +22,8 @@
  *                                 [--outDir ./media_statements] [--force]
  *                                 [--provider google|serpapi|brave|guardian|openai]
  *                                 [--delay 1500] [--skipFetch]
+ *                                 [--politicians "Name1,Name2"]
+ *                                 [--from|--politiciansFile ./media_statements/speakers_to_search.json]
  */
 
 require("dotenv").config();
@@ -147,6 +149,9 @@ function parseArgs() {
     skipFetch: false,
     provider: null,
     model: process.env.OPENAI_MODEL || "gpt-4o-mini",
+    politicians: null,
+    politiciansFile: null,
+    onlyNew: false,
   };
 
   for (let i = 0; i < args.length; i++) {
@@ -182,6 +187,19 @@ function parseArgs() {
       case "--model":
         parsed.model = args[++i];
         break;
+      case "--politicians":
+        parsed.politicians = String(args[++i] || "")
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean);
+        break;
+      case "--politiciansFile":
+      case "--from":
+        parsed.politiciansFile = path.resolve(args[++i]);
+        break;
+      case "--onlyNew":
+        parsed.onlyNew = true;
+        break;
       case "--help":
       case "-h":
         printHelp();
@@ -196,17 +214,72 @@ function printHelp() {
   console.log(`Usage: node fetchMediaStatements.js [options]
 
 Options:
-  --limit N          Process only N politicians
-  --keywords N       AI keywords per MP (default ${DEFAULT_KEYWORDS_PER_MP})
-  --results N        Search results per query (default ${DEFAULT_RESULTS_PER_QUERY})
-  --outDir PATH      Output folder (default ./media_statements)
-  --provider NAME    google|serpapi|brave|guardian|openai
-  --delay MS         Delay between API calls (default ${DEFAULT_DELAY_MS})
-  --skipFetch        Keep search snippets; do not HTTP-fetch articles
-  --force            Ignore prior state and re-run
-  --model NAME       OpenAI model when provider=openai
-  --help             Show this help
+  --limit N              Process only N politicians
+  --keywords N           AI keywords per MP (default ${DEFAULT_KEYWORDS_PER_MP})
+  --results N            Search results per query (default ${DEFAULT_RESULTS_PER_QUERY})
+  --outDir PATH          Output folder (default ./media_statements)
+  --provider NAME        google|serpapi|brave|guardian|openai
+  --delay MS             Delay between API calls (default ${DEFAULT_DELAY_MS})
+  --skipFetch            Keep search snippets; do not HTTP-fetch articles
+  --force                Ignore prior state and re-run
+  --model NAME           OpenAI model when provider=openai
+  --politicians LIST     Comma-separated names (overrides hardcoded list when set)
+  --from PATH            Alias for --politiciansFile
+  --politiciansFile PATH JSON from extractTopSpeakers.js ({candidates:[...]}) or [{name,party,house}]
+  --onlyNew              With --from/--politiciansFile, only process pending/failed names
+  --help                 Show this help
 `);
+}
+
+/**
+ * Resolve the active politician roster for this run.
+ * Default: hardcoded POLITICIANS.
+ * With --politicians / --politiciansFile: those names (merged with metadata when available).
+ */
+function resolvePoliticians(config) {
+  const byName = new Map(POLITICIANS.map((p) => [p.name.toLowerCase(), { ...p }]));
+
+  let extras = [];
+  if (config.politiciansFile) {
+    if (!fs.existsSync(config.politiciansFile)) {
+      throw new Error(`politiciansFile not found: ${config.politiciansFile}`);
+    }
+    const raw = JSON.parse(fs.readFileSync(config.politiciansFile, "utf-8"));
+    const list = Array.isArray(raw) ? raw : raw.candidates || raw.politicians || [];
+    extras = list.map((p) => {
+      if (typeof p === "string") return { name: p, party: "Unknown", house: "", role: "" };
+      return {
+        name: p.name,
+        party: p.party || "Unknown",
+        house: p.house || "",
+        role: p.role || "",
+      };
+    });
+  }
+  if (config.politicians && config.politicians.length) {
+    extras = extras.concat(
+      config.politicians.map((name) => ({ name, party: "Unknown", house: "", role: "" }))
+    );
+  }
+
+  if (!extras.length) return POLITICIANS.map((p) => ({ ...p }));
+
+  // Enrich unknown party/house from file entries; prefer explicit file metadata
+  const resolved = [];
+  const seen = new Set();
+  for (const p of extras) {
+    const key = p.name.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const known = byName.get(key);
+    resolved.push({
+      name: p.name,
+      party: p.party && p.party !== "Unknown" ? p.party : known?.party || p.party || "Unknown",
+      house: p.house || known?.house || "",
+      role: p.role || known?.role || "",
+    });
+  }
+  return resolved;
 }
 
 // ---------------------------------------------------------------------------
@@ -291,18 +364,19 @@ function saveState(outDir, state) {
   fs.writeFileSync(stateFilePath(outDir), JSON.stringify(state, null, 2), "utf-8");
 }
 
-function initState() {
+function initState(politicians) {
+  const list = politicians || POLITICIANS;
   return {
     startedAt: new Date().toISOString(),
     lastUpdated: new Date().toISOString(),
     completedAt: null,
     summary: {
-      totalPoliticians: POLITICIANS.length,
+      totalPoliticians: list.length,
       completed: 0,
       failed: 0,
       totalArticles: 0,
     },
-    politicians: POLITICIANS.map((p) => ({
+    politicians: list.map((p) => ({
       name: p.name,
       party: p.party,
       house: p.house,
@@ -311,6 +385,25 @@ function initState() {
       error: null,
     })),
   };
+}
+
+/** Merge new politicians into existing state without wiping completed entries. */
+function mergePoliticiansIntoState(state, politicians) {
+  const existing = new Map(state.politicians.map((p) => [p.name.toLowerCase(), p]));
+  for (const p of politicians) {
+    const key = p.name.toLowerCase();
+    if (existing.has(key)) continue;
+    state.politicians.push({
+      name: p.name,
+      party: p.party,
+      house: p.house,
+      status: "pending",
+      articlesFound: 0,
+      error: null,
+    });
+  }
+  state.summary.totalPoliticians = state.politicians.length;
+  return state;
 }
 
 function safeName(name) {
@@ -759,6 +852,9 @@ async function main() {
   const config = parseArgs();
   const configuredKeys = listConfiguredEnvKeys();
   const provider = detectProvider(config.provider);
+  const activePoliticians = resolvePoliticians(config);
+  // Lookup used during collection (name → full metadata)
+  const politicianByName = new Map(activePoliticians.map((p) => [p.name, p]));
 
   console.log("=== Dataset 2: Media Statements Collector ===");
   console.log(`Provider:    ${provider}`);
@@ -769,7 +865,8 @@ async function main() {
   console.log(`Results/q:   ${config.results}`);
   console.log(`Delay:       ${config.delayMs}ms`);
   console.log(`Fetch pages: ${config.skipFetch ? "no (--skipFetch)" : "yes"}`);
-  console.log(`Politicians: ${POLITICIANS.length}`);
+  console.log(`Politicians: ${activePoliticians.length}`);
+  if (config.politiciansFile) console.log(`From file:   ${config.politiciansFile}`);
   if (config.limit) console.log(`Limit:       ${config.limit}`);
   console.log("");
 
@@ -778,12 +875,25 @@ async function main() {
   if (!fs.existsSync(rawDir)) fs.mkdirSync(rawDir, { recursive: true });
 
   let state = config.force ? null : loadState(config.outDir);
-  if (!state) state = initState();
-  // Reset previously failed entries on a fresh force run already handled;
-  // on normal resume, allow retry of failed.
+  if (!state) {
+    state = initState(activePoliticians);
+  } else {
+    // Expansion runs: append new names; keep prior completed
+    mergePoliticiansIntoState(state, activePoliticians);
+  }
   saveState(config.outDir, state);
 
   let pending = state.politicians.filter((p) => p.status === "pending" || p.status === "failed");
+
+  // When expanding via file/list, only process those names (not the whole roster)
+  if (config.politiciansFile || (config.politicians && config.politicians.length)) {
+    const wanted = new Set(activePoliticians.map((p) => p.name.toLowerCase()));
+    pending = pending.filter((p) => wanted.has(p.name.toLowerCase()));
+    if (config.onlyNew) {
+      pending = pending.filter((p) => p.status === "pending" || p.status === "failed");
+    }
+  }
+
   if (config.limit) pending = pending.slice(0, config.limit);
 
   console.log(`${pending.length} politician(s) to process.\n`);
@@ -791,7 +901,7 @@ async function main() {
   const allRows = [];
   const csvPath = path.join(config.outDir, "media_statements_all.csv");
 
-  // Reload completed raw results so CSV stays complete on resume
+  // Reload ALL completed raw results so CSV stays complete on resume/expansion
   for (const p of state.politicians) {
     if (p.status !== "completed") continue;
     const rawPath = path.join(rawDir, safeName(p.name) + ".json");
@@ -807,7 +917,7 @@ async function main() {
   if (pending.length === 0) {
     console.log("All politicians already processed!");
     if (allRows.length > 0) {
-      fs.writeFileSync(csvPath, buildCSV(allRows), "utf-8");
+      fs.writeFileSync(csvPath, buildCSV(dedupeRows(allRows)), "utf-8");
       console.log(`CSV saved: ${csvPath} (${allRows.length} rows)`);
     }
     printSummary(state);
@@ -817,8 +927,14 @@ async function main() {
   let processed = 0;
   for (const entry of pending) {
     processed++;
-    const politician = POLITICIANS.find((p) => p.name === entry.name);
-    if (!politician) continue;
+    const politician =
+      politicianByName.get(entry.name) ||
+      activePoliticians.find((p) => p.name.toLowerCase() === entry.name.toLowerCase()) ||
+      POLITICIANS.find((p) => p.name === entry.name);
+    if (!politician) {
+      console.warn(`  Skipping unknown politician metadata: ${entry.name}`);
+      continue;
+    }
 
     const idx = state.politicians.findIndex((p) => p.name === entry.name);
     console.log(`[${processed}/${pending.length}] ${politician.name} (${politician.party})`);
@@ -854,6 +970,9 @@ async function main() {
       state.politicians[idx].error = err.message;
       state.summary.failed++;
       console.error(`  -> FAILED: ${err.message}\n`);
+      // Persist partial progress and continue
+      saveState(config.outDir, state);
+      fs.writeFileSync(csvPath, buildCSV(dedupeRows(allRows)), "utf-8");
     }
 
     saveState(config.outDir, state);

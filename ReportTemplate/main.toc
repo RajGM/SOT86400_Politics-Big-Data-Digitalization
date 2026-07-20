@@ -1,0 +1,18 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction and Context}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Theoretical Framework}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Imagined Futures and Fictional Expectations}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Futures-Making in Policy}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Applying the Framework to AI Policy Discourse}{5}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Methodology}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Data Collection}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Analytical Methods}{6}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Analysis and Comparative Findings}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Topical Structure of UK AI Discourse}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Imagined Futures by Arena}{8}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sentiment Patterns}{9}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Party-Level Analysis}{10}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Arena Shifts Within Parties}{12}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Discussion and Conclusion}{13}{chapter.5}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
